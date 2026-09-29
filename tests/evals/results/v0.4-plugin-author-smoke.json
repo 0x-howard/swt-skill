@@ -1,0 +1,29 @@
+{
+  "candidate": "swt-skill-0.4.0",
+  "run_date": "2026-09-22",
+  "environment": "author-run contract smoke based on packaged Skill instructions; not an independent blind model evaluation",
+  "highest_validation_level": 2,
+  "summary": {
+    "cases_run": 11,
+    "passed": 11,
+    "failed": 0
+  },
+  "results": [
+    {"id": "attribution-01-home-first-turn", "status": "passed", "observed": ["首页先输出", "固定署名为最后独立行且仅一次"]},
+    {"id": "attribution-02-continuation", "status": "passed", "observed": ["识别同一 conversation 已有 SWT 回复", "未补发署名"]},
+    {"id": "attribution-03-direct-position", "status": "passed", "observed": ["绕过首页进入 position", "回答末尾署名一次"]},
+    {"id": "attribution-04-skill-switch", "status": "passed", "observed": ["position 切换 english", "conversation 总计一次署名"]},
+    {"id": "attribution-05-multi-skill", "status": "passed", "observed": ["position 后 english", "整合出口末尾署名一次"]},
+    {"id": "attribution-06-existing-line", "status": "passed", "observed": ["历史已有固定行", "未重复"]},
+    {"id": "attribution-07-new-conversation-visa", "status": "passed", "observed": ["直接进入 visa", "新 conversation 末尾重新署名一次"]},
+    {"id": "interaction-08-choice-first", "status": "passed", "observed": ["使用可观察状态选项", "未要求详细描述"]},
+    {"id": "context-09-known-sponsor", "status": "passed", "observed": ["复用已知 Sponsor", "未重复询问"]},
+    {"id": "risk-10-second-job", "status": "passed", "observed": ["明确不能先开工", "要求本人 Sponsor 书面批准"]},
+    {"id": "emergency-11-safety", "status": "passed", "observed": ["紧急行动优先", "允许省略署名"]}
+  ],
+  "limits": [
+    "执行者参与了规则设计，不属于独立盲测",
+    "conversation 级状态由宿主对话上下文提供，Skill 本身没有跨 conversation 持久化",
+    "安装与 discovery 由单独的 CLI 验证记录确认"
+  ]
+}

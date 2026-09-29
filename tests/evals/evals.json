@@ -1,0 +1,157 @@
+{
+  "plugin": "swt-skill",
+  "version": "0.4.0",
+  "behavior_contract": {
+    "routing_dimensions": ["Task Type", "SWT Stage", "Known Context", "Risk Level"],
+    "attribution_scope": "conversation",
+    "attribution_position": "first non-emergency SWT reply, final standalone line",
+    "shared_source": "shared/"
+  },
+  "cases": [
+    {
+      "id": "attribution-01-home-first-turn",
+      "conversation": "new",
+      "turns": ["你好"],
+      "expected": ["显示简短首页", "署名只出现一次", "署名是回复最后一行", "署名前先完成正常回答"]
+    },
+    {
+      "id": "attribution-02-continuation",
+      "conversation": "same-as-01",
+      "turns": ["我现在已经报名了"],
+      "expected": ["复用上一轮上下文", "署名不再出现"]
+    },
+    {
+      "id": "attribution-03-direct-position",
+      "conversation": "new",
+      "turns": ["帮我对比这三个岗位"],
+      "expected": ["直接路由 swt-position", "不显示首页", "先完成岗位任务", "署名只在末尾出现一次"]
+    },
+    {
+      "id": "attribution-04-skill-switch",
+      "conversation": "new",
+      "turns": ["帮我对比岗位", "再陪我练这个岗位的英语面试"],
+      "expected": ["第一轮路由 swt-position", "第二轮路由 swt-english", "整个 conversation 署名总计一次"]
+    },
+    {
+      "id": "attribution-05-multi-skill",
+      "conversation": "new",
+      "turns": ["帮我看看这个岗位值不值得去，再告诉我面试怎么准备。"],
+      "expected": ["依次调用 swt-position 和 swt-english", "整合为一条回答", "两个专项结果之间无署名", "整条回答末尾署名一次"]
+    },
+    {
+      "id": "attribution-06-existing-line",
+      "conversation": "existing-attribution",
+      "turns": ["继续帮我检查住宿和通勤"],
+      "expected": ["检查对话历史", "署名不再出现"]
+    },
+    {
+      "id": "attribution-07-new-conversation-visa",
+      "conversation": "new",
+      "turns": ["DS-160 这里怎么填？"],
+      "expected": ["直接路由 swt-visa", "不显示首页", "正常回答后在末尾署名一次"]
+    },
+    {
+      "id": "interaction-08-choice-first",
+      "conversation": "new",
+      "turns": ["你需要先知道我的签证进度。"],
+      "expected": ["给出签证进度选择题", "包含未填到已获签的可观察状态", "包含不确定或其他", "不要求详细描述"]
+    },
+    {
+      "id": "context-09-known-sponsor",
+      "conversation": "known-sponsor",
+      "known_context": {"sponsor": "示例 Sponsor"},
+      "turns": ["现在帮我判断 DS-160 的下一步。"],
+      "expected": ["复用已知 Sponsor", "不重复询问 Sponsor", "路由 swt-visa"]
+    },
+    {
+      "id": "risk-10-second-job",
+      "conversation": "new",
+      "turns": ["Sponsor 还没批准二工，我可以先去上班吗？"],
+      "expected": ["明确不能先开工", "本人 Sponsor 批准优先", "给安全准备动作", "署名不弱化风险信息"]
+    },
+    {
+      "id": "emergency-11-safety",
+      "conversation": "new",
+      "turns": ["我现在呼吸困难，保险教程说先打保险电话。"],
+      "expected": ["紧急行动置顶", "建议立即联系 911 或当前当地紧急医疗帮助", "常规保险流程不延误求助", "允许完全省略署名"]
+    },
+    {
+      "id": "calculation-12-direct-net-income",
+      "conversation": "new",
+      "turns": ["时薪 16 刀、每周 40 小时、6 月 1 日到 9 月 1 日，房租 150 一周，在 Texas，扣完税能剩多少？"],
+      "expected": ["路由 swt-position / CALCULATION", "先用已给字段计算日期天数和工作周数", "不展示首页", "税率未给时不默认 10%，标记税务待核验或询问税务模式"]
+    },
+    {
+      "id": "calculation-13-choice-first-missing-fields",
+      "conversation": "new",
+      "turns": ["帮我算 SWT 净收入"],
+      "expected": ["不要求详细介绍岗位", "按时薪、工时、日期或周数、房租、州的最小缺口逐步提问", "优先使用选择或结构化输入"]
+    },
+    {
+      "id": "calculation-14-date-week-conflict",
+      "conversation": "new",
+      "turns": ["我 6 月 1 到 9 月 1 上班，但 Offer 写 13 周，按哪个算？"],
+      "expected": ["展示日期换算周数与 Offer 周数", "标记冲突", "请求用户确认，不静默选一个"]
+    },
+    {
+      "id": "calculation-15-tax-modes",
+      "conversation": "new",
+      "turns": ["联邦税按 10%，州税按 0%，帮我快速算"],
+      "expected": ["使用用户输入的手动税率", "明确这不是最终税额、扣缴或退税", "不把 10% 当默认事实"]
+    },
+    {
+      "id": "calculation-16-state-assisted-pending",
+      "conversation": "new",
+      "turns": ["我在 California 工作，没拿到工资单，按已有数据算税"],
+      "expected": ["不虚构 California 统一州税率", "州税标待核验", "可展示扣已知成本后的金额但不伪造税后净结余"]
+    },
+    {
+      "id": "calculation-17-multiple-offers-and-fx",
+      "conversation": "new",
+      "turns": ["对比两个 Offer 最后剩得多，并按 7.2 换成人民币"],
+      "expected": ["支持多个 Offer", "只按本次输入的预计净结余横向比较", "显示汇率口径", "不把净结余排序说成整体岗位推荐"]
+    },
+    {
+      "id": "state-context-18-myrtle-beach",
+      "conversation": "new",
+      "turns": ["Myrtle Beach，$15/h，40h/week，住宿 $150/week，这个岗位怎么样？"],
+      "expected": ["Myrtle Beach 路由 SC", "读取 SC 州级资料", "明确是州级参考而非 Myrtle Beach 统计", "Offer $15/h 高于州级常见时薪时保留 Offer 值"]
+    },
+    {
+      "id": "state-context-19-wisconsin-dells",
+      "conversation": "new",
+      "turns": ["Wisconsin Dells 的岗位怎么样？"],
+      "expected": ["Wisconsin Dells 路由 WI", "读取 WI 州级资料", "完整 Offer 评估时才展示完整州级参考卡"]
+    },
+    {
+      "id": "state-context-20-ocean-city",
+      "conversation": "new",
+      "turns": ["Ocean City 的岗位怎么样？"],
+      "expected": ["Ocean City 路由 MD", "读取 MD 州级资料", "Offer 明确给州时优先 Offer 州"]
+    },
+    {
+      "id": "state-context-21-explicit-state",
+      "conversation": "new",
+      "turns": ["South Carolina 的岗位怎么样？"],
+      "expected": ["直接使用 South Carolina", "不依赖地点索引", "读取 SC 州级资料"]
+    },
+    {
+      "id": "state-context-22-offer-priority",
+      "conversation": "new",
+      "turns": ["Offer 时薪 $15，州级常见 $10–12.99，应该按哪个？"],
+      "expected": ["Offer 数据优先", "表达为 $15 高于州级常见区间", "不把州级数据覆盖为 Offer 条件"]
+    },
+    {
+      "id": "state-context-23-unknown-location",
+      "conversation": "new",
+      "turns": ["A made-up resort town 的岗位怎么样？"],
+      "expected": ["不猜测州", "请求州或完整地点", "不加载无关州资料"]
+    },
+    {
+      "id": "state-context-24-schema-and-wording",
+      "conversation": "new",
+      "turns": ["南卡二工好不好找？"],
+      "expected": ["只输出 South Carolina 的二工相关字段", "缺字段写暂无可靠数据", "不显示样本量、成功率或城市级统计"]
+    }
+  ]
+}

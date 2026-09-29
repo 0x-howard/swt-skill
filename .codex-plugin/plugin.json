@@ -1,0 +1,25 @@
+{
+  "name": "swt-skill",
+  "version": "0.4.0",
+  "description": "面向美国 Summer Work Travel 参与者的流程导航、申请、岗位、英语、签证与在美事务 Skill 套件。",
+  "author": {
+    "name": "Howard"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SWT",
+    "shortDescription": "SWT 全流程导航与专项助手",
+    "longDescription": "一次安装六个相互独立的 SWT Skill，按任务意图、当前阶段、已有上下文和风险等级自动选择流程导航、申请、岗位、英语、签证或抵美专项能力。",
+    "developerName": "Howard",
+    "category": "Education",
+    "capabilities": [
+      "Interactive",
+      "Analyze"
+    ],
+    "defaultPrompt": [
+      "我不知道现在进行到 SWT 哪一步，请带我判断。",
+      "帮我比较这些岗位、住房和通勤条件。",
+      "帮我算这个 Offer 扣税和房租后的预计净结余。"
+    ]
+  }
+}
