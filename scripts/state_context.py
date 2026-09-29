@@ -15,8 +15,9 @@ import re
 import sys
 from typing import Mapping
 
+from paths import PLUGIN_ROOT
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = PLUGIN_ROOT
 STATE_CONTEXT_ROOT = ROOT / "references" / "knowledge" / "state_context"
 STATE_INDEX_PATH = STATE_CONTEXT_ROOT / "STATE_INDEX.md"
 STATES_DIR = STATE_CONTEXT_ROOT / "states"
@@ -149,25 +150,16 @@ def compare_offer_wage(offer_wage: float, state_range: str) -> str:
     return "within"
 
 
-def render_state_reference(profile: Mapping[str, str]) -> str:
-    """Render only state-level wording; never insert a routed city name."""
-    groups = (
-        ("收入", ("常见时薪", "常见工时", "最低工资", "州所得税")),
-        ("住宿", ("常见周租", "雇主住宿")),
-        ("生活", ("每周基础开销", "销售税")),
-        ("交通", ("公共交通", "自行车", "通勤")),
-        ("二工", ("好不好找", "常见工资", "竞争程度")),
-        ("落地便利", ("SSN", "银行", "DMV/州ID", "超市", "医疗", "健身房")),
-    )
-    lines = [
-        f"## 州级参考｜{profile['州']}",
-        "",
-        "根据 Howard SWT 数据库中的州级数据：",
-    ]
-    for heading, fields in groups:
-        lines.extend(["", f"### {heading}", ""])
-        lines.extend(f"- {field}：{profile[field]}" for field in fields)
-    return "\n".join(lines)
+def render_state_reference(profile: Mapping[str, str], fields: tuple[str, ...]) -> str:
+    """Render only caller-selected relevant state fields, never a full default card."""
+    if not fields:
+        raise ValueError("Select fields relevant to the user's decision")
+    invalid = set(fields) - set(REQUIRED_FIELDS)
+    if invalid or any(field in {"州", "州缩写"} for field in fields):
+        raise ValueError(f"Invalid reference fields: {sorted(invalid)}")
+    return f"{profile['州']} 州级参考：" + "；".join(
+        f"{field} {profile[field]}" for field in fields
+    ) + "。"
 
 
 def _main(argv: list[str]) -> int:

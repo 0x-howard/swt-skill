@@ -1,4 +1,4 @@
-# SWT Skill v0.4 架构与责任归属
+# SWT Skill v0.5 架构与责任归属
 
 ```text
 swt-skill/
@@ -17,6 +17,8 @@ swt-skill/
 ## 共享规则策略
 
 根目录 `shared/` 是唯一可编辑真源。`scripts/sync_shared.py` 将每个 Skill 所需的共享规则生成到根 `references/shared-runtime/{skill}.md`；生成文件不得手工编辑，修改共享规则后必须重新同步，并用 `--check` 验证无漂移。使用 `--runtime-root` 时，脚本才将这些根级资料映射到 WorkBuddy 的扁平 Skill 目录。
+
+面向用户的回答按 `shared/answer-framework.md` 的 Analyze → Compress → Present → Edit 形成。Compress 按当前用户问题把信息分为 P1–P4，复杂回答先生成通常 3–5 个有独立信息价值的编号结论；`shared/editorial-policy.md` 的 Clarity Gate 再检查只看编号和首句能否理解答案。风险、证据、状态 Schema、任务类型及州级字段均可用于后台完整核查，但不是默认可见提纲；Specialist 输出先合并、压缩，再呈现。完整州级卡仅在用户明确需要字段清单时提供。
 
 源码与部署布局分离：源码的 `skills/` 只保留六个 `SKILL.md`；扁平部署由同步脚本把 `references/`、`scripts/`、`assets/` 和对应运行时规则映射到每个 `~/.workbuddy/skills/{skill}/` 下。
 

@@ -8,18 +8,15 @@ import hashlib
 import json
 import shutil
 from pathlib import Path
+from paths import PLUGIN_ROOT, REFERENCES_ROOT, RUNTIME_ROOT, SHARED_ROOT, SKILLS_ROOT
 
 
-PLUGIN_ROOT = Path(__file__).resolve().parents[1]
-SHARED_ROOT = PLUGIN_ROOT / "shared"
-SKILLS_ROOT = PLUGIN_ROOT / "skills"
-REFERENCES_ROOT = PLUGIN_ROOT / "references"
-RUNTIME_ROOT = REFERENCES_ROOT / "shared-runtime"
 CURRENT_VERSION = json.loads((PLUGIN_ROOT / "plugin.json").read_text(encoding="utf-8"))["version"]
 
 COMMON_SOURCES = (
     "interaction-protocol.md",
     "answer-framework.md",
+    "editorial-policy.md",
     "creator-attribution.md",
     "risk-policy.md",
     "evidence-policy.md",
@@ -38,7 +35,7 @@ SOURCES_BY_SKILL = {
 DOMAIN_REFERENCES_BY_SKILL = {
     "swt": (),
     "swt-application": ("agency-sponsor.md", "application-materials.md"),
-    "swt-position": ("location-offer.md", "budget-method.md", "tax-estimation.md", "state-income-tax.md"),
+    "swt-position": ("location-offer.md", "budget-method.md", "tax-estimation.md", "state-income-tax.md", "default-assumptions.json"),
     "swt-english": ("english-practice.md",),
     "swt-visa": ("visa-ds2019.md",),
     "swt-arrival": ("predeparture-program.md",),
@@ -59,11 +56,13 @@ def render(skill: str, sources: tuple[str, ...]) -> str:
         chunks.append(f"<!-- source: shared/{filename} -->\n\n{body}")
 
     checksum = digest.hexdigest()
+    source_list = ", ".join(f"shared/{filename}" for filename in sources)
     header = (
         "# Generated Shared Runtime\n\n"
         "<!-- GENERATED FILE: DO NOT EDIT. -->\n"
+        f"<!-- Source: {source_list} -->\n"
         f"<!-- runtime-version: {CURRENT_VERSION} -->\n"
-        "<!-- Source maintenance: run `python3 scripts/sync_shared.py` from the source root after editing shared/. -->\n"
+        "<!-- Regenerate with: python3 scripts/sync_shared.py -->\n"
         f"<!-- skill: {skill}; source-sha256: {checksum} -->"
     )
     return header + "\n\n" + "\n\n---\n\n".join(chunks) + "\n"

@@ -18,7 +18,7 @@ description: 美国 Summer Work Travel（SWT）总入口与 Orchestrator。用�
 3. 从当前 conversation、宿主上下文和用户材料恢复 Sponsor、年度、阶段、Offer、文件状态、预算、偏好与已完成事项，不重复询问。
 4. 使用 `Task Type + SWT Stage + Known Context + Risk Level` 路由。Stage 是状态，不是 Skill。
 5. 单一任务调用最少的一个 Specialist；多任务按依赖顺序调用多个 Specialist，并整合为一次回答。
-6. 按任务类型裁剪回答框架，给当前阻塞、下一动作和可观察的完成标志。
+6. 按共享 Analyze → Compress → Present → Edit 架构，把跨 Specialist 信息先分 P1–P4；复杂回答默认用少数编号结论形成 Decision View，状态字段和风险清单不自动变成正文。
 7. 整条回复完成后执行 conversation 级 Creator Attribution 检查；Specialist 中间结果不得单独署名。
 
 ## 首页
@@ -55,9 +55,9 @@ description: 美国 Summer Work Travel（SWT）总入口与 Orchestrator。用�
 
 - “岗位怎么样＋面试怎么准备”：先由 `swt-position` 核验岗位事实，再由 `swt-english` 基于同一真实底稿设计练习。
 - “拿到 Offer 后下一步”：由本 Skill 判断阶段与阻塞，不自动等同岗位比较。
-- 同一事实、风险和问题只出现一次。先给共同结论，再给必要的专项结果，最后合并行动顺序。
+- 在后台合并同一事实、风险和问题；正文不按 Specialist 分栏，只保留读者需要的结论、关键差异和行动顺序。
 - 多 Skill 仍只生成一条最终回复，作者署名规则只在最终出口执行一次。
 
 ## 完成标准
 
-回答应让用户知道：当前判断、当前阻塞、下一动作、谁负责、需要什么证据，以及什么状态或回执代表完成。信息不足时只问会改变判断的最少信息。
+后台应判断当前状态、阻塞、责任人、证据和完成标志。最终的一级编号必须让用户一眼知道最重要的判断与行动；更多依据按追问进入 Detail View。信息不足时只问会改变判断的最少信息。

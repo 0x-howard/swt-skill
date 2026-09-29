@@ -1,8 +1,28 @@
 # 预算方法与脚本接口
 
-## SWT 预计净收入计算器（默认）
+## SWT 岗位／Offer 概览（默认）
 
-`scripts/budget.py` 处理单个或多个 Offer 的预计净收入。它直接接受时薪、每周工时、日期或工作周数、每周房租、工作州、已知其他成本、税务模式和汇率。示例见 `assets/net-income-example.json`。
+`scripts/budget.py` 的 `position_overview` 模式是岗位、Offer、城市＋岗位与回本问题的默认计算入口。最少每个岗位只需 `wage_usd_per_hour` 和 `hours_per_week`；其他普通缺口按 `references/default-assumptions.json` 的城市 → 州 → 通用值补齐。州级周租取 `state_context` 的范围中值；“每周基础开销”仅作餐饮规划代理，不冒充城市食品均价。所有回退字段在结构化结果中带来源，在用户表格中标“估”。
+
+输入示例见 `assets/position-overview-example.json`。默认输出固定为一句结论、六维核心数据表、回本测算表、并列注意事项表和一个选择题；`--json` 可取得全部计算字段、默认值来源与税务前提。详细口径在用户追问时展开，不把完整 JSON 倾倒到首答。
+
+- 工作期：用户日期 → Offer 日期 → 用户周数 → 集中默认周数。日期按含最后一个有薪工作日计算；另有停留周数时食宿按停留周数算。
+- 税前工资＝时薪×每周工时×工作周数；预计税费优先本人明确输入，否则使用带税年的联邦税阶、已核验州税结论或州税规划预留，默认假设须标明。
+- 在美净结余＝税前工资－预计税费－住宿－餐饮－交通－其他必要生活费；最终项目结余再减前期投入。人民币费用按本人汇率或集中维护的规划汇率转美元。
+- 回本周数按本次估算的每周税后可结余金额推算，超过工作期需明确标出；它不是工时、费用或税务的保证。
+- 未知小费、二工、退税、奖励与可退押金不进入默认收入。工资延迟到账也不自动等于工资损失；首薪现金需求可在后续 Detail View 单独展开。
+
+运行：
+
+```bash
+python3 scripts/budget.py assets/position-overview-example.json
+python3 scripts/budget.py --json assets/position-overview-example.json
+python3 scripts/budget.py --detail housing assets/position-overview-example.json
+```
+
+## 旧版精细净收入接口（仍可按需使用）
+
+提供 `tax_mode` 的旧输入仍走严格精细接口：它接受时薪、工时、日期或工作周数、房租、工作州、已知其他成本、税务模式和汇率，示例见 `assets/net-income-example.json`。以下“税费待核验时只显示未扣税金额”等规则仅适用于该接口，**不阻止默认概览使用明确标“估”的税务模型**。
 
 - 日期的结束日按“预计最后一个有薪工作日”计入总天数；工作周数＝总天数／7。也可以直接输入工作周数。
 - 同时给日期和周数且两者不一致时，脚本返回 `needs_confirmation`，不悄悄选择其中一个。
@@ -19,7 +39,7 @@ python3 scripts/budget.py assets/net-income-example.json
 python3 scripts/budget.py --json assets/net-income-example.json
 ```
 
-## 旧三情景现金流模型
+## 旧三情景现金流模型（非默认）
 
 `scripts/compare_budget.py` 是保留的一工三情景现金流模型，不是税务计算器或推荐排序器。Python 3.10+，仅用标准库。输入示例在 `assets/budget-example.json`，全部为虚构数字。
 

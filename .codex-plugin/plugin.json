@@ -1,6 +1,6 @@
 {
-  "name": "swt-skill",
-  "version": "0.4.0",
+  "name": "swt-plugin",
+  "version": "0.5.0",
   "description": "面向美国 Summer Work Travel 参与者的流程导航、申请、岗位、英语、签证与在美事务 Skill 套件。",
   "author": {
     "name": "Howard"
