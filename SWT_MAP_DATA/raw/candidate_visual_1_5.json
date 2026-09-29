@@ -1,0 +1,13 @@
+{
+  "id": 2304909678,
+  "x": 120.0,
+  "y": 80.0,
+  "z": 4.0,
+  "width": 192.0,
+  "height": 56.0,
+  "config": "{\"name\":\"8ce9431e009aeb4e008c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":120,\"y\":80,\"z\":4,\"width\":192,\"height\":56,\"tabOrder\":4}}],\"singleVisual\":{\"visualType\":\"cardVisual\",\"projections\":{\"Data\":[{\"queryRef\":\"Min(New Report.City)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"n\",\"Entity\":\"New Report\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"n\"}},\"Property\":\"City\"}},\"Function\":3},\"Name\":\"Min(New Report.City)\",\"NativeReferenceName\":\"City\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"value\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"11D\"}}},\"horizontalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'center'\"}}}},\"selector\":{\"id\":\"default\"}}],\"layout\":[{\"properties\":{\"maxTiles\":{\"expr\":{\"Literal\":{\"Value\":\"1L\"}}}}}]}}}",
+  "filters": "[]",
+  "query": "{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"n\",\"Entity\":\"New Report\",\"Type\":0}],\"Select\":[{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"n\"}},\"Property\":\"City\"}},\"Function\":3},\"Name\":\"Min(New Report.City)\",\"NativeReferenceName\":\"City\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0]}]},\"Version\":1},\"ExecutionMetricsKind\":1}}]}",
+  "queryHash": -2476868132166701200,
+  "dataTransforms": "{\"objects\":{\"label\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}},\"selector\":{\"id\":\"default\"}}],\"value\":[{\"properties\":{\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"11D\"}}},\"horizontalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'center'\"}}}},\"selector\":{\"id\":\"default\"}}],\"layout\":[{\"properties\":{\"maxTiles\":{\"expr\":{\"Literal\":{\"Value\":\"1L\"}}}}}]},\"projectionOrdering\":{\"Data\":[0]},\"queryMetadata\":{\"Select\":[{\"Restatement\":\"First City\",\"Name\":\"Min(New Report.City)\",\"Type\":2048}]},\"visualElements\":[{\"DataRoles\":[{\"Name\":\"Data\",\"Projection\":0,\"isActive\":false}]}],\"selects\":[{\"displayName\":\"First City\",\"queryName\":\"Min(New Report.City)\",\"roles\":{\"Data\":true},\"type\":{\"category\":null,\"underlyingType\":1},\"expr\":{\"Aggregation\":{\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"New Report\"}},\"Property\":\"City\"}},\"Function\":3}}}]}"
+}

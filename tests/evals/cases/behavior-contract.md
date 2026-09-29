@@ -53,6 +53,56 @@
 | 30 | 申请材料已上传，但系统仍显示待审核 | 编号明确“上传≠通过”、当前状态与应该等待／核对什么；不展示所有材料字段 |
 | 31 | 用户给出一段真实英语面试回答并请求改进 | 对较复杂反馈按问题、关键修改、更自然表达、再次练习组织；简单纠错直接给结果，不强制四点 |
 
+## SWT English Assessment v0.7
+
+| ID | 场景 | 必须观察到的行为 |
+|---|---|---|
+| 01 | “测一下机构口语” | 路由 `agency_generic` Assessment；不预测特定机构通过 |
+| 02 | “帮我模拟 Sponsor 并评分” | Sponsor Assessment；至少两次动态追问 |
+| 03 | “我要面试 cashier，测一下” | Host + Cashier，使用岗位相关顾客／收银题型 |
+| 04 | 当前上下文已有 Retail Associate，用户要求测岗位英语 | 复用 Position Context，不重复问岗位 |
+| 05 | “测一下美签面试英语” | Visa Interview Communication；事实由 Visa context 约束 |
+| 06 | Visa 回答与 DS-2019 等已知事实冲突 | 标记 `fact_conflict`；不润色错误事实；转 `swt-visa` 核实 |
+| 07 | 只有 TEXT | 不评发音；说明文字模拟不代表完整口语表现 |
+| 08 | 只有 TRANSCRIPT | `Pronunciation unavailable`；不猜发音 |
+| 09 | 有真实 VOICE | 只根据可访问音频评发音、停顿和连续性；不评口音是否像母语者 |
+| 10 | Interaction 只有一次追问证据 | 再追加一次针对性 follow-up |
+| 11 | 主要 Criterion 已有充分证据 | 结束测评，不重复追问已充分维度 |
+| 12 | 用户点名某机构但没有特定资料 | 回退 `agency_generic` |
+| 13 | Generic Readiness 询问通过概率 | 不输出通过／失败或概率预测 |
+| 14 | Comprehensive Assessment | 一次收集七维证据，再映射四 Profile |
+| 15 | 运行 `speaking_score.py` | 确定性按 Profile 权重计算并舍入 |
+| 16 | 某 Criterion unavailable | 输出 Partial Assessment、覆盖度与缺失项 |
+| 17 | 首次结果 | 核心结论／结果表、最多三个弱项、一个 A–D 选择题 |
+| 18 | 用户选“七维详情” | 仅展开七维详情，不重新测试 |
+| 19 | 用户选“再测一次” | 新建测评轮次并保留上一轮结果 |
+| 20 | 原 Sponsor／Host 英语功能回归 | 保留模拟面试、纠错、追问和一般场景英语，不强制评分 |
+
+## SWT English Practice v0.8
+
+| ID | 场景 | 必须观察到的行为 |
+|---|---|---|
+| 01 | 当前 conversation 已有 Assessment Result | 读取 profile、criteria、confidence、top_weaknesses、target_position；自动选择最低且重要的 1–2 项开始 Weakness Drill |
+| 02 | 没有 Assessment Result，“我想练英语” | 允许直接选择 Agency／Sponsor／Host／Visa／指定弱项；只问一个一级选择题，不强迫先测评 |
+| 03 | Agency Practice | 复用 Agency Assessment Profile 场景，逐题反馈并允许 Retry |
+| 04 | Sponsor Practice | 复用 Sponsor Assessment Profile 场景，不编造 Sponsor 专属标准 |
+| 05 | Host Practice 且已知 Retail Associate | 读取已知岗位与职责，问题匹配真实岗位且不重复问岗位 |
+| 06 | Host Practice 未知岗位 | 只问用户准备练哪个岗位，不连问其他信息 |
+| 07 | Visa Practice 与已知签证事实一致 | `swt-visa` 负责事实正确性、`swt-english` 训练沟通质量 |
+| 08 | Visa Practice 与 DS-2019／DS-160／Offer 等事实冲突 | 暂停语言优化，交由 `swt-visa` 先核实；不润色错误事实 |
+| 09 | 答非所问并有小语法错误 | Feedback 只处理 1–2 个最高影响问题，优先纠正答非所问，不罗列七维表现 |
+| 10 | 用户回答存在可改进点 | 先短反馈并邀请 Retry，不能跳过重答直接进入下一题；每题最多必要的第二次 Retry |
+| 11 | Retry 后答案更完整、切题 | 对照 before／after，记录可观察的 improved_dimensions，不生成正式 Assessment Score |
+| 12 | 当前 conversation 已有正式 Assessment Result | Practice 不覆盖 readiness、criteria、top_weaknesses 或 previous_runs |
+| 13 | 用户明确要求短示范 | 可以给简短、真实且可理解的示范，不要求背诵 |
+| 14 | 普通练习且用户未要求答案范例 | 默认给提示、方向、关键词或句型骨架，不输出完整背稿答案 |
+| 15 | Follow-up Drill | 围绕主问题连续动态追问，一次只问一题，每个明显问题遵循 Retry 闭环 |
+| 16 | Weakness Drill | 围绕选定的 top_weaknesses 训练，不每题重评七维 Rubric |
+| 17 | Full Mock | 完成目标 Profile 的一轮场景模拟、逐题反馈和 Retry；不声称为正式测评 |
+| 18 | 练习 Session 结束 | 一句总结、练习目标、Before／After 最明显 1–3 项、仍需改进 1–2 项；最后只有 A–D 选择题 |
+| 19 | 用户选择“重新测一下”／C 复测 | 回到 v0.7 `ASSESS`，独立建立正式测评，不把 Practice 表现直接当正式证据或覆盖旧结果 |
+| 20 | v0.7 Regression | Assessment 原有 20 个行为用例继续保留通过；七维 Rubric、四个 Profile 和 Result Schema 不变 |
+
 ## 岗位默认概览的八项行为测试
 
 | ID | 场景 | 必须观察到的行为 |

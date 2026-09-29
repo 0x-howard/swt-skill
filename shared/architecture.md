@@ -1,4 +1,4 @@
-# SWT Skill v0.5 架构与责任归属
+# SWT Skill 架构与责任归属
 
 ```text
 swt-skill/
@@ -27,7 +27,7 @@ swt-skill/
 - `swt`：首页、导航、状态恢复、Intent／Stage／Risk 路由、多 Skill 协调。
 - `swt-application`：报名与申请链、材料、系统、机构／Sponsor 合同付款和 Offer 流程完整性。
 - `swt-position`：岗位／城市／住房／通勤比较、二工可行性和预算情景。
-- `swt-english`：Sponsor／雇主面试、工作沟通、口语模拟与纠错。
+- `swt-english`：场景化英语 Assessment 与基于弱项的口语 Practice、Sponsor／雇主面试、工作沟通、口语模拟与纠错。
 - `swt-visa`：DS-2019、DS-160、SEVIS Fee、预约、面签、签证材料和冲突。
 - `swt-arrival`：行前、入境、SEVIS Check-in、I-94、SSN、保险、变更与项目结束。
 

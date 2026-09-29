@@ -2,9 +2,9 @@
 
 <!-- GENERATED FILE: DO NOT EDIT. -->
 <!-- Source: shared/interaction-protocol.md, shared/answer-framework.md, shared/editorial-policy.md, shared/creator-attribution.md, shared/risk-policy.md, shared/evidence-policy.md, shared/state-schema.md -->
-<!-- runtime-version: 0.5.0 -->
+<!-- runtime-version: 0.8.0 -->
 <!-- Regenerate with: python3 scripts/sync_shared.py -->
-<!-- skill: swt-english; source-sha256: 065f0448df4e79eeda4255cd1d47c21679577424b13fdc15986b78d3905a1095 -->
+<!-- skill: swt-english; source-sha256: 50a51eda25d00d5764267eac6acdf49d6cfba9d6f650d6b66103e5337855341e -->
 
 <!-- source: shared/interaction-protocol.md -->
 
@@ -377,3 +377,47 @@
 - “J1 友好”→支持组织可联系性、当季项目经验、往届案例、交通住房和英语交流条件。
 - “免税”→询问是购物销售税还是工资所得税；分税种核验。
 - “二工多”→需要可到达、在招聘、接受本人日期和条件、与一工不冲突且通过核验的岗位证据。
+
+## SWT English Assessment State
+
+只在当前对话启动 ASSESS 时记录必要状态；不要把该状态变成跨 conversation 记忆或通用问卷。题目和证据逐步追加到当前轮次；用户选择“再测一次”时，将上一轮完成结果存为精简 `previous_runs` 快照后建立新轮次，不覆盖旧结果。
+
+```yaml
+english_assessment:
+  assessment_id: local sequence or conversation turn id
+  profile: agency_generic | sponsor_generic | host_generic | visa_interview_generic | comprehensive
+  target_name: null
+  target_position: null
+  input_mode: voice | transcript | text
+  question_count: 0
+  criteria: {criterion_key: {score: null, confidence: low, evidence_count: 0}}
+  ielts_style: unavailable
+  readiness: null
+  top_weaknesses: []
+  fact_conflict: false
+  completed: false
+  previous_runs: []
+```
+
+Visa 面试的 `fact_conflict` 只标记英语回答与已知事实不一致；事实核对责任仍属于 `swt-visa`。
+
+## SWT English Practice State
+
+只在当前 conversation 的结构化 PRACTICE Session 中记录下列最小状态。可读取最近一份可用的 Assessment Result 来选择起点，但不得把练习观察写回 Assessment；不声称跨 conversation 持久保存。`session_improvements` 仅记录有 before／after 证据的改进。
+
+```yaml
+english_practice:
+  profile: agency_practice | sponsor_practice | host_practice | visa_interview_practice
+  target_position: null
+  focus_dimensions: []
+  mode: full_mock | weakness_drill | follow_up_drill | question_drill | scenario_drill
+  question_count: 0
+  retry_count: 0
+  session_improvements:
+    - dimension: fluency_coherence
+      before: brief observation
+      after: brief observation
+  completed: false
+```
+
+`focus_dimensions` 使用 v0.7 Rubric 的既有 criterion keys。Practice profile 仅表示练习路径映射，不是第五种 Assessment Profile。用户选择复测时按 v0.7 流程新建或更新 `english_assessment`，Practice State 与正式结果分别维护。

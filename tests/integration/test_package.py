@@ -14,7 +14,7 @@ sys.path.insert(0, str(SCRIPTS))
 from budget import calculate_position_overview, format_position_overview  # noqa: E402
 
 SKILLS = {"swt", "swt-application", "swt-position", "swt-english", "swt-visa", "swt-arrival"}
-INTENTS = {"NAVIGATION", "DOCUMENT_CHECK", "DECISION", "INTERVIEW", "ENGLISH_PRACTICE", "FORM_FILLING", "CONFLICT", "CALCULATION", "EMERGENCY", "GENERAL_QA"}
+INTENTS = {"NAVIGATION", "DOCUMENT_CHECK", "DECISION", "INTERVIEW", "ENGLISH_PRACTICE", "ENGLISH_ASSESSMENT", "FORM_FILLING", "CONFLICT", "CALCULATION", "EMERGENCY", "GENERAL_QA"}
 
 class PackageTests(unittest.TestCase):
     def test_manifests_agree(self):
@@ -26,7 +26,7 @@ class PackageTests(unittest.TestCase):
             else:
                 self.assertEqual(portable[key], compat[key])
         self.assertEqual(portable["name"], "swt-plugin")
-        self.assertEqual(portable["version"], "0.5.0")
+        self.assertEqual(portable["version"], "0.8.0")
         self.assertEqual(compat["skills"], "./skills/")
         self.assertEqual(compat["author"]["name"], "Howard")
 
@@ -61,7 +61,7 @@ class PackageTests(unittest.TestCase):
             runtime = (ROOT / "references/shared-runtime" / f"{skill}.md").read_text(encoding="utf-8")
             self.assertEqual(runtime.count(marker), 1)
             self.assertIn("GENERATED FILE: DO NOT EDIT", runtime)
-            self.assertIn("runtime-version: 0.5.0", runtime)
+            self.assertIn("runtime-version: 0.8.0", runtime)
             self.assertIn("source: shared/editorial-policy.md", runtime)
 
     def test_structured_compression_architecture_and_fixture(self):
@@ -113,7 +113,10 @@ class PackageTests(unittest.TestCase):
         expected = {
             "swt-application": {"agency-sponsor.md", "application-materials.md"},
             "swt-position": {"location-offer.md", "budget-method.md", "tax-estimation.md", "state-income-tax.md", "default-assumptions.json"},
-            "swt-english": {"english-practice.md"},
+            "swt-english": {
+                "english-practice.md", "english-assessment.md", "english-rubric.md",
+                "english-profiles.md", "english-question-bank.md",
+            },
             "swt-visa": {"visa-ds2019.md"},
             "swt-arrival": {"predeparture-program.md"},
             "swt": set(),
@@ -162,6 +165,20 @@ class PackageTests(unittest.TestCase):
             )
             self.assertEqual(overview.returncode, 0, overview.stdout + overview.stderr)
             self.assertIn("## 2. 回本测算", overview.stdout)
+            english = Path(directory) / "swt-english"
+            self.assertTrue((english / "scripts/speaking_score.py").is_file())
+            self.assertTrue((english / "references/english-practice.md").is_file())
+            for reference in ("english-rubric.md", "english-profiles.md", "english-question-bank.md", "english-assessment.md"):
+                self.assertTrue((english / "references" / reference).is_file())
+            sample = Path(directory) / "assessment-input.json"
+            sample.write_text('{"input_mode":"text","criteria":{}}', encoding="utf-8")
+            score = subprocess.run(
+                [sys.executable, str(english / "scripts/speaking_score.py"), "--profile", "sponsor_generic", "--input", str(sample)],
+                cwd=english, text=True, capture_output=True, check=False,
+            )
+            self.assertEqual(score.returncode, 0, score.stderr)
+            self.assertIn('"readiness_status": "partial"', score.stdout)
+            self.assertIn('"audio_required"', score.stdout)
 
     def test_no_duplicate_state_or_shared_scripts_in_source(self):
         self.assertEqual(len(list((ROOT / "references/knowledge/state_context").glob("STATE_INDEX.md"))), 1)
@@ -202,6 +219,13 @@ class PackageTests(unittest.TestCase):
             "position-overview-38-hours-recalculation", "position-overview-39-food-override",
         ):
             self.assertIn(case_id, ids)
+        for number in range(1, 21):
+            self.assertEqual(
+                sum(case_id.startswith(f"english-assessment-{number:02d}-") for case_id in ids), 1
+            )
+            self.assertEqual(
+                sum(case_id.startswith(f"english-practice-{number:02d}-") for case_id in ids), 1
+            )
         fixture_paths = (
             ROOT / "tests/evals/fixtures/position_compare_ssn_dependency_input.json",
             ROOT / "tests/evals/expected/position_compare_ssn_dependency_expected.md",
@@ -218,6 +242,33 @@ class PackageTests(unittest.TestCase):
         self.assertIn("position_overview", position)
         self.assertIn("scripts/budget.py", position)
 
+    def test_english_assessment_files_are_packaged(self):
+        english = (ROOT / "skills/swt-english/SKILL.md").read_text(encoding="utf-8")
+        for reference in (
+            "english-assessment.md", "english-rubric.md", "english-profiles.md",
+            "english-question-bank.md", "scripts/speaking_score.py",
+        ):
+            self.assertIn(reference, english)
+        for reference in (
+            "english-assessment.md", "english-rubric.md", "english-profiles.md",
+            "english-question-bank.md",
+        ):
+            self.assertTrue((ROOT / "references" / reference).is_file())
+
+    def test_english_practice_contract_is_packaged_without_new_skill(self):
+        skill = (ROOT / "skills/swt-english/SKILL.md").read_text(encoding="utf-8")
+        practice = (ROOT / "references/english-practice.md").read_text(encoding="utf-8")
+        state = (ROOT / "shared/state-schema.md").read_text(encoding="utf-8")
+        for token in ("agency_practice", "sponsor_practice", "host_practice", "visa_interview_practice"):
+            self.assertIn(token, practice)
+        for token in ("full_mock", "weakness_drill", "follow_up_drill", "question_drill", "scenario_drill"):
+            self.assertIn(token, practice)
+        self.assertIn("english_practice:", state)
+        self.assertIn("Practice 即时表现", practice)
+        self.assertIn("`improved_dimensions`", practice)
+        self.assertIn("正式进入 `ASSESS`", skill)
+        self.assertEqual(len(list((ROOT / "skills").glob("*/SKILL.md"))), 6)
+
     def test_no_legacy_layout_references(self):
         for path in ROOT.rglob("*.md"):
             content = path.read_text(encoding="utf-8")
@@ -225,6 +276,6 @@ class PackageTests(unittest.TestCase):
             self.assertNotIn("evidence-boundaries.md", content, str(path))
         for path in (ROOT / "plugin.json", ROOT / ".codex-plugin/plugin.json"):
             content = path.read_text(encoding="utf-8")
-            self.assertIn('"version": "0.5.0"', content)
+            self.assertIn('"version": "0.8.0"', content)
         for path in (SCRIPTS / "budget.py", SCRIPTS / "state_context.py", SCRIPTS / "sync_shared.py"):
             self.assertNotIn("Path(__file__).resolve().parents[1]", path.read_text(encoding="utf-8"), str(path))

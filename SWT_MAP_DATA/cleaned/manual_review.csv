@@ -1,0 +1,5 @@
+﻿review_type,source_file,state_raw,city_raw,candidate_normalized,reason,suggested_action,auto_resolved
+support_group_partial_match,community_support_groups.csv,"Bethany Beach and Fenwick Beach, DE",,Bethany Beach,2 个地点中仅 1 个匹配上：未匹配 ['Fenwick Beach'],人工确认其余地点,false
+support_group_regional_match,community_support_groups.csv,"Cape Cod Affiliate - Dennis, Not West Yarmouth, MA",,Dennis; West Yarmouth,affiliate 类型记录，仅能按城市名包含关系匹配到：Dennis; West Yarmouth,人工确认覆盖范围；不得视为精确匹配,false
+support_group_unmatched,community_support_groups.csv,"Door County, WI",,Door County,county_or_region 类型记录，未匹配到具体城市,人工确认覆盖范围或补充地理对照表,false
+support_group_unmatched,community_support_groups.csv,"Door County Affiliate, WI",,Door County Affiliate,affiliate 类型记录，未匹配到具体城市,人工确认覆盖范围或补充地理对照表,false

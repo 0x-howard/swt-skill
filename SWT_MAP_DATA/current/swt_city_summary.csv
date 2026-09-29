@@ -1,0 +1,2466 @@
+﻿State,City,ACTIVE,INITIAL,TOTAL,Point_Count
+Maryland,Ocean City,3586,107,3693,2
+Wisconsin,Wisconsin Dells,2960,156,3116,2
+Florida,Orlando,2057,103,2160,7
+Ohio,Sandusky,2034,125,2159,2
+South Carolina,Myrtle Beach,1998,52,2050,8
+New Jersey,Wildwood,1676,45,1721,2
+Illinois,Chicago,1198,1,1199,30
+Tennessee,Nashville,1137,1,1138,10
+Virginia,Virginia Beach,947,95,1042,10
+Delaware,Rehoboth Beach,911,20,931,2
+Alaska,Denali National Park,835,10,845,2
+Virginia,Williamsburg,746,77,823,4
+Alaska,Anchorage,802,16,818,13
+Tennessee,Pigeon Forge,689,15,704,2
+Florida,Panama City Beach,668,24,692,4
+Massachusetts,Nantucket,647,13,660,2
+New Jersey,Atlantic City,596,3,599,2
+Colorado,Estes Park,503,75,578,4
+Tennessee,Sevierville,538,24,562,4
+Virginia,Alexandria,557,1,558,15
+New York,Lake George,506,28,534,2
+Missouri,Branson,501,13,514,2
+Pennsylvania,Hershey,511,1,512,2
+Texas,Galveston,490,13,503,5
+Alaska,Fairbanks,486,11,497,4
+Wyoming,Yellowstone National Park,306,154,460,2
+Virginia,Arlington,416,36,452,12
+Maine,Old Orchard Beach,443,4,447,2
+Ohio,Put In Bay,396,37,433,2
+Rhode Island,Newport,421,9,430,2
+Tennessee,Gatlinburg,406,9,415,2
+Massachusetts,Edgartown,394,14,408,2
+Massachusetts,Provincetown,396,11,407,2
+New Hampshire,Hampton,399,8,407,2
+Florida,Destin,389,12,401,2
+North Carolina,Corolla,378,14,392,2
+New York,New York,384,6,390,40
+New Jersey,Cape May,381,8,389,2
+Montana,Big Sky,378,10,388,2
+Alaska,Seward,376,1,377,2
+New Jersey,Ocean City,358,14,372,2
+Maine,Bar Harbor,350,7,357,2
+North Carolina,Nags Head,341,16,357,2
+Montana,Columbia Falls,202,149,351,2
+Massachusetts,Hyannis,336,8,344,2
+Delaware,Bethany Beach,327,6,333,2
+South Carolina,North Myrtle Beach,319,14,333,2
+South Dakota,Keystone,305,23,328,2
+Minnesota,Shakopee,315,11,326,2
+California,San Diego,320,2,322,11
+Alabama,Orange Beach,319,2,321,2
+Utah,Farmington,300,5,305,2
+New York,Lake Placid,295,5,300,2
+Massachusetts,Boston,298,0,298,12
+Wyoming,Moran,277,20,297,2
+Rhode Island,Block Island,288,3,291,2
+New York,Niagara Falls,279,11,290,5
+Michigan,Mackinac Island,283,2,285,2
+Massachusetts,South Yarmouth,270,4,274,2
+Wisconsin,Baraboo,236,36,272,2
+Utah,Park City,233,38,271,4
+New York,Brooklyn,265,2,267,12
+New Hampshire,North Conway,228,28,256,2
+Virginia,Doswell,235,18,253,2
+Montana,West Yellowstone,244,4,248,2
+Wyoming,Jackson,237,6,243,3
+Oregon,Bend,236,6,242,7
+Maryland,Hyattsville,232,4,236,6
+Montana,Gardiner,177,59,236,2
+Alabama,Gulf Shores,222,9,231,2
+California,Santa Cruz,230,0,230,1
+New Jersey,Seaside Heights,220,4,224,2
+New York,Darien Center,213,11,224,2
+Nevada,Stateline,219,4,223,2
+Michigan,Petoskey,213,9,222,2
+Pennsylvania,Allentown,203,14,217,5
+Pennsylvania,Pocono Manor,196,20,216,2
+Idaho,Sun Valley,189,24,213,2
+Montana,West Glacier,209,4,213,2
+Maryland,Hanover,210,1,211,2
+Massachusetts,Brewster,208,3,211,2
+Florida,Miramar Beach,209,0,209,1
+Ohio,Mason,205,4,209,2
+Massachusetts,Chatham,201,7,208,2
+Michigan,Mackinaw City,193,13,206,2
+North Carolina,Kill Devil Hills,197,7,204,2
+Alabama,Foley,191,10,201,2
+Iowa,Arnolds Park,199,1,200,2
+Michigan,Traverse City,193,3,196,5
+Iowa,Altoona,194,0,194,1
+Maryland,Rockville,189,4,193,4
+Massachusetts,Oak Bluffs,192,1,193,2
+California,South Lake Tahoe,189,2,191,2
+Alaska,Talkeetna,188,0,188,1
+Illinois,Gurnee,179,9,188,2
+South Dakota,Rapid City,164,18,182,4
+New Jersey,Point Pleasant Beach,177,4,181,2
+Maine,Ogunquit,175,4,179,2
+Vermont,Stowe,166,13,179,2
+Alaska,Healy,177,1,178,2
+Indiana,Santa Claus,171,7,178,2
+Maine,Saco,177,1,178,2
+New Jersey,Beach Haven,170,8,178,2
+North Carolina,Kitty Hawk,165,13,178,2
+Alaska,Ketchikan,167,8,175,2
+Wisconsin,Sister Bay,157,18,175,2
+New York,Montauk,172,0,172,1
+Wisconsin,Lake Delton,165,7,172,2
+Florida,Santa Rosa Beach,170,0,170,1
+New York,Queensbury,158,11,169,2
+North Dakota,Medora,163,6,169,2
+Delaware,Selbyville,164,4,168,2
+Massachusetts,West Yarmouth,165,2,167,2
+Maine,Boothbay Harbor,150,13,163,2
+Montana,Whitefish,161,2,163,2
+Washington,Seattle,155,8,163,12
+Delaware,Fenwick Island,154,6,160,2
+South Carolina,Hilton Head Island,150,10,160,4
+Maryland,Frederick,158,0,158,4
+Texas,Round Rock,127,28,155,2
+New York,Old Forge,148,4,152,2
+South Dakota,Custer,150,1,151,2
+Alaska,Juneau,148,2,150,2
+New Hampshire,Laconia,145,4,149,2
+Wisconsin,Minocqua,149,0,149,1
+Colorado,Vail,82,63,145,2
+Virginia,Richmond,143,1,144,11
+New York,Bolton Landing,142,0,142,1
+Massachusetts,Dennis Port,132,8,140,2
+New Hampshire,Lincoln,128,11,139,2
+California,Yosemite National Park,138,0,138,1
+Texas,Arlington,131,6,137,4
+Virginia,Fairfax,136,0,136,4
+North Carolina,Charlotte,131,4,135,6
+Virginia,Springfield,135,0,135,4
+Pennsylvania,Lakewood,129,3,132,2
+California,San Francisco,129,2,131,6
+Ohio,Port Clinton,129,2,131,2
+New Hampshire,Portsmouth,128,2,130,2
+New Jersey,Avalon,128,0,128,1
+New Hampshire,Glen,124,3,127,2
+New Mexico,Glorieta,126,0,126,1
+Michigan,Harbor Springs,104,20,124,2
+Wisconsin,Egg Harbor,114,10,124,2
+Michigan,South Haven,120,3,123,2
+Alaska,Trapper Creek,119,2,121,2
+Pennsylvania,Equinunk,116,5,121,2
+Nevada,Zephyr Cove,119,1,120,2
+South Dakota,Deadwood,115,5,120,2
+California,Santa Monica,116,1,117,3
+Colorado,Aspen,111,6,117,2
+Indiana,Monticello,97,20,117,2
+Missouri,Ridgedale,114,3,117,2
+Wisconsin,Eagle River,115,1,116,2
+Wisconsin,Lake Geneva,109,7,116,2
+New Jersey,Jackson,99,16,115,2
+Massachusetts,Hinsdale,112,2,114,2
+Minnesota,Duluth,113,1,114,7
+Arizona,Grand Canyon,108,4,112,2
+Massachusetts,Harwich Port,110,2,112,2
+Massachusetts,Mashpee,111,1,112,2
+Pennsylvania,Honesdale,110,0,110,1
+New Jersey,Sea Isle City,105,4,109,2
+New York,New Paltz,95,14,109,2
+Massachusetts,Wellfleet,104,4,108,2
+Alaska,Homer,107,0,107,1
+Arizona,Page,106,1,107,2
+Maryland,Silver Spring,105,2,107,6
+Colorado,Granby,83,23,106,2
+Minnesota,Nisswa,96,10,106,2
+Colorado,Colorado Springs,100,5,105,5
+Montana,Bozeman,102,2,104,3
+Rhode Island,Narragansett,98,5,103,2
+Minnesota,Grand Marais,93,9,102,2
+Maryland,Gaithersburg,100,1,101,4
+North Carolina,Avon,98,3,101,2
+Virginia,Sterling,101,0,101,3
+Wisconsin,Sturgeon Bay,96,5,101,2
+Colorado,Denver,100,0,100,8
+Rhode Island,Westerly,93,7,100,2
+North Carolina,Hendersonville,98,0,98,2
+District of Columbia,Washington,97,0,97,12
+New Jersey,Rio Grande,97,0,97,1
+South Dakota,Hill City,92,5,97,2
+Virginia,Ashburn,97,0,97,2
+Maine,Camden,89,7,96,2
+South Dakota,Wall,90,6,96,2
+Minnesota,Detroit Lakes,94,1,95,2
+Pennsylvania,Beach Lake,95,0,95,1
+Massachusetts,Orleans,90,4,94,2
+New Hampshire,Freedom,94,0,94,1
+Virginia,Hot Springs,90,4,94,2
+Washington,Ashford,90,4,94,2
+Virginia,Leesburg,93,0,93,2
+Wyoming,Cody,88,4,92,2
+New Jersey,Stone Harbor,90,1,91,2
+New York,Hancock,91,0,91,1
+Texas,San Antonio,88,3,91,10
+Maryland,Germantown,88,2,90,3
+New Hampshire,Salem,89,1,90,2
+New York,Shelter Island Heights,87,3,90,2
+Pennsylvania,Tannersville,49,41,90,2
+Washington,Friday Harbor,90,0,90,1
+Arkansas,Mount Ida,89,0,89,1
+Texas,Port Aransas,88,1,89,2
+Massachusetts,Harwich,87,1,88,2
+Michigan,Interlochen,88,0,88,1
+New York,Southampton,86,1,87,2
+Montana,Missoula,85,1,86,5
+California,Truckee,81,4,85,2
+Colorado,Grand Lake,79,6,85,2
+Florida,Panama City,82,3,85,5
+Maine,Naples,85,0,85,1
+Massachusetts,Vineyard Haven,85,0,85,1
+Nevada,Reno,85,0,85,5
+New Hampshire,Holderness,85,0,85,1
+Alaska,Skagway,84,0,84,1
+New Hampshire,Bretton Woods,69,15,84,2
+Georgia,Sea Island,79,4,83,2
+Maine,Portland,82,1,83,5
+Massachusetts,West Dennis,82,1,83,2
+Montana,Browning,78,5,83,2
+Wisconsin,Delavan,83,0,83,1
+Michigan,Saint Ignace,65,17,82,2
+North Carolina,Black Mountain,81,1,82,2
+Maine,Wells,77,4,81,2
+Pennsylvania,Stroudsburg,80,0,80,1
+Virginia,Newport News,79,1,80,8
+Alaska,Girdwood,79,0,79,1
+Massachusetts,Plymouth,72,7,79,2
+Virginia,Falls Church,79,0,79,5
+Missouri,Saint Louis,78,0,78,8
+New York,Copake,78,0,78,1
+Pennsylvania,Greeley,77,1,78,2
+South Carolina,Johns Island,77,1,78,2
+Connecticut,Kent,76,1,77,2
+Michigan,Munising,77,0,77,1
+New Jersey,Cape May Court House,76,1,77,2
+Wyoming,Teton Village,76,1,77,2
+Maine,Kittery,73,3,76,2
+Massachusetts,North Falmouth,74,2,76,2
+Maryland,Berlin,73,2,75,2
+Massachusetts,Becket,75,0,75,1
+Montana,East Glacier Park,72,3,75,2
+Nevada,Laughlin,75,0,75,1
+Virginia,Woodbridge,75,0,75,3
+Wisconsin,Warrens,73,2,75,2
+Maine,York,70,4,74,2
+Maryland,Baltimore,73,0,73,13
+New Hampshire,Moultonborough,72,1,73,2
+California,Tahoe City,70,2,72,2
+Florida,Fort Walton Beach,71,0,71,2
+New York,Swan Lake,68,3,71,2
+Virginia,Mc Gaheysville,67,4,71,2
+Wisconsin,Fontana,63,7,70,2
+California,Olympic Valley,57,12,69,2
+Florida,Pensacola,69,0,69,1
+New Hampshire,Meredith,62,7,69,2
+New York,Corona,67,1,68,2
+Texas,Hunt,68,0,68,1
+Hawaii,Lahaina,65,2,67,2
+Maine,Oakland,67,0,67,1
+New York,Greenport,66,0,66,1
+Pennsylvania,Thompson,66,0,66,1
+Maine,Poland,64,1,65,2
+Massachusetts,Falmouth,57,7,64,2
+Minnesota,Minneapolis,56,8,64,6
+Pennsylvania,Milford,61,3,64,2
+Wisconsin,Fish Creek,52,12,64,2
+Maryland,Bethesda,62,1,63,4
+Massachusetts,Agawam,61,2,63,2
+New York,Monticello,59,4,63,2
+Pennsylvania,Poyntelle,62,1,63,2
+Vermont,Killington,63,0,63,1
+Georgia,Cleveland,62,0,62,1
+North Carolina,Asheville,62,0,62,3
+Ohio,Lakeside Marblehead,54,8,62,2
+Utah,Garden City,60,2,62,2
+Arkansas,Rogers,61,0,61,1
+Connecticut,Mashantucket,61,0,61,1
+Georgia,Austell,57,4,61,2
+Missouri,Lake Ozark,54,7,61,2
+New York,Atlantic Beach,61,0,61,1
+New York,East Hampton,60,1,61,2
+North Carolina,Southport,61,0,61,1
+Virginia,Annandale,60,1,61,2
+Virginia,Chincoteague Island,58,3,61,2
+Massachusetts,East Falmouth,58,2,60,2
+New York,Schroon Lake,59,1,60,2
+Montana,Billings,59,0,59,3
+New Jersey,Vernon,31,28,59,2
+West Virginia,Snowshoe,54,5,59,2
+Michigan,Ortonville,57,1,58,2
+Maryland,Laurel,57,0,57,4
+Michigan,Charlevoix,52,5,57,2
+New York,Calverton,56,1,57,2
+Utah,Salt Lake City,57,0,57,6
+Virginia,Manassas,57,0,57,3
+Maine,Casco,55,1,56,2
+North Carolina,Fontana Dam,36,20,56,2
+Arizona,Sedona,23,32,55,2
+Hawaii,Waikoloa,44,11,55,2
+Maine,Smithfield,55,0,55,1
+New York,Sag Harbor,53,2,55,2
+Delaware,Ocean View,53,1,54,2
+Massachusetts,Pittsfield,52,2,54,2
+Michigan,Boyne Falls,54,0,54,1
+Montana,Kalispell,52,2,54,2
+New Hampshire,Wolfeboro,54,0,54,1
+New York,Hunter,49,5,54,2
+Virginia,Chantilly,50,4,54,3
+Washington,Cle Elum,54,0,54,1
+Florida,Gulf Breeze,48,5,53,3
+Hawaii,Honolulu,53,0,53,2
+Nevada,Incline Village,51,2,53,2
+Pennsylvania,Skytop,35,18,53,2
+Michigan,Gaylord,48,4,52,2
+Missouri,Maryland Heights,51,1,52,2
+Missouri,Osage Beach,52,0,52,1
+New York,Callicoon,45,7,52,2
+Wisconsin,Ephraim,47,5,52,2
+Wyoming,Sheridan,52,0,52,1
+California,Carnelian Bay,46,5,51,2
+California,La Jolla,51,0,51,1
+Iowa,Okoboji,51,0,51,1
+Maine,Monmouth,50,1,51,2
+Maine,Mount Vernon,51,0,51,1
+Maine,Raymond,51,0,51,1
+Minnesota,Alexandria,51,0,51,1
+New Mexico,Red River,50,1,51,2
+North Carolina,Zirconia,51,0,51,1
+Virginia,Mc Lean,51,0,51,2
+Washington,Pacific Beach,48,3,51,2
+Colorado,Snowmass Village,46,4,50,2
+Georgia,Tybee Island,50,0,50,1
+Idaho,Donnelly,36,14,50,2
+Maine,Rockport,49,1,50,2
+New York,Diamond Point,50,0,50,1
+North Carolina,Brevard,50,0,50,1
+North Carolina,Cherokee,50,0,50,1
+Colorado,Lake City,47,2,49,2
+Florida,Marathon,46,3,49,2
+Maine,Greenville,48,1,49,2
+Maine,Southwest Harbor,49,0,49,1
+Maryland,Upper Marlboro,48,1,49,3
+Minnesota,Brainerd,47,2,49,2
+Missouri,Kansas City,47,2,49,8
+New York,Brant Lake,49,0,49,1
+Virginia,Herndon,49,0,49,2
+Washington,Federal Way,48,1,49,3
+New Jersey,Fairfield,39,9,48,2
+Vermont,Jeffersonville,43,5,48,2
+Florida,Boca Raton,45,2,47,5
+Massachusetts,Great Barrington,46,1,47,2
+Michigan,Bellaire,46,1,47,2
+New York,Bridgehampton,46,1,47,2
+Pennsylvania,Canadensis,46,1,47,2
+Pennsylvania,Lake Como,46,1,47,2
+Utah,Bryce,40,7,47,2
+Vermont,South Burlington,38,9,47,2
+California,Vallejo,46,0,46,1
+Idaho,Harrison,45,1,46,2
+Maine,Bridgton,46,0,46,1
+Massachusetts,Sandwich,45,1,46,2
+Pennsylvania,Preston Park,46,0,46,1
+Pennsylvania,Starrucca,44,2,46,2
+Vermont,Highgate Springs,46,0,46,1
+Wisconsin,Boulder Junction,42,4,46,2
+Wisconsin,Nekoosa,46,0,46,1
+New Jersey,Jersey City,45,0,45,4
+New York,Milford,45,0,45,1
+New York,Ocean Beach,44,1,45,2
+New York,Parksville,45,0,45,1
+New York,Warrensburg,45,0,45,1
+California,Pioneer,44,0,44,1
+Maryland,Cambridge,43,1,44,2
+Massachusetts,North Truro,44,0,44,1
+Missouri,Pacific,43,1,44,2
+New Jersey,Hope,44,0,44,1
+Pennsylvania,West Mifflin,44,0,44,1
+Washington,Port Angeles,40,4,44,3
+Wisconsin,Woodruff,42,2,44,2
+Iowa,Spirit Lake,43,0,43,1
+Maine,Belgrade,43,0,43,1
+Montana,Bigfork,40,3,43,2
+New Jersey,Lavallette,40,3,43,2
+New York,Shandaken,43,0,43,1
+North Carolina,Atlantic Beach,43,0,43,1
+Wisconsin,Hayward,43,0,43,1
+California,Lakeshore,39,3,42,2
+Maine,Harrison,42,0,42,1
+Maine,Kennebunk,42,0,42,1
+Maine,Kennebunkport,37,5,42,2
+Texas,Montgomery,41,1,42,2
+Michigan,Mount Pleasant,37,4,41,2
+Michigan,Thompsonville,41,0,41,1
+Montana,Red Lodge,40,1,41,2
+New Jersey,Marmora,41,0,41,1
+Texas,Bandera,41,0,41,1
+Virginia,Hampton,36,5,41,4
+Maine,York Beach,38,2,40,2
+Massachusetts,Lenox,40,0,40,1
+Michigan,Caseville,38,2,40,2
+New York,Glen Spey,40,0,40,1
+Ohio,Geneva,36,4,40,2
+Texas,Austin,40,0,40,7
+Colorado,Idaho Springs,36,3,39,2
+Maine,Scarborough,37,2,39,2
+Massachusetts,Brookline,38,1,39,3
+Massachusetts,Dennis,36,3,39,2
+Minnesota,Pequot Lakes,26,13,39,2
+New York,Raquette Lake,38,1,39,2
+New York,Wingdale,37,2,39,2
+North Carolina,Banner Elk,26,13,39,2
+Texas,Houston,36,3,39,6
+Utah,Lake Powell,35,4,39,2
+Vermont,Fairlee,37,2,39,2
+Colorado,Breckenridge,34,4,38,2
+Michigan,Boyne City,37,1,38,2
+Michigan,Decatur,38,0,38,1
+North Carolina,Lake Junaluska,38,0,38,1
+South Carolina,Bluffton,29,9,38,2
+Maryland,Annapolis,37,0,37,3
+New Hampshire,Gilford,31,6,37,2
+New York,Blue Mountain Lake,35,2,37,2
+New York,Liberty,37,0,37,1
+North Carolina,Oak Island,37,0,37,1
+Ohio,Kelleys Island,30,7,37,2
+Rhode Island,Middletown,37,0,37,1
+Virginia,Chesapeake,37,0,37,6
+Virginia,Gainesville,37,0,37,1
+Wisconsin,Green Lake,36,1,37,2
+Wisconsin,Mukwonago,37,0,37,1
+California,Kings Beach,35,1,36,2
+Massachusetts,Palmer,36,0,36,1
+New York,Cooperstown,36,0,36,1
+New York,Greenfield Park,36,0,36,1
+New York,Hopewell Junction,36,0,36,1
+Washington,Chelan,35,1,36,2
+Washington,Eastsound,36,0,36,1
+California,Death Valley,34,1,35,2
+Idaho,McCall,35,0,35,1
+Massachusetts,Eastham,34,1,35,2
+New York,Hampton Bays,33,2,35,2
+Oregon,Seaside,33,2,35,2
+South Carolina,Murrells Inlet,35,0,35,1
+Virginia,Centreville,35,0,35,2
+Wisconsin,Rhinelander,35,0,35,1
+Massachusetts,East Wareham,34,0,34,1
+Massachusetts,South Dennis,32,2,34,2
+New York,Long Lake,31,3,34,2
+New York,Shelter Island,34,0,34,1
+Pennsylvania,Henryville,32,2,34,2
+Virginia,Henrico,34,0,34,3
+Alaska,Soldotna,33,0,33,1
+California,Groveland,31,2,33,2
+Idaho,Stanley,29,4,33,2
+Maine,Rockland,33,0,33,1
+Mississippi,Hattiesburg,33,0,33,1
+Oregon,Pacific City,33,0,33,1
+Pennsylvania,Oxford,33,0,33,1
+Pennsylvania,Starlight,33,0,33,1
+Rhode Island,Wakefield,33,0,33,1
+Utah,Ivins,33,0,33,1
+California,Fish Camp,32,0,32,1
+Illinois,Glencoe,32,0,32,1
+Maine,Kents Hill,32,0,32,1
+Maryland,Odenton,32,0,32,1
+Michigan,Indian River,29,3,32,2
+Minnesota,Two Harbors,31,1,32,2
+New Hampshire,Hebron,31,1,32,2
+South Carolina,Isle Of Palms,32,0,32,1
+California,Miramonte,31,0,31,1
+Delaware,Lewes,31,0,31,1
+Delaware,Millsboro,31,0,31,1
+Florida,Rosemary Beach,31,0,31,1
+Michigan,Frankenmuth,22,9,31,2
+Michigan,Ludington,28,3,31,2
+Nevada,Sparks,31,0,31,2
+New Jersey,Hackettstown,23,8,31,2
+New York,Elizaville,31,0,31,1
+North Carolina,Arapahoe,31,0,31,1
+Pennsylvania,Hawley,31,0,31,1
+Pennsylvania,Newtown,31,0,31,1
+Virginia,Reston,31,0,31,3
+Maine,Oxford,30,0,30,1
+Maine,South Casco,29,1,30,2
+Maryland,Ellicott City,28,2,30,3
+Massachusetts,Buzzards Bay,29,1,30,2
+Pennsylvania,Elysburg,28,2,30,2
+Pennsylvania,Langhorne,30,0,30,1
+Tennessee,Franklin,28,2,30,3
+Virginia,Urbanna,30,0,30,1
+Virginia,Vienna,30,0,30,3
+Wisconsin,Oconomowoc,30,0,30,1
+California,Carlsbad,29,0,29,2
+Colorado,Nathrop,29,0,29,1
+Connecticut,Colebrook,29,0,29,1
+Georgia,Clayton,29,0,29,1
+Maine,Ellsworth,29,0,29,1
+Maryland,Thurmont,29,0,29,1
+New York,Canandaigua,27,2,29,2
+North Dakota,Minot,29,0,29,2
+South Carolina,Conway,28,1,29,2
+Vermont,Essex Junction,28,1,29,2
+Wyoming,Buffalo,29,0,29,1
+Connecticut,Darien,28,0,28,1
+Maine,Waterford,27,1,28,2
+Massachusetts,Charlestown,26,2,28,2
+Massachusetts,Framingham,28,0,28,2
+Minnesota,Deerwood,25,3,28,2
+New Hampshire,Amherst,28,0,28,1
+New Hampshire,Piermont,28,0,28,1
+New York,Fishers Island,27,1,28,2
+New York,Putnam Valley,28,0,28,1
+New York,South Fallsburg,28,0,28,1
+New York,Verona,28,0,28,1
+Ohio,Toledo,28,0,28,3
+Oklahoma,Oklahoma City,28,0,28,4
+Texas,Kemah,28,0,28,1
+Virginia,Lorton,28,0,28,1
+Wisconsin,Webster,28,0,28,1
+Colorado,Avon,26,1,27,2
+Connecticut,Madison,27,0,27,1
+Delaware,Millville,23,4,27,2
+Florida,Fernandina Beach,27,0,27,1
+Georgia,Greensboro,25,2,27,2
+Maine,Seal Harbor,27,0,27,1
+Minnesota,Ely,27,0,27,1
+New York,Cold Spring,27,0,27,1
+New York,East Setauket,25,2,27,2
+New York,Penn Yan,26,1,27,2
+North Carolina,Raleigh,27,0,27,3
+Oregon,Cannon Beach,26,1,27,2
+Pennsylvania,Pittsburgh,27,0,27,6
+Alabama,Cullman,22,4,26,2
+Florida,Kissimmee,26,0,26,2
+Idaho,Driggs,24,2,26,2
+Maine,Denmark,24,2,26,2
+Maryland,Cascade,26,0,26,1
+Michigan,Glen Arbor,26,0,26,1
+Montana,Cooke City,23,3,26,2
+New Hampshire,North Woodstock,24,2,26,2
+New Hampshire,West Lebanon,25,1,26,2
+New Jersey,Asbury Park,26,0,26,1
+Pennsylvania,East Stroudsburg,26,0,26,2
+Pennsylvania,Waynesboro,26,0,26,1
+Wisconsin,Bayfield,25,1,26,2
+Alaska,Hoonah,25,0,25,1
+Alaska,Sitka,25,0,25,1
+Alaska,Valdez,25,0,25,1
+Colorado,Larkspur,25,0,25,1
+Connecticut,Lakeville,25,0,25,1
+Hawaii,Kihei,25,0,25,1
+Maryland,Edgewater,25,0,25,1
+Maryland,Glen Burnie,25,0,25,2
+Massachusetts,West Stockbridge,25,0,25,1
+Minnesota,Bemidji,25,0,25,1
+Missouri,Hollister,21,4,25,2
+New Jersey,Long Branch,24,1,25,2
+New York,Pelham,24,1,25,2
+New York,Roscoe,25,0,25,1
+North Carolina,Lake Lure,25,0,25,1
+Ohio,Beachwood,25,0,25,1
+Oregon,Crater Lake,20,5,25,2
+Pennsylvania,Philadelphia,24,1,25,7
+Texas,Corpus Christi,25,0,25,3
+Utah,Dutch John,25,0,25,1
+Utah,Sandy,22,3,25,5
+Wisconsin,Baileys Harbor,25,0,25,1
+Wisconsin,Conover,23,2,25,2
+California,Chester,24,0,24,1
+California,Pollock Pines,24,0,24,1
+Florida,Tampa,20,4,24,4
+Maine,Brooksville,22,2,24,2
+Michigan,Houghton,22,2,24,2
+Minnesota,Onamia,20,4,24,2
+New Hampshire,Bartlett,21,3,24,2
+New Jersey,Medford,23,1,24,2
+New Mexico,Angel Fire,23,1,24,2
+New York,Amagansett,23,1,24,2
+Pennsylvania,Tyler Hill,24,0,24,1
+Washington,Spokane,20,4,24,3
+Hawaii,Kapolei,20,3,23,2
+Indiana,French Lick,21,2,23,2
+Maine,Cape Elizabeth,23,0,23,1
+Massachusetts,South Wellfleet,23,0,23,1
+New Hampshire,North Hampton,22,1,23,2
+New Jersey,Deal,23,0,23,1
+New Jersey,Seaside Park,23,0,23,1
+New York,Rock Hill,23,0,23,1
+New York,Woodbourne,23,0,23,1
+North Dakota,Bismarck,23,0,23,2
+Ohio,Milan,19,4,23,2
+Vermont,South Londonderry,20,3,23,2
+Washington,Leavenworth,22,1,23,2
+California,Santa Rosa,22,0,22,2
+Colorado,Buena Vista,22,0,22,1
+Colorado,Gunnison,21,1,22,2
+Colorado,Silverton,19,3,22,2
+Maine,Rangeley,18,4,22,2
+Maine,Washington,21,1,22,2
+Massachusetts,Cambridge,22,0,22,5
+Minnesota,Pine River,22,0,22,1
+Minnesota,Saint Paul,22,0,22,7
+New Jersey,Ocean View,21,1,22,2
+New Jersey,Strathmere,21,1,22,2
+New York,Mamaroneck,22,0,22,1
+Wisconsin,Manitowish Waters,22,0,22,1
+Wisconsin,Saint Germain,22,0,22,1
+Wyoming,Dubois,22,0,22,1
+Alaska,Copper Center,20,1,21,2
+California,Kings Canyon National Pk,21,0,21,1
+California,Watsonville,21,0,21,1
+Connecticut,Uncasville,21,0,21,1
+Florida,Shalimar,18,3,21,2
+Maine,East Boothbay,21,0,21,1
+Maryland,Worton,21,0,21,1
+New Hampshire,Jefferson,21,0,21,1
+New Hampshire,Seabrook,19,2,21,2
+New York,Barryville,21,0,21,1
+New York,Bloomingburg,21,0,21,1
+New York,Chautauqua,20,1,21,2
+New York,Wurtsboro,21,0,21,1
+North Carolina,Rodanthe,21,0,21,1
+North Dakota,Dickinson,21,0,21,1
+Texas,Burleson,21,0,21,1
+Texas,Fort Worth,21,0,21,5
+Texas,Grapevine,21,0,21,1
+Texas,Trinity,21,0,21,1
+Vermont,Waitsfield,16,5,21,2
+Virginia,Luray,21,0,21,1
+Washington,Kirkland,21,0,21,2
+Alaska,Gustavus,20,0,20,1
+Connecticut,Stamford,20,0,20,3
+Hawaii,Kamuela,15,5,20,2
+Maryland,Elkridge,20,0,20,1
+Massachusetts,Marstons Mills,20,0,20,1
+Massachusetts,Pembroke,20,0,20,1
+Massachusetts,Quincy,20,0,20,2
+Massachusetts,Truro,20,0,20,1
+Michigan,Elk Rapids,19,1,20,2
+Michigan,Leland,19,1,20,2
+Minnesota,Walker,20,0,20,1
+Montana,Eureka,19,1,20,2
+New York,Inlet,20,0,20,1
+New York,Kattskill Bay,20,0,20,1
+Pennsylvania,Kunkletown,20,0,20,1
+Vermont,White River Junction,15,5,20,2
+Delaware,Newark,19,0,19,3
+Florida,Brandon,19,0,19,1
+Florida,Key West,19,0,19,1
+Maine,Southport,19,0,19,1
+Maine,Waterville,19,0,19,1
+Maryland,Owings Mills,19,0,19,1
+Mississippi,Utica,19,0,19,1
+New York,Ellenville,18,1,19,2
+New York,Locust Valley,18,1,19,2
+New York,Saranac Lake,18,1,19,2
+North Carolina,Sneads Ferry,19,0,19,1
+Oregon,Astoria,17,2,19,2
+Pennsylvania,Green Lane,19,0,19,1
+Virginia,Fredericksburg,19,0,19,4
+West Virginia,Lansing,19,0,19,1
+Wisconsin,Minong,19,0,19,1
+Alaska,Cooper Landing,17,1,18,2
+Alaska,Moose Pass,18,0,18,1
+California,Del Mar,18,0,18,1
+Colorado,Glenwood Springs,18,0,18,1
+Colorado,Steamboat Springs,17,1,18,2
+Colorado,Telluride,15,3,18,2
+Connecticut,Torrington,18,0,18,1
+Indiana,Marshall,18,0,18,1
+Maine,Bangor,18,0,18,1
+Maine,Wayne,18,0,18,1
+Maryland,Bowie,18,0,18,3
+Maryland,Chestertown,18,0,18,1
+Maryland,Cockeysville,18,0,18,1
+Massachusetts,Chilmark,17,1,18,2
+Massachusetts,East Otis,18,0,18,1
+Massachusetts,South Egremont,18,0,18,1
+Michigan,Copper Harbor,17,1,18,2
+Minnesota,Lutsen,18,0,18,1
+New Hampshire,Mirror Lake,18,0,18,1
+New Hampshire,Wilmot,18,0,18,1
+New York,Claryville,17,1,18,2
+New York,Westhampton Beach,18,0,18,1
+North Carolina,Emerald Isle,18,0,18,1
+North Dakota,Fargo,18,0,18,3
+Ohio,Cincinnati,18,0,18,5
+South Dakota,Sioux Falls,18,0,18,4
+Texas,Horseshoe Bay,13,5,18,2
+Vermont,Vergennes,18,0,18,1
+Washington,Winthrop,16,2,18,2
+West Virginia,Caldwell,18,0,18,1
+West Virginia,White Sulphur Springs,7,11,18,2
+Wisconsin,La Pointe,18,0,18,1
+Wyoming,Alpine,18,0,18,1
+Colorado,Golden,17,0,17,2
+Connecticut,South Windham,17,0,17,1
+Illinois,Hoffman Estates,17,0,17,1
+Kansas,Kansas City,17,0,17,2
+Maine,Damariscotta,17,0,17,1
+Maryland,Chevy Chase,17,0,17,1
+Maryland,Greenbelt,17,0,17,1
+Maryland,Towson,17,0,17,2
+Michigan,Beaver Island,17,0,17,1
+Michigan,Honor,14,3,17,2
+Montana,Gallatin Gateway,16,1,17,2
+Montana,Livingston,17,0,17,1
+New Hampshire,Brookline,17,0,17,1
+New York,Fishkill,17,0,17,1
+New York,Minerva,16,1,17,2
+New York,Nassau,17,0,17,1
+New York,Stamford,17,0,17,1
+North Carolina,Buxton,15,2,17,2
+North Carolina,Calabash,16,1,17,2
+Ohio,Chardon,17,0,17,1
+Pennsylvania,Kintnersville,16,1,17,2
+Vermont,Post Mills,17,0,17,1
+Virginia,Norfolk,17,0,17,7
+Washington,Auburn,17,0,17,3
+Washington,Enumclaw,13,4,17,2
+West Virginia,Ghent,0,17,17,1
+Wyoming,Moose,17,0,17,1
+Colorado,Durango,15,1,16,3
+Connecticut,Greenwich,15,1,16,3
+Hawaii,Kailua Kona,8,8,16,2
+Illinois,Ingleside,16,0,16,1
+Illinois,Lake Zurich,16,0,16,1
+Maine,West Forks,16,0,16,1
+Maryland,Columbia,15,1,16,3
+Maryland,North East,15,1,16,2
+Massachusetts,North Adams,15,1,16,2
+Massachusetts,Woods Hole,16,0,16,1
+Minnesota,Cass Lake,16,0,16,1
+Montana,Polson,16,0,16,1
+Nevada,Jean,14,2,16,2
+New Hampshire,Waterville Valley,16,0,16,1
+New York,North Java,16,0,16,1
+New York,Paradox,16,0,16,1
+New York,Rhinebeck,16,0,16,1
+New York,Speculator,16,0,16,1
+New York,Verbank,16,0,16,1
+North Carolina,Ocean Isle Beach,16,0,16,1
+Pennsylvania,Scotrun,16,0,16,1
+South Carolina,Charleston,15,1,16,3
+South Carolina,Greenville,16,0,16,3
+Utah,Moab,15,1,16,2
+Vermont,Roxbury,16,0,16,1
+California,Healdsburg,15,0,15,1
+California,Monterey,11,4,15,2
+California,Soquel,15,0,15,1
+California,Wishon,15,0,15,1
+Colorado,Crested Butte,14,1,15,3
+Colorado,Ward,14,1,15,2
+Hawaii,Kaneohe,15,0,15,1
+Idaho,Cascade,15,0,15,1
+Idaho,Mullan,15,0,15,1
+Maine,Porter,15,0,15,1
+Maryland,Olney,15,0,15,1
+Massachusetts,Groton,15,0,15,1
+Massachusetts,Osterville,15,0,15,1
+Massachusetts,Otis,15,0,15,1
+Michigan,Acme,14,1,15,2
+Michigan,Cross Village,15,0,15,1
+Michigan,Empire,15,0,15,1
+Michigan,Grand Marais,14,1,15,2
+Missouri,Monroe City,15,0,15,1
+New Hampshire,Concord,15,0,15,2
+New Hampshire,New Castle,14,1,15,2
+New Hampshire,Winchester,15,0,15,1
+New Mexico,Albuquerque,15,0,15,4
+New York,Alexandria Bay,15,0,15,1
+New York,Eagle Bay,15,0,15,1
+New York,Purchase,15,0,15,1
+Pennsylvania,Farmington,13,2,15,2
+Rhode Island,Providence,15,0,15,3
+Texas,Cedar Creek,15,0,15,1
+Texas,Rocksprings,15,0,15,1
+Virginia,Aldie,15,0,15,1
+Virginia,Charlottesville,14,1,15,5
+Virginia,Chesterfield,15,0,15,2
+Washington,Stehekin,13,2,15,2
+Wyoming,Pinedale,14,1,15,2
+Alaska,Whittier,14,0,14,1
+California,Angelus Oaks,14,0,14,1
+California,Arnold,14,0,14,1
+California,Avalon,13,1,14,2
+California,Big Bear Lake,14,0,14,1
+California,Fawnskin,14,0,14,1
+California,Sequoia National Park,14,0,14,1
+California,Sylmar,14,0,14,1
+Colorado,Mancos,14,0,14,1
+Colorado,Ouray,14,0,14,1
+Colorado,Sedalia,14,0,14,1
+Georgia,Hiawassee,14,0,14,1
+Iowa,Dubuque,14,0,14,2
+Maine,Fryeburg,14,0,14,1
+Maine,New Harbor,14,0,14,1
+Maine,Phippsburg,14,0,14,1
+Maryland,Montgomery Village,14,0,14,1
+Maryland,Pikesville,14,0,14,1
+Massachusetts,Centerville,14,0,14,1
+Massachusetts,Natick,14,0,14,1
+Massachusetts,North Eastham,14,0,14,1
+Massachusetts,Weston,14,0,14,1
+Michigan,Cedarville,14,0,14,1
+Michigan,Williamsburg,14,0,14,1
+Minnesota,Crane Lake,14,0,14,1
+New Hampshire,Hillsborough,14,0,14,1
+New Hampshire,Northwood,14,0,14,1
+New Hampshire,Orford,14,0,14,1
+New Jersey,Clifton,13,1,14,4
+New Jersey,South Orange,14,0,14,1
+New Jersey,Trenton,14,0,14,3
+New York,Fort Ann,13,1,14,2
+New York,Jamaica,14,0,14,1
+New York,Ray Brook,11,3,14,2
+New York,Roslyn,14,0,14,1
+Pennsylvania,Ohiopyle,14,0,14,1
+South Carolina,Little River,14,0,14,1
+South Dakota,Box Elder,14,0,14,1
+Utah,Provo,14,0,14,2
+Virginia,Toano,14,0,14,1
+Washington,Vancouver,14,0,14,2
+Wisconsin,Prairie Du Chien,13,1,14,2
+Arizona,Prescott,13,0,13,1
+Arizona,Williams,11,2,13,2
+California,Fort Bragg,13,0,13,1
+California,Santa Barbara,12,1,13,5
+Colorado,Winter Park,12,1,13,2
+Georgia,Marietta,13,0,13,1
+Hawaii,Lanai City,12,1,13,2
+Idaho,Boise,13,0,13,2
+Idaho,Island Park,13,0,13,1
+Illinois,Oglesby,11,2,13,2
+Illinois,Westchester,13,0,13,1
+Maryland,Rising Sun,12,1,13,2
+Massachusetts,Dorchester,12,1,13,2
+Massachusetts,Norwood,13,0,13,1
+Minnesota,Annandale,13,0,13,1
+Minnesota,Hackensack,13,0,13,1
+New Hampshire,Claremont,13,0,13,1
+New Hampshire,Hampstead,13,0,13,1
+New Mexico,Santa Fe,13,0,13,4
+New York,Loch Sheldrake,13,0,13,1
+North Carolina,Manteo,13,0,13,1
+Texas,Graford,13,0,13,1
+Texas,Van Horn,8,5,13,2
+Utah,Hanksville,13,0,13,1
+Vermont,Woodstock,13,0,13,1
+West Virginia,High View,13,0,13,1
+Wisconsin,Cable,13,0,13,1
+Wisconsin,La Crosse,13,0,13,1
+Alaska,Kenai,12,0,12,1
+California,Mill Creek,12,0,12,1
+California,Pacifica,12,0,12,1
+Colorado,Longmont,12,0,12,1
+Colorado,Salida,12,0,12,1
+Connecticut,Chester,12,0,12,1
+Connecticut,Middlebury,11,1,12,2
+Connecticut,Old Greenwich,12,0,12,1
+Florida,Naples,12,0,12,1
+Kansas,Wichita,12,0,12,4
+Maine,Belfast,12,0,12,1
+Maine,Harpswell,12,0,12,1
+Massachusetts,Amesbury,10,2,12,2
+Massachusetts,Braintree,12,0,12,1
+Massachusetts,Dedham,10,2,12,2
+Massachusetts,East Dennis,11,1,12,2
+Massachusetts,Sagamore Beach,11,1,12,2
+Michigan,Cassopolis,12,0,12,1
+Michigan,Cheboygan,12,0,12,1
+Michigan,Twin Lake,12,0,12,1
+Montana,Butte,11,1,12,2
+New Hampshire,Alton,10,2,12,2
+New Hampshire,Effingham,12,0,12,1
+New Hampshire,Grantham,12,0,12,1
+New York,Saratoga Springs,12,0,12,1
+New York,Silver Bay,12,0,12,1
+New York,West Babylon,12,0,12,1
+Ohio,Oregon,12,0,12,1
+Oregon,Otis,12,0,12,1
+Pennsylvania,Brackney,12,0,12,1
+Pennsylvania,Woodward,12,0,12,1
+South Carolina,Edisto Island,10,2,12,2
+South Carolina,Folly Beach,11,1,12,2
+South Dakota,Spearfish,12,0,12,1
+Tennessee,Brentwood,10,2,12,2
+Tennessee,Murfreesboro,12,0,12,1
+Texas,Ingram,12,0,12,1
+Texas,Kerrville,12,0,12,1
+Vermont,Burlington,9,3,12,3
+Vermont,Manchester Center,12,0,12,1
+Vermont,Thetford Center,12,0,12,1
+Virginia,Dumfries,12,0,12,2
+Virginia,Palmyra,12,0,12,1
+Washington,Arlington,12,0,12,1
+Washington,Deer Harbor,12,0,12,1
+Washington,Forks,12,0,12,1
+Washington,Stevenson,12,0,12,1
+Wisconsin,Crivitz,11,1,12,2
+Wisconsin,Mercer,12,0,12,1
+Wyoming,Alta,12,0,12,1
+Wyoming,Gillette,11,1,12,3
+Arizona,Scottsdale,11,0,11,1
+Colorado,Evergreen,11,0,11,1
+Colorado,Fraser,11,0,11,1
+Colorado,La Veta,11,0,11,1
+Connecticut,Winsted,10,1,11,2
+Delaware,Frankford,11,0,11,1
+Illinois,Tinley Park,11,0,11,1
+Indiana,North Webster,11,0,11,1
+Maine,Hope,10,1,11,2
+Maryland,Savage,10,1,11,2
+Maryland,Suitland,11,0,11,1
+Maryland,Windsor Mill,11,0,11,1
+Massachusetts,Haverhill,10,1,11,4
+Massachusetts,Lanesborough,11,0,11,1
+Massachusetts,Malden,11,0,11,1
+Massachusetts,Middleboro,11,0,11,1
+Massachusetts,Newton Center,11,0,11,1
+Massachusetts,Waltham,11,0,11,3
+Massachusetts,West Barnstable,11,0,11,1
+Massachusetts,Woburn,11,0,11,1
+Michigan,Rodney,11,0,11,1
+Nebraska,Sidney,9,2,11,2
+New Hampshire,Madison,11,0,11,1
+New Jersey,Clementon,11,0,11,1
+New Jersey,Manahawkin,10,1,11,2
+New York,Bay Shore,10,1,11,2
+New York,Earlton,11,0,11,1
+New York,Larchmont,11,0,11,1
+North Carolina,Robbinsville,11,0,11,1
+Ohio,Huron,8,3,11,2
+Oregon,Eugene,11,0,11,2
+South Dakota,Hot Springs,11,0,11,1
+South Dakota,Pierre,11,0,11,1
+Utah,American Fork,11,0,11,1
+Vermont,Barre,9,2,11,2
+Vermont,Colchester,11,0,11,1
+Vermont,North Troy,11,0,11,1
+Virginia,Haymarket,11,0,11,1
+West Virginia,New Cumberland,11,0,11,1
+California,Coronado,10,0,10,1
+California,Mammoth Lakes,9,1,10,2
+California,Pacific Palisades,10,0,10,1
+Colorado,Creede,10,0,10,1
+Colorado,Englewood,10,0,10,2
+Florida,Islamorada,10,0,10,1
+Florida,Largo,10,0,10,1
+Illinois,Oak Forest,10,0,10,1
+Indiana,Bloomington,10,0,10,1
+Kentucky,Burlington,10,0,10,1
+Maine,Northeast Harbor,10,0,10,1
+Maine,South Portland,9,1,10,2
+Massachusetts,East Brookfield,9,1,10,2
+Massachusetts,Kingston,8,2,10,2
+Massachusetts,Siasconset,10,0,10,1
+Massachusetts,Somerville,10,0,10,2
+Massachusetts,West Harwich,10,0,10,1
+Massachusetts,West Newton,10,0,10,1
+Massachusetts,Weymouth,10,0,10,1
+Michigan,Cadillac,9,1,10,2
+Michigan,Grayling,10,0,10,1
+Michigan,Troy,10,0,10,2
+Missouri,Rolla,10,0,10,1
+Montana,Hungry Horse,10,0,10,1
+Montana,Pray,10,0,10,1
+Nebraska,Columbus,10,0,10,1
+Nebraska,North Platte,10,0,10,1
+New Hampshire,Littleton,9,1,10,2
+New Jersey,Keansburg,10,0,10,1
+New Jersey,Ventnor City,10,0,10,1
+New Mexico,Ruidoso,10,0,10,1
+New York,Ancramdale,10,0,10,1
+New York,Burlingham,9,1,10,2
+New York,Keene Valley,10,0,10,1
+New York,Lyon Mountain,10,0,10,1
+New York,Nyack,10,0,10,1
+New York,Oyster Bay,10,0,10,1
+New York,Rye,10,0,10,1
+New York,Water Mill,9,1,10,2
+North Carolina,Waves,10,0,10,1
+North Dakota,Garrison,10,0,10,1
+Ohio,Oregonia,10,0,10,1
+Oregon,Hood River,10,0,10,1
+Pennsylvania,Harrisburg,10,0,10,2
+Pennsylvania,South Sterling,10,0,10,1
+Texas,Port Bolivar,10,0,10,1
+Vermont,Newbury,10,0,10,1
+Vermont,Rutland,9,1,10,2
+Virginia,Portsmouth,10,0,10,2
+Virginia,Suffolk,10,0,10,1
+Washington,Quinault,10,0,10,1
+West Virginia,Marlinton,10,0,10,1
+Wisconsin,Lake Nebagamon,10,0,10,1
+Wyoming,Rock Springs,10,0,10,1
+Arkansas,Jonesboro,9,0,9,1
+California,Big Sur,9,0,9,1
+California,Blairsden Graeagle,9,0,9,1
+California,San Simeon,9,0,9,1
+California,Shaver Lake,9,0,9,1
+Colorado,Bailey,9,0,9,1
+Colorado,Fort Collins,9,0,9,2
+Colorado,Frisco,9,0,9,1
+Colorado,Pagosa Springs,9,0,9,1
+Connecticut,Morris,8,1,9,2
+Connecticut,New Milford,8,1,9,2
+Connecticut,Old Lyme,9,0,9,1
+Florida,Captiva,9,0,9,1
+Florida,River Ranch,9,0,9,1
+Georgia,Jekyll Island,9,0,9,1
+Idaho,Meridian,9,0,9,2
+Illinois,Galena,9,0,9,1
+Kentucky,Louisville,8,1,9,3
+Maine,Buckfield,9,0,9,1
+Maine,Jackman,7,2,9,2
+Maine,Winthrop,9,0,9,1
+Maryland,Beltsville,9,0,9,1
+Maryland,College Park,9,0,9,1
+Maryland,Reisterstown,9,0,9,1
+Massachusetts,Burlington,8,1,9,2
+Massachusetts,Duxbury,9,0,9,1
+Massachusetts,Marlborough,9,0,9,1
+Massachusetts,Monterey,9,0,9,1
+Massachusetts,Westborough,9,0,9,1
+Michigan,Jackson,9,0,9,1
+Michigan,Paradise,8,1,9,2
+Michigan,Three Rivers,9,0,9,1
+Michigan,Wetmore,6,3,9,2
+Minnesota,Grand Portage,9,0,9,1
+Minnesota,Grand Rapids,9,0,9,1
+Minnesota,Laporte,8,1,9,2
+Minnesota,Tofte,9,0,9,1
+Missouri,Lesterville,9,0,9,1
+Missouri,Potosi,9,0,9,1
+Montana,Great Falls,9,0,9,2
+Montana,Philipsburg,9,0,9,1
+Nevada,Las Vegas,9,0,9,1
+New Jersey,Fort Lee,9,0,9,1
+New Jersey,Spring Lake,8,1,9,2
+New Jersey,West Milford,9,0,9,1
+New Mexico,Taos Ski Valley,6,3,9,2
+New York,Babylon,9,0,9,1
+New York,Briarcliff Manor,9,0,9,1
+New York,Carmel,9,0,9,1
+New York,Clifton Park,9,0,9,1
+New York,Gilboa,9,0,9,1
+New York,Kerhonkson,9,0,9,1
+North Carolina,Holly Ridge,9,0,9,1
+North Carolina,Lake Toxaway,9,0,9,1
+North Carolina,Ridgecrest,9,0,9,1
+North Carolina,Sapphire,9,0,9,1
+Ohio,Findlay,9,0,9,1
+Ohio,Kimbolton,9,0,9,1
+Oregon,Gleneden Beach,9,0,9,1
+Oregon,Sisters,9,0,9,1
+Oregon,Welches,9,0,9,1
+Pennsylvania,King Of Prussia,9,0,9,1
+South Carolina,Cleveland,9,0,9,1
+South Carolina,Mount Pleasant,9,0,9,1
+South Dakota,Kadoka,9,0,9,1
+Texas,Bruceville,9,0,9,1
+Vermont,Proctorsville,5,4,9,2
+Vermont,Springfield,8,1,9,2
+Vermont,Warren,0,9,9,1
+Washington,Ocean Shores,9,0,9,1
+Wisconsin,Ellison Bay,9,0,9,1
+Wisconsin,Lac Du Flambeau,7,2,9,2
+Wisconsin,Plymouth,9,0,9,1
+Wisconsin,Williams Bay,9,0,9,1
+Alabama,Mobile,8,0,8,2
+Alaska,Wasilla,8,0,8,1
+California,Nevada City,8,0,8,1
+California,Norden,8,0,8,1
+Colorado,Lake George,8,0,8,1
+Colorado,Manitou Springs,7,1,8,2
+Florida,Palm Beach Gardens,8,0,8,1
+Florida,West Palm Beach,8,0,8,1
+Georgia,Rutledge,8,0,8,1
+Illinois,Flossmoor,8,0,8,1
+Iowa,Cedar Rapids,8,0,8,2
+Iowa,Clear Lake,8,0,8,1
+Maine,Bernard,8,0,8,1
+Maryland,Abingdon,8,0,8,1
+Maryland,District Heights,8,0,8,1
+Maryland,Nottingham,8,0,8,1
+Maryland,Potomac,8,0,8,1
+Massachusetts,Billerica,8,0,8,1
+Massachusetts,Lee,8,0,8,1
+Massachusetts,South Weymouth,8,0,8,1
+Michigan,Benzonia,8,0,8,1
+Michigan,Harsens Island,8,0,8,1
+Michigan,Holly,8,0,8,1
+Michigan,Saugatuck,8,0,8,1
+Minnesota,Hinckley,4,4,8,2
+Minnesota,Mcgregor,8,0,8,1
+Missouri,Wentzville,8,0,8,1
+Montana,Sidney,7,1,8,2
+Nebraska,Ogallala,8,0,8,1
+New Hampshire,Antrim,8,0,8,1
+New Hampshire,Bedford,8,0,8,1
+New Hampshire,Warren,8,0,8,1
+New Jersey,Blairstown,8,0,8,1
+New Jersey,Cherry Hill,8,0,8,3
+New Jersey,Cliffside Park,8,0,8,1
+New Jersey,Edison,8,0,8,3
+New Jersey,Little Falls,8,0,8,1
+New Jersey,Marlton,8,0,8,1
+New Jersey,Newton,8,0,8,1
+New Jersey,Oakhurst,7,1,8,2
+New Mexico,Bernalillo,8,0,8,1
+New York,Cutchogue,8,0,8,1
+New York,Middletown,4,4,8,2
+New York,Orient,7,1,8,2
+New York,Putnam Station,8,0,8,1
+New York,Southold,8,0,8,1
+New York,Stony Creek,8,0,8,1
+New York,Windham,8,0,8,1
+North Carolina,Supply,8,0,8,1
+Ohio,Independence,8,0,8,1
+Oregon,Portland,8,0,8,4
+Oregon,Springfield,8,0,8,2
+Pennsylvania,Dingmans Ferry,8,0,8,1
+Pennsylvania,Hummelstown,8,0,8,1
+Pennsylvania,Norristown,8,0,8,2
+Pennsylvania,Pocono Summit,8,0,8,1
+Pennsylvania,Reinholds,8,0,8,1
+Pennsylvania,Schwenksville,8,0,8,1
+Pennsylvania,Tipton,8,0,8,1
+Tennessee,Chattanooga,8,0,8,2
+Texas,New Braunfels,8,0,8,1
+Vermont,Bennington,8,0,8,1
+Washington,Bellevue,8,0,8,1
+Washington,Everett,8,0,8,3
+Washington,Renton,8,0,8,2
+West Virginia,Oak Hill,8,0,8,1
+Wisconsin,Waukesha,8,0,8,1
+Wisconsin,Wautoma,7,1,8,2
+Wyoming,Riverton,5,3,8,2
+Alabama,Madison,7,0,7,2
+Alaska,Palmer,7,0,7,1
+California,Cazadero,7,0,7,1
+California,Petaluma,7,0,7,1
+Colorado,Greeley,7,0,7,1
+Colorado,Littleton,6,1,7,3
+Connecticut,Groton,6,1,7,2
+Connecticut,Washington,7,0,7,1
+Florida,Miami Beach,7,0,7,1
+Hawaii,Kapaa,7,0,7,1
+Illinois,Des Plaines,7,0,7,1
+Illinois,Peoria,7,0,7,2
+Iowa,Boone,7,0,7,1
+Iowa,Sioux City,7,0,7,2
+Kentucky,Cave City,7,0,7,1
+Maine,Cape Neddick,7,0,7,1
+Maine,Weld,7,0,7,1
+Maryland,Lanham,7,0,7,1
+Maryland,Lexington Park,7,0,7,1
+Maryland,Newburg,7,0,7,1
+Maryland,Oxon Hill,7,0,7,1
+Maryland,Pasadena,7,0,7,1
+Maryland,Temple Hills,7,0,7,1
+Massachusetts,Allston,7,0,7,1
+Massachusetts,Beverly,7,0,7,1
+Massachusetts,Brockton,7,0,7,1
+Massachusetts,Canton,7,0,7,1
+Massachusetts,Danvers,7,0,7,1
+Massachusetts,Stockbridge,7,0,7,1
+Massachusetts,Stoughton,7,0,7,1
+Massachusetts,Williamstown,7,0,7,1
+Massachusetts,Worcester,7,0,7,3
+Michigan,Ann Arbor,4,3,7,2
+Michigan,Kalamazoo,6,1,7,2
+Michigan,Kalkaska,7,0,7,1
+Michigan,Marquette,4,3,7,2
+Michigan,Saint Joseph,7,0,7,1
+Michigan,Suttons Bay,7,0,7,1
+Minnesota,Crosslake,7,0,7,1
+Minnesota,Osseo,7,0,7,1
+Minnesota,Park Rapids,7,0,7,1
+Minnesota,Perham,7,0,7,1
+Minnesota,Rochester,7,0,7,2
+Minnesota,Side Lake,7,0,7,1
+Missouri,Chesterfield,7,0,7,2
+Missouri,Fenton,7,0,7,1
+Missouri,Rocky Mount,7,0,7,1
+Montana,Ennis,7,0,7,1
+Nevada,Minden,7,0,7,1
+New Hampshire,Center Conway,7,0,7,1
+New Hampshire,Center Tuftonboro,7,0,7,1
+New Hampshire,Conway,7,0,7,1
+New Hampshire,Dublin,7,0,7,1
+New Hampshire,Sanbornton,7,0,7,1
+New Jersey,Flemington,7,0,7,1
+New Jersey,Lumberton,7,0,7,1
+New Jersey,Mount Holly,7,0,7,1
+New Jersey,Pittstown,7,0,7,1
+New Jersey,Pompton Lakes,7,0,7,1
+New York,Bear Mountain,7,0,7,1
+New York,Gardiner,7,0,7,1
+New York,Huntington,7,0,7,1
+New York,Old Westbury,7,0,7,1
+New York,Riverhead,7,0,7,1
+New York,Round Top,5,2,7,2
+New York,Stony Point,7,0,7,1
+New York,Tupper Lake,7,0,7,1
+New York,Walden,7,0,7,1
+North Carolina,Highlands,5,2,7,2
+North Carolina,Marion,7,0,7,1
+Ohio,Akron,6,1,7,4
+Ohio,College Corner,7,0,7,1
+Ohio,Cuyahoga Falls,5,2,7,2
+Ohio,Mount Sterling,7,0,7,1
+Oregon,Gold Beach,6,1,7,2
+Pennsylvania,Erie,7,0,7,2
+Pennsylvania,Gettysburg,7,0,7,1
+Pennsylvania,Horsham,7,0,7,1
+Pennsylvania,Mill Run,7,0,7,1
+Tennessee,Memphis,6,1,7,4
+Texas,Comfort,7,0,7,1
+Texas,Denton,7,0,7,2
+Utah,Kamas,7,0,7,1
+Utah,Lindon,7,0,7,1
+Utah,Ogden,6,1,7,4
+Utah,Saint George,7,0,7,1
+Virginia,Bedford,7,0,7,1
+Washington,Manson,7,0,7,1
+Washington,Olympia,7,0,7,2
+West Virginia,Bartow,7,0,7,1
+Wisconsin,Ashland,7,0,7,1
+Wisconsin,Fifield,7,0,7,1
+Wisconsin,Madison,7,0,7,3
+Wisconsin,Merrimac,3,4,7,2
+Wisconsin,Washington Island,7,0,7,1
+Wisconsin,Waupaca,7,0,7,1
+Alaska,Haines,6,0,6,1
+California,Anaheim,6,0,6,1
+California,Goleta,6,0,6,1
+California,Napa,6,0,6,2
+California,Paso Robles,6,0,6,1
+California,Susanville,6,0,6,1
+Colorado,Aurora,6,0,6,1
+Colorado,Clark,6,0,6,1
+Colorado,Empire,6,0,6,1
+Colorado,Leadville,6,0,6,1
+Connecticut,Bantam,6,0,6,1
+Connecticut,Litchfield,5,1,6,2
+Florida,Cocoa Beach,3,3,6,2
+Florida,Homestead,5,1,6,2
+Georgia,Helen,6,0,6,1
+Hawaii,Lihue,6,0,6,1
+Illinois,Evanston,6,0,6,1
+Illinois,Prospect Heights,0,6,6,1
+Indiana,Bennington,6,0,6,1
+Indiana,La Porte,2,4,6,2
+Iowa,Davenport,6,0,6,2
+Iowa,Des Moines,6,0,6,3
+Iowa,Milford,5,1,6,2
+Kentucky,Mammoth Cave,6,0,6,1
+Louisiana,New Orleans,6,0,6,3
+Maine,Freedom,6,0,6,1
+Maine,Lincolnville,4,2,6,2
+Maine,Tenants Harbor,6,0,6,1
+Maryland,Aberdeen,6,0,6,1
+Maryland,Middle River,6,0,6,1
+Maryland,Millersville,6,0,6,1
+Maryland,Riverdale,6,0,6,1
+Maryland,Salisbury,6,0,6,1
+Massachusetts,Chelmsford,6,0,6,1
+Massachusetts,East Weymouth,6,0,6,1
+Massachusetts,Mattapoisett,6,0,6,1
+Massachusetts,North Andover,6,0,6,1
+Massachusetts,Rockport,6,0,6,1
+Massachusetts,West Tisbury,2,4,6,2
+Michigan,Central Lake,6,0,6,1
+Michigan,Croswell,6,0,6,1
+Michigan,Leonard,6,0,6,1
+Michigan,Shelby,6,0,6,1
+Michigan,Tawas City,6,0,6,1
+Minnesota,Beaver Bay,6,0,6,1
+Minnesota,Longville,6,0,6,1
+Minnesota,Owatonna,6,0,6,1
+Montana,Belgrade,6,0,6,1
+Montana,Polebridge,6,0,6,1
+Montana,Virginia City,6,0,6,1
+Nebraska,Omaha,6,0,6,1
+New Hampshire,Center Ossipee,6,0,6,1
+New Hampshire,Lyme,6,0,6,1
+New Hampshire,Strafford,5,1,6,2
+New Hampshire,Tilton,6,0,6,1
+New Jersey,Blackwood,6,0,6,1
+New Jersey,Maple Shade,6,0,6,1
+New Jersey,Middleville,6,0,6,1
+New Jersey,Normandy Beach,6,0,6,1
+New Jersey,Nutley,6,0,6,1
+New York,Andes,6,0,6,1
+New York,Bemus Point,6,0,6,1
+New York,Bohemia,6,0,6,1
+New York,Center Moriches,6,0,6,1
+New York,Chestertown,5,1,6,2
+New York,Highmount,0,6,6,1
+New York,Livonia,6,0,6,1
+New York,Manhasset,6,0,6,1
+New York,Monroe,6,0,6,1
+New York,Saugerties,6,0,6,1
+New York,Taberg,6,0,6,1
+New York,Westport,6,0,6,1
+North Carolina,Leland,6,0,6,1
+North Carolina,Littleton,6,0,6,1
+North Dakota,Grand Forks,6,0,6,1
+Ohio,Middle Bass,5,1,6,2
+Ohio,Vermilion,6,0,6,1
+Oregon,Roseburg,6,0,6,2
+Oregon,Wedderburn,5,1,6,2
+Pennsylvania,Bensalem,6,0,6,1
+Pennsylvania,Downingtown,6,0,6,1
+Pennsylvania,Lancaster,6,0,6,2
+Texas,Coldspring,6,0,6,1
+Texas,Kyle,6,0,6,1
+Texas,Spring,6,0,6,2
+Vermont,Bradford,4,2,6,2
+Vermont,Brownsville,6,0,6,1
+Virginia,Basye,6,0,6,1
+Virginia,Hiwassee,6,0,6,1
+Virginia,Jamesville,6,0,6,1
+Virginia,Millboro,6,0,6,1
+Virginia,Topping,6,0,6,1
+Washington,Clinton,6,0,6,1
+Washington,Roslyn,6,0,6,1
+Wisconsin,Athelstane,6,0,6,1
+Wisconsin,Milwaukee,6,0,6,2
+Wisconsin,Spooner,6,0,6,1
+Wisconsin,Superior,6,0,6,1
+Wyoming,Casper,6,0,6,2
+Wyoming,Rawlins,6,0,6,1
+Alaska,Eagle River,5,0,5,1
+Alaska,Seldovia,5,0,5,1
+California,Chico,5,0,5,2
+California,Cupertino,5,0,5,1
+California,Fairfax,5,0,5,1
+Colorado,Elbert,5,0,5,1
+Colorado,Grand Junction,5,0,5,2
+Connecticut,Old Saybrook,3,2,5,2
+Delaware,Lincoln,5,0,5,1
+Delaware,Wilmington,5,0,5,2
+Florida,Daytona Beach,5,0,5,1
+Illinois,Medinah,4,1,5,2
+Illinois,Zion,5,0,5,1
+Kansas,Lawrence,5,0,5,2
+Maine,Freeport,5,0,5,1
+Maine,Lovell,5,0,5,1
+Maine,North Haven,4,1,5,2
+Maine,Parsonsfield,5,0,5,1
+Maine,Surry,4,1,5,2
+Maryland,Burtonsville,5,0,5,1
+Maryland,Capitol Heights,5,0,5,1
+Maryland,Derwood,5,0,5,1
+Maryland,Flintstone,5,0,5,1
+Maryland,Lothian,5,0,5,1
+Maryland,Parkville,5,0,5,1
+Maryland,Taneytown,5,0,5,1
+Massachusetts,Brighton,4,1,5,2
+Massachusetts,Chestnut Hill,5,0,5,1
+Massachusetts,Gloucester,5,0,5,1
+Massachusetts,Granville,5,0,5,1
+Massachusetts,Hingham,5,0,5,1
+Massachusetts,Hyannis Port,5,0,5,1
+Massachusetts,Medford,5,0,5,1
+Massachusetts,Newbury,5,0,5,1
+Massachusetts,North Billerica,5,0,5,1
+Massachusetts,Salisbury,5,0,5,1
+Massachusetts,Shrewsbury,5,0,5,1
+Massachusetts,Swampscott,5,0,5,1
+Massachusetts,Wilmington,5,0,5,1
+Massachusetts,Yarmouth Port,5,0,5,1
+Michigan,East Tawas,2,3,5,2
+Michigan,Frankfort,5,0,5,1
+Michigan,Monroe,3,2,5,2
+Michigan,Oscoda,5,0,5,1
+Minnesota,Battle Lake,5,0,5,1
+Minnesota,Excelsior,4,1,5,2
+Minnesota,Maple Lake,5,0,5,1
+Missouri,Lake Saint Louis,5,0,5,1
+Montana,Miles City,5,0,5,1
+Nebraska,Valentine,5,0,5,1
+Nevada,Glenbrook,5,0,5,1
+New Hampshire,Center Sandwich,5,0,5,1
+New Hampshire,Keene,5,0,5,1
+New Hampshire,Wentworth,4,1,5,2
+New Hampshire,Woodsville,5,0,5,1
+New Jersey,Basking Ridge,5,0,5,1
+New Jersey,Bloomfield,5,0,5,1
+New Jersey,Lawrence Township,5,0,5,1
+New York,Auburn,3,2,5,2
+New York,Corfu,5,0,5,1
+New York,Corning,5,0,5,1
+New York,Inwood,5,0,5,1
+New York,Kingston,5,0,5,1
+New York,Patterson,5,0,5,1
+New York,Sayville,5,0,5,1
+North Carolina,Bryson City,4,1,5,2
+North Carolina,Carthage,5,0,5,1
+North Carolina,Morehead City,5,0,5,1
+North Carolina,Sunset Beach,5,0,5,1
+North Dakota,Beulah,5,0,5,1
+Ohio,Defiance,5,0,5,1
+Ohio,Loveland,5,0,5,1
+Ohio,Morrow,5,0,5,1
+Oklahoma,Broken Arrow,5,0,5,1
+Oregon,Agness,4,1,5,2
+Oregon,Florence,5,0,5,1
+Oregon,Salem,5,0,5,1
+Pennsylvania,Bloomsburg,5,0,5,1
+Pennsylvania,Narvon,5,0,5,1
+Pennsylvania,Wexford,5,0,5,1
+Rhode Island,Warwick,5,0,5,1
+South Dakota,Black Hawk,5,0,5,1
+Texas,Fort Stockton,2,3,5,2
+Texas,Friendswood,5,0,5,1
+Texas,Lubbock,5,0,5,2
+Texas,Midland,5,0,5,2
+Utah,West Jordan,5,0,5,1
+Vermont,Craftsbury Common,5,0,5,1
+Vermont,Derby,5,0,5,1
+Vermont,North Hero,5,0,5,1
+Vermont,Quechee,5,0,5,1
+Virginia,Cape Charles,5,0,5,1
+Virginia,Carrollton,5,0,5,1
+Virginia,Fairfax Station,5,0,5,1
+Virginia,Smithfield,5,0,5,1
+Virginia,Swoope,5,0,5,1
+Virginia,Warm Springs,5,0,5,1
+Virginia,Washington,5,0,5,1
+Virginia,Yorktown,4,1,5,3
+Washington,Eatonville,5,0,5,1
+Washington,Kennewick,5,0,5,1
+Washington,Port Townsend,3,2,5,2
+West Virginia,Cabins,4,1,5,2
+Wisconsin,Tomahawk,5,0,5,1
+Wisconsin,Wild Rose,0,5,5,1
+Wisconsin,Winter,5,0,5,1
+Alabama,Spanish Fort,4,0,4,1
+Arkansas,Judsonia,4,0,4,1
+Arkansas,Lowell,4,0,4,1
+California,Encinitas,4,0,4,1
+California,Eureka,4,0,4,1
+California,Homewood,4,0,4,1
+California,Lodi,4,0,4,1
+California,Millbrae,4,0,4,1
+California,Pinecrest,4,0,4,1
+California,San Marcos,4,0,4,1
+California,Yucaipa,4,0,4,1
+Colorado,Dillon,4,0,4,1
+Connecticut,Ivoryton,4,0,4,1
+Connecticut,North Stonington,4,0,4,1
+Connecticut,Riverside,4,0,4,1
+Connecticut,Wilton,4,0,4,1
+Connecticut,Woodstock Valley,4,0,4,1
+Delaware,Bear,4,0,4,1
+Delaware,Claymont,4,0,4,1
+Florida,Lake Wales,4,0,4,1
+Hawaii,Eleele,4,0,4,1
+Idaho,Pocatello,4,0,4,2
+Idaho,Priest River,4,0,4,1
+Idaho,Rigby,4,0,4,1
+Idaho,Swan Valley,3,1,4,2
+Illinois,Galesburg,4,0,4,1
+Illinois,Hinsdale,4,0,4,1
+Illinois,Lemont,4,0,4,1
+Illinois,Morton,4,0,4,1
+Illinois,Wilmette,4,0,4,1
+Indiana,Michigan City,4,0,4,1
+Iowa,Ames,4,0,4,1
+Kansas,Olathe,4,0,4,1
+Kansas,Shawnee,2,2,4,2
+Maine,Boothbay,4,0,4,1
+Maine,Caratunk,4,0,4,1
+Maine,Eastport,4,0,4,1
+Maine,Newcastle,4,0,4,1
+Maine,Spruce Head,4,0,4,1
+Maine,York Harbor,2,2,4,2
+Maryland,Aberdeen Proving Ground,4,0,4,1
+Maryland,Bel Air,4,0,4,2
+Maryland,Crofton,4,0,4,1
+Maryland,Edgewood,4,0,4,1
+Maryland,Essex,4,0,4,1
+Maryland,Phoenix,4,0,4,1
+Maryland,Severn,4,0,4,1
+Maryland,Takoma Park,4,0,4,1
+Maryland,Waldorf,4,0,4,1
+Maryland,White Plains,4,0,4,1
+Maryland,Williamsport,4,0,4,1
+Massachusetts,Ashby,4,0,4,1
+Massachusetts,Chelsea,4,0,4,1
+Massachusetts,Hopkinton,4,0,4,1
+Massachusetts,Lynn,4,0,4,1
+Massachusetts,Peabody,4,0,4,1
+Massachusetts,Tewksbury,4,0,4,1
+Massachusetts,Wakefield,3,1,4,2
+Massachusetts,Walpole,4,0,4,1
+Massachusetts,Wareham,4,0,4,1
+Michigan,Beulah,4,0,4,1
+Michigan,Drummond Island,4,0,4,1
+Michigan,Fremont,4,0,4,1
+Michigan,Lake Leelanau,4,0,4,1
+Michigan,Middleville,4,0,4,1
+Michigan,New Baltimore,1,3,4,2
+Michigan,Saginaw,2,2,4,2
+Michigan,Ypsilanti,3,1,4,2
+Minnesota,Aitkin,4,0,4,1
+Minnesota,Cambridge,4,0,4,1
+Minnesota,Hamel,4,0,4,1
+Minnesota,Paynesville,4,0,4,1
+Minnesota,Rogers,4,0,4,1
+Minnesota,Saint Cloud,4,0,4,1
+Minnesota,Wahkon,4,0,4,1
+Missouri,Reeds Spring,4,0,4,1
+Missouri,Rocheport,4,0,4,1
+Montana,Hamilton,4,0,4,1
+Montana,Hilger,4,0,4,1
+Montana,White Sulphur Springs,4,0,4,1
+Nebraska,Lemoyne,4,0,4,1
+New Hampshire,Barnstead,2,2,4,2
+New Hampshire,Gorham,4,0,4,1
+New Hampshire,New Hampton,4,0,4,1
+New Hampshire,Newport,4,0,4,1
+New Hampshire,Plymouth,4,0,4,1
+New Hampshire,Rindge,4,0,4,1
+New Jersey,Cedar Knolls,4,0,4,1
+New Jersey,Deptford,4,0,4,1
+New Jersey,Hillsborough,4,0,4,1
+New Jersey,Manchester Township,4,0,4,1
+New Jersey,Ocean Grove,4,0,4,1
+New Jersey,Wayne,4,0,4,1
+New York,East Syracuse,4,0,4,1
+New York,Fallsburg,4,0,4,1
+New York,Ferndale,4,0,4,1
+New York,Glen Cove,4,0,4,1
+New York,Greenville,4,0,4,1
+New York,Holmes,3,1,4,2
+New York,Middle Island,4,0,4,1
+New York,North Creek,4,0,4,1
+New York,North Hudson,4,0,4,1
+New York,Northport,4,0,4,1
+New York,Ridge,4,0,4,1
+New York,Rosedale,4,0,4,1
+New York,Smithtown,4,0,4,1
+New York,Spencer,4,0,4,1
+New York,Warwick,4,0,4,1
+New York,Wellesley Island,1,3,4,2
+New York,Willsboro,4,0,4,1
+North Carolina,Camden,4,0,4,1
+North Carolina,Horse Shoe,4,0,4,1
+North Carolina,Ocracoke,3,1,4,2
+North Carolina,Wilmington,4,0,4,1
+Ohio,Columbus,3,1,4,3
+Ohio,Galena,4,0,4,1
+Ohio,Lewis Center,3,1,4,2
+Ohio,Lima,4,0,4,1
+Ohio,Newbury,4,0,4,1
+Ohio,North Lawrence,4,0,4,1
+Ohio,Springfield,4,0,4,1
+Oklahoma,Edmond,4,0,4,1
+Oregon,Brookings,4,0,4,1
+Oregon,Redmond,4,0,4,1
+Pennsylvania,Bolivar,3,1,4,2
+Pennsylvania,Cranberry Township,4,0,4,1
+Pennsylvania,Phoenixville,4,0,4,1
+Pennsylvania,Quarryville,4,0,4,1
+Pennsylvania,Rockwood,4,0,4,1
+Pennsylvania,Warminster,4,0,4,1
+Pennsylvania,Willow Grove,4,0,4,1
+Rhode Island,North Scituate,4,0,4,1
+Rhode Island,Portsmouth,4,0,4,1
+South Carolina,Santee,4,0,4,1
+South Dakota,Miller,4,0,4,1
+Tennessee,Elizabethton,4,0,4,1
+Texas,Angleton,4,0,4,1
+Texas,Center Point,4,0,4,1
+Texas,Hale Center,4,0,4,1
+Texas,Odessa,4,0,4,1
+Texas,Rosenberg,4,0,4,1
+Texas,Smithville,4,0,4,1
+Texas,Wolfe City,4,0,4,1
+Utah,Green River,4,0,4,1
+Utah,Torrey,4,0,4,1
+Vermont,Montpelier,4,0,4,1
+Vermont,Morrisville,4,0,4,1
+Virginia,Bristow,4,0,4,1
+Virginia,Great Falls,4,0,4,1
+Virginia,New Castle,4,0,4,1
+Virginia,Oakton,4,0,4,1
+Virginia,Pembroke,4,0,4,1
+Virginia,Riner,4,0,4,1
+Virginia,Spotsylvania,4,0,4,2
+Washington,Anacortes,3,1,4,2
+Washington,Sequim,4,0,4,1
+Washington,Vashon,4,0,4,1
+Washington,Veradale,4,0,4,1
+Wisconsin,Antigo,4,0,4,1
+Wisconsin,Appleton,4,0,4,1
+Wisconsin,Brookfield,4,0,4,1
+Wisconsin,Marshfield,4,0,4,1
+Wisconsin,Onalaska,4,0,4,1
+Wisconsin,Oshkosh,3,1,4,2
+Wisconsin,Ripon,4,0,4,1
+Wisconsin,Stockholm,4,0,4,1
+Wisconsin,Walworth,1,3,4,2
+Wyoming,Evanston,4,0,4,1
+Wyoming,Lander,3,1,4,2
+Alabama,Henagar,3,0,3,1
+Alaska,Cordova,3,0,3,1
+Alaska,Glennallen,2,1,3,2
+Alaska,Sutton,3,0,3,1
+Arizona,Lakeside,3,0,3,1
+Arizona,Paradise Valley,3,0,3,1
+Arkansas,Fort Smith,3,0,3,1
+Arkansas,Little Rock,3,0,3,1
+Arkansas,North Little Rock,3,0,3,1
+California,Aliso Viejo,3,0,3,1
+California,Frazier Park,3,0,3,1
+California,Glendale,3,0,3,1
+California,Hayfork,3,0,3,1
+California,Los Angeles,3,0,3,2
+California,Novato,3,0,3,1
+California,Rancho Mirage,2,1,3,2
+California,Tahoma,3,0,3,1
+California,Trinity Center,3,0,3,1
+Colorado,Boulder,3,0,3,2
+Colorado,Broomfield,3,0,3,1
+Colorado,Red Feather Lakes,3,0,3,1
+Colorado,Walden,0,3,3,1
+Connecticut,Deep River,3,0,3,1
+Connecticut,Ellington,3,0,3,1
+Connecticut,Westbrook,3,0,3,1
+Delaware,Camden Wyoming,3,0,3,1
+Delaware,Middletown,3,0,3,1
+Florida,Apopka,3,0,3,1
+Florida,Miami,3,0,3,2
+Florida,Niceville,3,0,3,1
+Florida,Saint Augustine,3,0,3,2
+Georgia,Atlanta,3,0,3,2
+Georgia,Duluth,3,0,3,1
+Georgia,Mountain City,3,0,3,1
+Hawaii,Hilo,3,0,3,1
+Idaho,Caldwell,3,0,3,1
+Idaho,Idaho Falls,3,0,3,1
+Idaho,Kellogg,3,0,3,1
+Idaho,Ketchum,3,0,3,1
+Idaho,Post Falls,3,0,3,1
+Idaho,Rexburg,3,0,3,1
+Illinois,Oak Brook,3,0,3,1
+Illinois,Roodhouse,3,0,3,1
+Illinois,Woodridge,3,0,3,1
+Indiana,Fort Wayne,3,0,3,2
+Indiana,Nashville,3,0,3,1
+Iowa,Fairfield,3,0,3,1
+Iowa,Iowa City,3,0,3,1
+Iowa,Waterloo,3,0,3,1
+Iowa,West Des Moines,3,0,3,1
+Kansas,Overland Park,3,0,3,1
+Kansas,Topeka,3,0,3,1
+Maine,Augusta,3,0,3,1
+Maine,Belgrade Lakes,3,0,3,1
+Maine,Biddeford,3,0,3,1
+Maine,Castine,3,0,3,1
+Maine,Eliot,3,0,3,1
+Maine,Hollis Center,3,0,3,1
+Maine,Long Island,2,1,3,2
+Maine,Lubec,3,0,3,1
+Maine,West Boothbay Harbor,3,0,3,1
+Maryland,Brooklyn,3,0,3,1
+Maryland,Delmar,3,0,3,1
+Maryland,Elkton,3,0,3,1
+Maryland,Gambrills,3,0,3,1
+Maryland,Gwynn Oak,3,0,3,1
+Maryland,Hughesville,3,0,3,1
+Maryland,Lutherville Timonium,3,0,3,1
+Maryland,Monkton,3,0,3,1
+Maryland,Stevensville,3,0,3,1
+Maryland,Sykesville,3,0,3,1
+Massachusetts,Jamaica Plain,3,0,3,1
+Massachusetts,Lexington,3,0,3,1
+Massachusetts,Marshfield,3,0,3,1
+Massachusetts,Milford,3,0,3,1
+Massachusetts,Newburyport,3,0,3,1
+Massachusetts,North Chelmsford,3,0,3,1
+Massachusetts,Oakham,3,0,3,1
+Massachusetts,Revere,3,0,3,1
+Massachusetts,Salem,3,0,3,1
+Massachusetts,Saugus,3,0,3,1
+Massachusetts,Watertown,3,0,3,1
+Massachusetts,Westwood,3,0,3,1
+Massachusetts,Winthrop,3,0,3,1
+Michigan,Au Train,3,0,3,1
+Michigan,Battle Creek,1,2,3,2
+Michigan,Fenton,3,0,3,1
+Michigan,Muskegon,2,1,3,2
+Michigan,Northport,3,0,3,1
+Michigan,Romulus,3,0,3,1
+Michigan,Sault Sainte Marie,2,1,3,2
+Michigan,West Branch,3,0,3,1
+Minnesota,Crosby,3,0,3,1
+Minnesota,Eden Prairie,3,0,3,1
+Minnesota,Hopkins,3,0,3,1
+Minnesota,Lake Elmo,3,0,3,1
+Minnesota,Mankato,3,0,3,1
+Minnesota,Pelican Rapids,3,0,3,1
+Minnesota,Spicer,3,0,3,1
+Minnesota,Stillwater,3,0,3,1
+Missouri,Blue Springs,3,0,3,1
+Missouri,Columbia,3,0,3,1
+Missouri,Nixa,3,0,3,1
+Missouri,Pevely,2,1,3,2
+Missouri,Springfield,3,0,3,1
+Missouri,Troy,3,0,3,1
+Montana,Big Arm,3,0,3,1
+Montana,Helena,3,0,3,1
+Montana,Lake Mc Donald,2,1,3,2
+Nebraska,Grand Island,3,0,3,1
+Nevada,Carson City,3,0,3,2
+Nevada,Tonopah,3,0,3,1
+Nevada,Winnemucca,3,0,3,1
+New Hampshire,Alton Bay,3,0,3,1
+New Hampshire,Bristol,3,0,3,1
+New Hampshire,Center Harbor,3,0,3,1
+New Hampshire,Gilmanton,3,0,3,1
+New Hampshire,Hanover,3,0,3,1
+New Jersey,Belle Mead,3,0,3,1
+New Jersey,Belmar,3,0,3,1
+New Jersey,Branchville,3,0,3,1
+New Jersey,Elmer,3,0,3,1
+New Jersey,Elmwood Park,3,0,3,1
+New Jersey,Haskell,3,0,3,1
+New Jersey,Hoboken,3,0,3,1
+New Jersey,Montague,3,0,3,1
+New Jersey,Norwood,3,0,3,1
+New Jersey,Plainsboro,3,0,3,1
+New Jersey,Port Murray,3,0,3,1
+New Jersey,Williamstown,3,0,3,1
+New Mexico,Farmington,3,0,3,1
+New Mexico,Las Cruces,3,0,3,1
+New York,Buffalo,0,3,3,1
+New York,Catskill,2,1,3,2
+New York,Centerport,3,0,3,1
+New York,East Durham,3,0,3,1
+New York,East Jewett,3,0,3,1
+New York,Geneva,3,0,3,1
+New York,Hudson,3,0,3,1
+New York,Long Beach,3,0,3,1
+New York,Long Island City,3,0,3,1
+New York,Manorville,3,0,3,1
+New York,New Suffolk,3,0,3,1
+New York,Rockaway Park,3,0,3,1
+New York,Schenectady,3,0,3,1
+New York,Yonkers,3,0,3,1
+North Carolina,Cedar Mountain,3,0,3,1
+North Carolina,Harkers Island,2,1,3,2
+North Carolina,Hatteras,3,0,3,1
+North Carolina,Sophia,3,0,3,1
+North Carolina,Weaverville,2,1,3,2
+North Dakota,Jamestown,3,0,3,1
+North Dakota,West Fargo,3,0,3,1
+Ohio,Carrollton,3,0,3,1
+Ohio,Fremont,3,0,3,1
+Ohio,Goshen,3,0,3,1
+Ohio,Greenwich,3,0,3,1
+Ohio,Mansfield,3,0,3,1
+Ohio,Middletown,3,0,3,1
+Ohio,Monroe,3,0,3,1
+Ohio,Newark,3,0,3,1
+Ohio,Plain City,3,0,3,1
+Ohio,Saint Louisville,3,0,3,1
+Ohio,Senecaville,3,0,3,1
+Ohio,Troy,3,0,3,1
+Ohio,Waynesville,3,0,3,1
+Oklahoma,Gore,3,0,3,1
+Oregon,Albany,3,0,3,1
+Oregon,Corvallis,3,0,3,1
+Oregon,Hillsboro,3,0,3,1
+Oregon,Lincoln City,3,0,3,1
+Oregon,Medford,3,0,3,1
+Oregon,Powell Butte,3,0,3,1
+Oregon,The Dalles,3,0,3,1
+Pennsylvania,Bala Cynwyd,3,0,3,1
+Pennsylvania,Easton,3,0,3,1
+Pennsylvania,Effort,3,0,3,1
+Pennsylvania,Export,3,0,3,1
+Pennsylvania,Fogelsville,3,0,3,1
+Pennsylvania,Fombell,3,0,3,1
+Pennsylvania,Fort Hill,3,0,3,1
+Pennsylvania,Harrisville,3,0,3,1
+Pennsylvania,Lafayette Hill,3,0,3,1
+Pennsylvania,Malvern,3,0,3,1
+Pennsylvania,Quakertown,3,0,3,1
+Pennsylvania,West Chester,3,0,3,1
+Pennsylvania,White Haven,3,0,3,1
+Rhode Island,Saunderstown,3,0,3,1
+South Carolina,Walterboro,3,0,3,1
+South Dakota,Fort Pierre,3,0,3,1
+South Dakota,Murdo,3,0,3,1
+Tennessee,Altamont,3,0,3,1
+Tennessee,Crossville,3,0,3,1
+Tennessee,Townsend,3,0,3,1
+Texas,Alpine,2,1,3,2
+Texas,Bryan,3,0,3,1
+Texas,Bulverde,3,0,3,1
+Texas,Cedar Park,3,0,3,1
+Texas,Copperas Cove,3,0,3,1
+Texas,Denison,3,0,3,1
+Texas,Floresville,3,0,3,1
+Texas,Hockley,3,0,3,1
+Texas,Killeen,3,0,3,1
+Texas,Lott,3,0,3,1
+Texas,Mckinney,3,0,3,1
+Texas,Perrin,3,0,3,1
+Texas,Pflugerville,3,0,3,1
+Texas,San Marcos,3,0,3,1
+Texas,Sugar Land,3,0,3,1
+Texas,Tyler,3,0,3,2
+Texas,Victoria,3,0,3,1
+Texas,Woodway,3,0,3,1
+Texas,Wylie,3,0,3,1
+Utah,Cedar City,3,0,3,1
+Utah,Hurricane,3,0,3,1
+Utah,Kanab,2,1,3,2
+Utah,Logan,3,0,3,2
+Utah,North Salt Lake,3,0,3,1
+Utah,Orem,3,0,3,1
+Utah,Spanish Fork,3,0,3,1
+Utah,West Valley City,2,1,3,2
+Vermont,Averill,1,2,3,2
+Vermont,Lyndonville,3,0,3,1
+Vermont,Marlboro,3,0,3,1
+Vermont,Randolph,1,2,3,2
+Vermont,Salisbury,3,0,3,1
+Vermont,West Dover,3,0,3,1
+Vermont,Williston,3,0,3,1
+Virginia,Clifton,3,0,3,1
+Virginia,Fort Belvoir,3,0,3,1
+Virginia,Glen Allen,3,0,3,1
+Virginia,Harrisonburg,3,0,3,1
+Virginia,Mount Solon,3,0,3,1
+Virginia,Sandston,3,0,3,1
+Virginia,Stafford,3,0,3,2
+Virginia,Stephenson,3,0,3,1
+Washington,Bothell,3,0,3,1
+Washington,Bremerton,3,0,3,1
+Washington,Loon Lake,3,0,3,1
+West Virginia,Alderson,2,1,3,2
+West Virginia,South Charleston,2,1,3,2
+Wisconsin,Boscobel,3,0,3,1
+Wisconsin,East Troy,3,0,3,1
+Wisconsin,Florence,3,0,3,1
+Wisconsin,Herbster,3,0,3,1
+Wisconsin,Land O Lakes,2,1,3,2
+Wisconsin,Mauston,3,0,3,1
+Wisconsin,Montello,3,0,3,1
+Wyoming,Glendo,3,0,3,1
+Wyoming,Wilson,3,0,3,1
+Alabama,Jasper,2,0,2,1
+Alabama,Mentone,2,0,2,1
+Alabama,Rainsville,2,0,2,1
+Alaska,Indian,2,0,2,1
+Arizona,Oracle,2,0,2,1
+Arizona,Payson,2,0,2,1
+Arkansas,Mountain Home,2,0,2,1
+Arkansas,Newport,2,0,2,1
+Arkansas,Springdale,2,0,2,1
+California,Berkeley,2,0,2,2
+California,Big Bear City,2,0,2,1
+California,Kernville,2,0,2,1
+California,La Honda,2,0,2,1
+California,Little River,2,0,2,1
+California,National City,2,0,2,1
+California,Pescadero,2,0,2,1
+California,Roseville,2,0,2,1
+California,Rowland Heights,2,0,2,1
+Colorado,Akron,2,0,2,1
+Colorado,Ault,2,0,2,1
+Colorado,Basalt,2,0,2,1
+Colorado,Del Norte,2,0,2,1
+Colorado,Edwards,2,0,2,1
+Colorado,Fort Morgan,2,0,2,1
+Colorado,Georgetown,2,0,2,1
+Connecticut,Marlborough,2,0,2,1
+Connecticut,South Kent,2,0,2,1
+Florida,Big Pine Key,2,0,2,1
+Florida,Defuniak Springs,1,1,2,2
+Florida,Indian Rocks Beach,2,0,2,1
+Florida,Ocala,2,0,2,1
+Florida,Stuart,2,0,2,1
+Georgia,Decatur,2,0,2,1
+Georgia,Lavonia,2,0,2,1
+Georgia,Tucker,2,0,2,1
+Idaho,Kimberly,2,0,2,1
+Idaho,Middleton,2,0,2,1
+Idaho,New Plymouth,2,0,2,1
+Idaho,Sandpoint,2,0,2,1
+Idaho,Star,2,0,2,1
+Idaho,Wallace,2,0,2,1
+Illinois,Alton,2,0,2,1
+Illinois,Edwardsville,2,0,2,1
+Illinois,Erie,2,0,2,1
+Illinois,Homer Glen,2,0,2,1
+Illinois,Hudson,2,0,2,1
+Illinois,Metamora,2,0,2,1
+Illinois,Naperville,2,0,2,1
+Illinois,Princeton,2,0,2,1
+Illinois,Quincy,2,0,2,1
+Indiana,Brownstown,2,0,2,1
+Indiana,Fremont,2,0,2,1
+Indiana,Muncie,1,1,2,2
+Indiana,Valparaiso,2,0,2,1
+Indiana,Wolcottville,2,0,2,1
+Iowa,Ankeny,2,0,2,1
+Iowa,Bettendorf,2,0,2,1
+Iowa,Clive,2,0,2,1
+Iowa,Coralville,2,0,2,1
+Iowa,Council Bluffs,2,0,2,1
+Iowa,Mason City,2,0,2,1
+Iowa,New Liberty,2,0,2,1
+Iowa,Williamsburg,1,1,2,2
+Kansas,Derby,2,0,2,1
+Kansas,Hutchinson,2,0,2,1
+Kansas,Manhattan,2,0,2,1
+Kansas,Montezuma,2,0,2,1
+Kansas,Pittsburg,2,0,2,1
+Kansas,Salina,2,0,2,1
+Kansas,Winfield,2,0,2,1
+Kentucky,Newport,2,0,2,1
+Kentucky,Paducah,2,0,2,1
+Maine,Brunswick,2,0,2,1
+Maine,Gorham,2,0,2,1
+Maine,Greenville Junction,2,0,2,1
+Maine,Princeton,2,0,2,1
+Maine,Readfield,2,0,2,1
+Maine,Sanford,2,0,2,1
+Maine,Sebago,1,1,2,2
+Maine,Waldoboro,2,0,2,1
+Maine,Winter Harbor,2,0,2,1
+Maryland,Boyds,2,0,2,1
+Maryland,Brandywine,2,0,2,1
+Maryland,Brookeville,2,0,2,1
+Maryland,California,2,0,2,1
+Maryland,Cheltenham,2,0,2,1
+Maryland,Chester,2,0,2,1
+Maryland,Curtis Bay,2,0,2,1
+Maryland,Galesville,2,0,2,1
+Maryland,Grasonville,2,0,2,1
+Maryland,Hagerstown,2,0,2,1
+Maryland,Jessup,2,0,2,1
+Maryland,Perry Hall,2,0,2,1
+Maryland,Walkersville,2,0,2,1
+Massachusetts,Ashland,2,0,2,1
+Massachusetts,Barnstable,2,0,2,1
+Massachusetts,Bedford,2,0,2,1
+Massachusetts,Bridgewater,2,0,2,1
+Massachusetts,Holbrook,2,0,2,1
+Massachusetts,Littleton,2,0,2,1
+Massachusetts,Mansfield,2,0,2,1
+Massachusetts,Marion,2,0,2,1
+Massachusetts,Methuen,2,0,2,1
+Massachusetts,Needham Heights,2,0,2,1
+Massachusetts,Newton,2,0,2,1
+Massachusetts,North Weymouth,2,0,2,1
+Massachusetts,Randolph,2,0,2,1
+Massachusetts,Stoneham,2,0,2,1
+Massachusetts,West Wareham,2,0,2,1
+Massachusetts,Williamsburg,2,0,2,1
+Michigan,Almont,2,0,2,1
+Michigan,Augusta,2,0,2,1
+Michigan,Dimondale,0,2,2,1
+Michigan,Douglas,2,0,2,1
+Michigan,Grand Rapids,1,1,2,2
+Michigan,Houghton Lake,2,0,2,1
+Michigan,Howell,1,1,2,2
+Michigan,Marenisco,2,0,2,1
+Michigan,Mears,2,0,2,1
+Michigan,Newberry,1,1,2,2
+Michigan,Novi,2,0,2,2
+Michigan,Rochester,2,0,2,1
+Michigan,Stevensville,0,2,2,1
+Michigan,Zeeland,1,1,2,2
+Minnesota,Albert Lea,2,0,2,1
+Minnesota,Baxter,2,0,2,1
+Minnesota,Dilworth,2,0,2,1
+Minnesota,Elko New Market,2,0,2,1
+Minnesota,Gilbert,2,0,2,1
+Minnesota,Grove City,2,0,2,1
+Minnesota,Lakeville,2,0,2,1
+Minnesota,Mountain Iron,2,0,2,1
+Minnesota,Orr,2,0,2,1
+Minnesota,Worthington,2,0,2,1
+Missouri,Ballwin,2,0,2,1
+Missouri,De Soto,2,0,2,1
+Missouri,Joplin,2,0,2,1
+Missouri,Nelson,0,2,2,1
+Missouri,O Fallon,2,0,2,1
+Missouri,Union,2,0,2,1
+Missouri,Wright City,2,0,2,1
+Montana,Alberton,2,0,2,1
+Montana,Bonner,2,0,2,1
+Montana,Clyde Park,0,2,2,1
+Montana,Forsyth,2,0,2,1
+Montana,Glasgow,2,0,2,1
+Montana,Reed Point,2,0,2,1
+Montana,Townsend,2,0,2,1
+Nebraska,Arlington,2,0,2,1
+Nebraska,Kearney,2,0,2,1
+Nebraska,Lincoln,2,0,2,1
+Nebraska,Norfolk,2,0,2,1
+Nevada,Dayton,2,0,2,1
+New Hampshire,Gilmanton Iron Works,2,0,2,1
+New Hampshire,Jackson,2,0,2,1
+New Hampshire,Lancaster,2,0,2,1
+New Hampshire,Manchester,2,0,2,1
+New Hampshire,Pelham,2,0,2,1
+New Hampshire,Twin Mountain,0,2,2,1
+New Jersey,Absecon,2,0,2,1
+New Jersey,Barnegat Light,2,0,2,1
+New Jersey,Bayonne,2,0,2,1
+New Jersey,Bordentown,2,0,2,1
+New Jersey,Bridgewater,2,0,2,1
+New Jersey,Eatontown,2,0,2,1
+New Jersey,Fairview,2,0,2,1
+New Jersey,Mantua,2,0,2,1
+New Jersey,Mays Landing,2,0,2,1
+New Jersey,Millstone Township,2,0,2,1
+New Jersey,Monroe Township,2,0,2,1
+New Jersey,Mount Arlington,2,0,2,1
+New Jersey,North Bergen,0,2,2,1
+New Jersey,Old Bridge,2,0,2,1
+New Jersey,Piscataway,2,0,2,1
+New Jersey,Pompton Plains,2,0,2,1
+New Jersey,Saddle River,2,0,2,1
+New Jersey,Somerdale,2,0,2,1
+New Jersey,Titusville,2,0,2,1
+New Jersey,Toms River,2,0,2,1
+New Jersey,Warren,2,0,2,1
+New Mexico,Alto,2,0,2,1
+New Mexico,Clovis,2,0,2,1
+New Mexico,Gallup,2,0,2,1
+New Mexico,Rio Rancho,2,0,2,1
+New York,Astoria,2,0,2,1
+New York,Batavia,2,0,2,1
+New York,Centereach,2,0,2,1
+New York,Far Rockaway,2,0,2,1
+New York,Henrietta,2,0,2,1
+New York,Holland,2,0,2,1
+New York,Keeseville,2,0,2,1
+New York,Lake Luzerne,2,0,2,1
+New York,Latham,2,0,2,1
+New York,Liverpool,2,0,2,1
+New York,Mahopac,2,0,2,1
+New York,Massapequa,2,0,2,1
+New York,Mattituck,2,0,2,1
+New York,Quogue,2,0,2,1
+New York,Sunnyside,2,0,2,1
+New York,Utica,2,0,2,1
+New York,White Plains,2,0,2,2
+New York,Woodgate,2,0,2,1
+New York,Yaphank,2,0,2,1
+North Carolina,Balsam,2,0,2,1
+North Carolina,Garner,2,0,2,1
+North Carolina,Grandy,2,0,2,1
+North Carolina,Hickory,2,0,2,1
+North Carolina,Oriental,2,0,2,1
+North Carolina,Smithfield,2,0,2,1
+North Carolina,Swansboro,2,0,2,1
+North Carolina,West Jefferson,2,0,2,1
+North Dakota,Bowman,2,0,2,1
+North Dakota,Valley City,2,0,2,1
+North Dakota,Williston,2,0,2,1
+Ohio,Bellefontaine,2,0,2,1
+Ohio,Covington,2,0,2,1
+Ohio,Lucasville,2,0,2,1
+Ohio,Tipp City,2,0,2,1
+Oregon,Canby,2,0,2,1
+Oregon,Coos Bay,2,0,2,1
+Oregon,Grants Pass,2,0,2,1
+Oregon,Madras,2,0,2,1
+Oregon,Mcminnville,2,0,2,1
+Oregon,Molalla,2,0,2,1
+Oregon,Prospect,2,0,2,1
+Oregon,Rainier,2,0,2,1
+Oregon,Saint Helens,2,0,2,1
+Oregon,Woodburn,2,0,2,1
+Pennsylvania,Breinigsville,2,0,2,1
+Pennsylvania,Chalfont,2,0,2,1
+Pennsylvania,Croydon,2,0,2,1
+Pennsylvania,Gilbertsville,2,0,2,1
+Pennsylvania,Havertown,2,0,2,1
+Pennsylvania,Macungie,2,0,2,1
+Pennsylvania,Marcus Hook,2,0,2,1
+Pennsylvania,Morrisville,2,0,2,1
+Pennsylvania,Mount Union,1,1,2,2
+Pennsylvania,Narberth,2,0,2,1
+Pennsylvania,North Springfield,2,0,2,1
+Pennsylvania,Orefield,2,0,2,1
+Pennsylvania,Pottstown,2,0,2,1
+Pennsylvania,Reading,2,0,2,2
+Pennsylvania,Schuylkill Haven,2,0,2,1
+Pennsylvania,Southampton,2,0,2,1
+Pennsylvania,Washington Crossing,2,0,2,1
+Pennsylvania,York,2,0,2,1
+Rhode Island,Bristol,2,0,2,1
+Rhode Island,East Greenwich,2,0,2,1
+South Dakota,Sturgis,2,0,2,1
+Tennessee,Rockwood,2,0,2,1
+Texas,Abilene,2,0,2,1
+Texas,Amarillo,2,0,2,1
+Texas,Boerne,2,0,2,1
+Texas,Dickinson,2,0,2,1
+Texas,Kingsville,2,0,2,1
+Texas,Lake Jackson,2,0,2,1
+Texas,League City,2,0,2,1
+Texas,Leander,2,0,2,1
+Texas,Livingston,2,0,2,1
+Texas,Lufkin,2,0,2,1
+Texas,Luling,2,0,2,1
+Texas,Mesquite,2,0,2,1
+Texas,Palestine,2,0,2,1
+Texas,Pecos,2,0,2,1
+Texas,Plano,2,0,2,2
+Texas,San Angelo,2,0,2,1
+Texas,Temple,2,0,2,1
+Texas,Utopia,2,0,2,1
+Texas,Wichita Falls,2,0,2,1
+Utah,Vernal,2,0,2,1
+Utah,Virgin,2,0,2,1
+Vermont,Manchester,2,0,2,1
+Vermont,Norwich,2,0,2,1
+Vermont,South Hero,2,0,2,1
+Virginia,Burke,2,0,2,1
+Virginia,Middleburg,2,0,2,1
+Virginia,New Kent,2,0,2,1
+Washington,Aberdeen,2,0,2,1
+Washington,Blaine,2,0,2,1
+Washington,Cougar,1,1,2,2
+Washington,Ilwaco,2,0,2,1
+Washington,Lake Stevens,2,0,2,1
+Washington,Long Beach,2,0,2,1
+Washington,Mount Vernon,2,0,2,1
+Washington,Pullman,2,0,2,1
+Wisconsin,Eau Claire,2,0,2,1
+Wisconsin,Glenbeulah,2,0,2,1
+Wisconsin,Kenosha,2,0,2,1
+Wisconsin,Marinette,2,0,2,1
+Wisconsin,Mindoro,2,0,2,1
+Wisconsin,New Berlin,2,0,2,1
+Wisconsin,Sayner,2,0,2,1
+Wisconsin,Sheboygan,2,0,2,1
+Wisconsin,Slinger,0,2,2,1
+Wisconsin,Stoughton,2,0,2,1
+Wyoming,Cheyenne,2,0,2,1
+Wyoming,Green River,2,0,2,1
+Wyoming,Laramie,2,0,2,1
+Wyoming,Newcastle,2,0,2,1
+Alabama,Decatur,1,0,1,1
+Arizona,Glendale,1,0,1,1
+Arizona,Mormon Lake,1,0,1,1
+Arkansas,Bentonville,1,0,1,1
+California,Blue Jay,1,0,1,1
+California,Calabasas,1,0,1,1
+California,Cedar Glen,1,0,1,1
+California,Corona,1,0,1,1
+California,Corona Del Mar,1,0,1,1
+California,Crestline,1,0,1,1
+California,Elk Grove,0,1,1,1
+California,Fremont,1,0,1,1
+California,Hopland,1,0,1,1
+California,Huntington Beach,1,0,1,1
+California,Indio,1,0,1,1
+California,Kit Carson,1,0,1,1
+California,Mono Hot Springs,1,0,1,1
+California,Occidental,1,0,1,1
+California,Palm Springs,1,0,1,1
+California,Saint Helena,1,0,1,1
+California,San Mateo,1,0,1,1
+California,Solana Beach,1,0,1,1
+California,Sunnyvale,1,0,1,1
+California,Tulare,1,0,1,1
+California,Tustin,1,0,1,1
+California,Twin Bridges,1,0,1,1
+California,Valyermo,1,0,1,1
+California,Visalia,1,0,1,1
+Colorado,Grant,1,0,1,1
+Colorado,Tabernash,1,0,1,1
+Colorado,Windsor,1,0,1,1
+Connecticut,Barkhamsted,1,0,1,1
+Connecticut,Guilford,1,0,1,1
+Connecticut,New London,1,0,1,1
+Connecticut,Southbury,1,0,1,1
+Delaware,Dover,1,0,1,1
+Delaware,New Castle,1,0,1,1
+Florida,Freeport,1,0,1,1
+Florida,Mary Esther,1,0,1,1
+Florida,Ponte Vedra Beach,1,0,1,1
+Florida,Saint Johns,1,0,1,1
+Georgia,Avondale Estates,1,0,1,1
+Georgia,Cartersville,1,0,1,1
+Georgia,Gainesville,1,0,1,1
+Hawaii,Paia,1,0,1,1
+Idaho,Banks,1,0,1,1
+Idaho,Horseshoe Bend,0,1,1,1
+Idaho,Nordman,1,0,1,1
+Idaho,Twin Falls,1,0,1,1
+Illinois,Arlington Heights,1,0,1,1
+Illinois,Evergreen Park,1,0,1,1
+Illinois,Granite City,1,0,1,1
+Illinois,Harwood Heights,1,0,1,1
+Illinois,Highland Park,1,0,1,1
+Illinois,La Grange,1,0,1,1
+Illinois,Lyons,1,0,1,1
+Illinois,Manteno,1,0,1,1
+Illinois,Moline,1,0,1,1
+Illinois,Oak Lawn,1,0,1,1
+Illinois,Park Ridge,1,0,1,1
+Illinois,Saint Charles,1,0,1,1
+Illinois,Silvis,1,0,1,1
+Illinois,Skokie,0,1,1,1
+Illinois,Willowbrook,1,0,1,1
+Indiana,Frankton,1,0,1,1
+Indiana,Portage,0,1,1,1
+Indiana,Saint Paul,1,0,1,1
+Indiana,Zionsville,1,0,1,1
+Iowa,Carroll,1,0,1,1
+Iowa,Solon,1,0,1,1
+Kansas,Junction City,1,0,1,1
+Kansas,Lenexa,1,0,1,1
+Kansas,Matfield Green,1,0,1,1
+Kentucky,Covington,1,0,1,1
+Kentucky,Florence,1,0,1,1
+Kentucky,Hopkinsville,1,0,1,1
+Kentucky,Nancy,1,0,1,1
+Kentucky,Prospect,1,0,1,1
+Kentucky,Shepherdsville,1,0,1,1
+Louisiana,Metairie,1,0,1,1
+Louisiana,Pollock,1,0,1,1
+Maine,Blue Hill,1,0,1,1
+Maine,Bryant Pond,1,0,1,1
+Maine,Georgetown,1,0,1,1
+Maine,Islesboro,1,0,1,1
+Maine,Standish,1,0,1,1
+Maine,Woolwich,1,0,1,1
+Maryland,Arnold,1,0,1,1
+Maryland,Bladensburg,1,0,1,1
+Maryland,Forest Hill,1,0,1,1
+Maryland,Gibson Island,1,0,1,1
+Maryland,Great Mills,1,0,1,1
+Maryland,Havre De Grace,1,0,1,1
+Maryland,La Plata,1,0,1,1
+Maryland,New Market,1,0,1,1
+Maryland,Randallstown,1,0,1,1
+Maryland,Rosedale,1,0,1,1
+Maryland,Saint Michaels,1,0,1,1
+Maryland,Severna Park,1,0,1,1
+Massachusetts,Abington,1,0,1,1
+Massachusetts,Acton,1,0,1,1
+Massachusetts,Auburndale,1,0,1,1
+Massachusetts,Boxford,1,0,1,1
+Massachusetts,Charlton,1,0,1,1
+Massachusetts,Cohasset,1,0,1,1
+Massachusetts,East Orleans,1,0,1,1
+Massachusetts,East Walpole,1,0,1,1
+Massachusetts,Forestdale,1,0,1,1
+Massachusetts,Foxboro,1,0,1,1
+Massachusetts,Franklin,1,0,1,1
+Massachusetts,Hull,1,0,1,1
+Massachusetts,Hyde Park,1,0,1,1
+Massachusetts,Lawrence,1,0,1,1
+Massachusetts,Lowell,1,0,1,1
+Massachusetts,Lynnfield,1,0,1,1
+Massachusetts,Medway,1,0,1,1
+Massachusetts,Millis,1,0,1,1
+Massachusetts,Newton Highlands,1,0,1,1
+Massachusetts,North Dartmouth,1,0,1,1
+Massachusetts,North Reading,1,0,1,1
+Massachusetts,Northborough,1,0,1,1
+Massachusetts,Plainville,1,0,1,1
+Massachusetts,Raynham,1,0,1,1
+Massachusetts,Reading,1,0,1,1
+Massachusetts,South Easton,1,0,1,1
+Massachusetts,South Walpole,1,0,1,1
+Massachusetts,Wayland,1,0,1,1
+Massachusetts,West Roxbury,1,0,1,1
+Michigan,Dearborn Heights,1,0,1,1
+Michigan,Hillsdale,1,0,1,1
+Michigan,Mayville,1,0,1,1
+Michigan,Newaygo,1,0,1,1
+Michigan,Port Austin,1,0,1,1
+Michigan,Roscommon,1,0,1,1
+Minnesota,Isanti,1,0,1,1
+Minnesota,Maple Grove,1,0,1,1
+Minnesota,Marshall,1,0,1,1
+Minnesota,Silver Bay,1,0,1,1
+Minnesota,Thief River Falls,1,0,1,1
+Minnesota,Wayzata,1,0,1,1
+Missouri,Festus,1,0,1,1
+Missouri,Roach,1,0,1,1
+Missouri,Steelville,1,0,1,1
+Montana,Anaconda,1,0,1,1
+Montana,Havre,1,0,1,1
+Montana,Plains,1,0,1,1
+Montana,Rollins,1,0,1,1
+Montana,Shelby,1,0,1,1
+Nebraska,Fairbury,1,0,1,1
+Nebraska,Scottsbluff,1,0,1,1
+New Hampshire,Ashland,1,0,1,1
+New Hampshire,Epping,1,0,1,1
+New Hampshire,Nashua,1,0,1,1
+New Hampshire,Rumney,1,0,1,1
+New Hampshire,Whitefield,0,1,1,1
+New Jersey,Brick,1,0,1,1
+New Jersey,Brigantine,1,0,1,1
+New Jersey,Clinton,1,0,1,1
+New Jersey,East Brunswick,1,0,1,1
+New Jersey,East Hanover,0,1,1,1
+New Jersey,Flanders,1,0,1,1
+New Jersey,Garfield,1,0,1,1
+New Jersey,Lebanon,1,0,1,1
+New Jersey,Ledgewood,1,0,1,1
+New Jersey,Metuchen,1,0,1,1
+New Jersey,Monmouth Junction,1,0,1,1
+New Jersey,New Brunswick,1,0,1,1
+New Jersey,Parsippany,1,0,1,1
+New Jersey,Penns Grove,1,0,1,1
+New Jersey,Pennsville,1,0,1,1
+New Jersey,Somers Point,1,0,1,1
+New Jersey,South Plainfield,1,0,1,1
+New Jersey,Thorofare,1,0,1,1
+New Jersey,Township Of Washington,1,0,1,1
+New Jersey,Union,1,0,1,1
+New Jersey,Whitehouse Station,1,0,1,1
+New York,Albany,1,0,1,1
+New York,Aquebogue,1,0,1,1
+New York,Ardsley On Hudson,1,0,1,1
+New York,Barker,1,0,1,1
+New York,Blauvelt,1,0,1,1
+New York,Blue Point,1,0,1,1
+New York,Bronx,1,0,1,1
+New York,Central Valley,1,0,1,1
+New York,Clayton,0,1,1,1
+New York,Coram,1,0,1,1
+New York,Cortland,1,0,1,1
+New York,East Moriches,1,0,1,1
+New York,Fresh Meadows,1,0,1,1
+New York,Gainesville,1,0,1,1
+New York,Garden City,1,0,1,1
+New York,Greenwood Lake,1,0,1,1
+New York,Hempstead,1,0,1,1
+New York,Henderson,1,0,1,1
+New York,Holbrook,1,0,1,1
+New York,Holtsville,1,0,1,1
+New York,Huguenot,1,0,1,1
+New York,Huntington Station,1,0,1,1
+New York,Indian Lake,1,0,1,1
+New York,Islip,1,0,1,1
+New York,Ithaca,1,0,1,1
+New York,Johnsburg,1,0,1,1
+New York,Keene,1,0,1,1
+New York,Kings Park,1,0,1,1
+New York,Lake Grove,1,0,1,1
+New York,Mount Sinai,1,0,1,1
+New York,Nesconset,1,0,1,1
+New York,New Hyde Park,1,0,1,1
+New York,Patchogue,1,0,1,1
+New York,Port Jefferson,1,0,1,1
+New York,Remsenburg,1,0,1,1
+New York,Saint James,1,0,1,1
+New York,Scarsdale,1,0,1,1
+New York,Southfields,1,0,1,1
+New York,Syracuse,1,0,1,1
+New York,West Monroe,1,0,1,1
+New York,Woodbury,1,0,1,1
+North Carolina,Beaufort,1,0,1,1
+North Carolina,Dunn,1,0,1,1
+North Carolina,Greensboro,1,0,1,1
+North Carolina,Holly Springs,1,0,1,1
+North Carolina,Old Fort,1,0,1,1
+North Carolina,Point Harbor,1,0,1,1
+North Dakota,Epping,1,0,1,1
+North Dakota,Rugby,1,0,1,1
+Ohio,Greenville,1,0,1,1
+Ohio,Heath,1,0,1,1
+Ohio,Madison,1,0,1,1
+Ohio,Millersburg,1,0,1,1
+Oklahoma,Bixby,1,0,1,1
+Oklahoma,Skiatook,1,0,1,1
+Oregon,La Grande,1,0,1,1
+Oregon,Warm Springs,1,0,1,1
+Pennsylvania,Berwyn,1,0,1,1
+Pennsylvania,Bethlehem,1,0,1,1
+Pennsylvania,Chadds Ford,1,0,1,1
+Pennsylvania,Coatesville,1,0,1,1
+Pennsylvania,Coraopolis,1,0,1,1
+Pennsylvania,Cornwall,1,0,1,1
+Pennsylvania,Douglassville,1,0,1,1
+Pennsylvania,Doylestown,1,0,1,1
+Pennsylvania,Dresher,1,0,1,1
+Pennsylvania,Etters,1,0,1,1
+Pennsylvania,Exton,1,0,1,1
+Pennsylvania,Halifax,1,0,1,1
+Pennsylvania,Jenkintown,1,0,1,1
+Pennsylvania,Kennett Square,1,0,1,1
+Pennsylvania,Mount Pocono,1,0,1,1
+Pennsylvania,Newtown Square,1,0,1,1
+Pennsylvania,Paoli,1,0,1,1
+Pennsylvania,Tafton,1,0,1,1
+Pennsylvania,Trout Run,1,0,1,1
+Pennsylvania,Whitehall,1,0,1,1
+Rhode Island,North Smithfield,1,0,1,1
+South Carolina,North Charleston,1,0,1,1
+South Carolina,Pawleys Island,1,0,1,1
+Tennessee,Hartford,1,0,1,1
+Tennessee,Knoxville,1,0,1,1
+Texas,Athens,1,0,1,1
+Texas,Beaumont,1,0,1,1
+Texas,Beeville,1,0,1,1
+Texas,Burnet,1,0,1,1
+Texas,Burton,1,0,1,1
+Texas,Chandler,1,0,1,1
+Texas,Frisco,1,0,1,1
+Texas,Goliad,1,0,1,1
+Texas,Lancaster,1,0,1,1
+Texas,Liberty Hill,1,0,1,1
+Texas,Nemo,1,0,1,1
+Utah,La Sal,1,0,1,1
+Utah,Layton,1,0,1,1
+Utah,Midway,1,0,1,1
+Utah,Springdale,0,1,1,1
+Utah,Tooele,1,0,1,1
+Vermont,Ripton,1,0,1,1
+Virginia,Earlysville,1,0,1,1
+Virginia,Edinburg,1,0,1,1
+Virginia,Fort Myer,1,0,1,1
+Virginia,Midlothian,1,0,1,1
+Virginia,Occoquan,1,0,1,1
+Virginia,Poquoson,1,0,1,1
+Virginia,Triangle,1,0,1,1
+Virginia,Winchester,1,0,1,1
+Washington,Granite Falls,1,0,1,1
+Washington,Packwood,1,0,1,1
+Washington,Snoqualmie,1,0,1,1
+Washington,Snoqualmie Pass,1,0,1,1
+Washington,Tacoma,1,0,1,1
+Washington,Vaughn,1,0,1,1
+Washington,Walla Walla,1,0,1,1
+West Virginia,Slatyfork,1,0,1,1
+Wisconsin,Burlington,1,0,1,1
+Wisconsin,Dodgeville,1,0,1,1
+Wisconsin,Green Bay,1,0,1,1
+Wisconsin,Kohler,1,0,1,1
+Wisconsin,Marion,1,0,1,1
+Wisconsin,Oak Creek,1,0,1,1
+Wyoming,Afton,1,0,1,1
+Wyoming,Cora,1,0,1,1
+Wyoming,Guernsey,1,0,1,1
+Wyoming,Little America,1,0,1,1
+Wyoming,Saddlestring,1,0,1,1
+Wyoming,Saratoga,1,0,1,1

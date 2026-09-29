@@ -36,7 +36,10 @@ DOMAIN_REFERENCES_BY_SKILL = {
     "swt": (),
     "swt-application": ("agency-sponsor.md", "application-materials.md"),
     "swt-position": ("location-offer.md", "budget-method.md", "tax-estimation.md", "state-income-tax.md", "default-assumptions.json"),
-    "swt-english": ("english-practice.md",),
+    "swt-english": (
+        "english-practice.md", "english-assessment.md", "english-rubric.md",
+        "english-profiles.md", "english-question-bank.md",
+    ),
     "swt-visa": ("visa-ds2019.md",),
     "swt-arrival": ("predeparture-program.md",),
 }
@@ -107,6 +110,7 @@ def map_runtime(runtime_root: Path) -> None:
         sync(check=False)
 
     state_context = REFERENCES_ROOT / "knowledge" / "state_context"
+    swt_market = REFERENCES_ROOT / "knowledge" / "swt_market"
     scripts = PLUGIN_ROOT / "scripts"
     assets = PLUGIN_ROOT / "assets"
     for skill, domain_refs in DOMAIN_REFERENCES_BY_SKILL.items():
@@ -124,8 +128,12 @@ def map_runtime(runtime_root: Path) -> None:
         for filename in domain_refs:
             _copy_tree(REFERENCES_ROOT / filename, references_destination / filename)
         _copy_tree(state_context, references_destination / "knowledge" / "state_context")
+        if swt_market.is_dir():
+            _copy_tree(swt_market, references_destination / "knowledge" / "swt_market")
         for script in scripts.glob("*.py"):
             if script.name == "sync_shared.py":
+                continue
+            if script.name == "speaking_score.py" and skill != "swt-english":
                 continue
             _copy_tree(script, skill_destination / "scripts" / script.name)
         _copy_tree(assets, skill_destination / "assets")

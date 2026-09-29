@@ -1,0 +1,3650 @@
+﻿State,City,Status,Latitude,Longitude,Participants
+Alabama,Cullman,ACTIVE,34.1761,-86.8298,22
+Alabama,Cullman,INITIAL,34.1761,-86.8298,4
+Alabama,Decatur,ACTIVE,34.5484,-87.0004,1
+Alabama,Foley,ACTIVE,30.4007,-87.6857,191
+Alabama,Foley,INITIAL,30.4007,-87.6857,10
+Alabama,Gulf Shores,ACTIVE,30.2717,-87.7589,222
+Alabama,Gulf Shores,INITIAL,30.2717,-87.7589,9
+Alabama,Henagar,ACTIVE,34.6186,-85.7274,3
+Alabama,Jasper,ACTIVE,33.8312,-87.2775,2
+Alabama,Madison,ACTIVE,34.7108,-86.7425,5
+Alabama,Madison,ACTIVE,34.7782,-86.7442,2
+Alabama,Mentone,ACTIVE,34.5872,-85.5777,2
+Alabama,Mobile,ACTIVE,30.5928,-88.1946,3
+Alabama,Mobile,ACTIVE,30.6817,-88.2945,5
+Alabama,Orange Beach,ACTIVE,30.281,-87.5815,319
+Alabama,Orange Beach,INITIAL,30.281,-87.5815,2
+Alabama,Rainsville,ACTIVE,34.4989,-85.8446,2
+Alabama,Spanish Fort,ACTIVE,30.6959,-87.8867,4
+Alaska,Anchorage,ACTIVE,61.1194,-149.8974,87
+Alaska,Anchorage,ACTIVE,61.1535,-149.8289,32
+Alaska,Anchorage,ACTIVE,61.1549,-149.8866,50
+Alaska,Anchorage,ACTIVE,61.1661,-149.96,58
+Alaska,Anchorage,ACTIVE,61.19,-149.8938,102
+Alaska,Anchorage,ACTIVE,61.1901,-149.9361,58
+Alaska,Anchorage,ACTIVE,61.2037,-149.7447,2
+Alaska,Anchorage,ACTIVE,61.206,-149.8101,19
+Alaska,Anchorage,ACTIVE,61.2116,-149.8761,394
+Alaska,Anchorage,INITIAL,61.1194,-149.8974,2
+Alaska,Anchorage,INITIAL,61.1535,-149.8289,1
+Alaska,Anchorage,INITIAL,61.1661,-149.96,8
+Alaska,Anchorage,INITIAL,61.2116,-149.8761,5
+Alaska,Cooper Landing,ACTIVE,60.4767,-149.8235,17
+Alaska,Cooper Landing,INITIAL,60.4767,-149.8235,1
+Alaska,Copper Center,ACTIVE,61.977,-145.3297,20
+Alaska,Copper Center,INITIAL,61.977,-145.3297,1
+Alaska,Cordova,ACTIVE,60.5362,-145.7534,3
+Alaska,Denali National Park,ACTIVE,63.5436,-149.9867,835
+Alaska,Denali National Park,INITIAL,63.5436,-149.9867,10
+Alaska,Eagle River,ACTIVE,61.3114,-149.5085,5
+Alaska,Fairbanks,ACTIVE,64.8378,-147.7164,225
+Alaska,Fairbanks,ACTIVE,64.8544,-147.8469,261
+Alaska,Fairbanks,INITIAL,64.8378,-147.7164,3
+Alaska,Fairbanks,INITIAL,64.8544,-147.8469,8
+Alaska,Girdwood,ACTIVE,60.9577,-149.1406,79
+Alaska,Glennallen,ACTIVE,62.1039,-145.6617,2
+Alaska,Glennallen,INITIAL,62.1039,-145.6617,1
+Alaska,Gustavus,ACTIVE,58.4284,-135.7615,20
+Alaska,Haines,ACTIVE,59.2519,-135.542,6
+Alaska,Healy,ACTIVE,63.9171,-149.0111,177
+Alaska,Healy,INITIAL,63.9171,-149.0111,1
+Alaska,Homer,ACTIVE,59.5374,-151.2356,107
+Alaska,Hoonah,ACTIVE,58.0977,-135.4316,25
+Alaska,Indian,ACTIVE,61.1089,-149.4403,2
+Alaska,Juneau,ACTIVE,58.3628,-134.5294,148
+Alaska,Juneau,INITIAL,58.3628,-134.5294,2
+Alaska,Kenai,ACTIVE,60.6145,-151.2546,12
+Alaska,Ketchikan,ACTIVE,55.372,-131.6832,167
+Alaska,Ketchikan,INITIAL,55.372,-131.6832,8
+Alaska,Moose Pass,ACTIVE,60.6148,-149.4056,18
+Alaska,Palmer,ACTIVE,61.6303,-148.9872,7
+Alaska,Seldovia,ACTIVE,59.4495,-151.7009,5
+Alaska,Seward,ACTIVE,60.1329,-149.3985,376
+Alaska,Seward,INITIAL,60.1329,-149.3985,1
+Alaska,Sitka,ACTIVE,57.0514,-135.3166,25
+Alaska,Skagway,ACTIVE,59.4685,-135.3018,84
+Alaska,Soldotna,ACTIVE,60.4818,-151.1358,33
+Alaska,Sutton,ACTIVE,61.7327,-148.7837,3
+Alaska,Talkeetna,ACTIVE,62.2605,-150.1101,188
+Alaska,Trapper Creek,ACTIVE,62.3167,-150.2314,119
+Alaska,Trapper Creek,INITIAL,62.3167,-150.2314,2
+Alaska,Valdez,ACTIVE,61.101,-146.9,25
+Alaska,Wasilla,ACTIVE,61.5923,-149.3959,8
+Alaska,Whittier,ACTIVE,60.7734,-148.6839,14
+Arizona,Glendale,ACTIVE,33.6539,-112.1694,1
+Arizona,Grand Canyon,ACTIVE,35.9421,-112.1309,108
+Arizona,Grand Canyon,INITIAL,35.9421,-112.1309,4
+Arizona,Lakeside,ACTIVE,34.1662,-109.9869,3
+Arizona,Mormon Lake,ACTIVE,34.9083,-111.463,1
+Arizona,Oracle,ACTIVE,32.6005,-110.7961,2
+Arizona,Page,ACTIVE,36.9147,-111.4558,106
+Arizona,Page,INITIAL,36.9147,-111.4558,1
+Arizona,Paradise Valley,ACTIVE,33.5494,-111.9565,3
+Arizona,Payson,ACTIVE,34.2198,-111.2878,2
+Arizona,Prescott,ACTIVE,34.4958,-112.3783,13
+Arizona,Scottsdale,ACTIVE,33.6013,-111.8867,11
+Arizona,Sedona,ACTIVE,34.8266,-111.7506,23
+Arizona,Sedona,INITIAL,34.8266,-111.7506,32
+Arizona,Williams,ACTIVE,35.5434,-112.1707,11
+Arizona,Williams,INITIAL,35.5434,-112.1707,2
+Arkansas,Bentonville,ACTIVE,36.3577,-94.2224,1
+Arkansas,Fort Smith,ACTIVE,35.3427,-94.3784,3
+Arkansas,Jonesboro,ACTIVE,35.833,-90.6965,9
+Arkansas,Judsonia,ACTIVE,35.325,-91.6491,4
+Arkansas,Little Rock,ACTIVE,34.7076,-92.466,3
+Arkansas,Lowell,ACTIVE,36.2554,-94.1308,4
+Arkansas,Mount Ida,ACTIVE,34.5612,-93.5749,89
+Arkansas,Mountain Home,ACTIVE,36.3312,-92.3753,2
+Arkansas,Newport,ACTIVE,35.5988,-91.2571,2
+Arkansas,North Little Rock,ACTIVE,34.7658,-92.1524,3
+Arkansas,Rogers,ACTIVE,36.3363,-94.1148,61
+Arkansas,Springdale,ACTIVE,36.1835,-94.1762,2
+California,Aliso Viejo,ACTIVE,33.5701,-117.7086,3
+California,Anaheim,ACTIVE,33.8085,-117.9228,6
+California,Angelus Oaks,ACTIVE,34.1531,-116.9485,14
+California,Arnold,ACTIVE,38.3086,-120.268,14
+California,Avalon,ACTIVE,33.332,-118.3437,13
+California,Avalon,INITIAL,33.332,-118.3437,1
+California,Berkeley,ACTIVE,37.8664,-122.257,1
+California,Berkeley,ACTIVE,37.8738,-122.2549,1
+California,Big Bear City,ACTIVE,34.261,-116.8131,2
+California,Big Bear Lake,ACTIVE,34.235,-116.9053,14
+California,Big Sur,ACTIVE,36.2458,-121.7009,9
+California,Blairsden Graeagle,ACTIVE,40.1919,-120.1746,9
+California,Blue Jay,ACTIVE,34.2112,-117.0796,1
+California,Calabasas,ACTIVE,34.1419,-118.6641,1
+California,Carlsbad,ACTIVE,33.0954,-117.2619,28
+California,Carlsbad,ACTIVE,33.1602,-117.325,1
+California,Carnelian Bay,ACTIVE,39.2319,-120.0753,46
+California,Carnelian Bay,INITIAL,39.2319,-120.0753,5
+California,Cazadero,ACTIVE,38.5918,-123.1965,7
+California,Cedar Glen,ACTIVE,34.2545,-117.1533,1
+California,Chester,ACTIVE,40.2975,-121.2273,24
+California,Chico,ACTIVE,39.7458,-121.8444,3
+California,Chico,ACTIVE,39.8032,-121.8673,2
+California,Corona,ACTIVE,33.8797,-117.5354,1
+California,Corona Del Mar,ACTIVE,33.6021,-117.8743,1
+California,Coronado,ACTIVE,32.6807,-117.1698,10
+California,Crestline,ACTIVE,34.2433,-117.2811,1
+California,Cupertino,ACTIVE,37.318,-122.0449,5
+California,Death Valley,ACTIVE,36.4672,-116.8937,34
+California,Death Valley,INITIAL,36.4672,-116.8937,1
+California,Del Mar,ACTIVE,32.9665,-117.249,18
+California,Elk Grove,INITIAL,38.4243,-121.437,1
+California,Encinitas,ACTIVE,33.0535,-117.2689,4
+California,Eureka,ACTIVE,40.7938,-124.1573,4
+California,Fairfax,ACTIVE,37.9883,-122.5937,5
+California,Fawnskin,ACTIVE,34.2583,-116.9515,14
+California,Fish Camp,ACTIVE,37.4785,-119.6404,32
+California,Fort Bragg,ACTIVE,39.4402,-123.7703,13
+California,Frazier Park,ACTIVE,34.8265,-119.0355,3
+California,Fremont,ACTIVE,37.5308,-121.9712,1
+California,Glendale,ACTIVE,34.1921,-118.235,3
+California,Goleta,ACTIVE,34.4296,-119.8612,6
+California,Groveland,ACTIVE,37.8298,-120.1037,31
+California,Groveland,INITIAL,37.8298,-120.1037,2
+California,Hayfork,ACTIVE,40.5504,-123.1634,3
+California,Healdsburg,ACTIVE,38.6184,-122.862,15
+California,Homewood,ACTIVE,39.0786,-120.1734,4
+California,Hopland,ACTIVE,38.938,-123.0703,1
+California,Huntington Beach,ACTIVE,33.6773,-118.0051,1
+California,Indio,ACTIVE,33.7207,-116.2168,1
+California,Kernville,ACTIVE,35.755,-118.4047,2
+California,Kings Beach,ACTIVE,39.2401,-120.0233,35
+California,Kings Beach,INITIAL,39.2401,-120.0233,1
+California,Kings Canyon National Pk,ACTIVE,36.7341,-118.9588,21
+California,Kit Carson,ACTIVE,38.6707,-120.1135,1
+California,La Honda,ACTIVE,37.2726,-122.2495,2
+California,La Jolla,ACTIVE,32.8455,-117.2521,51
+California,Lakeshore,ACTIVE,37.253,-119.1748,39
+California,Lakeshore,INITIAL,37.253,-119.1748,3
+California,Little River,ACTIVE,39.2707,-123.7883,2
+California,Lodi,ACTIVE,38.1308,-121.3345,4
+California,Los Angeles,ACTIVE,34.0447,-118.4487,2
+California,Los Angeles,ACTIVE,34.0766,-118.2646,1
+California,Mammoth Lakes,ACTIVE,37.6094,-118.8656,9
+California,Mammoth Lakes,INITIAL,37.6094,-118.8656,1
+California,Mill Creek,ACTIVE,40.3263,-121.5228,12
+California,Millbrae,ACTIVE,37.6004,-122.402,4
+California,Miramonte,ACTIVE,36.6894,-119.0477,31
+California,Mono Hot Springs,ACTIVE,37.3266,-119.0176,1
+California,Monterey,ACTIVE,36.5802,-121.8443,11
+California,Monterey,INITIAL,36.5802,-121.8443,4
+California,Napa,ACTIVE,38.2904,-122.2841,1
+California,Napa,ACTIVE,38.4549,-122.2564,5
+California,National City,ACTIVE,32.6749,-117.0897,2
+California,Nevada City,ACTIVE,39.3017,-120.9717,8
+California,Norden,ACTIVE,39.318,-120.356,8
+California,Novato,ACTIVE,38.0618,-122.5404,3
+California,Occidental,ACTIVE,38.4087,-122.9954,1
+California,Olympic Valley,ACTIVE,39.1752,-120.1954,57
+California,Olympic Valley,INITIAL,39.1752,-120.1954,12
+California,Pacific Palisades,ACTIVE,34.0481,-118.5265,10
+California,Pacifica,ACTIVE,37.6196,-122.4816,12
+California,Palm Springs,ACTIVE,33.8018,-116.517,1
+California,Paso Robles,ACTIVE,35.6406,-120.7003,6
+California,Pescadero,ACTIVE,37.2065,-122.3649,2
+California,Petaluma,ACTIVE,38.2403,-122.6777,7
+California,Pinecrest,ACTIVE,38.1889,-119.9924,4
+California,Pioneer,ACTIVE,38.4319,-120.5719,44
+California,Pollock Pines,ACTIVE,38.7708,-120.5427,24
+California,Rancho Mirage,ACTIVE,33.7643,-116.4225,2
+California,Rancho Mirage,INITIAL,33.7643,-116.4225,1
+California,Roseville,ACTIVE,38.7346,-121.234,2
+California,Rowland Heights,ACTIVE,33.9818,-117.8969,2
+California,Saint Helena,ACTIVE,38.5138,-122.4619,1
+California,San Diego,ACTIVE,32.7185,-117.1593,44
+California,San Diego,ACTIVE,32.7272,-117.2268,2
+California,San Diego,ACTIVE,32.7425,-117.2433,2
+California,San Diego,ACTIVE,32.7635,-117.2028,2
+California,San Diego,ACTIVE,32.7783,-117.1335,19
+California,San Diego,ACTIVE,32.7969,-117.2405,234
+California,San Diego,ACTIVE,32.8239,-117.1965,1
+California,San Diego,ACTIVE,32.9161,-117.1402,4
+California,San Diego,ACTIVE,32.9555,-117.2252,12
+California,San Diego,INITIAL,32.7185,-117.1593,1
+California,San Diego,INITIAL,32.7635,-117.2028,1
+California,San Francisco,ACTIVE,37.7621,-122.3971,2
+California,San Francisco,ACTIVE,37.7917,-122.4186,45
+California,San Francisco,ACTIVE,37.7974,-122.4001,2
+California,San Francisco,ACTIVE,37.7999,-122.4342,3
+California,San Francisco,ACTIVE,37.8002,-122.4091,77
+California,San Francisco,INITIAL,37.8002,-122.4091,2
+California,San Marcos,ACTIVE,33.1193,-117.185,4
+California,San Mateo,ACTIVE,37.5538,-122.27,1
+California,San Simeon,ACTIVE,35.6668,-121.144,9
+California,Santa Barbara,ACTIVE,34.4197,-119.7078,2
+California,Santa Barbara,ACTIVE,34.4291,-119.6833,5
+California,Santa Barbara,ACTIVE,34.4369,-119.7285,4
+California,Santa Barbara,ACTIVE,34.4378,-119.6159,1
+California,Santa Barbara,INITIAL,34.4291,-119.6833,1
+California,Santa Cruz,ACTIVE,37.0313,-122.1198,230
+California,Santa Monica,ACTIVE,34.01,-118.4717,16
+California,Santa Monica,ACTIVE,34.0176,-118.4907,100
+California,Santa Monica,INITIAL,34.01,-118.4717,1
+California,Santa Rosa,ACTIVE,38.4405,-122.7144,19
+California,Santa Rosa,ACTIVE,38.4822,-122.7473,3
+California,Sequoia National Park,ACTIVE,36.6007,-118.711,14
+California,Shaver Lake,ACTIVE,37.1397,-119.273,9
+California,Solana Beach,ACTIVE,32.9937,-117.2598,1
+California,Soquel,ACTIVE,37.0048,-121.9507,15
+California,South Lake Tahoe,ACTIVE,38.917,-119.9865,189
+California,South Lake Tahoe,INITIAL,38.917,-119.9865,2
+California,Sunnyvale,ACTIVE,37.3886,-122.0177,1
+California,Susanville,ACTIVE,40.3983,-120.6464,6
+California,Sylmar,ACTIVE,34.3054,-118.4322,14
+California,Tahoe City,ACTIVE,39.1806,-120.1445,70
+California,Tahoe City,INITIAL,39.1806,-120.1445,2
+California,Tahoma,ACTIVE,39.0644,-120.1357,3
+California,Trinity Center,ACTIVE,41.0615,-122.7239,3
+California,Truckee,ACTIVE,39.3385,-120.1729,81
+California,Truckee,INITIAL,39.3385,-120.1729,4
+California,Tulare,ACTIVE,36.2022,-119.338,1
+California,Tustin,ACTIVE,33.7364,-117.8229,1
+California,Twin Bridges,ACTIVE,38.8092,-120.1242,1
+California,Vallejo,ACTIVE,38.1582,-122.2804,46
+California,Valyermo,ACTIVE,34.3966,-117.7604,1
+California,Visalia,ACTIVE,36.3551,-119.301,1
+California,Watsonville,ACTIVE,36.9102,-121.7569,21
+California,Wishon,ACTIVE,37.281,-119.557,15
+California,Yosemite National Park,ACTIVE,37.7314,-119.6489,138
+California,Yucaipa,ACTIVE,34.0282,-117.0489,4
+Colorado,Akron,ACTIVE,40.1803,-103.2259,2
+Colorado,Aspen,ACTIVE,39.1951,-106.8236,111
+Colorado,Aspen,INITIAL,39.1951,-106.8236,6
+Colorado,Ault,ACTIVE,40.5938,-104.7356,2
+Colorado,Aurora,ACTIVE,39.6987,-104.8377,6
+Colorado,Avon,ACTIVE,39.6313,-106.5108,26
+Colorado,Avon,INITIAL,39.6313,-106.5108,1
+Colorado,Bailey,ACTIVE,39.4482,-105.4693,9
+Colorado,Basalt,ACTIVE,39.3535,-106.9988,2
+Colorado,Boulder,ACTIVE,39.9914,-105.2392,2
+Colorado,Boulder,ACTIVE,40.0497,-105.2143,1
+Colorado,Breckenridge,ACTIVE,39.4753,-106.0225,34
+Colorado,Breckenridge,INITIAL,39.4753,-106.0225,4
+Colorado,Broomfield,ACTIVE,39.9245,-105.0609,3
+Colorado,Buena Vista,ACTIVE,38.838,-106.1471,22
+Colorado,Clark,ACTIVE,40.7268,-106.9215,6
+Colorado,Colorado Springs,ACTIVE,38.7902,-104.8199,84
+Colorado,Colorado Springs,ACTIVE,38.8388,-104.8145,4
+Colorado,Colorado Springs,ACTIVE,38.876,-104.817,12
+Colorado,Colorado Springs,INITIAL,38.7902,-104.8199,4
+Colorado,Colorado Springs,INITIAL,38.876,-104.817,1
+Colorado,Creede,ACTIVE,37.8164,-106.9277,10
+Colorado,Crested Butte,ACTIVE,38.8691,-106.9619,11
+Colorado,Crested Butte,ACTIVE,38.9006,-106.9631,3
+Colorado,Crested Butte,INITIAL,38.8691,-106.9619,1
+Colorado,Del Norte,ACTIVE,37.6447,-106.4073,2
+Colorado,Denver,ACTIVE,39.734,-105.0259,75
+Colorado,Denver,ACTIVE,39.7392,-104.9847,2
+Colorado,Denver,ACTIVE,39.7491,-104.9946,2
+Colorado,Denver,ACTIVE,39.7665,-105.0204,6
+Colorado,Denver,ACTIVE,39.7683,-105.0493,1
+Colorado,Denver,ACTIVE,39.8671,-104.9227,6
+Colorado,Denver,ACTIVE,39.8672,-105.0041,4
+Colorado,Denver,ACTIVE,39.9015,-104.9407,4
+Colorado,Dillon,ACTIVE,39.5952,-105.9741,4
+Colorado,Durango,ACTIVE,37.1156,-107.8909,9
+Colorado,Durango,ACTIVE,37.2874,-107.8617,6
+Colorado,Durango,INITIAL,37.1156,-107.8909,1
+Colorado,Edwards,ACTIVE,39.6382,-106.6206,2
+Colorado,Elbert,ACTIVE,39.0969,-104.5746,5
+Colorado,Empire,ACTIVE,39.7614,-105.6844,6
+Colorado,Englewood,ACTIVE,39.5805,-104.9011,7
+Colorado,Englewood,ACTIVE,39.6463,-105.0092,3
+Colorado,Estes Park,ACTIVE,40.3658,-105.5142,397
+Colorado,Estes Park,ACTIVE,40.6281,-105.5692,106
+Colorado,Estes Park,INITIAL,40.3658,-105.5142,26
+Colorado,Estes Park,INITIAL,40.6281,-105.5692,49
+Colorado,Evergreen,ACTIVE,39.6374,-105.3402,11
+Colorado,Fort Collins,ACTIVE,40.5384,-105.0547,3
+Colorado,Fort Collins,ACTIVE,40.5986,-105.0581,6
+Colorado,Fort Morgan,ACTIVE,40.2541,-103.8031,2
+Colorado,Fraser,ACTIVE,39.945,-105.8172,11
+Colorado,Frisco,ACTIVE,39.5589,-106.1332,9
+Colorado,Georgetown,ACTIVE,39.7061,-105.6975,2
+Colorado,Glenwood Springs,ACTIVE,39.5296,-107.3252,18
+Colorado,Golden,ACTIVE,39.7305,-105.1915,7
+Colorado,Golden,ACTIVE,39.8232,-105.2825,10
+Colorado,Granby,ACTIVE,40.0739,-105.9285,83
+Colorado,Granby,INITIAL,40.0739,-105.9285,23
+Colorado,Grand Junction,ACTIVE,39.0783,-108.5457,4
+Colorado,Grand Junction,ACTIVE,39.1032,-108.5491,1
+Colorado,Grand Lake,ACTIVE,40.2289,-105.8605,79
+Colorado,Grand Lake,INITIAL,40.2289,-105.8605,6
+Colorado,Grant,ACTIVE,39.4612,-105.6583,1
+Colorado,Greeley,ACTIVE,40.4109,-104.7541,7
+Colorado,Gunnison,ACTIVE,38.5511,-106.931,21
+Colorado,Gunnison,INITIAL,38.5511,-106.931,1
+Colorado,Idaho Springs,ACTIVE,39.7402,-105.5983,36
+Colorado,Idaho Springs,INITIAL,39.7402,-105.5983,3
+Colorado,La Veta,ACTIVE,37.5117,-105.0575,11
+Colorado,Lake City,ACTIVE,37.9868,-107.302,47
+Colorado,Lake City,INITIAL,37.9868,-107.302,2
+Colorado,Lake George,ACTIVE,39.0342,-105.4347,8
+Colorado,Larkspur,ACTIVE,39.2011,-104.8546,25
+Colorado,Leadville,ACTIVE,39.2497,-106.3015,6
+Colorado,Littleton,ACTIVE,39.6111,-104.9532,4
+Colorado,Littleton,ACTIVE,39.6206,-105.0901,2
+Colorado,Littleton,INITIAL,39.6206,-105.0901,1
+Colorado,Longmont,ACTIVE,40.1779,-105.1009,12
+Colorado,Mancos,ACTIVE,37.3471,-108.2982,14
+Colorado,Manitou Springs,ACTIVE,38.855,-104.9058,7
+Colorado,Manitou Springs,INITIAL,38.855,-104.9058,1
+Colorado,Nathrop,ACTIVE,38.7103,-106.1166,29
+Colorado,Ouray,ACTIVE,38.0258,-107.6726,14
+Colorado,Pagosa Springs,ACTIVE,37.2523,-107.0385,9
+Colorado,Red Feather Lakes,ACTIVE,40.8659,-105.6893,3
+Colorado,Salida,ACTIVE,38.5259,-105.9978,12
+Colorado,Sedalia,ACTIVE,39.3113,-105.0676,14
+Colorado,Silverton,ACTIVE,37.809,-107.6667,19
+Colorado,Silverton,INITIAL,37.809,-107.6667,3
+Colorado,Snowmass Village,ACTIVE,39.2212,-106.932,46
+Colorado,Snowmass Village,INITIAL,39.2212,-106.932,4
+Colorado,Steamboat Springs,ACTIVE,40.6327,-106.9318,17
+Colorado,Steamboat Springs,INITIAL,40.6327,-106.9318,1
+Colorado,Tabernash,ACTIVE,39.9797,-105.8615,1
+Colorado,Telluride,ACTIVE,37.94,-107.8214,15
+Colorado,Telluride,INITIAL,37.94,-107.8214,3
+Colorado,Vail,ACTIVE,39.6512,-106.3234,82
+Colorado,Vail,INITIAL,39.6512,-106.3234,63
+Colorado,Walden,INITIAL,40.71,-106.2767,3
+Colorado,Ward,ACTIVE,40.0726,-105.508,14
+Colorado,Ward,INITIAL,40.0726,-105.508,1
+Colorado,Windsor,ACTIVE,40.4837,-104.8994,1
+Colorado,Winter Park,ACTIVE,39.8939,-105.7845,12
+Colorado,Winter Park,INITIAL,39.8939,-105.7845,1
+Connecticut,Bantam,ACTIVE,41.7215,-73.252,6
+Connecticut,Barkhamsted,ACTIVE,41.9293,-72.914,1
+Connecticut,Chester,ACTIVE,41.4049,-72.4643,12
+Connecticut,Colebrook,ACTIVE,41.9895,-73.0957,29
+Connecticut,Darien,ACTIVE,41.0768,-73.4853,28
+Connecticut,Deep River,ACTIVE,41.3765,-72.4486,3
+Connecticut,Ellington,ACTIVE,41.9114,-72.4626,3
+Connecticut,Greenwich,ACTIVE,41.0427,-73.6262,5
+Connecticut,Greenwich,ACTIVE,41.0549,-73.6594,10
+Connecticut,Greenwich,INITIAL,41.0549,-73.6594,1
+Connecticut,Groton,ACTIVE,41.3572,-72.0579,6
+Connecticut,Groton,INITIAL,41.3572,-72.0579,1
+Connecticut,Guilford,ACTIVE,41.3154,-72.6968,1
+Connecticut,Ivoryton,ACTIVE,41.3421,-72.4404,4
+Connecticut,Kent,ACTIVE,41.7316,-73.4583,76
+Connecticut,Kent,INITIAL,41.7316,-73.4583,1
+Connecticut,Lakeville,ACTIVE,41.9516,-73.4377,25
+Connecticut,Litchfield,ACTIVE,41.7541,-73.2,5
+Connecticut,Litchfield,INITIAL,41.7541,-73.2,1
+Connecticut,Madison,ACTIVE,41.309,-72.6153,27
+Connecticut,Marlborough,ACTIVE,41.6412,-72.4609,2
+Connecticut,Mashantucket,ACTIVE,41.4757,-71.9574,61
+Connecticut,Middlebury,ACTIVE,41.5343,-73.1131,11
+Connecticut,Middlebury,INITIAL,41.5343,-73.1131,1
+Connecticut,Morris,ACTIVE,41.6881,-73.1765,8
+Connecticut,Morris,INITIAL,41.6881,-73.1765,1
+Connecticut,New London,ACTIVE,41.3507,-72.1062,1
+Connecticut,New Milford,ACTIVE,41.5817,-73.4128,8
+Connecticut,New Milford,INITIAL,41.5817,-73.4128,1
+Connecticut,North Stonington,ACTIVE,41.4531,-71.8727,4
+Connecticut,Old Greenwich,ACTIVE,41.0354,-73.5673,12
+Connecticut,Old Lyme,ACTIVE,41.3347,-72.3086,9
+Connecticut,Old Saybrook,ACTIVE,41.2913,-72.385,3
+Connecticut,Old Saybrook,INITIAL,41.2913,-72.385,2
+Connecticut,Riverside,ACTIVE,41.038,-73.5811,4
+Connecticut,South Kent,ACTIVE,41.6951,-73.469,2
+Connecticut,South Windham,ACTIVE,41.6677,-72.1681,17
+Connecticut,Southbury,ACTIVE,41.4767,-73.2241,1
+Connecticut,Stamford,ACTIVE,41.0602,-73.5445,6
+Connecticut,Stamford,ACTIVE,41.0888,-73.5435,11
+Connecticut,Stamford,ACTIVE,41.1352,-73.5684,3
+Connecticut,Torrington,ACTIVE,41.8131,-73.1156,18
+Connecticut,Uncasville,ACTIVE,41.4622,-72.1126,21
+Connecticut,Washington,ACTIVE,41.6296,-73.2884,7
+Connecticut,Westbrook,ACTIVE,41.2927,-72.4563,3
+Connecticut,Wilton,ACTIVE,41.2018,-73.4383,4
+Connecticut,Winsted,ACTIVE,41.9252,-73.0663,10
+Connecticut,Winsted,INITIAL,41.9252,-73.0663,1
+Connecticut,Woodstock Valley,ACTIVE,41.9153,-72.0937,4
+Delaware,Bear,ACTIVE,39.6102,-75.6747,4
+Delaware,Bethany Beach,ACTIVE,38.531,-75.0674,327
+Delaware,Bethany Beach,INITIAL,38.531,-75.0674,6
+Delaware,Camden Wyoming,ACTIVE,39.0991,-75.5966,3
+Delaware,Claymont,ACTIVE,39.8044,-75.4649,4
+Delaware,Dover,ACTIVE,39.1605,-75.5974,1
+Delaware,Fenwick Island,ACTIVE,38.4865,-75.0589,154
+Delaware,Fenwick Island,INITIAL,38.4865,-75.0589,6
+Delaware,Frankford,ACTIVE,38.5177,-75.2006,11
+Delaware,Lewes,ACTIVE,38.7381,-75.1747,31
+Delaware,Lincoln,ACTIVE,38.8613,-75.4,5
+Delaware,Middletown,ACTIVE,39.4815,-75.6832,3
+Delaware,Millsboro,ACTIVE,38.6595,-75.2464,31
+Delaware,Millville,ACTIVE,38.5496,-75.1232,23
+Delaware,Millville,INITIAL,38.5496,-75.1232,4
+Delaware,New Castle,ACTIVE,39.5929,-75.6515,1
+Delaware,Newark,ACTIVE,39.6349,-75.6993,7
+Delaware,Newark,ACTIVE,39.6699,-75.7151,1
+Delaware,Newark,ACTIVE,39.7011,-75.7375,11
+Delaware,Ocean View,ACTIVE,38.5617,-75.0966,53
+Delaware,Ocean View,INITIAL,38.5617,-75.0966,1
+Delaware,Rehoboth Beach,ACTIVE,38.7209,-75.076,911
+Delaware,Rehoboth Beach,INITIAL,38.7209,-75.076,20
+Delaware,Selbyville,ACTIVE,38.4654,-75.1573,164
+Delaware,Selbyville,INITIAL,38.4654,-75.1573,4
+Delaware,Wilmington,ACTIVE,39.7359,-75.6647,1
+Delaware,Wilmington,ACTIVE,39.8188,-75.5064,4
+District of Columbia,Washington,ACTIVE,38.8338,-76.9995,7
+District of Columbia,Washington,ACTIVE,38.8759,-77.016,11
+District of Columbia,Washington,ACTIVE,38.8829,-76.9895,2
+District of Columbia,Washington,ACTIVE,38.893,-77.0263,30
+District of Columbia,Washington,ACTIVE,38.9014,-77.0504,8
+District of Columbia,Washington,ACTIVE,38.9024,-76.9901,7
+District of Columbia,Washington,ACTIVE,38.9122,-77.0177,2
+District of Columbia,Washington,ACTIVE,38.9144,-77.074,5
+District of Columbia,Washington,ACTIVE,38.9363,-77.0599,3
+District of Columbia,Washington,ACTIVE,38.9367,-76.994,3
+District of Columbia,Washington,ACTIVE,38.9381,-77.086,18
+District of Columbia,Washington,ACTIVE,38.9658,-77.068,1
+Florida,Apopka,ACTIVE,28.712,-81.5136,3
+Florida,Big Pine Key,ACTIVE,24.68,-81.362,2
+Florida,Boca Raton,ACTIVE,26.3799,-80.0975,1
+Florida,Boca Raton,ACTIVE,26.3839,-80.1749,38
+Florida,Boca Raton,ACTIVE,26.403,-80.1813,6
+Florida,Boca Raton,INITIAL,26.3839,-80.1749,1
+Florida,Boca Raton,INITIAL,26.403,-80.1813,1
+Florida,Brandon,ACTIVE,27.9056,-82.2881,19
+Florida,Captiva,ACTIVE,26.5215,-82.1802,9
+Florida,Cocoa Beach,ACTIVE,28.3325,-80.6121,3
+Florida,Cocoa Beach,INITIAL,28.3325,-80.6121,3
+Florida,Daytona Beach,ACTIVE,29.2219,-81.0095,5
+Florida,Defuniak Springs,ACTIVE,30.721,-86.1152,1
+Florida,Defuniak Springs,INITIAL,30.721,-86.1152,1
+Florida,Destin,ACTIVE,30.3949,-86.4692,389
+Florida,Destin,INITIAL,30.3949,-86.4692,12
+Florida,Fernandina Beach,ACTIVE,30.6697,-81.4626,27
+Florida,Fort Walton Beach,ACTIVE,30.4206,-86.6286,59
+Florida,Fort Walton Beach,ACTIVE,30.4487,-86.6255,12
+Florida,Freeport,ACTIVE,30.4896,-86.1684,1
+Florida,Gulf Breeze,ACTIVE,30.3571,-87.1639,37
+Florida,Gulf Breeze,ACTIVE,30.3962,-87.0274,11
+Florida,Gulf Breeze,INITIAL,30.3571,-87.1639,5
+Florida,Homestead,ACTIVE,25.2846,-80.6246,5
+Florida,Homestead,INITIAL,25.2846,-80.6246,1
+Florida,Indian Rocks Beach,ACTIVE,27.8868,-82.8435,2
+Florida,Islamorada,ACTIVE,24.9233,-80.63,10
+Florida,Key West,ACTIVE,24.5552,-81.7816,19
+Florida,Kissimmee,ACTIVE,28.268,-81.4675,4
+Florida,Kissimmee,ACTIVE,28.3037,-81.5898,22
+Florida,Lake Wales,ACTIVE,27.8643,-81.5719,4
+Florida,Largo,ACTIVE,27.9085,-82.7568,10
+Florida,Marathon,ACTIVE,24.7279,-81.0386,46
+Florida,Marathon,INITIAL,24.7279,-81.0386,3
+Florida,Mary Esther,ACTIVE,30.4085,-86.7352,1
+Florida,Miami,ACTIVE,25.7629,-80.1895,1
+Florida,Miami,ACTIVE,25.7867,-80.18,2
+Florida,Miami Beach,ACTIVE,25.7873,-80.1564,7
+Florida,Miramar Beach,ACTIVE,30.385,-86.3473,209
+Florida,Naples,ACTIVE,26.134,-81.7953,12
+Florida,Niceville,ACTIVE,30.5169,-86.4822,3
+Florida,Ocala,ACTIVE,29.2573,-82.161,2
+Florida,Orlando,ACTIVE,28.3822,-81.569,1581
+Florida,Orlando,ACTIVE,28.3957,-81.4666,181
+Florida,Orlando,ACTIVE,28.4115,-81.525,21
+Florida,Orlando,ACTIVE,28.4522,-81.4678,274
+Florida,Orlando,INITIAL,28.3822,-81.569,90
+Florida,Orlando,INITIAL,28.3957,-81.4666,9
+Florida,Orlando,INITIAL,28.4522,-81.4678,4
+Florida,Palm Beach Gardens,ACTIVE,26.8234,-80.1387,8
+Florida,Panama City,ACTIVE,30.1606,-85.6494,1
+Florida,Panama City,ACTIVE,30.1655,-85.7116,79
+Florida,Panama City,ACTIVE,30.1949,-85.6727,2
+Florida,Panama City,INITIAL,30.1606,-85.6494,2
+Florida,Panama City,INITIAL,30.1655,-85.7116,1
+Florida,Panama City Beach,ACTIVE,30.2007,-85.8136,332
+Florida,Panama City Beach,ACTIVE,30.3105,-85.9106,336
+Florida,Panama City Beach,INITIAL,30.2007,-85.8136,19
+Florida,Panama City Beach,INITIAL,30.3105,-85.9106,5
+Florida,Pensacola,ACTIVE,30.3737,-87.3126,69
+Florida,Ponte Vedra Beach,ACTIVE,30.1223,-81.3627,1
+Florida,River Ranch,ACTIVE,27.7686,-81.1966,9
+Florida,Rosemary Beach,ACTIVE,30.2835,-86.0305,31
+Florida,Saint Augustine,ACTIVE,29.7964,-81.2649,2
+Florida,Saint Augustine,ACTIVE,29.8285,-81.3237,1
+Florida,Saint Johns,ACTIVE,30.0815,-81.5477,1
+Florida,Santa Rosa Beach,ACTIVE,30.3659,-86.2458,170
+Florida,Shalimar,ACTIVE,30.4456,-86.5717,18
+Florida,Shalimar,INITIAL,30.4456,-86.5717,3
+Florida,Stuart,ACTIVE,27.1929,-80.2164,2
+Florida,Tampa,ACTIVE,27.9382,-82.3756,13
+Florida,Tampa,ACTIVE,27.9614,-82.4597,2
+Florida,Tampa,ACTIVE,28.0502,-82.45,5
+Florida,Tampa,INITIAL,28.0502,-82.45,4
+Florida,West Palm Beach,ACTIVE,26.8055,-80.2482,8
+Georgia,Atlanta,ACTIVE,33.6428,-84.4618,1
+Georgia,Atlanta,ACTIVE,33.832,-84.3851,2
+Georgia,Austell,ACTIVE,33.7838,-84.5952,57
+Georgia,Austell,INITIAL,33.7838,-84.5952,4
+Georgia,Avondale Estates,ACTIVE,33.7717,-84.2607,1
+Georgia,Cartersville,ACTIVE,34.2079,-84.7673,1
+Georgia,Clayton,ACTIVE,34.8826,-83.4065,29
+Georgia,Cleveland,ACTIVE,34.5839,-83.75,62
+Georgia,Decatur,ACTIVE,33.7699,-84.295,2
+Georgia,Duluth,ACTIVE,34.026,-84.147,3
+Georgia,Gainesville,ACTIVE,34.3562,-83.8882,1
+Georgia,Greensboro,ACTIVE,33.5637,-83.1702,25
+Georgia,Greensboro,INITIAL,33.5637,-83.1702,2
+Georgia,Helen,ACTIVE,34.6866,-83.7399,6
+Georgia,Hiawassee,ACTIVE,34.9063,-83.7274,14
+Georgia,Jekyll Island,ACTIVE,31.074,-81.4128,9
+Georgia,Lavonia,ACTIVE,34.4528,-83.113,2
+Georgia,Marietta,ACTIVE,33.9282,-84.4733,13
+Georgia,Mountain City,ACTIVE,34.9181,-83.3854,3
+Georgia,Rutledge,ACTIVE,33.6163,-83.6023,8
+Georgia,Sea Island,ACTIVE,31.1989,-81.3322,79
+Georgia,Sea Island,INITIAL,31.1989,-81.3322,4
+Georgia,Tucker,ACTIVE,33.857,-84.216,2
+Georgia,Tybee Island,ACTIVE,32.0068,-80.8509,50
+Hawaii,Eleele,ACTIVE,21.9074,-159.5832,4
+Hawaii,Hilo,ACTIVE,19.7025,-155.0939,3
+Hawaii,Honolulu,ACTIVE,21.2811,-157.8266,51
+Hawaii,Honolulu,ACTIVE,21.3295,-157.8615,2
+Hawaii,Kailua Kona,ACTIVE,19.6531,-155.9798,8
+Hawaii,Kailua Kona,INITIAL,19.6531,-155.9798,8
+Hawaii,Kamuela,ACTIVE,20.0081,-155.7052,15
+Hawaii,Kamuela,INITIAL,20.0081,-155.7052,5
+Hawaii,Kaneohe,ACTIVE,21.4228,-157.8115,15
+Hawaii,Kapaa,ACTIVE,22.0868,-159.3448,7
+Hawaii,Kapolei,ACTIVE,21.3453,-158.087,20
+Hawaii,Kapolei,INITIAL,21.3453,-158.087,3
+Hawaii,Kihei,ACTIVE,20.7441,-156.4475,25
+Hawaii,Lahaina,ACTIVE,20.9174,-156.6772,65
+Hawaii,Lahaina,INITIAL,20.9174,-156.6772,2
+Hawaii,Lanai City,ACTIVE,20.8293,-156.921,12
+Hawaii,Lanai City,INITIAL,20.8293,-156.921,1
+Hawaii,Lihue,ACTIVE,21.9816,-159.3683,6
+Hawaii,Paia,ACTIVE,20.9154,-156.3802,1
+Hawaii,Waikoloa,ACTIVE,19.9724,-155.818,44
+Hawaii,Waikoloa,INITIAL,19.9724,-155.818,11
+Idaho,Banks,ACTIVE,44.0804,-116.124,1
+Idaho,Boise,ACTIVE,43.5741,-116.2941,5
+Idaho,Boise,ACTIVE,43.5851,-116.2191,8
+Idaho,Caldwell,ACTIVE,43.6186,-116.7501,3
+Idaho,Cascade,ACTIVE,44.6927,-115.6417,15
+Idaho,Donnelly,ACTIVE,44.6659,-116.0369,36
+Idaho,Donnelly,INITIAL,44.6659,-116.0369,14
+Idaho,Driggs,ACTIVE,43.7263,-111.1199,24
+Idaho,Driggs,INITIAL,43.7263,-111.1199,2
+Idaho,Harrison,ACTIVE,47.5017,-116.7446,45
+Idaho,Harrison,INITIAL,47.5017,-116.7446,1
+Idaho,Horseshoe Bend,INITIAL,43.9229,-116.1809,1
+Idaho,Idaho Falls,ACTIVE,43.5518,-111.8919,3
+Idaho,Island Park,ACTIVE,44.4466,-111.3679,13
+Idaho,Kellogg,ACTIVE,47.5431,-116.1253,3
+Idaho,Ketchum,ACTIVE,43.6692,-114.4858,3
+Idaho,Kimberly,ACTIVE,42.5287,-114.3657,2
+Idaho,McCall,ACTIVE,44.8918,-116.0789,35
+Idaho,Meridian,ACTIVE,43.615,-116.3975,6
+Idaho,Meridian,ACTIVE,43.6498,-116.4306,3
+Idaho,Middleton,ACTIVE,43.7191,-116.6112,2
+Idaho,Mullan,ACTIVE,47.4709,-115.7926,15
+Idaho,New Plymouth,ACTIVE,43.959,-116.8048,2
+Idaho,Nordman,ACTIVE,48.6339,-116.9473,1
+Idaho,Pocatello,ACTIVE,42.8876,-112.4381,2
+Idaho,Pocatello,ACTIVE,42.9357,-112.4679,2
+Idaho,Post Falls,ACTIVE,47.7205,-116.9353,3
+Idaho,Priest River,ACTIVE,48.1664,-116.9066,4
+Idaho,Rexburg,ACTIVE,43.81,-111.789,3
+Idaho,Rigby,ACTIVE,43.6715,-111.9005,4
+Idaho,Sandpoint,ACTIVE,48.312,-116.5332,2
+Idaho,Stanley,ACTIVE,44.3714,-114.8561,29
+Idaho,Stanley,INITIAL,44.3714,-114.8561,4
+Idaho,Star,ACTIVE,43.7013,-116.4967,2
+Idaho,Sun Valley,ACTIVE,43.6853,-114.3313,189
+Idaho,Sun Valley,INITIAL,43.6853,-114.3313,24
+Idaho,Swan Valley,ACTIVE,43.456,-111.3416,3
+Idaho,Swan Valley,INITIAL,43.456,-111.3416,1
+Idaho,Twin Falls,ACTIVE,42.5565,-114.4693,1
+Idaho,Wallace,ACTIVE,47.4908,-115.962,2
+Illinois,Alton,ACTIVE,38.9087,-90.1568,2
+Illinois,Arlington Heights,ACTIVE,42.112,-87.9792,1
+Illinois,Chicago,ACTIVE,41.6948,-87.7038,4
+Illinois,Chicago,ACTIVE,41.7813,-87.6051,6
+Illinois,Chicago,ACTIVE,41.8426,-87.6306,11
+Illinois,Chicago,ACTIVE,41.8515,-87.6694,4
+Illinois,Chicago,ACTIVE,41.8713,-87.6277,48
+Illinois,Chicago,ACTIVE,41.8721,-87.6578,43
+Illinois,Chicago,ACTIVE,41.8798,-87.6285,19
+Illinois,Chicago,ACTIVE,41.8805,-87.6873,8
+Illinois,Chicago,ACTIVE,41.8814,-87.643,2
+Illinois,Chicago,ACTIVE,41.8829,-87.6321,19
+Illinois,Chicago,ACTIVE,41.8858,-87.6181,60
+Illinois,Chicago,ACTIVE,41.8868,-87.6386,24
+Illinois,Chicago,ACTIVE,41.8923,-87.6373,131
+Illinois,Chicago,ACTIVE,41.8971,-87.6223,339
+Illinois,Chicago,ACTIVE,41.9008,-87.6528,24
+Illinois,Chicago,ACTIVE,41.9019,-87.6779,22
+Illinois,Chicago,ACTIVE,41.9025,-87.7393,22
+Illinois,Chicago,ACTIVE,41.9033,-87.6336,19
+Illinois,Chicago,ACTIVE,41.9209,-87.7043,16
+Illinois,Chicago,ACTIVE,41.9229,-87.6483,44
+Illinois,Chicago,ACTIVE,41.9399,-87.6528,24
+Illinois,Chicago,ACTIVE,41.9464,-87.7042,10
+Illinois,Chicago,ACTIVE,41.9543,-87.6575,190
+Illinois,Chicago,ACTIVE,41.9699,-87.7603,40
+Illinois,Chicago,ACTIVE,41.9703,-87.7042,4
+Illinois,Chicago,ACTIVE,41.9719,-87.6624,45
+Illinois,Chicago,ACTIVE,41.9909,-87.6629,1
+Illinois,Chicago,ACTIVE,41.993,-87.7596,18
+Illinois,Chicago,ACTIVE,41.9951,-87.8082,1
+Illinois,Chicago,INITIAL,41.993,-87.7596,1
+Illinois,Des Plaines,ACTIVE,42.0155,-87.8687,7
+Illinois,Edwardsville,ACTIVE,38.805,-89.9637,2
+Illinois,Erie,ACTIVE,41.656,-90.0843,2
+Illinois,Evanston,ACTIVE,42.0546,-87.6943,6
+Illinois,Evergreen Park,ACTIVE,41.722,-87.7024,1
+Illinois,Flossmoor,ACTIVE,41.5406,-87.6837,8
+Illinois,Galena,ACTIVE,42.4182,-90.4195,9
+Illinois,Galesburg,ACTIVE,40.9521,-90.3698,4
+Illinois,Glencoe,ACTIVE,42.1333,-87.7615,32
+Illinois,Granite City,ACTIVE,38.7261,-90.1106,1
+Illinois,Gurnee,ACTIVE,42.3669,-87.9452,179
+Illinois,Gurnee,INITIAL,42.3669,-87.9452,9
+Illinois,Harwood Heights,ACTIVE,41.9643,-87.8162,1
+Illinois,Highland Park,ACTIVE,42.1794,-87.8059,1
+Illinois,Hinsdale,ACTIVE,41.8001,-87.9287,4
+Illinois,Hoffman Estates,ACTIVE,42.0493,-88.1065,17
+Illinois,Homer Glen,ACTIVE,41.6028,-87.9599,2
+Illinois,Hudson,ACTIVE,40.6205,-88.9759,2
+Illinois,Ingleside,ACTIVE,42.3631,-88.1587,16
+Illinois,La Grange,ACTIVE,41.7842,-87.8689,1
+Illinois,Lake Zurich,ACTIVE,42.2165,-88.0769,16
+Illinois,Lemont,ACTIVE,41.7074,-87.9756,4
+Illinois,Lyons,ACTIVE,41.813,-87.8236,1
+Illinois,Manteno,ACTIVE,41.2514,-87.8468,1
+Illinois,Medinah,ACTIVE,41.9814,-88.0512,4
+Illinois,Medinah,INITIAL,41.9814,-88.0512,1
+Illinois,Metamora,ACTIVE,40.7844,-89.4309,2
+Illinois,Moline,ACTIVE,41.4906,-90.498,1
+Illinois,Morton,ACTIVE,40.6148,-89.4604,4
+Illinois,Naperville,ACTIVE,41.7895,-88.169,2
+Illinois,Oak Brook,ACTIVE,41.8371,-87.9638,3
+Illinois,Oak Forest,ACTIVE,41.6077,-87.7542,10
+Illinois,Oak Lawn,ACTIVE,41.7143,-87.7516,1
+Illinois,Oglesby,ACTIVE,41.2928,-89.0553,11
+Illinois,Oglesby,INITIAL,41.2928,-89.0553,2
+Illinois,Park Ridge,ACTIVE,42.0122,-87.8417,1
+Illinois,Peoria,ACTIVE,40.6989,-89.6122,4
+Illinois,Peoria,ACTIVE,40.7661,-89.645,3
+Illinois,Princeton,ACTIVE,41.3629,-89.427,2
+Illinois,Prospect Heights,INITIAL,42.1058,-87.9395,6
+Illinois,Quincy,ACTIVE,39.9307,-91.3763,2
+Illinois,Roodhouse,ACTIVE,39.4846,-90.3498,3
+Illinois,Saint Charles,ACTIVE,41.9194,-88.307,1
+Illinois,Silvis,ACTIVE,41.5007,-90.4126,1
+Illinois,Skokie,INITIAL,42.0345,-87.7541,1
+Illinois,Tinley Park,ACTIVE,41.5825,-87.805,11
+Illinois,Westchester,ACTIVE,41.8524,-87.8845,13
+Illinois,Willowbrook,ACTIVE,41.7447,-87.9334,1
+Illinois,Wilmette,ACTIVE,42.0765,-87.7246,4
+Illinois,Woodridge,ACTIVE,41.7518,-88.0489,3
+Illinois,Zion,ACTIVE,42.4442,-87.8389,5
+Indiana,Bennington,ACTIVE,38.876,-85.0719,6
+Indiana,Bloomington,ACTIVE,39.1401,-86.5083,10
+Indiana,Brownstown,ACTIVE,38.8836,-86.0486,2
+Indiana,Fort Wayne,ACTIVE,41.0707,-85.1543,1
+Indiana,Fort Wayne,ACTIVE,41.1465,-85.1232,2
+Indiana,Frankton,ACTIVE,40.2285,-85.7791,1
+Indiana,Fremont,ACTIVE,41.7331,-84.9452,2
+Indiana,French Lick,ACTIVE,38.5324,-86.6196,21
+Indiana,French Lick,INITIAL,38.5324,-86.6196,2
+Indiana,La Porte,ACTIVE,41.5994,-86.7077,2
+Indiana,La Porte,INITIAL,41.5994,-86.7077,4
+Indiana,Marshall,ACTIVE,39.9062,-87.178,18
+Indiana,Michigan City,ACTIVE,41.698,-86.8699,4
+Indiana,Monticello,ACTIVE,40.7626,-86.755,97
+Indiana,Monticello,INITIAL,40.7626,-86.755,20
+Indiana,Muncie,ACTIVE,40.2111,-85.4291,1
+Indiana,Muncie,INITIAL,40.2111,-85.4291,1
+Indiana,Nashville,ACTIVE,39.2367,-86.222,3
+Indiana,North Webster,ACTIVE,41.3326,-85.7103,11
+Indiana,Portage,INITIAL,41.5672,-87.1757,1
+Indiana,Saint Paul,ACTIVE,39.4277,-85.5994,1
+Indiana,Santa Claus,ACTIVE,38.1176,-86.9286,171
+Indiana,Santa Claus,INITIAL,38.1176,-86.9286,7
+Indiana,Valparaiso,ACTIVE,41.4706,-87.0783,2
+Indiana,Wolcottville,ACTIVE,41.557,-85.315,2
+Indiana,Zionsville,ACTIVE,39.9561,-86.2767,1
+Iowa,Altoona,ACTIVE,41.6475,-93.4724,194
+Iowa,Ames,ACTIVE,42.0379,-93.6003,4
+Iowa,Ankeny,ACTIVE,41.7194,-93.6266,2
+Iowa,Arnolds Park,ACTIVE,43.3637,-95.1282,199
+Iowa,Arnolds Park,INITIAL,43.3637,-95.1282,1
+Iowa,Bettendorf,ACTIVE,41.5509,-90.4942,2
+Iowa,Boone,ACTIVE,42.0694,-93.8781,7
+Iowa,Carroll,ACTIVE,42.072,-94.8667,1
+Iowa,Cedar Rapids,ACTIVE,41.9521,-91.6853,2
+Iowa,Cedar Rapids,ACTIVE,42.0188,-91.6612,6
+Iowa,Clear Lake,ACTIVE,43.1406,-93.385,8
+Iowa,Clive,ACTIVE,41.6067,-93.7457,2
+Iowa,Coralville,ACTIVE,41.6937,-91.5906,2
+Iowa,Council Bluffs,ACTIVE,41.2616,-95.8251,2
+Iowa,Davenport,ACTIVE,41.5385,-90.5613,2
+Iowa,Davenport,ACTIVE,41.5386,-90.6115,4
+Iowa,Des Moines,ACTIVE,41.5444,-93.6192,2
+Iowa,Des Moines,ACTIVE,41.5476,-93.6618,2
+Iowa,Des Moines,ACTIVE,41.6381,-93.6203,2
+Iowa,Dubuque,ACTIVE,42.5122,-90.7384,4
+Iowa,Dubuque,ACTIVE,42.515,-90.6819,10
+Iowa,Fairfield,ACTIVE,41.0039,-91.9576,3
+Iowa,Iowa City,ACTIVE,41.6438,-91.5669,3
+Iowa,Mason City,ACTIVE,43.1499,-93.1954,2
+Iowa,Milford,ACTIVE,43.3196,-95.1615,5
+Iowa,Milford,INITIAL,43.3196,-95.1615,1
+Iowa,New Liberty,ACTIVE,41.7132,-90.8599,2
+Iowa,Okoboji,ACTIVE,43.3889,-95.1369,51
+Iowa,Sioux City,ACTIVE,42.4671,-96.3528,5
+Iowa,Sioux City,ACTIVE,42.5068,-96.4295,2
+Iowa,Solon,ACTIVE,41.8099,-91.5086,1
+Iowa,Spirit Lake,ACTIVE,43.4262,-95.1123,43
+Iowa,Waterloo,ACTIVE,42.4731,-92.3365,3
+Iowa,West Des Moines,ACTIVE,41.5695,-93.7994,3
+Iowa,Williamsburg,ACTIVE,41.6393,-92.024,1
+Iowa,Williamsburg,INITIAL,41.6393,-92.024,1
+Kansas,Derby,ACTIVE,37.553,-97.2549,2
+Kansas,Hutchinson,ACTIVE,38.055,-97.9311,2
+Kansas,Junction City,ACTIVE,39.0299,-96.8396,1
+Kansas,Kansas City,ACTIVE,39.0803,-94.7806,15
+Kansas,Kansas City,ACTIVE,39.116,-94.764,2
+Kansas,Lawrence,ACTIVE,38.9369,-95.242,3
+Kansas,Lawrence,ACTIVE,38.9407,-95.2779,2
+Kansas,Lenexa,ACTIVE,38.9536,-94.7336,1
+Kansas,Manhattan,ACTIVE,39.1938,-96.5858,2
+Kansas,Matfield Green,ACTIVE,38.1448,-96.5541,1
+Kansas,Montezuma,ACTIVE,37.6016,-100.4461,2
+Kansas,Olathe,ACTIVE,38.8733,-94.7752,4
+Kansas,Overland Park,ACTIVE,38.8636,-94.7103,3
+Kansas,Pittsburg,ACTIVE,37.3951,-94.7105,2
+Kansas,Salina,ACTIVE,38.8237,-97.6421,2
+Kansas,Shawnee,ACTIVE,39.0417,-94.7202,2
+Kansas,Shawnee,INITIAL,39.0417,-94.7202,2
+Kansas,Topeka,ACTIVE,39.0405,-95.7178,3
+Kansas,Wichita,ACTIVE,37.6281,-97.4916,5
+Kansas,Wichita,ACTIVE,37.7007,-97.4383,3
+Kansas,Wichita,ACTIVE,37.7149,-97.499,2
+Kansas,Wichita,ACTIVE,37.7488,-97.3566,2
+Kansas,Winfield,ACTIVE,37.2416,-96.98,2
+Kentucky,Burlington,ACTIVE,39.015,-84.7736,10
+Kentucky,Cave City,ACTIVE,37.117,-85.9443,7
+Kentucky,Covington,ACTIVE,39.0708,-84.5212,1
+Kentucky,Florence,ACTIVE,38.9941,-84.642,1
+Kentucky,Hopkinsville,ACTIVE,36.8621,-87.4851,1
+Kentucky,Louisville,ACTIVE,38.2422,-85.5353,2
+Kentucky,Louisville,ACTIVE,38.2628,-85.6663,6
+Kentucky,Louisville,INITIAL,38.2674,-85.6237,1
+Kentucky,Mammoth Cave,ACTIVE,37.2802,-86.1688,6
+Kentucky,Nancy,ACTIVE,37.0631,-84.7192,1
+Kentucky,Newport,ACTIVE,39.0563,-84.4787,2
+Kentucky,Paducah,ACTIVE,37.0368,-88.5934,2
+Kentucky,Prospect,ACTIVE,38.356,-85.6083,1
+Kentucky,Shepherdsville,ACTIVE,38.0045,-85.6888,1
+Louisiana,Metairie,ACTIVE,30.0005,-90.1331,1
+Louisiana,New Orleans,ACTIVE,29.9324,-90.0739,1
+Louisiana,New Orleans,ACTIVE,29.9504,-90.1236,1
+Louisiana,New Orleans,ACTIVE,29.9605,-90.0753,4
+Louisiana,Pollock,ACTIVE,31.5,-92.4005,1
+Maine,Augusta,ACTIVE,44.3232,-69.7665,3
+Maine,Bangor,ACTIVE,44.8242,-68.7918,18
+Maine,Bar Harbor,ACTIVE,44.3738,-68.2448,350
+Maine,Bar Harbor,INITIAL,44.3738,-68.2448,7
+Maine,Belfast,ACTIVE,44.4354,-69.0148,12
+Maine,Belgrade,ACTIVE,44.4688,-69.8606,43
+Maine,Belgrade Lakes,ACTIVE,44.5265,-69.887,3
+Maine,Bernard,ACTIVE,44.2415,-68.358,8
+Maine,Biddeford,ACTIVE,43.4935,-70.4883,3
+Maine,Blue Hill,ACTIVE,44.4343,-68.5885,1
+Maine,Boothbay,ACTIVE,43.8945,-69.6273,4
+Maine,Boothbay Harbor,ACTIVE,43.8518,-69.6278,150
+Maine,Boothbay Harbor,INITIAL,43.8518,-69.6278,13
+Maine,Bridgton,ACTIVE,44.052,-70.7241,46
+Maine,Brooksville,ACTIVE,44.3756,-68.7313,22
+Maine,Brooksville,INITIAL,44.3756,-68.7313,2
+Maine,Brunswick,ACTIVE,43.8973,-69.9779,2
+Maine,Bryant Pond,ACTIVE,44.3957,-70.6435,1
+Maine,Buckfield,ACTIVE,44.2877,-70.3683,9
+Maine,Camden,ACTIVE,44.2137,-69.0767,89
+Maine,Camden,INITIAL,44.2137,-69.0767,7
+Maine,Cape Elizabeth,ACTIVE,43.6017,-70.2301,23
+Maine,Cape Neddick,ACTIVE,43.2133,-70.6397,7
+Maine,Caratunk,ACTIVE,45.241,-69.9386,4
+Maine,Casco,ACTIVE,43.9596,-70.526,55
+Maine,Casco,INITIAL,43.9596,-70.526,1
+Maine,Castine,ACTIVE,44.4156,-68.7929,3
+Maine,Damariscotta,ACTIVE,44.0293,-69.5042,17
+Maine,Denmark,ACTIVE,43.9755,-70.7924,24
+Maine,Denmark,INITIAL,43.9755,-70.7924,2
+Maine,East Boothbay,ACTIVE,43.8262,-69.5939,21
+Maine,Eastport,ACTIVE,44.92,-67.0074,4
+Maine,Eliot,ACTIVE,43.1309,-70.7822,3
+Maine,Ellsworth,ACTIVE,44.5548,-68.4121,29
+Maine,Freedom,ACTIVE,44.4633,-69.319,6
+Maine,Freeport,ACTIVE,43.857,-70.1031,5
+Maine,Fryeburg,ACTIVE,44.0313,-70.9668,14
+Maine,Georgetown,ACTIVE,43.8054,-69.7453,1
+Maine,Gorham,ACTIVE,43.6843,-70.468,2
+Maine,Greenville,ACTIVE,45.4716,-69.5844,48
+Maine,Greenville,INITIAL,45.4716,-69.5844,1
+Maine,Greenville Junction,ACTIVE,45.4796,-69.6939,2
+Maine,Harpswell,ACTIVE,43.7811,-69.9955,12
+Maine,Harrison,ACTIVE,44.1071,-70.6539,42
+Maine,Hollis Center,ACTIVE,43.5946,-70.6051,3
+Maine,Hope,ACTIVE,44.2589,-69.1467,10
+Maine,Hope,INITIAL,44.2589,-69.1467,1
+Maine,Islesboro,ACTIVE,44.3082,-68.9073,1
+Maine,Jackman,ACTIVE,45.6351,-70.2492,7
+Maine,Jackman,INITIAL,45.6351,-70.2492,2
+Maine,Kennebunk,ACTIVE,43.3881,-70.5478,42
+Maine,Kennebunkport,ACTIVE,43.3923,-70.4729,37
+Maine,Kennebunkport,INITIAL,43.3923,-70.4729,5
+Maine,Kents Hill,ACTIVE,44.4383,-70.0748,32
+Maine,Kittery,ACTIVE,43.0921,-70.7429,73
+Maine,Kittery,INITIAL,43.0921,-70.7429,3
+Maine,Lincolnville,ACTIVE,44.3048,-69.0824,4
+Maine,Lincolnville,INITIAL,44.3048,-69.0824,2
+Maine,Long Island,ACTIVE,43.692,-70.1551,2
+Maine,Long Island,INITIAL,43.692,-70.1551,1
+Maine,Lovell,ACTIVE,44.1614,-70.93,5
+Maine,Lubec,ACTIVE,44.9043,-67.0408,3
+Maine,Monmouth,ACTIVE,44.2208,-70.0263,50
+Maine,Monmouth,INITIAL,44.2208,-70.0263,1
+Maine,Mount Vernon,ACTIVE,44.4993,-69.9903,51
+Maine,Naples,ACTIVE,43.9681,-70.5988,85
+Maine,New Harbor,ACTIVE,43.8605,-69.5079,14
+Maine,Newcastle,ACTIVE,44.0499,-69.5331,4
+Maine,North Haven,ACTIVE,44.1436,-68.8667,4
+Maine,North Haven,INITIAL,44.1436,-68.8667,1
+Maine,Northeast Harbor,ACTIVE,44.2941,-68.2849,10
+Maine,Oakland,ACTIVE,44.5173,-69.7401,67
+Maine,Ogunquit,ACTIVE,43.2541,-70.6094,175
+Maine,Ogunquit,INITIAL,43.2541,-70.6094,4
+Maine,Old Orchard Beach,ACTIVE,43.5254,-70.3883,443
+Maine,Old Orchard Beach,INITIAL,43.5254,-70.3883,4
+Maine,Oxford,ACTIVE,44.1118,-70.5098,30
+Maine,Parsonsfield,ACTIVE,43.745,-70.9092,5
+Maine,Phippsburg,ACTIVE,43.7688,-69.815,14
+Maine,Poland,ACTIVE,44.0474,-70.3899,64
+Maine,Poland,INITIAL,44.0474,-70.3899,1
+Maine,Porter,ACTIVE,43.8262,-70.9243,15
+Maine,Portland,ACTIVE,43.6602,-70.2898,10
+Maine,Portland,ACTIVE,43.6606,-70.2589,56
+Maine,Portland,ACTIVE,43.6783,-70.1987,8
+Maine,Portland,ACTIVE,43.6876,-70.2876,8
+Maine,Portland,INITIAL,43.6602,-70.2898,1
+Maine,Princeton,ACTIVE,45.2131,-67.6008,2
+Maine,Rangeley,ACTIVE,44.9631,-70.6658,18
+Maine,Rangeley,INITIAL,44.9631,-70.6658,4
+Maine,Raymond,ACTIVE,43.9219,-70.4498,51
+Maine,Readfield,ACTIVE,44.4032,-69.9506,2
+Maine,Rockland,ACTIVE,44.1123,-69.1139,33
+Maine,Rockport,ACTIVE,44.1888,-69.0901,49
+Maine,Rockport,INITIAL,44.1888,-69.0901,1
+Maine,Saco,ACTIVE,43.5209,-70.4546,177
+Maine,Saco,INITIAL,43.5209,-70.4546,1
+Maine,Sanford,ACTIVE,43.4285,-70.7585,2
+Maine,Scarborough,ACTIVE,43.5835,-70.3457,37
+Maine,Scarborough,INITIAL,43.5835,-70.3457,2
+Maine,Seal Harbor,ACTIVE,44.299,-68.2463,27
+Maine,Sebago,ACTIVE,43.9017,-70.6878,1
+Maine,Sebago,INITIAL,43.9017,-70.6878,1
+Maine,Smithfield,ACTIVE,44.6301,-69.8075,55
+Maine,South Casco,ACTIVE,43.91,-70.5245,29
+Maine,South Casco,INITIAL,43.91,-70.5245,1
+Maine,South Portland,ACTIVE,43.6318,-70.2709,9
+Maine,South Portland,INITIAL,43.6318,-70.2709,1
+Maine,Southport,ACTIVE,43.8199,-69.6626,19
+Maine,Southwest Harbor,ACTIVE,44.2823,-68.3265,49
+Maine,Spruce Head,ACTIVE,44.0104,-69.1707,4
+Maine,Standish,ACTIVE,43.8142,-70.4807,1
+Maine,Surry,ACTIVE,44.4883,-68.5063,4
+Maine,Surry,INITIAL,44.4883,-68.5063,1
+Maine,Tenants Harbor,ACTIVE,43.9555,-69.2315,6
+Maine,Waldoboro,ACTIVE,44.1046,-69.3745,2
+Maine,Washington,ACTIVE,44.2693,-69.3842,21
+Maine,Washington,INITIAL,44.2693,-69.3842,1
+Maine,Waterford,ACTIVE,44.1931,-70.7163,27
+Maine,Waterford,INITIAL,44.1931,-70.7163,1
+Maine,Waterville,ACTIVE,44.5543,-69.6178,19
+Maine,Wayne,ACTIVE,44.3493,-70.0712,18
+Maine,Weld,ACTIVE,44.7016,-70.4249,7
+Maine,Wells,ACTIVE,43.3144,-70.5969,77
+Maine,Wells,INITIAL,43.3144,-70.5969,4
+Maine,West Boothbay Harbor,ACTIVE,43.849,-69.6434,3
+Maine,West Forks,ACTIVE,45.3839,-69.9841,16
+Maine,Winter Harbor,ACTIVE,44.39,-68.0843,2
+Maine,Winthrop,ACTIVE,44.3229,-69.9576,9
+Maine,Woolwich,ACTIVE,43.9503,-69.7891,1
+Maine,York,ACTIVE,43.1544,-70.6578,70
+Maine,York,INITIAL,43.1544,-70.6578,4
+Maine,York Beach,ACTIVE,43.1715,-70.6089,38
+Maine,York Beach,INITIAL,43.1715,-70.6089,2
+Maine,York Harbor,ACTIVE,43.1368,-70.6456,2
+Maine,York Harbor,INITIAL,43.1368,-70.6456,2
+Maryland,Aberdeen,ACTIVE,39.5109,-76.1805,6
+Maryland,Aberdeen Proving Ground,ACTIVE,39.4771,-76.1208,4
+Maryland,Abingdon,ACTIVE,39.4744,-76.2997,8
+Maryland,Annapolis,ACTIVE,38.9524,-76.491,17
+Maryland,Annapolis,ACTIVE,38.9898,-76.5501,18
+Maryland,Annapolis,ACTIVE,39.0416,-76.4377,2
+Maryland,Arnold,ACTIVE,39.0476,-76.4941,1
+Maryland,Baltimore,ACTIVE,39.2645,-76.6224,13
+Maryland,Baltimore,ACTIVE,39.2876,-76.5568,2
+Maryland,Baltimore,ACTIVE,39.2892,-76.59,7
+Maryland,Baltimore,ACTIVE,39.2946,-76.6252,2
+Maryland,Baltimore,ACTIVE,39.2998,-76.6075,7
+Maryland,Baltimore,ACTIVE,39.306399999999996,-76.6393,1
+Maryland,Baltimore,ACTIVE,39.3265,-76.6048,4
+Maryland,Baltimore,ACTIVE,39.3316,-76.6336,2
+Maryland,Baltimore,ACTIVE,39.3365,-76.5411,3
+Maryland,Baltimore,ACTIVE,39.3446,-76.6794,3
+Maryland,Baltimore,ACTIVE,39.3507,-76.6321,7
+Maryland,Baltimore,ACTIVE,39.361,-76.5891,2
+Maryland,Baltimore,ACTIVE,39.3716,-76.6744,20
+Maryland,Bel Air,ACTIVE,39.5303,-76.3153,2
+Maryland,Bel Air,ACTIVE,39.5394,-76.3564,2
+Maryland,Beltsville,ACTIVE,39.0455,-76.9242,9
+Maryland,Berlin,ACTIVE,38.3475,-75.1866,73
+Maryland,Berlin,INITIAL,38.3475,-75.1866,2
+Maryland,Bethesda,ACTIVE,38.9585,-77.1153,11
+Maryland,Bethesda,ACTIVE,38.9896,-77.1538,25
+Maryland,Bethesda,ACTIVE,39.0003,-77.1022,26
+Maryland,Bethesda,INITIAL,39.0003,-77.1022,1
+Maryland,Bladensburg,ACTIVE,38.9421,-76.9261,1
+Maryland,Bowie,ACTIVE,38.9194,-76.7871,4
+Maryland,Bowie,ACTIVE,38.9263,-76.7098,8
+Maryland,Bowie,ACTIVE,38.9885,-76.791,6
+Maryland,Boyds,ACTIVE,39.21,-77.3167,2
+Maryland,Brandywine,ACTIVE,38.6922,-76.832,2
+Maryland,Brookeville,ACTIVE,39.1871,-77.0603,2
+Maryland,Brooklyn,ACTIVE,39.2259,-76.6153,3
+Maryland,Burtonsville,ACTIVE,39.0922,-76.9339,5
+Maryland,California,ACTIVE,38.3006,-76.5312,2
+Maryland,Cambridge,ACTIVE,38.5643,-76.0874,43
+Maryland,Cambridge,INITIAL,38.5643,-76.0874,1
+Maryland,Capitol Heights,ACTIVE,38.8897,-76.8925,5
+Maryland,Cascade,ACTIVE,39.6958,-77.4955,26
+Maryland,Cheltenham,ACTIVE,38.7531,-76.8369,2
+Maryland,Chester,ACTIVE,38.9583,-76.2842,2
+Maryland,Chestertown,ACTIVE,39.2125,-76.0802,18
+Maryland,Chevy Chase,ACTIVE,38.978,-77.082,17
+Maryland,Cockeysville,ACTIVE,39.4919,-76.6677,18
+Maryland,College Park,ACTIVE,38.9963,-76.9299,9
+Maryland,Columbia,ACTIVE,39.1702,-76.8538,4
+Maryland,Columbia,ACTIVE,39.2141,-76.8788,11
+Maryland,Columbia,INITIAL,39.1702,-76.8538,1
+Maryland,Crofton,ACTIVE,39.0112,-76.6802,4
+Maryland,Curtis Bay,ACTIVE,39.2109,-76.5597,2
+Maryland,Delmar,ACTIVE,38.4445,-75.5583,3
+Maryland,Derwood,ACTIVE,39.1345,-77.1477,5
+Maryland,District Heights,ACTIVE,38.8539,-76.8891,8
+Maryland,Edgewater,ACTIVE,38.9149,-76.5424,25
+Maryland,Edgewood,ACTIVE,39.4277,-76.3055,4
+Maryland,Elkridge,ACTIVE,39.2058,-76.7531,20
+Maryland,Elkton,ACTIVE,39.6264,-75.8458,3
+Maryland,Ellicott City,ACTIVE,39.2548,-76.8001,11
+Maryland,Ellicott City,ACTIVE,39.2726,-76.8614,17
+Maryland,Ellicott City,INITIAL,39.2726,-76.8614,2
+Maryland,Essex,ACTIVE,39.3086,-76.4533,4
+Maryland,Flintstone,ACTIVE,39.6993,-78.5739,5
+Maryland,Forest Hill,ACTIVE,39.5755,-76.4008,1
+Maryland,Frederick,ACTIVE,39.3455,-77.3832,31
+Maryland,Frederick,ACTIVE,39.3647,-77.4636,36
+Maryland,Frederick,ACTIVE,39.4461,-77.335,53
+Maryland,Frederick,ACTIVE,39.4926,-77.4612,38
+Maryland,Gaithersburg,ACTIVE,39.1125,-77.2515,39
+Maryland,Gaithersburg,ACTIVE,39.1419,-77.189,20
+Maryland,Gaithersburg,ACTIVE,39.173,-77.1855,41
+Maryland,Gaithersburg,INITIAL,39.173,-77.1855,1
+Maryland,Galesville,ACTIVE,38.8446,-76.5456,2
+Maryland,Gambrills,ACTIVE,39.0407,-76.6819,3
+Maryland,Germantown,ACTIVE,39.1355,-77.2822,73
+Maryland,Germantown,ACTIVE,39.188,-77.2358,15
+Maryland,Germantown,INITIAL,39.1355,-77.2822,2
+Maryland,Gibson Island,ACTIVE,39.0751,-76.4324,1
+Maryland,Glen Burnie,ACTIVE,39.1618,-76.6297,8
+Maryland,Glen Burnie,ACTIVE,39.1702,-76.5798,17
+Maryland,Grasonville,ACTIVE,38.9456,-76.1997,2
+Maryland,Great Mills,ACTIVE,38.2674,-76.4954,1
+Maryland,Greenbelt,ACTIVE,38.9996,-76.884,17
+Maryland,Gwynn Oak,ACTIVE,39.3296,-76.7341,3
+Maryland,Hagerstown,ACTIVE,39.632,-77.7372,2
+Maryland,Hanover,ACTIVE,39.1551,-76.7215,210
+Maryland,Hanover,INITIAL,39.1551,-76.7215,1
+Maryland,Havre De Grace,ACTIVE,39.5523,-76.1171,1
+Maryland,Hughesville,ACTIVE,38.5207,-76.7817,3
+Maryland,Hyattsville,ACTIVE,38.9223,-76.8755,6
+Maryland,Hyattsville,ACTIVE,38.9506,-76.9347,203
+Maryland,Hyattsville,ACTIVE,38.9513,-76.8958,10
+Maryland,Hyattsville,ACTIVE,38.9647,-76.9649,11
+Maryland,Hyattsville,ACTIVE,39.0005,-76.9723,2
+Maryland,Hyattsville,INITIAL,38.9506,-76.9347,4
+Maryland,Jessup,ACTIVE,39.1484,-76.7922,2
+Maryland,La Plata,ACTIVE,38.5257,-76.9865,1
+Maryland,Lanham,ACTIVE,38.9675,-76.8551,7
+Maryland,Laurel,ACTIVE,39.0499,-76.8345,6
+Maryland,Laurel,ACTIVE,39.0958,-76.8155,11
+Maryland,Laurel,ACTIVE,39.1077,-76.872,29
+Maryland,Laurel,ACTIVE,39.1208,-76.8435,11
+Maryland,Lexington Park,ACTIVE,38.2495,-76.4529,7
+Maryland,Lothian,ACTIVE,38.8029,-76.6628,5
+Maryland,Lutherville Timonium,ACTIVE,39.4332,-76.6546,3
+Maryland,Middle River,ACTIVE,39.3401,-76.4153,6
+Maryland,Millersville,ACTIVE,39.1041,-76.619,6
+Maryland,Monkton,ACTIVE,39.5662,-76.5979,3
+Maryland,Montgomery Village,ACTIVE,39.1757,-77.1873,14
+Maryland,New Market,ACTIVE,39.4096,-77.2759,1
+Maryland,Newburg,ACTIVE,38.3298,-76.9175,7
+Maryland,North East,ACTIVE,39.6045,-75.9538,15
+Maryland,North East,INITIAL,39.6045,-75.9538,1
+Maryland,Nottingham,ACTIVE,39.3914,-76.4871,8
+Maryland,Ocean City,ACTIVE,38.3365,-75.0849,3586
+Maryland,Ocean City,INITIAL,38.3365,-75.0849,107
+Maryland,Odenton,ACTIVE,39.0762,-76.6996,32
+Maryland,Olney,ACTIVE,39.1526,-77.0749,15
+Maryland,Owings Mills,ACTIVE,39.4269,-76.7769,19
+Maryland,Oxon Hill,ACTIVE,38.8108,-76.9898,7
+Maryland,Parkville,ACTIVE,39.3876,-76.5418,5
+Maryland,Pasadena,ACTIVE,39.1206,-76.495,7
+Maryland,Perry Hall,ACTIVE,39.401,-76.451,2
+Maryland,Phoenix,ACTIVE,39.4833,-76.5776,4
+Maryland,Pikesville,ACTIVE,39.3764,-76.729,14
+Maryland,Potomac,ACTIVE,39.0388,-77.1922,8
+Maryland,Randallstown,ACTIVE,39.3746,-76.8002,1
+Maryland,Reisterstown,ACTIVE,39.46,-76.8135,9
+Maryland,Rising Sun,ACTIVE,39.6882,-76.0492,12
+Maryland,Rising Sun,INITIAL,39.6882,-76.0492,1
+Maryland,Riverdale,ACTIVE,38.9601,-76.9147,6
+Maryland,Rockville,ACTIVE,39.0496,-77.1204,160
+Maryland,Rockville,ACTIVE,39.087,-77.168,27
+Maryland,Rockville,ACTIVE,39.0887,-77.095,2
+Maryland,Rockville,INITIAL,39.0496,-77.1204,4
+Maryland,Rosedale,ACTIVE,39.3361,-76.5014,1
+Maryland,Saint Michaels,ACTIVE,38.783,-76.2215,1
+Maryland,Salisbury,ACTIVE,38.3508,-75.5338,6
+Maryland,Savage,ACTIVE,39.138,-76.8218,10
+Maryland,Savage,INITIAL,39.138,-76.8218,1
+Maryland,Severn,ACTIVE,39.1275,-76.698,4
+Maryland,Severna Park,ACTIVE,39.0811,-76.5577,1
+Maryland,Silver Spring,ACTIVE,38.9982,-77.0338,21
+Maryland,Silver Spring,ACTIVE,39.0191,-77.0076,5
+Maryland,Silver Spring,ACTIVE,39.04,-77.0444,14
+Maryland,Silver Spring,ACTIVE,39.0668,-76.9969,16
+Maryland,Silver Spring,ACTIVE,39.084,-77.0613,49
+Maryland,Silver Spring,INITIAL,38.9982,-77.0338,2
+Maryland,Stevensville,ACTIVE,38.9394,-76.3371,3
+Maryland,Suitland,ACTIVE,38.8425,-76.9222,11
+Maryland,Sykesville,ACTIVE,39.4567,-76.9696,3
+Maryland,Takoma Park,ACTIVE,38.9832,-77.0007,4
+Maryland,Taneytown,ACTIVE,39.6658,-77.1691,5
+Maryland,Temple Hills,ACTIVE,38.8222,-76.9478,7
+Maryland,Thurmont,ACTIVE,39.6109,-77.3989,29
+Maryland,Towson,ACTIVE,39.4072,-76.6038,11
+Maryland,Towson,ACTIVE,39.4143,-76.5761,6
+Maryland,Upper Marlboro,ACTIVE,38.8377,-76.798,23
+Maryland,Upper Marlboro,ACTIVE,38.8682,-76.8156,25
+Maryland,Upper Marlboro,INITIAL,38.8682,-76.8156,1
+Maryland,Waldorf,ACTIVE,38.6294,-76.9769,4
+Maryland,Walkersville,ACTIVE,39.4787,-77.3484,2
+Maryland,White Plains,ACTIVE,38.5974,-76.9903,4
+Maryland,Williamsport,ACTIVE,39.593,-77.8087,4
+Maryland,Windsor Mill,ACTIVE,39.3331,-76.7849,11
+Maryland,Worton,ACTIVE,39.2963,-76.1008,21
+Massachusetts,Abington,ACTIVE,42.1167,-70.9543,1
+Massachusetts,Acton,ACTIVE,42.4751,-71.4483,1
+Massachusetts,Agawam,ACTIVE,42.0702,-72.6227,61
+Massachusetts,Agawam,INITIAL,42.0702,-72.6227,2
+Massachusetts,Allston,ACTIVE,42.3535,-71.1329,7
+Massachusetts,Amesbury,ACTIVE,42.8559,-70.9367,10
+Massachusetts,Amesbury,INITIAL,42.8559,-70.9367,2
+Massachusetts,Ashby,ACTIVE,42.6745,-71.8174,4
+Massachusetts,Ashland,ACTIVE,42.2539,-71.4583,2
+Massachusetts,Auburndale,ACTIVE,42.3441,-71.248,1
+Massachusetts,Barnstable,ACTIVE,41.6983,-70.3001,2
+Massachusetts,Becket,ACTIVE,42.3594,-73.1203,75
+Massachusetts,Bedford,ACTIVE,42.4843,-71.2768,2
+Massachusetts,Beverly,ACTIVE,42.5608,-70.8759,7
+Massachusetts,Billerica,ACTIVE,42.5519,-71.2518,8
+Massachusetts,Boston,ACTIVE,42.3347,-71.0375,3
+Massachusetts,Boston,ACTIVE,42.3362,-71.0729,4
+Massachusetts,Boston,ACTIVE,42.3427,-71.0922,3
+Massachusetts,Boston,ACTIVE,42.3471,-71.1027,21
+Massachusetts,Boston,ACTIVE,42.3489,-71.0465,50
+Massachusetts,Boston,ACTIVE,42.3492,-71.0768,51
+Massachusetts,Boston,ACTIVE,42.3503,-71.0629,1
+Massachusetts,Boston,ACTIVE,42.3576,-71.0684,24
+Massachusetts,Boston,ACTIVE,42.3576,-71.0514,67
+Massachusetts,Boston,ACTIVE,42.36,-71.0545,54
+Massachusetts,Boston,ACTIVE,42.3611,-71.0682,14
+Massachusetts,Boston,ACTIVE,42.3642,-71.0257,6
+Massachusetts,Boxford,ACTIVE,42.6797,-71.0114,1
+Massachusetts,Braintree,ACTIVE,42.2093,-70.9963,12
+Massachusetts,Brewster,ACTIVE,41.7492,-70.0699,208
+Massachusetts,Brewster,INITIAL,41.7492,-70.0699,3
+Massachusetts,Bridgewater,ACTIVE,41.9773,-70.9723,2
+Massachusetts,Brighton,ACTIVE,42.3478,-71.1566,4
+Massachusetts,Brighton,INITIAL,42.3478,-71.1566,1
+Massachusetts,Brockton,ACTIVE,42.0794,-71.04,7
+Massachusetts,Brookline,ACTIVE,42.3259,-71.1341,3
+Massachusetts,Brookline,ACTIVE,42.3431,-71.123,35
+Massachusetts,Brookline,INITIAL,42.3431,-71.123,1
+Massachusetts,Burlington,ACTIVE,42.5089,-71.2004,8
+Massachusetts,Burlington,INITIAL,42.5089,-71.2004,1
+Massachusetts,Buzzards Bay,ACTIVE,41.7455,-70.5905,29
+Massachusetts,Buzzards Bay,INITIAL,41.7455,-70.5905,1
+Massachusetts,Cambridge,ACTIVE,42.362,-71.083,2
+Massachusetts,Cambridge,ACTIVE,42.3647,-71.1042,6
+Massachusetts,Cambridge,ACTIVE,42.3687,-71.0836,1
+Massachusetts,Cambridge,ACTIVE,42.377,-71.1256,8
+Massachusetts,Cambridge,ACTIVE,42.3932,-71.1338,5
+Massachusetts,Canton,ACTIVE,42.1645,-71.1355,7
+Massachusetts,Centerville,ACTIVE,41.6606,-70.3532,14
+Massachusetts,Charlestown,ACTIVE,42.3778,-71.0627,26
+Massachusetts,Charlestown,INITIAL,42.3778,-71.0627,2
+Massachusetts,Charlton,ACTIVE,42.1379,-71.9664,1
+Massachusetts,Chatham,ACTIVE,41.6889,-69.9722,201
+Massachusetts,Chatham,INITIAL,41.6889,-69.9722,7
+Massachusetts,Chelmsford,ACTIVE,42.5911,-71.3556,6
+Massachusetts,Chelsea,ACTIVE,42.3963,-71.0325,4
+Massachusetts,Chestnut Hill,ACTIVE,42.3164,-71.1612,5
+Massachusetts,Chilmark,ACTIVE,41.3575,-70.7416,17
+Massachusetts,Chilmark,INITIAL,41.3575,-70.7416,1
+Massachusetts,Cohasset,ACTIVE,42.2395,-70.8128,1
+Massachusetts,Danvers,ACTIVE,42.5694,-70.9425,7
+Massachusetts,Dedham,ACTIVE,42.2437,-71.1637,10
+Massachusetts,Dedham,INITIAL,42.2437,-71.1637,2
+Massachusetts,Dennis,ACTIVE,41.7322,-70.1911,36
+Massachusetts,Dennis,INITIAL,41.7322,-70.1911,3
+Massachusetts,Dennis Port,ACTIVE,41.6649,-70.1327,132
+Massachusetts,Dennis Port,INITIAL,41.6649,-70.1327,8
+Massachusetts,Dorchester,ACTIVE,42.2973,-71.0745,12
+Massachusetts,Dorchester,INITIAL,42.2973,-71.0745,1
+Massachusetts,Duxbury,ACTIVE,42.0399,-70.7163,9
+Massachusetts,East Brookfield,ACTIVE,42.2193,-72.0481,9
+Massachusetts,East Brookfield,INITIAL,42.2193,-72.0481,1
+Massachusetts,East Dennis,ACTIVE,41.7426,-70.162,11
+Massachusetts,East Dennis,INITIAL,41.7426,-70.162,1
+Massachusetts,East Falmouth,ACTIVE,41.5968,-70.5671,58
+Massachusetts,East Falmouth,INITIAL,41.5968,-70.5671,2
+Massachusetts,East Orleans,ACTIVE,41.7843,-69.962,1
+Massachusetts,East Otis,ACTIVE,42.1909,-73.0517,18
+Massachusetts,East Walpole,ACTIVE,42.1532,-71.2179,1
+Massachusetts,East Wareham,ACTIVE,41.7682,-70.6532,34
+Massachusetts,East Weymouth,ACTIVE,42.214,-70.9203,6
+Massachusetts,Eastham,ACTIVE,41.8408,-69.9849,34
+Massachusetts,Eastham,INITIAL,41.8408,-69.9849,1
+Massachusetts,Edgartown,ACTIVE,41.3889,-70.5339,394
+Massachusetts,Edgartown,INITIAL,41.3889,-70.5339,14
+Massachusetts,Falmouth,ACTIVE,41.5648,-70.6217,57
+Massachusetts,Falmouth,INITIAL,41.5648,-70.6217,7
+Massachusetts,Forestdale,ACTIVE,41.6827,-70.5143,1
+Massachusetts,Foxboro,ACTIVE,42.0649,-71.2441,1
+Massachusetts,Framingham,ACTIVE,42.2822,-71.4339,20
+Massachusetts,Framingham,ACTIVE,42.3007,-71.4255,8
+Massachusetts,Franklin,ACTIVE,42.0935,-71.4058,1
+Massachusetts,Gloucester,ACTIVE,42.6208,-70.6721,5
+Massachusetts,Granville,ACTIVE,42.1127,-72.952,5
+Massachusetts,Great Barrington,ACTIVE,42.1959,-73.3607,46
+Massachusetts,Great Barrington,INITIAL,42.1959,-73.3607,1
+Massachusetts,Groton,ACTIVE,42.6124,-71.5584,15
+Massachusetts,Harwich,ACTIVE,41.7008,-70.0579,87
+Massachusetts,Harwich,INITIAL,41.7008,-70.0579,1
+Massachusetts,Harwich Port,ACTIVE,41.6703,-70.0722,110
+Massachusetts,Harwich Port,INITIAL,41.6703,-70.0722,2
+Massachusetts,Haverhill,ACTIVE,42.7528,-71.0843,2
+Massachusetts,Haverhill,ACTIVE,42.7792,-71.1095,6
+Massachusetts,Haverhill,ACTIVE,42.7856,-71.0721,2
+Massachusetts,Haverhill,INITIAL,42.7856,-71.0721,1
+Massachusetts,Hingham,ACTIVE,42.2245,-70.8911,5
+Massachusetts,Hinsdale,ACTIVE,42.4298,-73.0724,112
+Massachusetts,Hinsdale,INITIAL,42.4298,-73.0724,2
+Massachusetts,Holbrook,ACTIVE,42.1464,-71.0083,2
+Massachusetts,Hopkinton,ACTIVE,42.219,-71.5302,4
+Massachusetts,Hull,ACTIVE,42.2853,-70.8754,1
+Massachusetts,Hyannis,ACTIVE,41.6601,-70.2967,336
+Massachusetts,Hyannis,INITIAL,41.6601,-70.2967,8
+Massachusetts,Hyannis Port,ACTIVE,41.635,-70.3063,5
+Massachusetts,Hyde Park,ACTIVE,42.254,-71.1261,1
+Massachusetts,Jamaica Plain,ACTIVE,42.3126,-71.1115,3
+Massachusetts,Kingston,ACTIVE,41.995,-70.741,8
+Massachusetts,Kingston,INITIAL,41.995,-70.741,2
+Massachusetts,Lanesborough,ACTIVE,42.5173,-73.2282,11
+Massachusetts,Lawrence,ACTIVE,42.6911,-71.1605,1
+Massachusetts,Lee,ACTIVE,42.299,-73.2317,8
+Massachusetts,Lenox,ACTIVE,42.3642,-73.2713,40
+Massachusetts,Lexington,ACTIVE,42.4426,-71.2265,3
+Massachusetts,Littleton,ACTIVE,42.5401,-71.4877,2
+Massachusetts,Lowell,ACTIVE,42.6344,-71.2983,1
+Massachusetts,Lynn,ACTIVE,42.4694,-70.9728,4
+Massachusetts,Lynnfield,ACTIVE,42.5327,-71.0339,1
+Massachusetts,Malden,ACTIVE,42.4291,-71.0605,11
+Massachusetts,Mansfield,ACTIVE,42.0212,-71.2178,2
+Massachusetts,Marion,ACTIVE,41.7095,-70.7613,2
+Massachusetts,Marlborough,ACTIVE,42.3509,-71.5434,9
+Massachusetts,Marshfield,ACTIVE,42.1062,-70.6993,3
+Massachusetts,Marstons Mills,ACTIVE,41.6703,-70.4163,20
+Massachusetts,Mashpee,ACTIVE,41.6181,-70.4854,111
+Massachusetts,Mashpee,INITIAL,41.6181,-70.4854,1
+Massachusetts,Mattapoisett,ACTIVE,41.6618,-70.8164,6
+Massachusetts,Medford,ACTIVE,42.4173,-71.1087,5
+Massachusetts,Medway,ACTIVE,42.1514,-71.4217,1
+Massachusetts,Methuen,ACTIVE,42.728,-71.181,2
+Massachusetts,Middleboro,ACTIVE,41.8884,-70.893,11
+Massachusetts,Milford,ACTIVE,42.1511,-71.5274,3
+Massachusetts,Millis,ACTIVE,42.1669,-71.3607,1
+Massachusetts,Monterey,ACTIVE,42.1867,-73.2065,9
+Massachusetts,Nantucket,ACTIVE,41.2725,-70.0932,647
+Massachusetts,Nantucket,INITIAL,41.2725,-70.0932,13
+Massachusetts,Natick,ACTIVE,42.2875,-71.3574,14
+Massachusetts,Needham Heights,ACTIVE,42.2945,-71.2328,2
+Massachusetts,Newbury,ACTIVE,42.7835,-70.8474,5
+Massachusetts,Newburyport,ACTIVE,42.813,-70.8847,3
+Massachusetts,Newton,ACTIVE,42.3528,-71.1875,2
+Massachusetts,Newton Center,ACTIVE,42.3341,-71.1833,11
+Massachusetts,Newton Highlands,ACTIVE,42.3168,-71.2084,1
+Massachusetts,North Adams,ACTIVE,42.6955,-73.08,15
+Massachusetts,North Adams,INITIAL,42.6955,-73.08,1
+Massachusetts,North Andover,ACTIVE,42.6826,-71.109,6
+Massachusetts,North Billerica,ACTIVE,42.5757,-71.2902,5
+Massachusetts,North Chelmsford,ACTIVE,42.6347,-71.3908,3
+Massachusetts,North Dartmouth,ACTIVE,41.6338,-70.9958,1
+Massachusetts,North Eastham,ACTIVE,41.8243,-69.9818,14
+Massachusetts,North Falmouth,ACTIVE,41.6417,-70.623,74
+Massachusetts,North Falmouth,INITIAL,41.6417,-70.623,2
+Massachusetts,North Reading,ACTIVE,42.5819,-71.0947,1
+Massachusetts,North Truro,ACTIVE,42.0338,-70.0875,44
+Massachusetts,North Weymouth,ACTIVE,42.2459,-70.9467,2
+Massachusetts,Northborough,ACTIVE,42.3182,-71.6464,1
+Massachusetts,Norwood,ACTIVE,42.1868,-71.2033,13
+Massachusetts,Oak Bluffs,ACTIVE,41.4543,-70.562,192
+Massachusetts,Oak Bluffs,INITIAL,41.4543,-70.562,1
+Massachusetts,Oakham,ACTIVE,42.348,-72.0513,3
+Massachusetts,Orleans,ACTIVE,41.7792,-69.9822,90
+Massachusetts,Orleans,INITIAL,41.7792,-69.9822,4
+Massachusetts,Osterville,ACTIVE,41.63,-70.3837,15
+Massachusetts,Otis,ACTIVE,42.1931,-73.0918,15
+Massachusetts,Palmer,ACTIVE,42.1762,-72.3288,36
+Massachusetts,Peabody,ACTIVE,42.5326,-70.9612,4
+Massachusetts,Pembroke,ACTIVE,42.0621,-70.8044,20
+Massachusetts,Pittsfield,ACTIVE,42.4531,-73.2471,52
+Massachusetts,Pittsfield,INITIAL,42.4531,-73.2471,2
+Massachusetts,Plainville,ACTIVE,42.0124,-71.3275,1
+Massachusetts,Plymouth,ACTIVE,41.9104,-70.642,72
+Massachusetts,Plymouth,INITIAL,41.9104,-70.642,7
+Massachusetts,Provincetown,ACTIVE,42.0534,-70.1865,396
+Massachusetts,Provincetown,INITIAL,42.0534,-70.1865,11
+Massachusetts,Quincy,ACTIVE,42.2491,-70.9978,15
+Massachusetts,Quincy,ACTIVE,42.2825,-71.0241,5
+Massachusetts,Randolph,ACTIVE,42.1736,-71.0514,2
+Massachusetts,Raynham,ACTIVE,41.9324,-71.0469,1
+Massachusetts,Reading,ACTIVE,42.528,-71.109,1
+Massachusetts,Revere,ACTIVE,42.4138,-71.0052,3
+Massachusetts,Rockport,ACTIVE,42.658,-70.6194,6
+Massachusetts,Sagamore Beach,ACTIVE,41.7933,-70.5196,11
+Massachusetts,Sagamore Beach,INITIAL,41.7933,-70.5196,1
+Massachusetts,Salem,ACTIVE,42.5151,-70.9003,3
+Massachusetts,Salisbury,ACTIVE,42.8507,-70.8588,5
+Massachusetts,Sandwich,ACTIVE,41.7113,-70.4775,45
+Massachusetts,Sandwich,INITIAL,41.7113,-70.4775,1
+Massachusetts,Saugus,ACTIVE,42.4633,-71.0111,3
+Massachusetts,Shrewsbury,ACTIVE,42.2848,-71.7205,5
+Massachusetts,Siasconset,ACTIVE,41.2639,-69.9626,10
+Massachusetts,Somerville,ACTIVE,42.3829,-71.1028,3
+Massachusetts,Somerville,ACTIVE,42.3907,-71.0929,7
+Massachusetts,South Dennis,ACTIVE,41.7097,-70.1585,32
+Massachusetts,South Dennis,INITIAL,41.7097,-70.1585,2
+Massachusetts,South Easton,ACTIVE,42.0257,-71.0988,1
+Massachusetts,South Egremont,ACTIVE,42.1012,-73.4566,18
+Massachusetts,South Walpole,ACTIVE,42.0992,-71.2752,1
+Massachusetts,South Wellfleet,ACTIVE,41.9182,-69.9953,23
+Massachusetts,South Weymouth,ACTIVE,42.1751,-70.9495,8
+Massachusetts,South Yarmouth,ACTIVE,41.6739,-70.1949,270
+Massachusetts,South Yarmouth,INITIAL,41.6739,-70.1949,4
+Massachusetts,Stockbridge,ACTIVE,42.301,-73.3223,7
+Massachusetts,Stoneham,ACTIVE,42.4828,-71.0978,2
+Massachusetts,Stoughton,ACTIVE,42.1253,-71.1074,7
+Massachusetts,Swampscott,ACTIVE,42.4746,-70.9098,5
+Massachusetts,Tewksbury,ACTIVE,42.6028,-71.2232,4
+Massachusetts,Truro,ACTIVE,41.9988,-70.0564,20
+Massachusetts,Vineyard Haven,ACTIVE,41.45,-70.5937,85
+Massachusetts,Wakefield,ACTIVE,42.5009,-71.0685,3
+Massachusetts,Wakefield,INITIAL,42.5009,-71.0685,1
+Massachusetts,Walpole,ACTIVE,42.1444,-71.2544,4
+Massachusetts,Waltham,ACTIVE,42.3654,-71.2317,2
+Massachusetts,Waltham,ACTIVE,42.3943,-71.218,3
+Massachusetts,Waltham,ACTIVE,42.3986,-71.2451,6
+Massachusetts,Wareham,ACTIVE,41.7541,-70.7116,4
+Massachusetts,Watertown,ACTIVE,42.37,-71.1773,3
+Massachusetts,Wayland,ACTIVE,42.3486,-71.3588,1
+Massachusetts,Wellfleet,ACTIVE,41.9289,-70.0186,104
+Massachusetts,Wellfleet,INITIAL,41.9289,-70.0186,4
+Massachusetts,West Barnstable,ACTIVE,41.7002,-70.372,11
+Massachusetts,West Dennis,ACTIVE,41.6626,-70.1681,82
+Massachusetts,West Dennis,INITIAL,41.6626,-70.1681,1
+Massachusetts,West Harwich,ACTIVE,41.6694,-70.1135,10
+Massachusetts,West Newton,ACTIVE,42.3492,-71.2267,10
+Massachusetts,West Roxbury,ACTIVE,42.2787,-71.1589,1
+Massachusetts,West Stockbridge,ACTIVE,42.3348,-73.3825,25
+Massachusetts,West Tisbury,ACTIVE,41.4213,-70.6428,2
+Massachusetts,West Tisbury,INITIAL,41.4213,-70.6428,4
+Massachusetts,West Wareham,ACTIVE,41.7796,-70.7642,2
+Massachusetts,West Yarmouth,ACTIVE,41.6614,-70.2363,165
+Massachusetts,West Yarmouth,INITIAL,41.6614,-70.2363,2
+Massachusetts,Westborough,ACTIVE,42.2679,-71.6176,9
+Massachusetts,Weston,ACTIVE,42.3589,-71.3001,14
+Massachusetts,Westwood,ACTIVE,42.2148,-71.2104,3
+Massachusetts,Weymouth,ACTIVE,42.2113,-70.9582,10
+Massachusetts,Williamsburg,ACTIVE,42.4085,-72.778,2
+Massachusetts,Williamstown,ACTIVE,42.7089,-73.2036,7
+Massachusetts,Wilmington,ACTIVE,42.5581,-71.1723,5
+Massachusetts,Winthrop,ACTIVE,42.3763,-70.98,3
+Massachusetts,Woburn,ACTIVE,42.4829,-71.1574,11
+Massachusetts,Woods Hole,ACTIVE,41.5263,-70.6643,16
+Massachusetts,Worcester,ACTIVE,42.2541,-71.7746,4
+Massachusetts,Worcester,ACTIVE,42.2624,-71.8003,2
+Massachusetts,Worcester,ACTIVE,42.311,-71.7958,1
+Massachusetts,Yarmouth Port,ACTIVE,41.7051,-70.227,5
+Michigan,Acme,ACTIVE,44.7894,-85.4884,14
+Michigan,Acme,INITIAL,44.7894,-85.4884,1
+Michigan,Almont,ACTIVE,42.926,-83.0362,2
+Michigan,Ann Arbor,ACTIVE,42.2328,-83.7015,4
+Michigan,Ann Arbor,INITIAL,42.2328,-83.7015,3
+Michigan,Au Train,ACTIVE,46.4446,-86.9115,3
+Michigan,Augusta,ACTIVE,42.3563,-85.354,2
+Michigan,Battle Creek,ACTIVE,42.303,-85.1304,1
+Michigan,Battle Creek,INITIAL,42.303,-85.1304,2
+Michigan,Beaver Island,ACTIVE,45.6684,-85.5473,17
+Michigan,Bellaire,ACTIVE,44.9765,-85.2265,46
+Michigan,Bellaire,INITIAL,44.9765,-85.2265,1
+Michigan,Benzonia,ACTIVE,44.5955,-86.0961,8
+Michigan,Beulah,ACTIVE,44.6306,-86.0025,4
+Michigan,Boyne City,ACTIVE,45.2052,-85.0183,37
+Michigan,Boyne City,INITIAL,45.2052,-85.0183,1
+Michigan,Boyne Falls,ACTIVE,45.2116,-84.8916,54
+Michigan,Cadillac,ACTIVE,44.2504,-85.43,9
+Michigan,Cadillac,INITIAL,44.2504,-85.43,1
+Michigan,Caseville,ACTIVE,43.9429,-83.2659,38
+Michigan,Caseville,INITIAL,43.9429,-83.2659,2
+Michigan,Cassopolis,ACTIVE,41.8968,-85.9923,12
+Michigan,Cedarville,ACTIVE,46.0024,-84.3488,14
+Michigan,Central Lake,ACTIVE,45.0748,-85.2673,6
+Michigan,Charlevoix,ACTIVE,45.2654,-85.2297,52
+Michigan,Charlevoix,INITIAL,45.2654,-85.2297,5
+Michigan,Cheboygan,ACTIVE,45.608,-84.4867,12
+Michigan,Copper Harbor,ACTIVE,47.4688,-87.8884,17
+Michigan,Copper Harbor,INITIAL,47.4688,-87.8884,1
+Michigan,Cross Village,ACTIVE,45.6254,-85.0419,15
+Michigan,Croswell,ACTIVE,43.2622,-82.6337,6
+Michigan,Dearborn Heights,ACTIVE,42.3353,-83.2864,1
+Michigan,Decatur,ACTIVE,42.1012,-86.0338,38
+Michigan,Dimondale,INITIAL,42.6501,-84.6486,2
+Michigan,Douglas,ACTIVE,42.6369,-86.2022,2
+Michigan,Drummond Island,ACTIVE,46.0055,-83.7367,4
+Michigan,East Tawas,ACTIVE,44.3008,-83.4776,2
+Michigan,East Tawas,INITIAL,44.3008,-83.4776,3
+Michigan,Elk Rapids,ACTIVE,44.8955,-85.4082,19
+Michigan,Elk Rapids,INITIAL,44.8955,-85.4082,1
+Michigan,Empire,ACTIVE,44.8144,-85.9999,15
+Michigan,Fenton,ACTIVE,42.7851,-83.7294,3
+Michigan,Frankenmuth,ACTIVE,43.341,-83.7475,22
+Michigan,Frankenmuth,INITIAL,43.341,-83.7475,9
+Michigan,Frankfort,ACTIVE,44.6311,-86.2212,5
+Michigan,Fremont,ACTIVE,43.4652,-85.9626,4
+Michigan,Gaylord,ACTIVE,45.0125,-84.6723,48
+Michigan,Gaylord,INITIAL,45.0125,-84.6723,4
+Michigan,Glen Arbor,ACTIVE,44.8734,-85.9887,26
+Michigan,Grand Marais,ACTIVE,46.6529,-85.9836,14
+Michigan,Grand Marais,INITIAL,46.6529,-85.9836,1
+Michigan,Grand Rapids,ACTIVE,42.9659,-85.6527,1
+Michigan,Grand Rapids,INITIAL,42.9659,-85.6527,1
+Michigan,Grayling,ACTIVE,44.671,-84.6913,10
+Michigan,Harbor Springs,ACTIVE,45.5251,-85.0062,104
+Michigan,Harbor Springs,INITIAL,45.5251,-85.0062,20
+Michigan,Harsens Island,ACTIVE,42.585,-82.586,8
+Michigan,Hillsdale,ACTIVE,41.924,-84.6208,1
+Michigan,Holly,ACTIVE,42.7905,-83.6127,8
+Michigan,Honor,ACTIVE,44.6954,-86.0376,14
+Michigan,Honor,INITIAL,44.6954,-86.0376,3
+Michigan,Houghton,ACTIVE,47.1158,-88.558,22
+Michigan,Houghton,INITIAL,47.1158,-88.558,2
+Michigan,Houghton Lake,ACTIVE,44.3147,-84.7647,2
+Michigan,Howell,ACTIVE,42.6871,-83.914,1
+Michigan,Howell,INITIAL,42.6871,-83.914,1
+Michigan,Indian River,ACTIVE,45.427,-84.5956,29
+Michigan,Indian River,INITIAL,45.427,-84.5956,3
+Michigan,Interlochen,ACTIVE,44.6518,-85.8022,88
+Michigan,Jackson,ACTIVE,42.2545,-84.3875,9
+Michigan,Kalamazoo,ACTIVE,42.2809,-85.6863,6
+Michigan,Kalamazoo,INITIAL,42.2809,-85.6863,1
+Michigan,Kalkaska,ACTIVE,44.7355,-85.1207,7
+Michigan,Lake Leelanau,ACTIVE,44.9856,-85.7329,4
+Michigan,Leland,ACTIVE,45.0793,-85.9896,19
+Michigan,Leland,INITIAL,45.0793,-85.9896,1
+Michigan,Leonard,ACTIVE,42.8437,-83.1406,6
+Michigan,Ludington,ACTIVE,43.9688,-86.4403,28
+Michigan,Ludington,INITIAL,43.9688,-86.4403,3
+Michigan,Mackinac Island,ACTIVE,45.8578,-84.6245,283
+Michigan,Mackinac Island,INITIAL,45.8578,-84.6245,2
+Michigan,Mackinaw City,ACTIVE,45.7777,-84.7298,193
+Michigan,Mackinaw City,INITIAL,45.7777,-84.7298,13
+Michigan,Marenisco,ACTIVE,46.3551,-89.6774,2
+Michigan,Marquette,ACTIVE,46.5786,-87.4545,4
+Michigan,Marquette,INITIAL,46.5786,-87.4545,3
+Michigan,Mayville,ACTIVE,43.3562,-83.3725,1
+Michigan,Mears,ACTIVE,43.6825,-86.4533,2
+Michigan,Middleville,ACTIVE,42.6932,-85.4759,4
+Michigan,Monroe,ACTIVE,41.9293,-83.4448,3
+Michigan,Monroe,INITIAL,41.9293,-83.4448,2
+Michigan,Mount Pleasant,ACTIVE,43.6013,-84.7736,37
+Michigan,Mount Pleasant,INITIAL,43.6013,-84.7736,4
+Michigan,Munising,ACTIVE,46.3994,-86.6983,77
+Michigan,Muskegon,ACTIVE,43.1791,-86.1989,2
+Michigan,Muskegon,INITIAL,43.1791,-86.1989,1
+Michigan,New Baltimore,ACTIVE,42.6938,-82.8207,1
+Michigan,New Baltimore,INITIAL,42.6938,-82.8207,3
+Michigan,Newaygo,ACTIVE,43.4198,-85.7594,1
+Michigan,Newberry,ACTIVE,46.3438,-85.515,1
+Michigan,Newberry,INITIAL,46.3438,-85.515,1
+Michigan,Northport,ACTIVE,45.1157,-85.6173,3
+Michigan,Novi,ACTIVE,42.4735,-83.5224,1
+Michigan,Novi,ACTIVE,42.4992,-83.4773,1
+Michigan,Ortonville,ACTIVE,42.8409,-83.4288,57
+Michigan,Ortonville,INITIAL,42.8409,-83.4288,1
+Michigan,Oscoda,ACTIVE,44.4465,-83.3619,5
+Michigan,Paradise,ACTIVE,46.5951,-85.0973,8
+Michigan,Paradise,INITIAL,46.5951,-85.0973,1
+Michigan,Petoskey,ACTIVE,45.3559,-84.9133,213
+Michigan,Petoskey,INITIAL,45.3559,-84.9133,9
+Michigan,Port Austin,ACTIVE,44.0223,-82.9984,1
+Michigan,Rochester,ACTIVE,42.6626,-83.1837,2
+Michigan,Rodney,ACTIVE,43.7379,-85.3219,11
+Michigan,Romulus,ACTIVE,42.2223,-83.3966,3
+Michigan,Roscommon,ACTIVE,44.4839,-84.6601,1
+Michigan,Saginaw,ACTIVE,43.4732,-83.9514,2
+Michigan,Saginaw,INITIAL,43.4732,-83.9514,2
+Michigan,Saint Ignace,ACTIVE,45.9985,-84.6978,65
+Michigan,Saint Ignace,INITIAL,45.9985,-84.6978,17
+Michigan,Saint Joseph,ACTIVE,42.064,-86.4783,7
+Michigan,Saugatuck,ACTIVE,42.6456,-86.1655,8
+Michigan,Sault Sainte Marie,ACTIVE,46.4151,-84.2854,2
+Michigan,Sault Sainte Marie,INITIAL,46.4151,-84.2854,1
+Michigan,Shelby,ACTIVE,43.6079,-86.3615,6
+Michigan,South Haven,ACTIVE,42.4041,-86.2542,120
+Michigan,South Haven,INITIAL,42.4041,-86.2542,3
+Michigan,Stevensville,INITIAL,42.022,-86.5119,2
+Michigan,Suttons Bay,ACTIVE,44.9656,-85.6423,7
+Michigan,Tawas City,ACTIVE,44.2675,-83.5449,6
+Michigan,Thompsonville,ACTIVE,44.5198,-85.946,41
+Michigan,Three Rivers,ACTIVE,41.9596,-85.6371,9
+Michigan,Traverse City,ACTIVE,44.694,-85.6763,99
+Michigan,Traverse City,ACTIVE,44.7631,-85.6206,86
+Michigan,Traverse City,ACTIVE,44.8162,-85.5751,8
+Michigan,Traverse City,INITIAL,44.694,-85.6763,2
+Michigan,Traverse City,INITIAL,44.7631,-85.6206,1
+Michigan,Troy,ACTIVE,42.5597,-83.1138,2
+Michigan,Troy,ACTIVE,42.5991,-83.1789,8
+Michigan,Twin Lake,ACTIVE,43.3414,-86.1633,12
+Michigan,West Branch,ACTIVE,44.279,-84.2286,3
+Michigan,Wetmore,ACTIVE,46.3535,-86.6345,6
+Michigan,Wetmore,INITIAL,46.3535,-86.6345,3
+Michigan,Williamsburg,ACTIVE,44.802,-85.4347,14
+Michigan,Ypsilanti,ACTIVE,42.2325,-83.6336,3
+Michigan,Ypsilanti,INITIAL,42.2325,-83.6336,1
+Michigan,Zeeland,ACTIVE,42.8256,-86.0104,1
+Michigan,Zeeland,INITIAL,42.8256,-86.0104,1
+Minnesota,Aitkin,ACTIVE,46.4799,-93.6454,4
+Minnesota,Albert Lea,ACTIVE,43.6537,-93.3707,2
+Minnesota,Alexandria,ACTIVE,45.8817,-95.382,51
+Minnesota,Annandale,ACTIVE,45.2483,-94.1061,13
+Minnesota,Battle Lake,ACTIVE,46.3142,-95.7144,5
+Minnesota,Baxter,ACTIVE,46.3429,-94.2822,2
+Minnesota,Beaver Bay,ACTIVE,47.256,-91.3566,6
+Minnesota,Bemidji,ACTIVE,47.572,-94.8013,25
+Minnesota,Brainerd,ACTIVE,46.3502,-94.1,47
+Minnesota,Brainerd,INITIAL,46.3502,-94.1,2
+Minnesota,Cambridge,ACTIVE,45.5576,-93.2889,4
+Minnesota,Cass Lake,ACTIVE,47.3516,-94.6119,16
+Minnesota,Crane Lake,ACTIVE,48.2594,-92.4896,14
+Minnesota,Crosby,ACTIVE,46.5091,-93.9874,3
+Minnesota,Crosslake,ACTIVE,46.6773,-94.112799999999993,7
+Minnesota,Deerwood,ACTIVE,46.4446,-93.8849,25
+Minnesota,Deerwood,INITIAL,46.4446,-93.8849,3
+Minnesota,Detroit Lakes,ACTIVE,46.8172,-95.8453,94
+Minnesota,Detroit Lakes,INITIAL,46.8172,-95.8453,1
+Minnesota,Dilworth,ACTIVE,46.8782,-96.7022,2
+Minnesota,Duluth,ACTIVE,46.7606,-92.266,5
+Minnesota,Duluth,ACTIVE,46.7685,-92.0865,68
+Minnesota,Duluth,ACTIVE,46.7715,-92.1279,4
+Minnesota,Duluth,ACTIVE,46.8106,-92.0767,18
+Minnesota,Duluth,ACTIVE,46.8147,-92.1998,13
+Minnesota,Duluth,ACTIVE,46.8551,-92.0074,5
+Minnesota,Duluth,INITIAL,46.7685,-92.0865,1
+Minnesota,Eden Prairie,ACTIVE,44.8574,-93.4376,3
+Minnesota,Elko New Market,ACTIVE,44.5647,-93.3269,2
+Minnesota,Ely,ACTIVE,47.9034,-91.857,27
+Minnesota,Excelsior,ACTIVE,44.9007,-93.5791,4
+Minnesota,Excelsior,INITIAL,44.9007,-93.5791,1
+Minnesota,Gilbert,ACTIVE,47.4885,-92.4025,2
+Minnesota,Grand Marais,ACTIVE,47.7758,-90.3391,93
+Minnesota,Grand Marais,INITIAL,47.7758,-90.3391,9
+Minnesota,Grand Portage,ACTIVE,47.9591,-89.6989,9
+Minnesota,Grand Rapids,ACTIVE,47.2348,-93.5115,9
+Minnesota,Grove City,ACTIVE,45.1532,-94.6878,2
+Minnesota,Hackensack,ACTIVE,46.9884,-94.5033,13
+Minnesota,Hamel,ACTIVE,45.08,-93.576,4
+Minnesota,Hinckley,ACTIVE,46.0189,-92.8993,4
+Minnesota,Hinckley,INITIAL,46.0189,-92.8993,4
+Minnesota,Hopkins,ACTIVE,44.914,-93.4481,3
+Minnesota,Isanti,ACTIVE,45.4682,-93.2266,1
+Minnesota,Lake Elmo,ACTIVE,44.9946,-92.9056,3
+Minnesota,Lakeville,ACTIVE,44.6749,-93.2578,2
+Minnesota,Laporte,ACTIVE,47.2368,-94.7772,8
+Minnesota,Laporte,INITIAL,47.2368,-94.7772,1
+Minnesota,Longville,ACTIVE,47.0248,-94.1982,6
+Minnesota,Lutsen,ACTIVE,47.6831,-90.6381,18
+Minnesota,Mankato,ACTIVE,44.1538,-93.996,3
+Minnesota,Maple Grove,ACTIVE,45.0725,-93.4558,1
+Minnesota,Maple Lake,ACTIVE,45.2202,-93.9638,5
+Minnesota,Marshall,ACTIVE,44.4481,-95.7795,1
+Minnesota,Mcgregor,ACTIVE,46.6072,-93.3076,8
+Minnesota,Minneapolis,ACTIVE,44.8427,-93.2363,41
+Minnesota,Minneapolis,ACTIVE,44.9762,-93.2759,2
+Minnesota,Minneapolis,ACTIVE,45.0033,-93.4875,5
+Minnesota,Minneapolis,ACTIVE,45.1194,-93.3431,5
+Minnesota,Minneapolis,ACTIVE,45.1907,-93.3021,3
+Minnesota,Minneapolis,INITIAL,44.8427,-93.2363,8
+Minnesota,Mountain Iron,ACTIVE,47.5133,-92.6243,2
+Minnesota,Nisswa,ACTIVE,46.4929,-94.2976,96
+Minnesota,Nisswa,INITIAL,46.4929,-94.2976,10
+Minnesota,Onamia,ACTIVE,46.0902,-93.6867,20
+Minnesota,Onamia,INITIAL,46.0902,-93.6867,4
+Minnesota,Orr,ACTIVE,48.1439,-92.8561,2
+Minnesota,Osseo,ACTIVE,45.1284,-93.4589,7
+Minnesota,Owatonna,ACTIVE,44.0805,-93.2191,6
+Minnesota,Park Rapids,ACTIVE,46.9377,-95.0383,7
+Minnesota,Paynesville,ACTIVE,45.3988,-94.7157,4
+Minnesota,Pelican Rapids,ACTIVE,46.5994,-96.0662,3
+Minnesota,Pequot Lakes,ACTIVE,46.6257,-94.2684,26
+Minnesota,Pequot Lakes,INITIAL,46.6257,-94.2684,13
+Minnesota,Perham,ACTIVE,46.6031,-95.5818,7
+Minnesota,Pine River,ACTIVE,46.6938,-94.4477,22
+Minnesota,Rochester,ACTIVE,44.0032,-92.4835,2
+Minnesota,Rochester,ACTIVE,44.0105,-92.3973,5
+Minnesota,Rogers,ACTIVE,45.1715,-93.5814,4
+Minnesota,Saint Cloud,ACTIVE,45.5713,-94.2036,4
+Minnesota,Saint Paul,ACTIVE,44.7497,-93.2029,2
+Minnesota,Saint Paul,ACTIVE,44.8471,-93.1543,1
+Minnesota,Saint Paul,ACTIVE,44.8965,-93.1034,5
+Minnesota,Saint Paul,ACTIVE,44.9372,-93.1209,1
+Minnesota,Saint Paul,ACTIVE,44.9608,-93.1216,8
+Minnesota,Saint Paul,ACTIVE,44.9684,-93.0488,2
+Minnesota,Saint Paul,ACTIVE,45.08,-93.0223,3
+Minnesota,Shakopee,ACTIVE,44.7793,-93.5197,315
+Minnesota,Shakopee,INITIAL,44.7793,-93.5197,11
+Minnesota,Side Lake,ACTIVE,47.6671,-93.0424,7
+Minnesota,Silver Bay,ACTIVE,47.3585,-91.2205,1
+Minnesota,Spicer,ACTIVE,45.2241,-94.9116,3
+Minnesota,Stillwater,ACTIVE,45.0614,-92.8474,3
+Minnesota,Thief River Falls,ACTIVE,48.1191,-96.1811,1
+Minnesota,Tofte,ACTIVE,47.5738,-90.8363,9
+Minnesota,Two Harbors,ACTIVE,47.0394,-91.6783,31
+Minnesota,Two Harbors,INITIAL,47.0394,-91.6783,1
+Minnesota,Wahkon,ACTIVE,46.1121,-93.4972,4
+Minnesota,Walker,ACTIVE,47.0877,-94.5847,20
+Minnesota,Wayzata,ACTIVE,44.9847,-93.5422,1
+Minnesota,Worthington,ACTIVE,43.6286,-95.6059,2
+Mississippi,Hattiesburg,ACTIVE,31.3146,-89.3065,33
+Mississippi,Utica,ACTIVE,32.1229,-90.6047,19
+Missouri,Ballwin,ACTIVE,38.577,-90.5255,2
+Missouri,Blue Springs,ACTIVE,39.0152,-94.2604,3
+Missouri,Branson,ACTIVE,36.669,-93.2481,501
+Missouri,Branson,INITIAL,36.669,-93.2481,13
+Missouri,Chesterfield,ACTIVE,38.6318,-90.6142,1
+Missouri,Chesterfield,ACTIVE,38.6491,-90.5358,6
+Missouri,Columbia,ACTIVE,38.9382,-92.3049,3
+Missouri,De Soto,ACTIVE,38.1204,-90.5546,2
+Missouri,Fenton,ACTIVE,38.5015,-90.4683,7
+Missouri,Festus,ACTIVE,38.1879,-90.4286,1
+Missouri,Hollister,ACTIVE,36.6107,-93.2286,21
+Missouri,Hollister,INITIAL,36.6107,-93.2286,4
+Missouri,Joplin,ACTIVE,37.0969,-94.5051,2
+Missouri,Kansas City,ACTIVE,39.0323,-94.47,5
+Missouri,Kansas City,ACTIVE,39.0401,-94.4951,16
+Missouri,Kansas City,ACTIVE,39.1025,-94.5901,3
+Missouri,Kansas City,ACTIVE,39.1661,-94.464,7
+Missouri,Kansas City,ACTIVE,39.2547,-94.6354,1
+Missouri,Kansas City,ACTIVE,39.2627,-94.697,15
+Missouri,Kansas City,INITIAL,39.0401,-94.4951,1
+Missouri,Kansas City,INITIAL,39.2627,-94.697,1
+Missouri,Lake Ozark,ACTIVE,38.2003,-92.6684,54
+Missouri,Lake Ozark,INITIAL,38.2003,-92.6684,7
+Missouri,Lake Saint Louis,ACTIVE,38.7936,-90.7854,5
+Missouri,Lesterville,ACTIVE,37.482,-90.8425,9
+Missouri,Maryland Heights,ACTIVE,38.7229,-90.4474,51
+Missouri,Maryland Heights,INITIAL,38.7229,-90.4474,1
+Missouri,Monroe City,ACTIVE,39.6546,-91.723,15
+Missouri,Nelson,INITIAL,39.0104,-93.0311,2
+Missouri,Nixa,ACTIVE,37.0512,-93.2972,3
+Missouri,O Fallon,ACTIVE,38.8239,-90.7427,2
+Missouri,Osage Beach,ACTIVE,38.138,-92.6664,52
+Missouri,Pacific,ACTIVE,38.4922,-90.748,43
+Missouri,Pacific,INITIAL,38.4922,-90.748,1
+Missouri,Pevely,ACTIVE,38.2799,-90.4111,2
+Missouri,Pevely,INITIAL,38.2799,-90.4111,1
+Missouri,Potosi,ACTIVE,37.9549,-90.8415,9
+Missouri,Reeds Spring,ACTIVE,36.6907,-93.3447,4
+Missouri,Ridgedale,ACTIVE,36.5247,-93.2778,114
+Missouri,Ridgedale,INITIAL,36.5247,-93.2778,3
+Missouri,Roach,ACTIVE,38.1025,-92.9148,1
+Missouri,Rocheport,ACTIVE,38.9756,-92.5079,4
+Missouri,Rocky Mount,ACTIVE,38.2911,-92.7059,7
+Missouri,Rolla,ACTIVE,37.9485,-91.7603,10
+Missouri,Saint Louis,ACTIVE,38.4566,-90.3282,2
+Missouri,Saint Louis,ACTIVE,38.5222,-90.3021,12
+Missouri,Saint Louis,ACTIVE,38.5476,-90.3241,2
+Missouri,Saint Louis,ACTIVE,38.5781,-90.4256,2
+Missouri,Saint Louis,ACTIVE,38.6108,-90.292,2
+Missouri,Saint Louis,ACTIVE,38.6332,-90.2164,5
+Missouri,Saint Louis,ACTIVE,38.6346,-90.1913,7
+Missouri,Saint Louis,ACTIVE,38.6352,-90.1864,46
+Missouri,Springfield,ACTIVE,37.1136,-93.2896,3
+Missouri,Steelville,ACTIVE,37.8904,-91.3032,1
+Missouri,Troy,ACTIVE,39.0012,-90.9624,3
+Missouri,Union,ACTIVE,38.4456,-91.0206,2
+Missouri,Wentzville,ACTIVE,38.802,-90.8534,8
+Missouri,Wright City,ACTIVE,38.8097,-91.0329,2
+Montana,Alberton,ACTIVE,46.9806,-114.4921,2
+Montana,Anaconda,ACTIVE,46.1299,-112.9739,1
+Montana,Belgrade,ACTIVE,45.7801,-111.1439,6
+Montana,Big Arm,ACTIVE,47.7952,-114.302,3
+Montana,Big Sky,ACTIVE,45.2847,-111.3683,378
+Montana,Big Sky,INITIAL,45.2847,-111.3683,10
+Montana,Bigfork,ACTIVE,48.0633,-114.0726,40
+Montana,Bigfork,INITIAL,48.0633,-114.0726,3
+Montana,Billings,ACTIVE,45.7745,-108.5005,36
+Montana,Billings,ACTIVE,45.7813,-108.5727,19
+Montana,Billings,ACTIVE,45.9497,-108.599,4
+Montana,Bonner,ACTIVE,46.8733,-113.8645,2
+Montana,Bozeman,ACTIVE,45.6681,-111.2404,35
+Montana,Bozeman,ACTIVE,45.6693,-111.0431,67
+Montana,Bozeman,INITIAL,45.6681,-111.2404,2
+Montana,Browning,ACTIVE,48.5569,-113.0134,78
+Montana,Browning,INITIAL,48.5569,-113.0134,5
+Montana,Butte,ACTIVE,45.9979,-112.5988,11
+Montana,Butte,INITIAL,45.9979,-112.5988,1
+Montana,Clyde Park,INITIAL,45.8341,-110.6222,2
+Montana,Columbia Falls,ACTIVE,48.3534,-114.1784,202
+Montana,Columbia Falls,INITIAL,48.3534,-114.1784,149
+Montana,Cooke City,ACTIVE,45.0234,-109.907,23
+Montana,Cooke City,INITIAL,45.0234,-109.907,3
+Montana,East Glacier Park,ACTIVE,48.4457,-113.219,72
+Montana,East Glacier Park,INITIAL,48.4457,-113.219,3
+Montana,Ennis,ACTIVE,45.3545,-111.687,7
+Montana,Eureka,ACTIVE,48.8428,-115.0049,19
+Montana,Eureka,INITIAL,48.8428,-115.0049,1
+Montana,Forsyth,ACTIVE,46.2819,-106.6991,2
+Montana,Gallatin Gateway,ACTIVE,45.339,-111.2485,16
+Montana,Gallatin Gateway,INITIAL,45.339,-111.2485,1
+Montana,Gardiner,ACTIVE,45.0849,-110.5715,177
+Montana,Gardiner,INITIAL,45.0849,-110.5715,59
+Montana,Glasgow,ACTIVE,48.2034,-106.6094,2
+Montana,Great Falls,ACTIVE,47.5098,-111.3405,4
+Montana,Great Falls,ACTIVE,47.5098,-111.2734,5
+Montana,Hamilton,ACTIVE,46.2395,-114.1679,4
+Montana,Havre,ACTIVE,48.5561,-109.688,1
+Montana,Helena,ACTIVE,46.6131,-112.0213,3
+Montana,Hilger,ACTIVE,47.2539,-109.3599,4
+Montana,Hungry Horse,ACTIVE,48.3858,-114.061,10
+Montana,Kalispell,ACTIVE,48.2028,-114.3039,52
+Montana,Kalispell,INITIAL,48.2028,-114.3039,2
+Montana,Lake Mc Donald,ACTIVE,48.2989,-113.9497,2
+Montana,Lake Mc Donald,INITIAL,48.2989,-113.9497,1
+Montana,Livingston,ACTIVE,45.6546,-110.5609,17
+Montana,Miles City,ACTIVE,46.4075,-105.8332,5
+Montana,Missoula,ACTIVE,46.8224,-114.0265,4
+Montana,Missoula,ACTIVE,46.8467,-114.1698,7
+Montana,Missoula,ACTIVE,46.9006,-114.0027,47
+Montana,Missoula,ACTIVE,46.9776,-114.0619,27
+Montana,Missoula,INITIAL,46.9006,-114.0027,1
+Montana,Philipsburg,ACTIVE,46.3189,-113.3126,9
+Montana,Plains,ACTIVE,47.4734,-114.893,1
+Montana,Polebridge,ACTIVE,48.8206,-114.3836,6
+Montana,Polson,ACTIVE,47.6876,-114.1404,16
+Montana,Pray,ACTIVE,45.3331,-110.7137,10
+Montana,Red Lodge,ACTIVE,45.1965,-109.2688,40
+Montana,Red Lodge,INITIAL,45.1965,-109.2688,1
+Montana,Reed Point,ACTIVE,45.743899999999996,-109.5224,2
+Montana,Rollins,ACTIVE,47.9182,-114.225,1
+Montana,Shelby,ACTIVE,48.5037,-111.8391,1
+Montana,Sidney,ACTIVE,47.713,-104.1634,7
+Montana,Sidney,INITIAL,47.713,-104.1634,1
+Montana,Townsend,ACTIVE,46.3346,-111.4919,2
+Montana,Virginia City,ACTIVE,45.2938,-111.9461,6
+Montana,West Glacier,ACTIVE,48.5,-113.9787,209
+Montana,West Glacier,INITIAL,48.5,-113.9787,4
+Montana,West Yellowstone,ACTIVE,44.6621,-111.1041,244
+Montana,West Yellowstone,INITIAL,44.6621,-111.1041,4
+Montana,White Sulphur Springs,ACTIVE,46.6332,-111.0506,4
+Montana,Whitefish,ACTIVE,48.404,-114.3509,161
+Montana,Whitefish,INITIAL,48.404,-114.3509,2
+Nebraska,Arlington,ACTIVE,41.4417,-96.307,2
+Nebraska,Columbus,ACTIVE,41.4297,-97.3684,10
+Nebraska,Fairbury,ACTIVE,40.1488,-97.1839,1
+Nebraska,Grand Island,ACTIVE,40.9219,-98.3411,3
+Nebraska,Kearney,ACTIVE,40.7136,-99.0779,2
+Nebraska,Lemoyne,ACTIVE,41.3236,-101.7673,4
+Nebraska,Lincoln,ACTIVE,40.7893,-96.6938,2
+Nebraska,Norfolk,ACTIVE,42.0329,-97.4229,2
+Nebraska,North Platte,ACTIVE,41.1326,-100.7746,10
+Nebraska,Ogallala,ACTIVE,41.1275,-101.7107,8
+Nebraska,Omaha,ACTIVE,41.2656,-96.0493,6
+Nebraska,Scottsbluff,ACTIVE,41.872,-103.6619,1
+Nebraska,Sidney,ACTIVE,41.138,-102.9856,9
+Nebraska,Sidney,INITIAL,41.138,-102.9856,2
+Nebraska,Valentine,ACTIVE,42.8062,-100.6215,5
+Nevada,Carson City,ACTIVE,39.1507,-119.7459,2
+Nevada,Carson City,ACTIVE,39.1704,-119.7782,1
+Nevada,Dayton,ACTIVE,39.2806,-119.5287,2
+Nevada,Glenbrook,ACTIVE,39.0509,-119.9428,5
+Nevada,Incline Village,ACTIVE,39.2564,-119.9521,51
+Nevada,Incline Village,INITIAL,39.2564,-119.9521,2
+Nevada,Jean,ACTIVE,35.7368,-115.5405,14
+Nevada,Jean,INITIAL,35.7368,-115.5405,2
+Nevada,Las Vegas,ACTIVE,36.126,-115.1454,9
+Nevada,Laughlin,ACTIVE,35.1321,-114.6368,75
+Nevada,Minden,ACTIVE,39.0218,-119.7314,7
+Nevada,Reno,ACTIVE,39.4972,-119.7764,52
+Nevada,Reno,ACTIVE,39.5268,-119.8113,25
+Nevada,Reno,ACTIVE,39.5296,-119.8138,3
+Nevada,Reno,ACTIVE,39.5354,-119.8374,2
+Nevada,Reno,ACTIVE,39.5483,-119.7957,3
+Nevada,Sparks,ACTIVE,39.5473,-119.7556,26
+Nevada,Sparks,ACTIVE,39.6269,-119.7081,5
+Nevada,Stateline,ACTIVE,38.9643,-119.9068,219
+Nevada,Stateline,INITIAL,38.9643,-119.9068,4
+Nevada,Tonopah,ACTIVE,38.0672,-117.2301,3
+Nevada,Winnemucca,ACTIVE,40.9664,-117.7467,3
+Nevada,Zephyr Cove,ACTIVE,39.0204,-119.9114,119
+Nevada,Zephyr Cove,INITIAL,39.0204,-119.9114,1
+New Hampshire,Alton,ACTIVE,43.463,-71.2297,10
+New Hampshire,Alton,INITIAL,43.463,-71.2297,2
+New Hampshire,Alton Bay,ACTIVE,43.4845,-71.2489,3
+New Hampshire,Amherst,ACTIVE,42.8569,-71.6075,28
+New Hampshire,Antrim,ACTIVE,43.0595,-71.9387,8
+New Hampshire,Ashland,ACTIVE,43.7034,-71.6121,1
+New Hampshire,Barnstead,ACTIVE,43.3349,-71.2887,2
+New Hampshire,Barnstead,INITIAL,43.3349,-71.2887,2
+New Hampshire,Bartlett,ACTIVE,44.0802,-71.292,21
+New Hampshire,Bartlett,INITIAL,44.0802,-71.292,3
+New Hampshire,Bedford,ACTIVE,42.9403,-71.5213,8
+New Hampshire,Bretton Woods,ACTIVE,44.2581,-71.4412,69
+New Hampshire,Bretton Woods,INITIAL,44.2581,-71.4412,15
+New Hampshire,Bristol,ACTIVE,43.612,-71.7507,3
+New Hampshire,Brookline,ACTIVE,42.7384,-71.6663,17
+New Hampshire,Center Conway,ACTIVE,43.9878,-71.0607,7
+New Hampshire,Center Harbor,ACTIVE,43.7107,-71.4797,3
+New Hampshire,Center Ossipee,ACTIVE,43.7682,-71.1349,6
+New Hampshire,Center Sandwich,ACTIVE,43.8162,-71.4506,5
+New Hampshire,Center Tuftonboro,ACTIVE,43.6849,-71.2551,7
+New Hampshire,Claremont,ACTIVE,43.3679,-72.3422,13
+New Hampshire,Concord,ACTIVE,43.2185,-71.5277,13
+New Hampshire,Concord,ACTIVE,43.2817,-71.6595,2
+New Hampshire,Conway,ACTIVE,43.9742,-71.1503,7
+New Hampshire,Dublin,ACTIVE,42.8972,-72.0505,7
+New Hampshire,Effingham,ACTIVE,43.7012,-70.9834,12
+New Hampshire,Epping,ACTIVE,43.0411,-71.0764,1
+New Hampshire,Freedom,ACTIVE,43.8172,-71.0628,94
+New Hampshire,Gilford,ACTIVE,43.5475,-71.4072,31
+New Hampshire,Gilford,INITIAL,43.5475,-71.4072,6
+New Hampshire,Gilmanton,ACTIVE,43.4175,-71.4121,3
+New Hampshire,Gilmanton Iron Works,ACTIVE,43.4466,-71.2995,2
+New Hampshire,Glen,ACTIVE,44.1018,-71.1925,124
+New Hampshire,Glen,INITIAL,44.1018,-71.1925,3
+New Hampshire,Gorham,ACTIVE,44.4048,-71.1548,4
+New Hampshire,Grantham,ACTIVE,43.5103,-72.1334,12
+New Hampshire,Hampstead,ACTIVE,42.882,-71.1758,13
+New Hampshire,Hampton,ACTIVE,42.9359,-70.8243,399
+New Hampshire,Hampton,INITIAL,42.9359,-70.8243,8
+New Hampshire,Hanover,ACTIVE,43.7045,-72.285,3
+New Hampshire,Hebron,ACTIVE,43.7186,-71.827,31
+New Hampshire,Hebron,INITIAL,43.7186,-71.827,1
+New Hampshire,Hillsborough,ACTIVE,43.1141,-71.8992,14
+New Hampshire,Holderness,ACTIVE,43.7378,-71.6044,85
+New Hampshire,Jackson,ACTIVE,44.167,-71.1878,2
+New Hampshire,Jefferson,ACTIVE,44.3999,-71.4518,21
+New Hampshire,Keene,ACTIVE,42.9627,-72.2955,5
+New Hampshire,Laconia,ACTIVE,43.5727,-71.4781,145
+New Hampshire,Laconia,INITIAL,43.5727,-71.4781,4
+New Hampshire,Lancaster,ACTIVE,44.4921,-71.5591,2
+New Hampshire,Lincoln,ACTIVE,44.0582,-71.6727,128
+New Hampshire,Lincoln,INITIAL,44.0582,-71.6727,11
+New Hampshire,Littleton,ACTIVE,44.3112,-71.7768,9
+New Hampshire,Littleton,INITIAL,44.3112,-71.7768,1
+New Hampshire,Lyme,ACTIVE,43.7913,-72.162,6
+New Hampshire,Madison,ACTIVE,43.9152,-71.1254,11
+New Hampshire,Manchester,ACTIVE,42.9929,-71.4633,2
+New Hampshire,Meredith,ACTIVE,43.6311,-71.4997,62
+New Hampshire,Meredith,INITIAL,43.6311,-71.4997,7
+New Hampshire,Mirror Lake,ACTIVE,43.6366,-71.2729,18
+New Hampshire,Moultonborough,ACTIVE,43.7281,-71.3922,72
+New Hampshire,Moultonborough,INITIAL,43.7281,-71.3922,1
+New Hampshire,Nashua,ACTIVE,42.7717,-71.5132,1
+New Hampshire,New Castle,ACTIVE,43.0681,-70.7199,14
+New Hampshire,New Castle,INITIAL,43.0681,-70.7199,1
+New Hampshire,New Hampton,ACTIVE,43.6184,-71.6435,4
+New Hampshire,Newport,ACTIVE,43.3532,-72.1838,4
+New Hampshire,North Conway,ACTIVE,44.0336,-71.1238,228
+New Hampshire,North Conway,INITIAL,44.0336,-71.1238,28
+New Hampshire,North Hampton,ACTIVE,42.9776,-70.8267,22
+New Hampshire,North Hampton,INITIAL,42.9776,-70.8267,1
+New Hampshire,North Woodstock,ACTIVE,44.0354,-71.6863,24
+New Hampshire,North Woodstock,INITIAL,44.0354,-71.6863,2
+New Hampshire,Northwood,ACTIVE,43.207,-71.2004,14
+New Hampshire,Orford,ACTIVE,43.8941,-72.0978,14
+New Hampshire,Pelham,ACTIVE,42.7288,-71.3046,2
+New Hampshire,Piermont,ACTIVE,43.9906,-72.0813,28
+New Hampshire,Plymouth,ACTIVE,43.757,-71.6881,4
+New Hampshire,Portsmouth,ACTIVE,43.0729,-70.8052,128
+New Hampshire,Portsmouth,INITIAL,43.0729,-70.8052,2
+New Hampshire,Rindge,ACTIVE,42.7544,-72.019,4
+New Hampshire,Rumney,ACTIVE,43.8044,-71.848,1
+New Hampshire,Salem,ACTIVE,42.7846,-71.2176,89
+New Hampshire,Salem,INITIAL,42.7846,-71.2176,1
+New Hampshire,Sanbornton,ACTIVE,43.5496,-71.6003,7
+New Hampshire,Seabrook,ACTIVE,42.8854,-70.8646,19
+New Hampshire,Seabrook,INITIAL,42.8854,-70.8646,2
+New Hampshire,Strafford,ACTIVE,43.2506,-71.1625,5
+New Hampshire,Strafford,INITIAL,43.2506,-71.1625,1
+New Hampshire,Tilton,ACTIVE,43.4603,-71.5774,6
+New Hampshire,Twin Mountain,INITIAL,44.2689,-71.5471,2
+New Hampshire,Warren,ACTIVE,43.9447,-71.8901,8
+New Hampshire,Waterville Valley,ACTIVE,43.9501,-71.4995,16
+New Hampshire,Wentworth,ACTIVE,43.8685,-71.9097,4
+New Hampshire,Wentworth,INITIAL,43.8685,-71.9097,1
+New Hampshire,West Lebanon,ACTIVE,43.644,-72.3007,25
+New Hampshire,West Lebanon,INITIAL,43.644,-72.3007,1
+New Hampshire,Whitefield,INITIAL,44.3681,-71.6035,1
+New Hampshire,Wilmot,ACTIVE,43.4485,-71.9158,18
+New Hampshire,Winchester,ACTIVE,42.7788,-72.344,15
+New Hampshire,Wolfeboro,ACTIVE,43.595,-71.1908,54
+New Hampshire,Woodsville,ACTIVE,44.1523,-72.0373,5
+New Jersey,Absecon,ACTIVE,39.4218,-74.4949,2
+New Jersey,Asbury Park,ACTIVE,40.2507,-74.0486,26
+New Jersey,Atlantic City,ACTIVE,39.3664,-74.4317,596
+New Jersey,Atlantic City,INITIAL,39.3664,-74.4317,3
+New Jersey,Avalon,ACTIVE,39.0951,-74.7262,128
+New Jersey,Barnegat Light,ACTIVE,39.7512,-74.1146,2
+New Jersey,Basking Ridge,ACTIVE,40.6789,-74.5605,5
+New Jersey,Bayonne,ACTIVE,40.6664,-74.1192,2
+New Jersey,Beach Haven,ACTIVE,39.6411,-74.1922,170
+New Jersey,Beach Haven,INITIAL,39.6411,-74.1922,8
+New Jersey,Belle Mead,ACTIVE,40.4483,-74.6557,3
+New Jersey,Belmar,ACTIVE,40.1688,-74.072,3
+New Jersey,Blackwood,ACTIVE,39.7901,-75.0367,6
+New Jersey,Blairstown,ACTIVE,40.9674,-74.9651,8
+New Jersey,Bloomfield,ACTIVE,40.8035,-74.1891,5
+New Jersey,Bordentown,ACTIVE,40.1431,-74.7032,2
+New Jersey,Branchville,ACTIVE,41.1705,-74.75,3
+New Jersey,Brick,ACTIVE,40.0874,-74.1152,1
+New Jersey,Bridgewater,ACTIVE,40.5904,-74.6267,2
+New Jersey,Brigantine,ACTIVE,39.4101,-74.3646,1
+New Jersey,Cape May,ACTIVE,38.9711,-74.9214,381
+New Jersey,Cape May,INITIAL,38.9711,-74.9214,8
+New Jersey,Cape May Court House,ACTIVE,39.1378,-74.7806,76
+New Jersey,Cape May Court House,INITIAL,39.1378,-74.7806,1
+New Jersey,Cedar Knolls,ACTIVE,40.8223,-74.4569,4
+New Jersey,Cherry Hill,ACTIVE,39.8805,-74.9706,4
+New Jersey,Cherry Hill,ACTIVE,39.9074,-75.0008,1
+New Jersey,Cherry Hill,ACTIVE,39.9308,-75.0175,3
+New Jersey,Clementon,ACTIVE,39.8036,-75.0058,11
+New Jersey,Cliffside Park,ACTIVE,40.8222,-73.988,8
+New Jersey,Clifton,ACTIVE,40.8344,-74.1377,5
+New Jersey,Clifton,ACTIVE,40.8488,-74.1612,6
+New Jersey,Clifton,ACTIVE,40.8693,-74.1711,2
+New Jersey,Clifton,INITIAL,40.8488,-74.1612,1
+New Jersey,Clinton,ACTIVE,40.6412,-74.9088,1
+New Jersey,Deal,ACTIVE,40.2506,-74.002,23
+New Jersey,Deptford,ACTIVE,39.7539,-74.996,4
+New Jersey,East Brunswick,ACTIVE,40.4284,-74.4064,1
+New Jersey,East Hanover,INITIAL,40.8192,-74.3636,1
+New Jersey,Eatontown,ACTIVE,40.3028,-74.0698,2
+New Jersey,Edison,ACTIVE,40.5171,-74.3973,1
+New Jersey,Edison,ACTIVE,40.5325,-74.3375,2
+New Jersey,Edison,ACTIVE,40.578,-74.3589,5
+New Jersey,Elmer,ACTIVE,39.5691,-75.163,3
+New Jersey,Elmwood Park,ACTIVE,40.9069,-74.1209,3
+New Jersey,Fairfield,ACTIVE,40.8822,-74.296,39
+New Jersey,Fairfield,INITIAL,40.8822,-74.296,9
+New Jersey,Fairview,ACTIVE,40.817,-74,2
+New Jersey,Flanders,ACTIVE,40.8453,-74.7019,1
+New Jersey,Flemington,ACTIVE,40.518,-74.8453,7
+New Jersey,Fort Lee,ACTIVE,40.8503,-73.9745,9
+New Jersey,Garfield,ACTIVE,40.8789,-74.1081,1
+New Jersey,Hackettstown,ACTIVE,40.8529,-74.8343,23
+New Jersey,Hackettstown,INITIAL,40.8529,-74.8343,8
+New Jersey,Haskell,ACTIVE,41.0301,-74.2965,3
+New Jersey,Hillsborough,ACTIVE,40.4775,-74.6272,4
+New Jersey,Hoboken,ACTIVE,40.7445,-74.0329,3
+New Jersey,Hope,ACTIVE,40.9197,-74.9846,44
+New Jersey,Jackson,ACTIVE,40.121,-74.3017,99
+New Jersey,Jackson,INITIAL,40.121,-74.3017,16
+New Jersey,Jersey City,ACTIVE,40.702,-74.089,17
+New Jersey,Jersey City,ACTIVE,40.718,-74.0754,3
+New Jersey,Jersey City,ACTIVE,40.7221,-74.0469,23
+New Jersey,Jersey City,ACTIVE,40.7324,-74.0431,2
+New Jersey,Keansburg,ACTIVE,40.4414,-74.1306,10
+New Jersey,Lavallette,ACTIVE,39.9775,-74.0704,40
+New Jersey,Lavallette,INITIAL,39.9775,-74.0704,3
+New Jersey,Lawrence Township,ACTIVE,40.2171,-74.7429,5
+New Jersey,Lebanon,ACTIVE,40.6466,-74.829,1
+New Jersey,Ledgewood,ACTIVE,40.878,-74.6554,1
+New Jersey,Little Falls,ACTIVE,40.8835,-74.2144,8
+New Jersey,Long Branch,ACTIVE,40.2992,-73.9912,24
+New Jersey,Long Branch,INITIAL,40.2992,-73.9912,1
+New Jersey,Lumberton,ACTIVE,39.9651,-74.8067,7
+New Jersey,Manahawkin,ACTIVE,39.705,-74.2604,10
+New Jersey,Manahawkin,INITIAL,39.705,-74.2604,1
+New Jersey,Manchester Township,ACTIVE,39.9515,-74.1521,4
+New Jersey,Mantua,ACTIVE,39.787,-75.1785,2
+New Jersey,Maple Shade,ACTIVE,39.9511,-74.9946,6
+New Jersey,Marlton,ACTIVE,39.8845,-74.9067,8
+New Jersey,Marmora,ACTIVE,39.2586,-74.6593,41
+New Jersey,Mays Landing,ACTIVE,39.432,-74.6962,2
+New Jersey,Medford,ACTIVE,39.8637,-74.8223,23
+New Jersey,Medford,INITIAL,39.8637,-74.8223,1
+New Jersey,Metuchen,ACTIVE,40.5449,-74.3517,1
+New Jersey,Middleville,ACTIVE,41.0559,-74.8629,6
+New Jersey,Millstone Township,ACTIVE,40.147,-74.609,2
+New Jersey,Monmouth Junction,ACTIVE,40.3869,-74.5558,1
+New Jersey,Monroe Township,ACTIVE,40.3192,-74.4285,2
+New Jersey,Montague,ACTIVE,41.3023,-74.754,3
+New Jersey,Mount Arlington,ACTIVE,40.9283,-74.6363,2
+New Jersey,Mount Holly,ACTIVE,40.0086,-74.7896,7
+New Jersey,New Brunswick,ACTIVE,40.4891,-74.4482,1
+New Jersey,Newton,ACTIVE,41.0695,-74.8069,8
+New Jersey,Normandy Beach,ACTIVE,40.0026,-74.0604,6
+New Jersey,North Bergen,INITIAL,40.7939,-74.0258,2
+New Jersey,Norwood,ACTIVE,40.9952,-73.9582,3
+New Jersey,Nutley,ACTIVE,40.8185,-74.1589,6
+New Jersey,Oakhurst,ACTIVE,40.2648,-74.0184,7
+New Jersey,Oakhurst,INITIAL,40.2648,-74.0184,1
+New Jersey,Ocean City,ACTIVE,39.2709,-74.5875,358
+New Jersey,Ocean City,INITIAL,39.2709,-74.5875,14
+New Jersey,Ocean Grove,ACTIVE,40.2116,-74.0093,4
+New Jersey,Ocean View,ACTIVE,39.2154,-74.7075,21
+New Jersey,Ocean View,INITIAL,39.2154,-74.7075,1
+New Jersey,Old Bridge,ACTIVE,40.398,-74.3236,2
+New Jersey,Parsippany,ACTIVE,40.8621,-74.4117,1
+New Jersey,Penns Grove,ACTIVE,39.6994,-75.4495,1
+New Jersey,Pennsville,ACTIVE,39.6491,-75.5155,1
+New Jersey,Piscataway,ACTIVE,40.5515,-74.459,2
+New Jersey,Pittstown,ACTIVE,40.5992,-74.9576,7
+New Jersey,Plainsboro,ACTIVE,40.3324,-74.5688,3
+New Jersey,Point Pleasant Beach,ACTIVE,40.0806,-74.0595,177
+New Jersey,Point Pleasant Beach,INITIAL,40.0806,-74.0595,4
+New Jersey,Pompton Lakes,ACTIVE,40.9993,-74.2876,7
+New Jersey,Pompton Plains,ACTIVE,40.9655,-74.3016,2
+New Jersey,Port Murray,ACTIVE,40.7906,-74.9167,3
+New Jersey,Rio Grande,ACTIVE,39.0196,-74.8756,97
+New Jersey,Saddle River,ACTIVE,41.0443,-74.0981,2
+New Jersey,Sea Isle City,ACTIVE,39.154,-74.7005,105
+New Jersey,Sea Isle City,INITIAL,39.154,-74.7005,4
+New Jersey,Seaside Heights,ACTIVE,39.9466,-74.0765,220
+New Jersey,Seaside Heights,INITIAL,39.9466,-74.0765,4
+New Jersey,Seaside Park,ACTIVE,39.9222,-74.0795,23
+New Jersey,Somerdale,ACTIVE,39.84,-75.0309,2
+New Jersey,Somers Point,ACTIVE,39.3223,-74.6008,1
+New Jersey,South Orange,ACTIVE,40.7465,-74.2575,14
+New Jersey,South Plainfield,ACTIVE,40.5839,-74.4147,1
+New Jersey,Spring Lake,ACTIVE,40.1542,-74.0379,8
+New Jersey,Spring Lake,INITIAL,40.1542,-74.0379,1
+New Jersey,Stone Harbor,ACTIVE,39.0533,-74.762,90
+New Jersey,Stone Harbor,INITIAL,39.0533,-74.762,1
+New Jersey,Strathmere,ACTIVE,39.1992,-74.6554,21
+New Jersey,Strathmere,INITIAL,39.1992,-74.6554,1
+New Jersey,Thorofare,ACTIVE,39.8457,-75.1943,1
+New Jersey,Titusville,ACTIVE,40.3077,-74.8655,2
+New Jersey,Toms River,ACTIVE,39.9771,-74.1565,2
+New Jersey,Township Of Washington,ACTIVE,40.9883,-74.0635,1
+New Jersey,Trenton,ACTIVE,40.2336,-74.6576,3
+New Jersey,Trenton,ACTIVE,40.251,-74.7627,6
+New Jersey,Trenton,ACTIVE,40.2655,-74.8168,5
+New Jersey,Union,ACTIVE,40.6952,-74.2677,1
+New Jersey,Ventnor City,ACTIVE,39.346,-74.4723,10
+New Jersey,Vernon,ACTIVE,41.185,-74.5332,31
+New Jersey,Vernon,INITIAL,41.185,-74.5332,28
+New Jersey,Warren,ACTIVE,40.6318,-74.5105,2
+New Jersey,Wayne,ACTIVE,40.9471,-74.2466,4
+New Jersey,West Milford,ACTIVE,41.0915,-74.375,9
+New Jersey,Whitehouse Station,ACTIVE,40.6156,-74.7724,1
+New Jersey,Wildwood,ACTIVE,38.9949,-74.838,1676
+New Jersey,Wildwood,INITIAL,38.9949,-74.838,45
+New Jersey,Williamstown,ACTIVE,39.665,-74.971,3
+New Mexico,Albuquerque,ACTIVE,35.0448,-106.6893,2
+New Mexico,Albuquerque,ACTIVE,35.1104,-106.5781,8
+New Mexico,Albuquerque,ACTIVE,35.1421,-106.7041,2
+New Mexico,Albuquerque,ACTIVE,35.1868,-106.6652,3
+New Mexico,Alto,ACTIVE,33.431399999999996,-105.6776,2
+New Mexico,Angel Fire,ACTIVE,36.3849,-105.2439,23
+New Mexico,Angel Fire,INITIAL,36.3849,-105.2439,1
+New Mexico,Bernalillo,ACTIVE,35.3285,-106.5309,8
+New Mexico,Clovis,ACTIVE,34.4126,-103.2214,2
+New Mexico,Farmington,ACTIVE,36.7412,-108.1797,3
+New Mexico,Gallup,ACTIVE,35.5065,-108.7414,2
+New Mexico,Glorieta,ACTIVE,35.5288,-105.7477,126
+New Mexico,Las Cruces,ACTIVE,32.3224,-106.8041,3
+New Mexico,Red River,ACTIVE,36.6659,-105.4694,50
+New Mexico,Red River,INITIAL,36.6659,-105.4694,1
+New Mexico,Rio Rancho,ACTIVE,35.2493,-106.6818,2
+New Mexico,Ruidoso,ACTIVE,33.3474,-105.651,10
+New Mexico,Santa Fe,ACTIVE,35.5335,-105.926,2
+New Mexico,Santa Fe,ACTIVE,35.6567,-106.0152,4
+New Mexico,Santa Fe,ACTIVE,35.6975,-105.9821,4
+New Mexico,Santa Fe,ACTIVE,35.8195,-105.9886,3
+New Mexico,Taos Ski Valley,ACTIVE,36.596,-105.4545,6
+New Mexico,Taos Ski Valley,INITIAL,36.596,-105.4545,3
+New York,Albany,ACTIVE,42.656,-73.7964,1
+New York,Alexandria Bay,ACTIVE,44.3359,-75.9177,15
+New York,Amagansett,ACTIVE,40.9895,-72.0959,23
+New York,Amagansett,INITIAL,40.9895,-72.0959,1
+New York,Ancramdale,ACTIVE,42.0381,-73.5819,10
+New York,Andes,ACTIVE,42.1569,-74.7887,6
+New York,Aquebogue,ACTIVE,40.9445,-72.627,1
+New York,Ardsley On Hudson,ACTIVE,41.0259,-73.8718,1
+New York,Astoria,ACTIVE,40.7763,-73.911,2
+New York,Atlantic Beach,ACTIVE,40.5887,-73.7255,61
+New York,Auburn,ACTIVE,42.93,-76.5626,3
+New York,Auburn,INITIAL,42.93,-76.5626,2
+New York,Babylon,ACTIVE,40.6957,-73.3257,9
+New York,Barker,ACTIVE,43.3368,-78.542,1
+New York,Barryville,ACTIVE,41.4912,-74.9152,21
+New York,Batavia,ACTIVE,43.0003,-78.1929,2
+New York,Bay Shore,ACTIVE,40.7051,-73.243,10
+New York,Bay Shore,INITIAL,40.7051,-73.243,1
+New York,Bear Mountain,ACTIVE,41.1609,-74.0608,7
+New York,Bemus Point,ACTIVE,42.1513,-79.3581,6
+New York,Blauvelt,ACTIVE,41.0626,-73.9629,1
+New York,Bloomingburg,ACTIVE,41.5644,-74.4304,21
+New York,Blue Mountain Lake,ACTIVE,43.8553,-74.4435,35
+New York,Blue Mountain Lake,INITIAL,43.8553,-74.4435,2
+New York,Blue Point,ACTIVE,40.7501,-73.0352,1
+New York,Bohemia,ACTIVE,40.7678,-73.1163,6
+New York,Bolton Landing,ACTIVE,43.5766,-73.6714,142
+New York,Brant Lake,ACTIVE,43.6989,-73.7205,49
+New York,Briarcliff Manor,ACTIVE,41.1444,-73.835,9
+New York,Bridgehampton,ACTIVE,40.9339,-72.3077,46
+New York,Bridgehampton,INITIAL,40.9339,-72.3077,1
+New York,Bronx,ACTIVE,40.9,-73.8622,1
+New York,Brooklyn,ACTIVE,40.5767,-73.9884,222
+New York,Brooklyn,ACTIVE,40.6016,-73.9968,10
+New York,Brooklyn,ACTIVE,40.6451,-73.945,4
+New York,Brooklyn,ACTIVE,40.6669,-73.9828,1
+New York,Brooklyn,ACTIVE,40.6705,-73.894,1
+New York,Brooklyn,ACTIVE,40.679,-73.9644,3
+New York,Brooklyn,ACTIVE,40.6794,-73.9496,1
+New York,Brooklyn,ACTIVE,40.6924,-73.9666,1
+New York,Brooklyn,ACTIVE,40.694,-73.9903,15
+New York,Brooklyn,ACTIVE,40.7095,-73.9563,2
+New York,Brooklyn,ACTIVE,40.7272,-73.9498,5
+New York,Brooklyn,INITIAL,40.5767,-73.9884,2
+New York,Buffalo,INITIAL,42.9744,-78.7949,3
+New York,Burlingham,ACTIVE,41.5901,-74.3821,9
+New York,Burlingham,INITIAL,41.5901,-74.3821,1
+New York,Callicoon,ACTIVE,41.7673,-75.0563,45
+New York,Callicoon,INITIAL,41.7673,-75.0563,7
+New York,Calverton,ACTIVE,40.9297,-72.7423,56
+New York,Calverton,INITIAL,40.9297,-72.7423,1
+New York,Canandaigua,ACTIVE,42.868899999999996,-77.2846,27
+New York,Canandaigua,INITIAL,42.868899999999996,-77.2846,2
+New York,Carmel,ACTIVE,41.4432,-73.6815,9
+New York,Catskill,ACTIVE,42.2276,-73.8985,2
+New York,Catskill,INITIAL,42.2276,-73.8985,1
+New York,Center Moriches,ACTIVE,40.7997,-72.797,6
+New York,Centereach,ACTIVE,40.8705,-73.0822,2
+New York,Centerport,ACTIVE,40.8929,-73.3754,3
+New York,Central Valley,ACTIVE,41.3268,-74.122,1
+New York,Chautauqua,ACTIVE,42.2098,-79.4667,20
+New York,Chautauqua,INITIAL,42.2098,-79.4667,1
+New York,Chestertown,ACTIVE,43.6451,-73.8066,5
+New York,Chestertown,INITIAL,43.6451,-73.8066,1
+New York,Claryville,ACTIVE,41.9657,-74.5293,17
+New York,Claryville,INITIAL,41.9657,-74.5293,1
+New York,Clayton,INITIAL,44.1442,-76.062,1
+New York,Clifton Park,ACTIVE,42.8499,-73.7851,9
+New York,Cold Spring,ACTIVE,41.4414,-73.9335,27
+New York,Cooperstown,ACTIVE,42.7005,-74.9243,36
+New York,Copake,ACTIVE,42.1113,-73.5526,78
+New York,Coram,ACTIVE,40.885,-73.0069,1
+New York,Corfu,ACTIVE,42.9777,-78.3929,5
+New York,Corning,ACTIVE,42.1383,-77.0475,5
+New York,Corona,ACTIVE,40.7453,-73.8611,67
+New York,Corona,INITIAL,40.7453,-73.8611,1
+New York,Cortland,ACTIVE,42.5952,-76.1857,1
+New York,Cutchogue,ACTIVE,41.0139,-72.4803,8
+New York,Darien Center,ACTIVE,42.8948,-78.3878,213
+New York,Darien Center,INITIAL,42.8948,-78.3878,11
+New York,Diamond Point,ACTIVE,43.5156,-73.7001,50
+New York,Eagle Bay,ACTIVE,43.8167,-74.8862,15
+New York,Earlton,ACTIVE,42.3527,-73.9062,11
+New York,East Durham,ACTIVE,42.386,-74.1117,3
+New York,East Hampton,ACTIVE,40.993,-72.179,60
+New York,East Hampton,INITIAL,40.993,-72.179,1
+New York,East Jewett,ACTIVE,42.2469,-74.1353,3
+New York,East Moriches,ACTIVE,40.809,-72.7538,1
+New York,East Setauket,ACTIVE,40.9426,-73.1116,25
+New York,East Setauket,INITIAL,40.9426,-73.1116,2
+New York,East Syracuse,ACTIVE,43.0734,-76.0558,4
+New York,Elizaville,ACTIVE,42.0902,-73.7818,31
+New York,Ellenville,ACTIVE,41.7218,-74.4141,18
+New York,Ellenville,INITIAL,41.7218,-74.4141,1
+New York,Fallsburg,ACTIVE,41.7273,-74.6154,4
+New York,Far Rockaway,ACTIVE,40.6006,-73.758,2
+New York,Ferndale,ACTIVE,41.7349,-74.7345,4
+New York,Fishers Island,ACTIVE,41.2639,-72.0178,27
+New York,Fishers Island,INITIAL,41.2639,-72.0178,1
+New York,Fishkill,ACTIVE,41.5404,-73.8979,17
+New York,Fort Ann,ACTIVE,43.4285,-73.4784,13
+New York,Fort Ann,INITIAL,43.4285,-73.4784,1
+New York,Fresh Meadows,ACTIVE,40.7374,-73.7951,1
+New York,Gainesville,ACTIVE,42.619,-78.1795,1
+New York,Garden City,ACTIVE,40.7245,-73.6487,1
+New York,Gardiner,ACTIVE,41.6576,-74.1672,7
+New York,Geneva,ACTIVE,42.8637,-76.9913,3
+New York,Gilboa,ACTIVE,42.4108,-74.4003,9
+New York,Glen Cove,ACTIVE,40.865,-73.6277,4
+New York,Glen Spey,ACTIVE,41.4858,-74.7995,40
+New York,Greenfield Park,ACTIVE,41.7281,-74.5201,36
+New York,Greenport,ACTIVE,41.1039,-72.3674,66
+New York,Greenville,ACTIVE,42.4113,-74.0222,4
+New York,Greenwood Lake,ACTIVE,41.2101,-74.3033,1
+New York,Hampton Bays,ACTIVE,40.8726,-72.5202,33
+New York,Hampton Bays,INITIAL,40.8726,-72.5202,2
+New York,Hancock,ACTIVE,41.9914,-75.2647,91
+New York,Hempstead,ACTIVE,40.7049,-73.6176,1
+New York,Henderson,ACTIVE,43.8467,-76.2352,1
+New York,Henrietta,ACTIVE,43.0483,-77.6122,2
+New York,Highmount,INITIAL,42.1443,-74.4899,6
+New York,Holbrook,ACTIVE,40.7964,-73.0718,1
+New York,Holland,ACTIVE,42.6396,-78.5439,2
+New York,Holmes,ACTIVE,41.5325,-73.6628,3
+New York,Holmes,INITIAL,41.5325,-73.6628,1
+New York,Holtsville,ACTIVE,40.8105,-73.0416,1
+New York,Hopewell Junction,ACTIVE,41.5603,-73.7939,36
+New York,Hudson,ACTIVE,42.247,-73.7552,3
+New York,Huguenot,ACTIVE,41.4179,-74.631,1
+New York,Hunter,ACTIVE,42.2333,-74.2416,49
+New York,Hunter,INITIAL,42.2333,-74.2416,5
+New York,Huntington,ACTIVE,40.8676,-73.4102,7
+New York,Huntington Station,ACTIVE,40.8143,-73.3634,1
+New York,Indian Lake,ACTIVE,43.7606,-74.2766,1
+New York,Inlet,ACTIVE,43.748,-74.7846,20
+New York,Inwood,ACTIVE,40.6205,-73.7474,5
+New York,Islip,ACTIVE,40.7348,-73.2221,1
+New York,Ithaca,ACTIVE,42.4406,-76.4966,1
+New York,Jamaica,ACTIVE,40.6775,-73.7758,14
+New York,Johnsburg,ACTIVE,43.586,-73.9165,1
+New York,Kattskill Bay,ACTIVE,43.4754,-73.6272,20
+New York,Keene,ACTIVE,44.2555,-73.7915,1
+New York,Keene Valley,ACTIVE,44.2024,-73.7731,10
+New York,Keeseville,ACTIVE,44.4999,-73.4745,2
+New York,Kerhonkson,ACTIVE,41.7939,-74.3035,9
+New York,Kings Park,ACTIVE,40.8861,-73.2438,1
+New York,Kingston,ACTIVE,41.9697,-74.0668,5
+New York,Lake George,ACTIVE,43.4167,-73.6975,506
+New York,Lake George,INITIAL,43.4167,-73.6975,28
+New York,Lake Grove,ACTIVE,40.8567,-73.1168,1
+New York,Lake Luzerne,ACTIVE,43.3165,-73.8228,2
+New York,Lake Placid,ACTIVE,44.2796,-73.982,295
+New York,Lake Placid,INITIAL,44.2796,-73.982,5
+New York,Larchmont,ACTIVE,40.9351,-73.7571,11
+New York,Latham,ACTIVE,42.7462,-73.763,2
+New York,Liberty,ACTIVE,41.7962,-74.7484,37
+New York,Liverpool,ACTIVE,43.1528,-76.2235,2
+New York,Livonia,ACTIVE,42.8135,-77.6635,6
+New York,Loch Sheldrake,ACTIVE,41.7789,-74.6614,13
+New York,Locust Valley,ACTIVE,40.8817,-73.5927,18
+New York,Locust Valley,INITIAL,40.8817,-73.5927,1
+New York,Long Beach,ACTIVE,40.5877,-73.6595,3
+New York,Long Island City,ACTIVE,40.7446,-73.9345,3
+New York,Long Lake,ACTIVE,43.9477,-74.4662,31
+New York,Long Lake,INITIAL,43.9477,-74.4662,3
+New York,Lyon Mountain,ACTIVE,44.8043,-73.973,10
+New York,Mahopac,ACTIVE,41.3717,-73.7508,2
+New York,Mamaroneck,ACTIVE,40.9525,-73.735,22
+New York,Manhasset,ACTIVE,40.7934,-73.6888,6
+New York,Manorville,ACTIVE,40.8421,-72.8002,3
+New York,Massapequa,ACTIVE,40.6682,-73.4588,2
+New York,Mattituck,ACTIVE,40.9943,-72.5363,2
+New York,Middle Island,ACTIVE,40.8782,-72.9525,4
+New York,Middletown,ACTIVE,41.4512,-74.4701,4
+New York,Middletown,INITIAL,41.4512,-74.4701,4
+New York,Milford,ACTIVE,42.6148,-74.9685,45
+New York,Minerva,ACTIVE,43.7811,-73.9835,16
+New York,Minerva,INITIAL,43.7811,-73.9835,1
+New York,Monroe,ACTIVE,41.3286,-74.1885,6
+New York,Montauk,ACTIVE,41.0459,-71.944,172
+New York,Monticello,ACTIVE,41.6516,-74.7007,59
+New York,Monticello,INITIAL,41.6516,-74.7007,4
+New York,Mount Sinai,ACTIVE,40.9271,-73.0127,1
+New York,Nassau,ACTIVE,42.5271,-73.6118,17
+New York,Nesconset,ACTIVE,40.8462,-73.1482,1
+New York,New Hyde Park,ACTIVE,40.7294,-73.6828,1
+New York,New Paltz,ACTIVE,41.7464,-74.1092,95
+New York,New Paltz,INITIAL,41.7464,-74.1092,14
+New York,New Suffolk,ACTIVE,40.9915,-72.4759,3
+New York,New York,ACTIVE,40.7085,-74.0135,3
+New York,New York,ACTIVE,40.7101,-74.0013,5
+New York,New York,ACTIVE,40.7139,-74.007,1
+New York,New York,ACTIVE,40.7143,-74.006,104
+New York,New York,ACTIVE,40.7146,-74.015,18
+New York,New York,ACTIVE,40.7152,-73.9877,3
+New York,New York,ACTIVE,40.7166,-74.0146,1
+New York,New York,ACTIVE,40.7185,-74.0025,5
+New York,New York,ACTIVE,40.7255,-73.9983,9
+New York,New York,ACTIVE,40.7262,-73.9796,3
+New York,New York,ACTIVE,40.7313,-73.9892,21
+New York,New York,ACTIVE,40.7339,-74.0054,25
+New York,New York,ACTIVE,40.7375,-73.9813,10
+New York,New York,ACTIVE,40.7402,-73.9996,2
+New York,New York,ACTIVE,40.7443,-73.9781,12
+New York,New York,ACTIVE,40.7484,-73.9967,32
+New York,New York,ACTIVE,40.7517,-73.9707,6
+New York,New York,ACTIVE,40.7547,-73.9925,19
+New York,New York,ACTIVE,40.7571,-73.9657,3
+New York,New York,ACTIVE,40.7593,-73.9798,2
+New York,New York,ACTIVE,40.7597,-73.9918,44
+New York,New York,ACTIVE,40.7618,-73.9505,1
+New York,New York,ACTIVE,40.7651,-73.9858,20
+New York,New York,ACTIVE,40.7651,-73.9638,1
+New York,New York,ACTIVE,40.7685,-73.9588,5
+New York,New York,ACTIVE,40.7763,-73.9529,7
+New York,New York,ACTIVE,40.778,-73.9884,4
+New York,New York,ACTIVE,40.7808,-73.9772,2
+New York,New York,ACTIVE,40.7816,-73.9511,5
+New York,New York,ACTIVE,40.7864,-73.9764,1
+New York,New York,ACTIVE,40.7975,-73.9683,4
+New York,New York,ACTIVE,40.8019,-73.9531,2
+New York,New York,ACTIVE,40.8116,-73.955,2
+New York,New York,ACTIVE,40.8246,-73.9507,1
+New York,New York,ACTIVE,40.8583,-73.9296,1
+New York,New York,INITIAL,40.7101,-74.0013,1
+New York,New York,INITIAL,40.7143,-74.006,2
+New York,New York,INITIAL,40.7152,-73.9877,1
+New York,New York,INITIAL,40.7484,-73.9967,1
+New York,New York,INITIAL,40.7651,-73.9858,1
+New York,Niagara Falls,ACTIVE,43.0878,-79.037,255
+New York,Niagara Falls,ACTIVE,43.0908,-78.9644,16
+New York,Niagara Falls,ACTIVE,43.0955,-79.0414,8
+New York,Niagara Falls,INITIAL,43.0878,-79.037,10
+New York,Niagara Falls,INITIAL,43.0908,-78.9644,1
+New York,North Creek,ACTIVE,43.6978,-73.986,4
+New York,North Hudson,ACTIVE,43.9869,-73.7121,4
+New York,North Java,ACTIVE,42.6776,-78.338,16
+New York,Northport,ACTIVE,40.9051,-73.3309,4
+New York,Nyack,ACTIVE,41.0914,-73.9252,10
+New York,Ocean Beach,ACTIVE,40.6443,-73.1613,44
+New York,Ocean Beach,INITIAL,40.6443,-73.1613,1
+New York,Old Forge,ACTIVE,43.7435,-74.8935,148
+New York,Old Forge,INITIAL,43.7435,-74.8935,4
+New York,Old Westbury,ACTIVE,40.7882,-73.5875,7
+New York,Orient,ACTIVE,41.1437,-72.2879,7
+New York,Orient,INITIAL,41.1437,-72.2879,1
+New York,Oyster Bay,ACTIVE,40.866,-73.5272,10
+New York,Paradox,ACTIVE,43.8914,-73.645,16
+New York,Parksville,ACTIVE,41.8517,-74.7359,45
+New York,Patchogue,ACTIVE,40.7609,-72.9871,1
+New York,Patterson,ACTIVE,41.4888,-73.5815,5
+New York,Pelham,ACTIVE,40.9045,-73.8073,24
+New York,Pelham,INITIAL,40.9045,-73.8073,1
+New York,Penn Yan,ACTIVE,42.6645,-77.0569,26
+New York,Penn Yan,INITIAL,42.6645,-77.0569,1
+New York,Port Jefferson,ACTIVE,40.9457,-73.0611,1
+New York,Purchase,ACTIVE,41.0384,-73.7156,15
+New York,Putnam Station,ACTIVE,43.756,-73.4123,8
+New York,Putnam Valley,ACTIVE,41.3728,-73.8502,28
+New York,Queensbury,ACTIVE,43.329,-73.6818,158
+New York,Queensbury,INITIAL,43.329,-73.6818,11
+New York,Quogue,ACTIVE,40.8226,-72.6012,2
+New York,Raquette Lake,ACTIVE,43.8131,-74.6574,38
+New York,Raquette Lake,INITIAL,43.8131,-74.6574,1
+New York,Ray Brook,ACTIVE,44.2802,-74.0795,11
+New York,Ray Brook,INITIAL,44.2802,-74.0795,3
+New York,Remsenburg,ACTIVE,40.8086,-72.7064,1
+New York,Rhinebeck,ACTIVE,41.9272,-73.8888,16
+New York,Ridge,ACTIVE,40.9018,-72.8881,4
+New York,Riverhead,ACTIVE,40.9262,-72.652,7
+New York,Rock Hill,ACTIVE,41.6134,-74.5872,23
+New York,Rockaway Park,ACTIVE,40.5766,-73.8428,3
+New York,Roscoe,ACTIVE,41.9609,-74.9346,25
+New York,Rosedale,ACTIVE,40.6621,-73.7353,4
+New York,Roslyn,ACTIVE,40.7984,-73.6477,14
+New York,Round Top,ACTIVE,42.2678,-74.0523,5
+New York,Round Top,INITIAL,42.2678,-74.0523,2
+New York,Rye,ACTIVE,40.9734,-73.6907,10
+New York,Sag Harbor,ACTIVE,40.982,-72.3067,53
+New York,Sag Harbor,INITIAL,40.982,-72.3067,2
+New York,Saint James,ACTIVE,40.8813,-73.1591,1
+New York,Saranac Lake,ACTIVE,44.3243,-74.133,18
+New York,Saranac Lake,INITIAL,44.3243,-74.133,1
+New York,Saratoga Springs,ACTIVE,43.0708,-73.7408,12
+New York,Saugerties,ACTIVE,42.0738,-73.9797,6
+New York,Sayville,ACTIVE,40.7459,-73.0859,5
+New York,Scarsdale,ACTIVE,40.9927,-73.7995,1
+New York,Schenectady,ACTIVE,42.88,-73.9913,3
+New York,Schroon Lake,ACTIVE,43.8412,-73.7674,59
+New York,Schroon Lake,INITIAL,43.8412,-73.7674,1
+New York,Shandaken,ACTIVE,42.1363,-74.3774,43
+New York,Shelter Island,ACTIVE,41.064,-72.3366,34
+New York,Shelter Island Heights,ACTIVE,41.084,-72.3559,87
+New York,Shelter Island Heights,INITIAL,41.084,-72.3559,3
+New York,Silver Bay,ACTIVE,43.6978,-73.5071,12
+New York,Smithtown,ACTIVE,40.8542,-73.2138,4
+New York,South Fallsburg,ACTIVE,41.7042,-74.6444,28
+New York,Southampton,ACTIVE,40.9043,-72.4103,86
+New York,Southampton,INITIAL,40.9043,-72.4103,1
+New York,Southfields,ACTIVE,41.248,-74.1762,1
+New York,Southold,ACTIVE,41.0555,-72.429,8
+New York,Speculator,ACTIVE,43.5042,-74.3667,16
+New York,Spencer,ACTIVE,42.2467,-76.4899,4
+New York,Stamford,ACTIVE,42.4174,-74.6098,17
+New York,Stony Creek,ACTIVE,43.4214,-73.9495,8
+New York,Stony Point,ACTIVE,41.2292,-73.9962,7
+New York,Sunnyside,ACTIVE,40.7436,-73.9216,2
+New York,Swan Lake,ACTIVE,41.7285,-74.8341,68
+New York,Swan Lake,INITIAL,41.7285,-74.8341,3
+New York,Syracuse,ACTIVE,43.041,-76.1489,1
+New York,Taberg,ACTIVE,43.3366,-75.6027,6
+New York,Tupper Lake,ACTIVE,44.232,-74.4905,7
+New York,Utica,ACTIVE,43.1067,-75.2314,2
+New York,Verbank,ACTIVE,41.7227,-73.7184,16
+New York,Verona,ACTIVE,43.1473,-75.5724,28
+New York,Walden,ACTIVE,41.5596,-74.1764,7
+New York,Warrensburg,ACTIVE,43.5003,-73.792,45
+New York,Warwick,ACTIVE,41.2656,-74.3604,4
+New York,Water Mill,ACTIVE,40.9209,-72.3491,9
+New York,Water Mill,INITIAL,40.9209,-72.3491,1
+New York,Wellesley Island,ACTIVE,44.3213,-76.0172,1
+New York,Wellesley Island,INITIAL,44.3213,-76.0172,3
+New York,West Babylon,ACTIVE,40.7135,-73.3546,12
+New York,West Monroe,ACTIVE,43.2882,-76.0797,1
+New York,Westhampton Beach,ACTIVE,40.8295,-72.6473,18
+New York,Westport,ACTIVE,44.205,-73.4702,6
+New York,White Plains,ACTIVE,41.0141,-73.7552,1
+New York,White Plains,ACTIVE,41.033,-73.7652,1
+New York,Willsboro,ACTIVE,44.3604,-73.3963,4
+New York,Windham,ACTIVE,42.3175,-74.262,8
+New York,Wingdale,ACTIVE,41.6538,-73.5556,37
+New York,Wingdale,INITIAL,41.6538,-73.5556,2
+New York,Woodbourne,ACTIVE,41.7708,-74.5928,23
+New York,Woodbury,ACTIVE,40.8154,-73.4716,1
+New York,Woodgate,ACTIVE,43.5249,-75.1428,2
+New York,Wurtsboro,ACTIVE,41.5877,-74.5039,21
+New York,Yaphank,ACTIVE,40.837,-72.9174,2
+New York,Yonkers,ACTIVE,40.9176,-73.8593,3
+North Carolina,Arapahoe,ACTIVE,35.0055,-76.8149,31
+North Carolina,Asheville,ACTIVE,35.5393,-82.518,29
+North Carolina,Asheville,ACTIVE,35.5971,-82.5565,7
+North Carolina,Asheville,ACTIVE,35.6374,-82.5646,26
+North Carolina,Atlantic Beach,ACTIVE,34.6991,-76.7402,43
+North Carolina,Avon,ACTIVE,35.3521,-75.5104,98
+North Carolina,Avon,INITIAL,35.3521,-75.5104,3
+North Carolina,Balsam,ACTIVE,35.4268,-83.0851,2
+North Carolina,Banner Elk,ACTIVE,36.1705,-81.8412,26
+North Carolina,Banner Elk,INITIAL,36.1705,-81.8412,13
+North Carolina,Beaufort,ACTIVE,34.758,-76.6228,1
+North Carolina,Black Mountain,ACTIVE,35.5986,-82.2902,81
+North Carolina,Black Mountain,INITIAL,35.5986,-82.2902,1
+North Carolina,Brevard,ACTIVE,35.2208,-82.7404,50
+North Carolina,Bryson City,ACTIVE,35.4241,-83.4392,4
+North Carolina,Bryson City,INITIAL,35.4241,-83.4392,1
+North Carolina,Buxton,ACTIVE,35.2677,-75.5424,15
+North Carolina,Buxton,INITIAL,35.2677,-75.5424,2
+North Carolina,Calabash,ACTIVE,33.9047,-78.5744,16
+North Carolina,Calabash,INITIAL,33.9047,-78.5744,1
+North Carolina,Camden,ACTIVE,36.325,-76.15,4
+North Carolina,Carthage,ACTIVE,35.3061,-79.3969,5
+North Carolina,Cedar Mountain,ACTIVE,35.1508,-82.6374,3
+North Carolina,Charlotte,ACTIVE,35.1287,-80.9338,111
+North Carolina,Charlotte,ACTIVE,35.1355,-80.7669,1
+North Carolina,Charlotte,ACTIVE,35.1796,-80.8559,9
+North Carolina,Charlotte,ACTIVE,35.2081,-80.8583,1
+North Carolina,Charlotte,ACTIVE,35.22,-80.7881,9
+North Carolina,Charlotte,INITIAL,35.1287,-80.9338,4
+North Carolina,Cherokee,ACTIVE,35.5094,-83.3144,50
+North Carolina,Corolla,ACTIVE,36.3206,-75.8132,378
+North Carolina,Corolla,INITIAL,36.3206,-75.8132,14
+North Carolina,Dunn,ACTIVE,35.3165,-78.6151,1
+North Carolina,Emerald Isle,ACTIVE,34.6662,-77.026,18
+North Carolina,Fontana Dam,ACTIVE,35.4231,-83.7795,36
+North Carolina,Fontana Dam,INITIAL,35.4231,-83.7795,20
+North Carolina,Garner,ACTIVE,35.6813,-78.5975,2
+North Carolina,Grandy,ACTIVE,36.2339,-75.8768,2
+North Carolina,Greensboro,ACTIVE,36.022,-79.7821,1
+North Carolina,Harkers Island,ACTIVE,34.6966,-76.5583,2
+North Carolina,Harkers Island,INITIAL,34.6966,-76.5583,1
+North Carolina,Hatteras,ACTIVE,35.2193,-75.6902,3
+North Carolina,Hendersonville,ACTIVE,35.3192,-82.5,60
+North Carolina,Hendersonville,ACTIVE,35.3613,-82.4264,38
+North Carolina,Hickory,ACTIVE,35.6884,-81.3612,2
+North Carolina,Highlands,ACTIVE,35.0705,-83.216,5
+North Carolina,Highlands,INITIAL,35.0705,-83.216,2
+North Carolina,Holly Ridge,ACTIVE,34.4954,-77.555,9
+North Carolina,Holly Springs,ACTIVE,35.6263,-78.8458,1
+North Carolina,Horse Shoe,ACTIVE,35.3432,-82.5565,4
+North Carolina,Kill Devil Hills,ACTIVE,36.0088,-75.6757,197
+North Carolina,Kill Devil Hills,INITIAL,36.0088,-75.6757,7
+North Carolina,Kitty Hawk,ACTIVE,36.0646,-75.7057,165
+North Carolina,Kitty Hawk,INITIAL,36.0646,-75.7057,13
+North Carolina,Lake Junaluska,ACTIVE,35.5258,-82.9704,38
+North Carolina,Lake Lure,ACTIVE,35.4464,-82.1752,25
+North Carolina,Lake Toxaway,ACTIVE,35.1451,-82.9191,9
+North Carolina,Leland,ACTIVE,34.268,-78.0578,6
+North Carolina,Littleton,ACTIVE,36.4169,-77.8528,6
+North Carolina,Manteo,ACTIVE,35.8948,-75.6714,13
+North Carolina,Marion,ACTIVE,35.6819,-82.018,7
+North Carolina,Morehead City,ACTIVE,34.7253,-76.7531,5
+North Carolina,Nags Head,ACTIVE,35.8865,-75.6038,341
+North Carolina,Nags Head,INITIAL,35.8865,-75.6038,16
+North Carolina,Oak Island,ACTIVE,33.9161,-78.1255,37
+North Carolina,Ocean Isle Beach,ACTIVE,33.8913,-78.4298,16
+North Carolina,Ocracoke,ACTIVE,35.1397,-75.8931,3
+North Carolina,Ocracoke,INITIAL,35.1397,-75.8931,1
+North Carolina,Old Fort,ACTIVE,35.6169,-82.1686,1
+North Carolina,Oriental,ACTIVE,35.0364,-76.7015,2
+North Carolina,Point Harbor,ACTIVE,36.0781,-75.7983,1
+North Carolina,Raleigh,ACTIVE,35.8077,-78.6463,9
+North Carolina,Raleigh,ACTIVE,35.8334,-78.5799,9
+North Carolina,Raleigh,ACTIVE,35.8887,-78.6393,9
+North Carolina,Ridgecrest,ACTIVE,35.6186,-82.3005,9
+North Carolina,Robbinsville,ACTIVE,35.3259,-83.7888,11
+North Carolina,Rodanthe,ACTIVE,35.5935,-75.4679,21
+North Carolina,Sapphire,ACTIVE,35.0666,-83.0019,9
+North Carolina,Smithfield,ACTIVE,35.5068,-78.3479,2
+North Carolina,Sneads Ferry,ACTIVE,34.5426,-77.4038,19
+North Carolina,Sophia,ACTIVE,35.8298,-79.8986,3
+North Carolina,Southport,ACTIVE,33.9654,-78.0359,61
+North Carolina,Sunset Beach,ACTIVE,33.8836,-78.52,5
+North Carolina,Supply,ACTIVE,34.0231,-78.2884,8
+North Carolina,Swansboro,ACTIVE,34.6991,-77.135,2
+North Carolina,Waves,ACTIVE,35.565,-75.4663,10
+North Carolina,Weaverville,ACTIVE,35.7126,-82.5491,2
+North Carolina,Weaverville,INITIAL,35.7126,-82.5491,1
+North Carolina,West Jefferson,ACTIVE,36.3776,-81.4872,2
+North Carolina,Wilmington,ACTIVE,34.3033,-77.8039,4
+North Carolina,Zirconia,ACTIVE,35.2153,-82.4574,51
+North Dakota,Beulah,ACTIVE,47.2707,-101.8075,5
+North Dakota,Bismarck,ACTIVE,46.7231,-100.678,21
+North Dakota,Bismarck,ACTIVE,46.8083,-100.7837,2
+North Dakota,Bowman,ACTIVE,46.1733,-103.402,2
+North Dakota,Dickinson,ACTIVE,46.8057,-102.7565,21
+North Dakota,Epping,ACTIVE,48.2764,-103.3763,1
+North Dakota,Fargo,ACTIVE,46.7932,-96.8397,2
+North Dakota,Fargo,ACTIVE,46.8564,-96.8123,11
+North Dakota,Fargo,ACTIVE,46.9209,-96.8318,5
+North Dakota,Garrison,ACTIVE,47.6675,-101.6142,10
+North Dakota,Grand Forks,ACTIVE,47.9272,-97.0672,6
+North Dakota,Jamestown,ACTIVE,46.921,-98.7455,3
+North Dakota,Medora,ACTIVE,46.9387,-103.5632,163
+North Dakota,Medora,INITIAL,46.9387,-103.5632,6
+North Dakota,Minot,ACTIVE,48.2291,-101.2985,24
+North Dakota,Minot,ACTIVE,48.3306,-101.3156,5
+North Dakota,Rugby,ACTIVE,48.2545,-99.9899,1
+North Dakota,Valley City,ACTIVE,46.9268,-98.0033,2
+North Dakota,West Fargo,ACTIVE,46.8907,-96.9258,3
+North Dakota,Williston,ACTIVE,48.2257,-103.649,2
+Ohio,Akron,ACTIVE,41.0334,-81.4385,2
+Ohio,Akron,ACTIVE,41.1075,-81.5006,2
+Ohio,Akron,ACTIVE,41.1552,-81.6314,2
+Ohio,Akron,INITIAL,41.1552,-81.6314,1
+Ohio,Beachwood,ACTIVE,41.4701,-81.5232,25
+Ohio,Bellefontaine,ACTIVE,40.3605,-83.7571,2
+Ohio,Carrollton,ACTIVE,40.5787,-81.0818,3
+Ohio,Chardon,ACTIVE,41.5719,-81.2056,17
+Ohio,Cincinnati,ACTIVE,39.1072,-84.502,5
+Ohio,Cincinnati,ACTIVE,39.1642,-84.4522,2
+Ohio,Cincinnati,ACTIVE,39.1848,-84.3448,3
+Ohio,Cincinnati,ACTIVE,39.2638,-84.4092,2
+Ohio,Cincinnati,ACTIVE,39.2839,-84.4744,6
+Ohio,College Corner,ACTIVE,39.5755,-84.805,7
+Ohio,Columbus,ACTIVE,39.9523,-83.078,1
+Ohio,Columbus,ACTIVE,40.0201,-83.0118,2
+Ohio,Columbus,INITIAL,40.0201,-83.0118,1
+Ohio,Covington,ACTIVE,40.1176,-84.3496,2
+Ohio,Cuyahoga Falls,ACTIVE,41.1401,-81.479,5
+Ohio,Cuyahoga Falls,INITIAL,41.1401,-81.479,2
+Ohio,Defiance,ACTIVE,41.2799,-84.3626,5
+Ohio,Findlay,ACTIVE,41.0449,-83.6457,9
+Ohio,Fremont,ACTIVE,41.3498,-83.1181,3
+Ohio,Galena,ACTIVE,40.2011,-82.8749,4
+Ohio,Geneva,ACTIVE,41.8029,-80.9474,36
+Ohio,Geneva,INITIAL,41.8029,-80.9474,4
+Ohio,Goshen,ACTIVE,39.2209,-84.1188,3
+Ohio,Greenville,ACTIVE,40.0987,-84.6342,1
+Ohio,Greenwich,ACTIVE,41.0407,-82.5133,3
+Ohio,Heath,ACTIVE,40.0197,-82.3875,1
+Ohio,Huron,ACTIVE,41.3757,-82.5386,8
+Ohio,Huron,INITIAL,41.3757,-82.5386,3
+Ohio,Independence,ACTIVE,41.3809,-81.6642,8
+Ohio,Kelleys Island,ACTIVE,41.6008,-82.7068,30
+Ohio,Kelleys Island,INITIAL,41.6008,-82.7068,7
+Ohio,Kimbolton,ACTIVE,40.1589,-81.549,9
+Ohio,Lakeside Marblehead,ACTIVE,41.5247,-82.7766,54
+Ohio,Lakeside Marblehead,INITIAL,41.5247,-82.7766,8
+Ohio,Lewis Center,ACTIVE,40.1879,-82.987799999999993,3
+Ohio,Lewis Center,INITIAL,40.1879,-82.987799999999993,1
+Ohio,Lima,ACTIVE,40.7641,-84.0973,4
+Ohio,Loveland,ACTIVE,39.2445,-84.2588,5
+Ohio,Lucasville,ACTIVE,38.8938,-82.994,2
+Ohio,Madison,ACTIVE,41.8054,-81.0588,1
+Ohio,Mansfield,ACTIVE,40.6824,-82.5286,3
+Ohio,Mason,ACTIVE,39.3357,-84.3149,205
+Ohio,Mason,INITIAL,39.3357,-84.3149,4
+Ohio,Middle Bass,ACTIVE,41.6835,-82.8047,5
+Ohio,Middle Bass,INITIAL,41.6835,-82.8047,1
+Ohio,Middletown,ACTIVE,39.5321,-84.3896,3
+Ohio,Milan,ACTIVE,41.3111,-82.6126,19
+Ohio,Milan,INITIAL,41.3111,-82.6126,4
+Ohio,Millersburg,ACTIVE,40.5567,-81.8324,1
+Ohio,Monroe,ACTIVE,39.4413,-84.3652,3
+Ohio,Morrow,ACTIVE,39.3476,-84.1181,5
+Ohio,Mount Sterling,ACTIVE,39.7175,-83.2806,7
+Ohio,Newark,ACTIVE,40.0724,-82.4046,3
+Ohio,Newbury,ACTIVE,41.475,-81.2345,4
+Ohio,North Lawrence,ACTIVE,40.8387,-81.6299,4
+Ohio,Oregon,ACTIVE,41.6418,-83.4714,12
+Ohio,Oregonia,ACTIVE,39.4145,-84.0511,10
+Ohio,Plain City,ACTIVE,40.0974,-83.269,3
+Ohio,Port Clinton,ACTIVE,41.512,-82.9377,129
+Ohio,Port Clinton,INITIAL,41.512,-82.9377,2
+Ohio,Put In Bay,ACTIVE,41.6514,-82.8226,396
+Ohio,Put In Bay,INITIAL,41.6514,-82.8226,37
+Ohio,Saint Louisville,ACTIVE,40.1818,-82.356,3
+Ohio,Sandusky,ACTIVE,41.4349,-82.7063,2034
+Ohio,Sandusky,INITIAL,41.4349,-82.7063,125
+Ohio,Senecaville,ACTIVE,39.9337,-81.458,3
+Ohio,Springfield,ACTIVE,39.9242,-83.8088,4
+Ohio,Tipp City,ACTIVE,39.942,-84.1663,2
+Ohio,Toledo,ACTIVE,41.6028,-83.6292,22
+Ohio,Toledo,ACTIVE,41.6298,-83.5773,1
+Ohio,Toledo,ACTIVE,41.6712,-83.606,5
+Ohio,Troy,ACTIVE,40.0374,-84.2032,3
+Ohio,Vermilion,ACTIVE,41.41,-82.3554,6
+Ohio,Waynesville,ACTIVE,39.5285,-84.0815,3
+Oklahoma,Bixby,ACTIVE,35.942,-95.8833,1
+Oklahoma,Broken Arrow,ACTIVE,36.0447,-95.8079,5
+Oklahoma,Edmond,ACTIVE,35.6215,-97.4733,4
+Oklahoma,Gore,ACTIVE,35.5418,-95.1095,3
+Oklahoma,Oklahoma City,ACTIVE,35.3267,-97.3534,2
+Oklahoma,Oklahoma City,ACTIVE,35.334,-97.4768,3
+Oklahoma,Oklahoma City,ACTIVE,35.4312,-97.4913,22
+Oklahoma,Oklahoma City,ACTIVE,35.5835,-97.5638,1
+Oklahoma,Skiatook,ACTIVE,36.3725,-96.0123,1
+Oregon,Agness,ACTIVE,42.5748,-124.0648,4
+Oregon,Agness,INITIAL,42.5748,-124.0648,1
+Oregon,Albany,ACTIVE,44.626,-123.057,3
+Oregon,Astoria,ACTIVE,46.1558,-123.798,17
+Oregon,Astoria,INITIAL,46.1558,-123.798,2
+Oregon,Bend,ACTIVE,43.8431,-121.5764,201
+Oregon,Bend,ACTIVE,44.0223,-121.2985,10
+Oregon,Bend,ACTIVE,44.0915,-121.4073,20
+Oregon,Bend,ACTIVE,44.0928,-121.2936,5
+Oregon,Bend,INITIAL,43.8431,-121.5764,3
+Oregon,Bend,INITIAL,44.0223,-121.2985,2
+Oregon,Bend,INITIAL,44.0928,-121.2936,1
+Oregon,Brookings,ACTIVE,42.0526,-124.284,4
+Oregon,Canby,ACTIVE,45.2514,-122.6832,2
+Oregon,Cannon Beach,ACTIVE,45.8918,-123.9615,26
+Oregon,Cannon Beach,INITIAL,45.8918,-123.9615,1
+Oregon,Coos Bay,ACTIVE,43.2151,-124.1984,2
+Oregon,Corvallis,ACTIVE,44.5904,-123.2722,3
+Oregon,Crater Lake,ACTIVE,42.9465,-122.1769,20
+Oregon,Crater Lake,INITIAL,42.9465,-122.1769,5
+Oregon,Eugene,ACTIVE,44.0185,-123.0998,7
+Oregon,Eugene,ACTIVE,44.1005,-123.1334,4
+Oregon,Florence,ACTIVE,43.9881,-124.0993,5
+Oregon,Gleneden Beach,ACTIVE,44.8812,-124.0343,9
+Oregon,Gold Beach,ACTIVE,42.4073,-124.4218,6
+Oregon,Gold Beach,INITIAL,42.4073,-124.4218,1
+Oregon,Grants Pass,ACTIVE,42.4638,-123.3457,2
+Oregon,Hillsboro,ACTIVE,45.5387,-122.9636,3
+Oregon,Hood River,ACTIVE,45.6711,-121.5391,10
+Oregon,La Grande,ACTIVE,45.3304,-118.0852,1
+Oregon,Lincoln City,ACTIVE,44.9089,-123.9888,3
+Oregon,Madras,ACTIVE,44.6376,-121.1349,2
+Oregon,Mcminnville,ACTIVE,45.2097,-123.2043,2
+Oregon,Medford,ACTIVE,42.3363,-122.8398,3
+Oregon,Molalla,ACTIVE,45.1223,-122.5756,2
+Oregon,Otis,ACTIVE,45.0138,-123.9332,12
+Oregon,Pacific City,ACTIVE,45.205,-123.959,33
+Oregon,Portland,ACTIVE,45.4094,-122.8014,1
+Oregon,Portland,ACTIVE,45.4762,-122.5596,3
+Oregon,Portland,ACTIVE,45.5078,-122.6897,2
+Oregon,Portland,ACTIVE,45.527,-122.6854,2
+Oregon,Powell Butte,ACTIVE,44.2415,-121.0113,3
+Oregon,Prospect,ACTIVE,42.7544,-122.509,2
+Oregon,Rainier,ACTIVE,46.0646,-122.9671,2
+Oregon,Redmond,ACTIVE,44.2767,-121.1896,4
+Oregon,Roseburg,ACTIVE,43.227,-123.5158,5
+Oregon,Roseburg,ACTIVE,43.2297,-123.2343,1
+Oregon,Saint Helens,ACTIVE,45.8608,-122.8282,2
+Oregon,Salem,ACTIVE,44.9039,-123.0445,5
+Oregon,Seaside,ACTIVE,45.9932,-123.9226,33
+Oregon,Seaside,INITIAL,45.9932,-123.9226,2
+Oregon,Sisters,ACTIVE,44.3165,-121.5091,9
+Oregon,Springfield,ACTIVE,44.0561,-122.9171,6
+Oregon,Springfield,ACTIVE,44.0611,-123.0153,2
+Oregon,The Dalles,ACTIVE,45.5995,-121.1905,3
+Oregon,Warm Springs,ACTIVE,44.7468,-121.2909,1
+Oregon,Wedderburn,ACTIVE,42.6093,-124.3886,5
+Oregon,Wedderburn,INITIAL,42.6093,-124.3886,1
+Oregon,Welches,ACTIVE,45.3399,-121.9598,9
+Oregon,Woodburn,ACTIVE,45.1446,-122.8583,2
+Pennsylvania,Allentown,ACTIVE,40.5891,-75.4645,2
+Pennsylvania,Allentown,ACTIVE,40.6018,-75.5225,197
+Pennsylvania,Allentown,ACTIVE,40.6068,-75.4781,1
+Pennsylvania,Allentown,ACTIVE,40.6366,-75.4405,3
+Pennsylvania,Allentown,INITIAL,40.6018,-75.5225,14
+Pennsylvania,Bala Cynwyd,ACTIVE,40.0118,-75.2342,3
+Pennsylvania,Beach Lake,ACTIVE,41.6034,-75.1165,95
+Pennsylvania,Bensalem,ACTIVE,40.1109,-74.9378,6
+Pennsylvania,Berwyn,ACTIVE,40.0412,-75.4475,1
+Pennsylvania,Bethlehem,ACTIVE,40.6278,-75.3928,1
+Pennsylvania,Bloomsburg,ACTIVE,41.0115,-76.4384,5
+Pennsylvania,Bolivar,ACTIVE,40.3673,-79.1605,3
+Pennsylvania,Bolivar,INITIAL,40.3673,-79.1605,1
+Pennsylvania,Brackney,ACTIVE,41.9666,-75.9375,12
+Pennsylvania,Breinigsville,ACTIVE,40.5526,-75.6553,2
+Pennsylvania,Canadensis,ACTIVE,41.2338,-75.2573,46
+Pennsylvania,Canadensis,INITIAL,41.2338,-75.2573,1
+Pennsylvania,Chadds Ford,ACTIVE,39.8648,-75.5885,1
+Pennsylvania,Chalfont,ACTIVE,40.2892,-75.2149,2
+Pennsylvania,Coatesville,ACTIVE,39.9843,-75.8253,1
+Pennsylvania,Coraopolis,ACTIVE,40.5,-80.1996,1
+Pennsylvania,Cornwall,ACTIVE,40.2755,-76.4053,1
+Pennsylvania,Cranberry Township,ACTIVE,40.685,-80.1071,4
+Pennsylvania,Croydon,ACTIVE,40.0933,-74.8991,2
+Pennsylvania,Dingmans Ferry,ACTIVE,41.24,-74.938,8
+Pennsylvania,Douglassville,ACTIVE,40.2709,-75.7397,1
+Pennsylvania,Downingtown,ACTIVE,40.0161,-75.7183,6
+Pennsylvania,Doylestown,ACTIVE,40.3054,-75.1489,1
+Pennsylvania,Dresher,ACTIVE,40.1431,-75.1624,1
+Pennsylvania,East Stroudsburg,ACTIVE,41.0367,-75.1735,6
+Pennsylvania,East Stroudsburg,ACTIVE,41.0936,-75.1187,20
+Pennsylvania,Easton,ACTIVE,40.6957,-75.2865,3
+Pennsylvania,Effort,ACTIVE,40.9669,-75.4523,3
+Pennsylvania,Elysburg,ACTIVE,40.8639,-76.5569,28
+Pennsylvania,Elysburg,INITIAL,40.8639,-76.5569,2
+Pennsylvania,Equinunk,ACTIVE,41.8117,-75.1891,116
+Pennsylvania,Equinunk,INITIAL,41.8117,-75.1891,5
+Pennsylvania,Erie,ACTIVE,42.0763,-80.0668,1
+Pennsylvania,Erie,ACTIVE,42.1316,-80.0864,6
+Pennsylvania,Etters,ACTIVE,40.1545,-76.8019,1
+Pennsylvania,Export,ACTIVE,40.4252,-79.611,3
+Pennsylvania,Exton,ACTIVE,40.0468,-75.6432,1
+Pennsylvania,Farmington,ACTIVE,39.807,-79.5832,13
+Pennsylvania,Farmington,INITIAL,39.807,-79.5832,2
+Pennsylvania,Fogelsville,ACTIVE,40.593,-75.6568,3
+Pennsylvania,Fombell,ACTIVE,40.8125,-80.2073,3
+Pennsylvania,Fort Hill,ACTIVE,39.7961,-79.2472,3
+Pennsylvania,Gettysburg,ACTIVE,39.832,-77.2223,7
+Pennsylvania,Gilbertsville,ACTIVE,40.3059,-75.5953,2
+Pennsylvania,Greeley,ACTIVE,41.4372,-75.0125,77
+Pennsylvania,Greeley,INITIAL,41.4372,-75.0125,1
+Pennsylvania,Green Lane,ACTIVE,40.3534,-75.4351,19
+Pennsylvania,Halifax,ACTIVE,40.476,-76.894,1
+Pennsylvania,Harrisburg,ACTIVE,40.2721,-76.8017,8
+Pennsylvania,Harrisburg,ACTIVE,40.291,-76.8203,2
+Pennsylvania,Harrisville,ACTIVE,41.1631,-79.9796,3
+Pennsylvania,Havertown,ACTIVE,39.9774,-75.3106,2
+Pennsylvania,Hawley,ACTIVE,41.4787,-75.1978,31
+Pennsylvania,Henryville,ACTIVE,41.0889,-75.2798,32
+Pennsylvania,Henryville,INITIAL,41.0889,-75.2798,2
+Pennsylvania,Hershey,ACTIVE,40.2638,-76.6545,511
+Pennsylvania,Hershey,INITIAL,40.2638,-76.6545,1
+Pennsylvania,Honesdale,ACTIVE,41.5792,-75.2528,110
+Pennsylvania,Horsham,ACTIVE,40.1821,-75.1479,7
+Pennsylvania,Hummelstown,ACTIVE,40.2782,-76.7094,8
+Pennsylvania,Jenkintown,ACTIVE,40.098,-75.1078,1
+Pennsylvania,Kennett Square,ACTIVE,39.855,-75.7,1
+Pennsylvania,King Of Prussia,ACTIVE,40.0956,-75.3737,9
+Pennsylvania,Kintnersville,ACTIVE,40.531,-75.2117,16
+Pennsylvania,Kintnersville,INITIAL,40.531,-75.2117,1
+Pennsylvania,Kunkletown,ACTIVE,40.8999,-75.476,20
+Pennsylvania,Lafayette Hill,ACTIVE,40.0896,-75.2601,3
+Pennsylvania,Lake Como,ACTIVE,41.8666,-75.3231,46
+Pennsylvania,Lake Como,INITIAL,41.8666,-75.3231,1
+Pennsylvania,Lakewood,ACTIVE,41.8171,-75.3838,129
+Pennsylvania,Lakewood,INITIAL,41.8171,-75.3838,3
+Pennsylvania,Lancaster,ACTIVE,40.0091,-76.3671,4
+Pennsylvania,Lancaster,ACTIVE,40.0766,-76.3107,2
+Pennsylvania,Langhorne,ACTIVE,40.1813,-74.9104,30
+Pennsylvania,Macungie,ACTIVE,40.5285,-75.5666,2
+Pennsylvania,Malvern,ACTIVE,40.0468,-75.531,3
+Pennsylvania,Marcus Hook,ACTIVE,39.8295,-75.4354,2
+Pennsylvania,Milford,ACTIVE,41.3228,-74.8824,61
+Pennsylvania,Milford,INITIAL,41.3228,-74.8824,3
+Pennsylvania,Mill Run,ACTIVE,39.968,-79.4622,7
+Pennsylvania,Morrisville,ACTIVE,40.2084,-74.8291,2
+Pennsylvania,Mount Pocono,ACTIVE,41.1216,-75.3529,1
+Pennsylvania,Mount Union,ACTIVE,40.3901,-77.8637,1
+Pennsylvania,Mount Union,INITIAL,40.3901,-77.8637,1
+Pennsylvania,Narberth,ACTIVE,40.0177,-75.2594,2
+Pennsylvania,Narvon,ACTIVE,40.1252,-75.9756,5
+Pennsylvania,Newtown,ACTIVE,40.263,-74.9555,31
+Pennsylvania,Newtown Square,ACTIVE,39.9863,-75.407,1
+Pennsylvania,Norristown,ACTIVE,40.1245,-75.3304,1
+Pennsylvania,Norristown,ACTIVE,40.1496,-75.3796,7
+Pennsylvania,North Springfield,ACTIVE,41.9999,-80.4258,2
+Pennsylvania,Ohiopyle,ACTIVE,39.8507,-79.523,14
+Pennsylvania,Orefield,ACTIVE,40.6248,-75.5974,2
+Pennsylvania,Oxford,ACTIVE,39.7827,-75.9815,33
+Pennsylvania,Paoli,ACTIVE,40.0426,-75.4827,1
+Pennsylvania,Philadelphia,ACTIVE,39.9474,-75.1473,9
+Pennsylvania,Philadelphia,ACTIVE,39.9597,-75.2024,1
+Pennsylvania,Philadelphia,ACTIVE,39.966,-75.151,8
+Pennsylvania,Philadelphia,ACTIVE,40.0178,-75.0895,1
+Pennsylvania,Philadelphia,ACTIVE,40.0338,-75.1731,3
+Pennsylvania,Philadelphia,ACTIVE,40.0897,-74.9781,2
+Pennsylvania,Philadelphia,INITIAL,39.9474,-75.1473,1
+Pennsylvania,Phoenixville,ACTIVE,40.1267,-75.5272,4
+Pennsylvania,Pittsburgh,ACTIVE,40.4001,-80.0462,1
+Pennsylvania,Pittsburgh,ACTIVE,40.4001,-80.0161,4
+Pennsylvania,Pittsburgh,ACTIVE,40.4322,-80.1021,2
+Pennsylvania,Pittsburgh,ACTIVE,40.4406,-79.9959,12
+Pennsylvania,Pittsburgh,ACTIVE,40.4423,-79.983,2
+Pennsylvania,Pittsburgh,ACTIVE,40.4477,-79.9933,6
+Pennsylvania,Pocono Manor,ACTIVE,41.1001,-75.3588,196
+Pennsylvania,Pocono Manor,INITIAL,41.1001,-75.3588,20
+Pennsylvania,Pocono Summit,ACTIVE,41.1353,-75.4079,8
+Pennsylvania,Pottstown,ACTIVE,40.1919,-75.6653,2
+Pennsylvania,Poyntelle,ACTIVE,41.8206,-75.4199,62
+Pennsylvania,Poyntelle,INITIAL,41.8206,-75.4199,1
+Pennsylvania,Preston Park,ACTIVE,41.8867,-75.356,46
+Pennsylvania,Quakertown,ACTIVE,40.4411,-75.3507,3
+Pennsylvania,Quarryville,ACTIVE,39.8949,-76.1465,4
+Pennsylvania,Reading,ACTIVE,40.325,-75.9442,1
+Pennsylvania,Reading,ACTIVE,40.3351,-75.875,1
+Pennsylvania,Reinholds,ACTIVE,40.2688,-76.1013,8
+Pennsylvania,Rockwood,ACTIVE,39.9373,-79.1865,4
+Pennsylvania,Schuylkill Haven,ACTIVE,40.6306,-76.17,2
+Pennsylvania,Schwenksville,ACTIVE,40.2471,-75.4602,8
+Pennsylvania,Scotrun,ACTIVE,41.0751,-75.3265,16
+Pennsylvania,Skytop,ACTIVE,41.2336,-75.2389,35
+Pennsylvania,Skytop,INITIAL,41.2336,-75.2389,18
+Pennsylvania,South Sterling,ACTIVE,41.2643,-75.348,10
+Pennsylvania,Southampton,ACTIVE,40.1868,-75.0071,2
+Pennsylvania,Starlight,ACTIVE,41.9251,-75.3212,33
+Pennsylvania,Starrucca,ACTIVE,41.8907,-75.449,44
+Pennsylvania,Starrucca,INITIAL,41.8907,-75.449,2
+Pennsylvania,Stroudsburg,ACTIVE,40.9877,-75.2485,80
+Pennsylvania,Tafton,ACTIVE,41.4045,-75.183,1
+Pennsylvania,Tannersville,ACTIVE,41.0472,-75.3244,49
+Pennsylvania,Tannersville,INITIAL,41.0472,-75.3244,41
+Pennsylvania,Thompson,ACTIVE,41.834,-75.5342,66
+Pennsylvania,Tipton,ACTIVE,40.6367,-78.3036,8
+Pennsylvania,Trout Run,ACTIVE,41.4125,-77.0098,1
+Pennsylvania,Tyler Hill,ACTIVE,41.7011,-75.1422,24
+Pennsylvania,Warminster,ACTIVE,40.2067,-75.0905,4
+Pennsylvania,Washington Crossing,ACTIVE,40.2849,-74.8778,2
+Pennsylvania,Waynesboro,ACTIVE,39.7635,-77.5674,26
+Pennsylvania,West Chester,ACTIVE,39.9845,-75.5962,3
+Pennsylvania,West Mifflin,ACTIVE,40.3634,-79.8664,44
+Pennsylvania,Wexford,ACTIVE,40.612,-80.0649,5
+Pennsylvania,White Haven,ACTIVE,41.079,-75.7715,3
+Pennsylvania,Whitehall,ACTIVE,40.6567,-75.5041,1
+Pennsylvania,Willow Grove,ACTIVE,40.1567,-75.1269,4
+Pennsylvania,Woodward,ACTIVE,40.9116,-77.3483,12
+Pennsylvania,York,ACTIVE,39.9494,-76.713,2
+Rhode Island,Block Island,ACTIVE,41.1715,-71.5748,288
+Rhode Island,Block Island,INITIAL,41.1715,-71.5748,3
+Rhode Island,Bristol,ACTIVE,41.6825,-71.2676,2
+Rhode Island,East Greenwich,ACTIVE,41.6498,-71.474,2
+Rhode Island,Middletown,ACTIVE,41.5198,-71.2731,37
+Rhode Island,Narragansett,ACTIVE,41.4353,-71.4616,98
+Rhode Island,Narragansett,INITIAL,41.4353,-71.4616,5
+Rhode Island,Newport,ACTIVE,41.4876,-71.3271,421
+Rhode Island,Newport,INITIAL,41.4876,-71.3271,9
+Rhode Island,North Scituate,ACTIVE,41.8439,-71.6242,4
+Rhode Island,North Smithfield,ACTIVE,41.9724,-71.5508,1
+Rhode Island,Portsmouth,ACTIVE,41.5944,-71.252,4
+Rhode Island,Providence,ACTIVE,41.82,-71.4158,13
+Rhode Island,Providence,ACTIVE,41.8351,-71.3971,1
+Rhode Island,Providence,ACTIVE,41.8541,-71.4378,1
+Rhode Island,Saunderstown,ACTIVE,41.5105,-71.4427,3
+Rhode Island,Wakefield,ACTIVE,41.4437,-71.5342,33
+Rhode Island,Warwick,ACTIVE,41.7141,-71.3901,5
+Rhode Island,Westerly,ACTIVE,41.3691,-71.8126,93
+Rhode Island,Westerly,INITIAL,41.3691,-71.8126,7
+South Carolina,Bluffton,ACTIVE,32.2513,-80.8721,29
+South Carolina,Bluffton,INITIAL,32.2513,-80.8721,9
+South Carolina,Charleston,ACTIVE,32.7795,-79.9371,11
+South Carolina,Charleston,ACTIVE,32.7976,-79.9493,4
+South Carolina,Charleston,INITIAL,32.7795,-79.9371,1
+South Carolina,Cleveland,ACTIVE,35.0654,-82.6093,9
+South Carolina,Conway,ACTIVE,33.8731,-79.0557,28
+South Carolina,Conway,INITIAL,33.8731,-79.0557,1
+South Carolina,Edisto Island,ACTIVE,32.5486,-80.307,10
+South Carolina,Edisto Island,INITIAL,32.5486,-80.307,2
+South Carolina,Folly Beach,ACTIVE,32.663,-79.927,11
+South Carolina,Folly Beach,INITIAL,32.663,-79.927,1
+South Carolina,Greenville,ACTIVE,34.8001,-82.3932,3
+South Carolina,Greenville,ACTIVE,34.8285,-82.3516,2
+South Carolina,Greenville,ACTIVE,34.8661,-82.3198,11
+South Carolina,Hilton Head Island,ACTIVE,32.1665,-80.7569,143
+South Carolina,Hilton Head Island,ACTIVE,32.2077,-80.7476,6
+South Carolina,Hilton Head Island,ACTIVE,32.3906,-80.661,1
+South Carolina,Hilton Head Island,INITIAL,32.1665,-80.7569,10
+South Carolina,Isle Of Palms,ACTIVE,32.7943,-79.7729,32
+South Carolina,Johns Island,ACTIVE,32.7924,-80.1081,77
+South Carolina,Johns Island,INITIAL,32.7924,-80.1081,1
+South Carolina,Little River,ACTIVE,33.8768,-78.6508,14
+South Carolina,Mount Pleasant,ACTIVE,32.8674,-79.8049,9
+South Carolina,Murrells Inlet,ACTIVE,33.5507,-79.0528,35
+South Carolina,Myrtle Beach,ACTIVE,33.6286,-78.9736,145
+South Carolina,Myrtle Beach,ACTIVE,33.6994,-78.9137,1611
+South Carolina,Myrtle Beach,ACTIVE,33.7226,-78.9782,5
+South Carolina,Myrtle Beach,ACTIVE,33.7377,-78.9787,13
+South Carolina,Myrtle Beach,ACTIVE,33.7587,-78.8044,224
+South Carolina,Myrtle Beach,INITIAL,33.6286,-78.9736,1
+South Carolina,Myrtle Beach,INITIAL,33.6994,-78.9137,49
+South Carolina,Myrtle Beach,INITIAL,33.7587,-78.8044,2
+South Carolina,North Charleston,ACTIVE,32.8929,-80.0458,1
+South Carolina,North Myrtle Beach,ACTIVE,33.8343,-78.6606,319
+South Carolina,North Myrtle Beach,INITIAL,33.8343,-78.6606,14
+South Carolina,Pawleys Island,ACTIVE,33.4508,-79.1341,1
+South Carolina,Santee,ACTIVE,33.4835,-80.4805,4
+South Carolina,Walterboro,ACTIVE,32.9052,-80.6668,3
+South Dakota,Black Hawk,ACTIVE,44.1512,-103.3486,5
+South Dakota,Box Elder,ACTIVE,44.1199,-103.0682,14
+South Dakota,Custer,ACTIVE,43.6573,-103.4258,150
+South Dakota,Custer,INITIAL,43.6573,-103.4258,1
+South Dakota,Deadwood,ACTIVE,44.3767,-103.7296,115
+South Dakota,Deadwood,INITIAL,44.3767,-103.7296,5
+South Dakota,Fort Pierre,ACTIVE,44.3426,-100.4043,3
+South Dakota,Hill City,ACTIVE,43.9377,-103.5782,92
+South Dakota,Hill City,INITIAL,43.9377,-103.5782,5
+South Dakota,Hot Springs,ACTIVE,43.4223,-103.4766,11
+South Dakota,Kadoka,ACTIVE,43.8446,-101.5523,9
+South Dakota,Keystone,ACTIVE,43.8848,-103.3995,305
+South Dakota,Keystone,INITIAL,43.8848,-103.3995,23
+South Dakota,Miller,ACTIVE,44.4966,-98.9894,4
+South Dakota,Murdo,ACTIVE,43.8961,-100.7121,3
+South Dakota,Pierre,ACTIVE,44.3695,-100.3211,11
+South Dakota,Rapid City,ACTIVE,44.0036,-103.3589,15
+South Dakota,Rapid City,ACTIVE,44.048,-103.1763,18
+South Dakota,Rapid City,ACTIVE,44.1415,-103.2052,131
+South Dakota,Rapid City,INITIAL,44.1415,-103.2052,18
+South Dakota,Sioux Falls,ACTIVE,43.4775,-96.7041,6
+South Dakota,Sioux Falls,ACTIVE,43.5179,-96.7924,7
+South Dakota,Sioux Falls,ACTIVE,43.5374,-96.6864,2
+South Dakota,Sioux Falls,ACTIVE,43.5566,-96.8028,3
+South Dakota,Spearfish,ACTIVE,44.4946,-103.865,12
+South Dakota,Sturgis,ACTIVE,44.3692,-103.3617,2
+South Dakota,Wall,ACTIVE,43.9812,-102.2245,90
+South Dakota,Wall,INITIAL,43.9812,-102.2245,6
+Tennessee,Altamont,ACTIVE,35.4258,-85.7635,3
+Tennessee,Brentwood,ACTIVE,36.0063,-86.7909,10
+Tennessee,Brentwood,INITIAL,36.0063,-86.7909,2
+Tennessee,Chattanooga,ACTIVE,35.0306,-85.2722,4
+Tennessee,Chattanooga,ACTIVE,35.0768,-85.3082,4
+Tennessee,Crossville,ACTIVE,36.0527,-85.0138,3
+Tennessee,Elizabethton,ACTIVE,36.3445,-82.2015,4
+Tennessee,Franklin,ACTIVE,35.9121,-86.7655,2
+Tennessee,Franklin,ACTIVE,35.9328,-86.8788,26
+Tennessee,Franklin,INITIAL,35.9121,-86.7655,2
+Tennessee,Gatlinburg,ACTIVE,35.729,-83.4874,406
+Tennessee,Gatlinburg,INITIAL,35.729,-83.4874,9
+Tennessee,Hartford,ACTIVE,35.8256,-83.0996,1
+Tennessee,Knoxville,ACTIVE,35.9244,-84.0015,1
+Tennessee,Memphis,ACTIVE,35.072,-89.9886,1
+Tennessee,Memphis,ACTIVE,35.1497,-90.033,2
+Tennessee,Memphis,ACTIVE,35.2054,-89.8036,3
+Tennessee,Memphis,INITIAL,35.1497,-90.033,1
+Tennessee,Murfreesboro,ACTIVE,35.871,-86.4181,12
+Tennessee,Nashville,ACTIVE,36.0725,-86.724,1
+Tennessee,Nashville,ACTIVE,36.0986,-86.8219,12
+Tennessee,Nashville,ACTIVE,36.1067,-86.7743,1
+Tennessee,Nashville,ACTIVE,36.1114,-86.869,8
+Tennessee,Nashville,ACTIVE,36.1504,-86.7916,5
+Tennessee,Nashville,ACTIVE,36.1633,-86.6609,1084
+Tennessee,Nashville,ACTIVE,36.1657,-86.7781,17
+Tennessee,Nashville,ACTIVE,36.1678,-86.7837,3
+Tennessee,Nashville,ACTIVE,36.1762,-86.8076,6
+Tennessee,Nashville,INITIAL,36.1546,-86.8602,1
+Tennessee,Pigeon Forge,ACTIVE,35.7922,-83.5638,689
+Tennessee,Pigeon Forge,INITIAL,35.7922,-83.5638,15
+Tennessee,Rockwood,ACTIVE,35.8587,-84.6842,2
+Tennessee,Sevierville,ACTIVE,35.8452,-83.5386,145
+Tennessee,Sevierville,ACTIVE,35.866,-83.4793,393
+Tennessee,Sevierville,INITIAL,35.8452,-83.5386,3
+Tennessee,Sevierville,INITIAL,35.866,-83.4793,21
+Tennessee,Townsend,ACTIVE,35.6784,-83.7572,3
+Texas,Abilene,ACTIVE,32.4679,-99.7619,2
+Texas,Alpine,ACTIVE,30.2631,-103.6541,2
+Texas,Alpine,INITIAL,30.2631,-103.6541,1
+Texas,Amarillo,ACTIVE,35.1663,-101.8868,2
+Texas,Angleton,ACTIVE,29.181,-95.4467,4
+Texas,Arlington,ACTIVE,32.6548,-97.092,8
+Texas,Arlington,ACTIVE,32.7582,-97.1003,82
+Texas,Arlington,ACTIVE,32.7785,-97.0834,41
+Texas,Arlington,INITIAL,32.7785,-97.0834,6
+Texas,Athens,ACTIVE,32.1935,-95.8432,1
+Texas,Austin,ACTIVE,30.1204,-97.7433,9
+Texas,Austin,ACTIVE,30.1743,-97.8225,2
+Texas,Austin,ACTIVE,30.2638,-97.7166,1
+Texas,Austin,ACTIVE,30.2713,-97.7426,1
+Texas,Austin,ACTIVE,30.3423,-97.6673,15
+Texas,Austin,ACTIVE,30.3649,-97.6827,1
+Texas,Austin,ACTIVE,30.3705,-97.9427,11
+Texas,Bandera,ACTIVE,29.7276,-99.0453,41
+Texas,Beaumont,ACTIVE,30.085,-94.2607,1
+Texas,Beeville,ACTIVE,28.4222,-97.7616,1
+Texas,Boerne,ACTIVE,29.8931,-98.6857,2
+Texas,Bruceville,ACTIVE,31.3267,-97.2342,9
+Texas,Bryan,ACTIVE,30.6327,-96.3662,3
+Texas,Bulverde,ACTIVE,29.7767,-98.4626,3
+Texas,Burleson,ACTIVE,32.5316,-97.309,21
+Texas,Burnet,ACTIVE,30.7766,-98.2642,1
+Texas,Burton,ACTIVE,30.1767,-96.5925,1
+Texas,Cedar Creek,ACTIVE,30.0966,-97.4976,15
+Texas,Cedar Park,ACTIVE,30.5052,-97.8203,3
+Texas,Center Point,ACTIVE,29.9441,-99.0364,4
+Texas,Chandler,ACTIVE,32.2572,-95.5393,1
+Texas,Coldspring,ACTIVE,30.6027,-95.1086,6
+Texas,Comfort,ACTIVE,29.9677,-98.905,7
+Texas,Copperas Cove,ACTIVE,31.2029,-97.9301,3
+Texas,Corpus Christi,ACTIVE,27.6349,-97.3103,20
+Texas,Corpus Christi,ACTIVE,27.7262,-97.4078,3
+Texas,Corpus Christi,ACTIVE,27.7311,-97.3877,2
+Texas,Denison,ACTIVE,33.745,-96.5496,3
+Texas,Denton,ACTIVE,33.1428,-97.0727,5
+Texas,Denton,ACTIVE,33.1903,-97.1282,2
+Texas,Dickinson,ACTIVE,29.4585,-95.0345,2
+Texas,Floresville,ACTIVE,29.1693,-98.1936,3
+Texas,Fort Stockton,ACTIVE,30.8908,-102.8799,2
+Texas,Fort Stockton,INITIAL,30.8908,-102.8799,3
+Texas,Fort Worth,ACTIVE,32.6469,-97.3325,8
+Texas,Fort Worth,ACTIVE,32.723,-97.4483,3
+Texas,Fort Worth,ACTIVE,32.7822,-97.4969,2
+Texas,Fort Worth,ACTIVE,32.8664,-97.2891,6
+Texas,Fort Worth,ACTIVE,32.9074,-97.4257,2
+Texas,Friendswood,ACTIVE,29.5224,-95.1879,5
+Texas,Frisco,ACTIVE,33.1499,-96.8241,1
+Texas,Galveston,ACTIVE,29.2243,-94.9637,9
+Texas,Galveston,ACTIVE,29.2766,-94.8303,163
+Texas,Galveston,ACTIVE,29.2983,-94.793,318
+Texas,Galveston,INITIAL,29.2766,-94.8303,3
+Texas,Galveston,INITIAL,29.2983,-94.793,10
+Texas,Goliad,ACTIVE,28.6993,-97.3783,1
+Texas,Graford,ACTIVE,32.9242,-98.337,13
+Texas,Grapevine,ACTIVE,32.9328,-97.0808,21
+Texas,Hale Center,ACTIVE,34.0669,-101.8736,4
+Texas,Hockley,ACTIVE,30.0729,-95.8104,3
+Texas,Horseshoe Bay,ACTIVE,30.5443,-98.3739,13
+Texas,Horseshoe Bay,INITIAL,30.5443,-98.3739,5
+Texas,Houston,ACTIVE,29.7594,-95.3594,32
+Texas,Houston,ACTIVE,29.7696,-95.5201,1
+Texas,Houston,ACTIVE,29.7991,-95.4118,1
+Texas,Houston,ACTIVE,29.8941,-95.6481,1
+Texas,Houston,ACTIVE,30.0198,-95.4087,1
+Texas,Houston,INITIAL,29.7594,-95.3594,3
+Texas,Hunt,ACTIVE,30.0027,-99.4823,68
+Texas,Ingram,ACTIVE,30.0731,-99.269,12
+Texas,Kemah,ACTIVE,29.5236,-95.0276,28
+Texas,Kerrville,ACTIVE,30.0416,-99.1408,12
+Texas,Killeen,ACTIVE,31.0376,-97.6809,3
+Texas,Kingsville,ACTIVE,27.4229,-97.8407,2
+Texas,Kyle,ACTIVE,29.9966,-97.8335,6
+Texas,Lake Jackson,ACTIVE,29.0393,-95.4401,2
+Texas,Lancaster,ACTIVE,32.6161,-96.783,1
+Texas,League City,ACTIVE,29.5173,-95.0963,2
+Texas,Leander,ACTIVE,30.5835,-97.8575,2
+Texas,Liberty Hill,ACTIVE,30.663,-97.9316,1
+Texas,Livingston,ACTIVE,30.6829,-94.8976,2
+Texas,Lott,ACTIVE,31.1925,-97.0581,3
+Texas,Lubbock,ACTIVE,33.5159,-101.9344,2
+Texas,Lubbock,ACTIVE,33.5466,-101.8871,3
+Texas,Lufkin,ACTIVE,31.27,-94.6469,2
+Texas,Luling,ACTIVE,29.6826,-97.6499,2
+Texas,Mckinney,ACTIVE,33.1976,-96.6153,3
+Texas,Mesquite,ACTIVE,32.8154,-96.6307,2
+Texas,Midland,ACTIVE,31.9721,-102.1369,2
+Texas,Midland,ACTIVE,32.0295,-102.0915,3
+Texas,Montgomery,ACTIVE,30.4411,-95.7097,41
+Texas,Montgomery,INITIAL,30.4411,-95.7097,1
+Texas,Nemo,ACTIVE,32.2713,-97.6567,1
+Texas,New Braunfels,ACTIVE,29.7229,-98.0742,8
+Texas,Odessa,ACTIVE,31.8579,-102.3523,4
+Texas,Palestine,ACTIVE,31.7571,-95.6545,2
+Texas,Pecos,ACTIVE,31.4467,-103.5791,2
+Texas,Perrin,ACTIVE,33.034,-98.0692,3
+Texas,Pflugerville,ACTIVE,30.4421,-97.6299,3
+Texas,Plano,ACTIVE,33.025,-96.7397,1
+Texas,Plano,ACTIVE,33.0277,-96.6777,1
+Texas,Port Aransas,ACTIVE,27.7707,-97.1051,88
+Texas,Port Aransas,INITIAL,27.7707,-97.1051,1
+Texas,Port Bolivar,ACTIVE,29.4266,-94.6861,10
+Texas,Rocksprings,ACTIVE,30.0188,-100.231,15
+Texas,Rosenberg,ACTIVE,29.5497,-95.7982,4
+Texas,Round Rock,ACTIVE,30.5145,-97.668,127
+Texas,Round Rock,INITIAL,30.5145,-97.668,28
+Texas,San Angelo,ACTIVE,31.4782,-100.4818,2
+Texas,San Antonio,ACTIVE,29.3579,-98.4356,3
+Texas,San Antonio,ACTIVE,29.4027,-98.6433,5
+Texas,San Antonio,ACTIVE,29.4237,-98.4925,11
+Texas,San Antonio,ACTIVE,29.4597,-98.6555,58
+Texas,San Antonio,ACTIVE,29.5334,-98.4975,6
+Texas,San Antonio,ACTIVE,29.5612,-98.6117,2
+Texas,San Antonio,ACTIVE,29.6283,-98.4445,2
+Texas,San Antonio,ACTIVE,29.7055,-98.4191,1
+Texas,San Antonio,INITIAL,29.4237,-98.4925,2
+Texas,San Antonio,INITIAL,29.4597,-98.6555,1
+Texas,San Marcos,ACTIVE,29.8754,-97.9404,3
+Texas,Smithville,ACTIVE,30.0178,-97.1494,4
+Texas,Spring,ACTIVE,30.0377,-95.5326,3
+Texas,Spring,ACTIVE,30.1441,-95.4703,3
+Texas,Sugar Land,ACTIVE,29.6196,-95.607,3
+Texas,Temple,ACTIVE,31.071,-97.3898,2
+Texas,Trinity,ACTIVE,30.942,-95.3403,21
+Texas,Tyler,ACTIVE,32.3254,-95.2922,2
+Texas,Tyler,ACTIVE,32.362,-95.3117,1
+Texas,Utopia,ACTIVE,29.5972,-99.5585,2
+Texas,Van Horn,ACTIVE,31.0391,-104.8245,8
+Texas,Van Horn,INITIAL,31.0391,-104.8245,5
+Texas,Victoria,ACTIVE,28.809,-96.9993,3
+Texas,Wichita Falls,ACTIVE,33.8643,-98.494,2
+Texas,Wolfe City,ACTIVE,33.3605,-96.0691,4
+Texas,Woodway,ACTIVE,31.5051,-97.2311,3
+Texas,Wylie,ACTIVE,33.0041,-96.5394,3
+Utah,American Fork,ACTIVE,40.3928,-111.7941,11
+Utah,Bryce,ACTIVE,37.6184,-112.1735,40
+Utah,Bryce,INITIAL,37.6184,-112.1735,7
+Utah,Cedar City,ACTIVE,37.6775,-113.0619,3
+Utah,Dutch John,ACTIVE,40.9291,-109.391,25
+Utah,Farmington,ACTIVE,40.9889,-111.8938,300
+Utah,Farmington,INITIAL,40.9889,-111.8938,5
+Utah,Garden City,ACTIVE,41.9376,-111.407,60
+Utah,Garden City,INITIAL,41.9376,-111.407,2
+Utah,Green River,ACTIVE,39.0002,-110.1598,4
+Utah,Hanksville,ACTIVE,38.2521,-110.8137,13
+Utah,Hurricane,ACTIVE,37.1454,-113.3675,3
+Utah,Ivins,ACTIVE,37.179,-113.7066,33
+Utah,Kamas,ACTIVE,40.6414,-111.2619,7
+Utah,Kanab,ACTIVE,37.0475,-112.5263,2
+Utah,Kanab,INITIAL,37.0475,-112.5263,1
+Utah,La Sal,ACTIVE,38.3122,-109.2482,1
+Utah,Lake Powell,ACTIVE,37.7489,-110.2269,35
+Utah,Lake Powell,INITIAL,37.7489,-110.2269,4
+Utah,Layton,ACTIVE,41.0879,-111.9704,1
+Utah,Lindon,ACTIVE,40.3412,-111.7144,7
+Utah,Logan,ACTIVE,41.747,-111.8226,2
+Utah,Logan,ACTIVE,41.7759,-111.8068,1
+Utah,Midway,ACTIVE,40.5093,-111.4776,1
+Utah,Moab,ACTIVE,38.5677,-109.5271,15
+Utah,Moab,INITIAL,38.5677,-109.5271,1
+Utah,North Salt Lake,ACTIVE,40.8446,-111.9191,3
+Utah,Ogden,ACTIVE,41.2215,-111.9621,1
+Utah,Ogden,ACTIVE,41.2627,-111.9837,2
+Utah,Ogden,ACTIVE,41.3112,-111.9689,3
+Utah,Ogden,INITIAL,41.2627,-111.9837,1
+Utah,Orem,ACTIVE,40.2818,-111.7209,3
+Utah,Park City,ACTIVE,40.6524,-111.5018,155
+Utah,Park City,ACTIVE,40.7029,-111.5481,78
+Utah,Park City,INITIAL,40.6524,-111.5018,15
+Utah,Park City,INITIAL,40.7029,-111.5481,23
+Utah,Provo,ACTIVE,40.2319,-111.6755,10
+Utah,Provo,ACTIVE,40.2607,-111.6549,4
+Utah,Saint George,ACTIVE,37.1041,-113.5841,7
+Utah,Salt Lake City,ACTIVE,40.6226,-111.7777,11
+Utah,Salt Lake City,ACTIVE,40.6568,-111.8904,6
+Utah,Salt Lake City,ACTIVE,40.7056,-111.8548,16
+Utah,Salt Lake City,ACTIVE,40.7145,-111.8931,11
+Utah,Salt Lake City,ACTIVE,40.7371,-111.8258,12
+Utah,Salt Lake City,ACTIVE,40.7776,-111.8749,1
+Utah,Sandy,ACTIVE,40.5794,-111.8816,11
+Utah,Sandy,ACTIVE,40.5834,-111.7467,9
+Utah,Sandy,ACTIVE,40.5927,-111.831,2
+Utah,Sandy,INITIAL,40.5794,-111.8816,2
+Utah,Sandy,INITIAL,40.5834,-111.7467,1
+Utah,Spanish Fork,ACTIVE,40.1099,-111.6462,3
+Utah,Springdale,INITIAL,37.1862,-113.0139,1
+Utah,Tooele,ACTIVE,40.5454,-112.3002,1
+Utah,Torrey,ACTIVE,38.2969,-111.4138,4
+Utah,Vernal,ACTIVE,40.4406,-109.5469,2
+Utah,Virgin,ACTIVE,37.2022,-113.1854,2
+Utah,West Jordan,ACTIVE,40.5959,-111.9644,5
+Utah,West Valley City,ACTIVE,40.6916,-112.0011,2
+Utah,West Valley City,INITIAL,40.6916,-112.0011,1
+Vermont,Averill,ACTIVE,44.9981,-71.7104,1
+Vermont,Averill,INITIAL,44.9981,-71.7104,2
+Vermont,Barre,ACTIVE,44.1945,-72.4936,9
+Vermont,Barre,INITIAL,44.1945,-72.4936,2
+Vermont,Bennington,ACTIVE,42.8827,-73.1923,8
+Vermont,Bradford,ACTIVE,44.0006,-72.1406,4
+Vermont,Bradford,INITIAL,44.0006,-72.1406,2
+Vermont,Brownsville,ACTIVE,43.4646,-72.4944,6
+Vermont,Burlington,ACTIVE,44.484,-73.2199,5
+Vermont,Burlington,ACTIVE,44.512,-73.2492,4
+Vermont,Burlington,INITIAL,44.484,-73.2199,3
+Vermont,Colchester,ACTIVE,44.536,-73.2022,11
+Vermont,Craftsbury Common,ACTIVE,44.6788,-72.3594,5
+Vermont,Derby,ACTIVE,44.9502,-72.1376,5
+Vermont,Essex Junction,ACTIVE,44.5035,-73.0906,28
+Vermont,Essex Junction,INITIAL,44.5035,-73.0906,1
+Vermont,Fairlee,ACTIVE,43.901,-72.1902,37
+Vermont,Fairlee,INITIAL,43.901,-72.1902,2
+Vermont,Highgate Springs,ACTIVE,44.9748,-73.1052,46
+Vermont,Jeffersonville,ACTIVE,44.6388,-72.822,43
+Vermont,Jeffersonville,INITIAL,44.6388,-72.822,5
+Vermont,Killington,ACTIVE,43.6634,-72.7963,63
+Vermont,Lyndonville,ACTIVE,44.5555,-72.0715,3
+Vermont,Manchester,ACTIVE,43.1637,-73.0723,2
+Vermont,Manchester Center,ACTIVE,43.1693,-73.0474,12
+Vermont,Marlboro,ACTIVE,42.9947,-72.7204,3
+Vermont,Montpelier,ACTIVE,44.2641,-72.577,4
+Vermont,Morrisville,ACTIVE,44.5543,-72.6026,4
+Vermont,Newbury,ACTIVE,44.0683,-72.1187,10
+Vermont,North Hero,ACTIVE,44.8353,-73.2778,5
+Vermont,North Troy,ACTIVE,44.9378,-72.4334,11
+Vermont,Norwich,ACTIVE,43.7404,-72.3016,2
+Vermont,Post Mills,ACTIVE,43.8858,-72.27,17
+Vermont,Proctorsville,ACTIVE,43.3823,-72.6384,5
+Vermont,Proctorsville,INITIAL,43.3823,-72.6384,4
+Vermont,Quechee,ACTIVE,43.6462,-72.4184,5
+Vermont,Randolph,ACTIVE,43.9444,-72.6726,1
+Vermont,Randolph,INITIAL,43.9444,-72.6726,2
+Vermont,Ripton,ACTIVE,43.9929,-73.0187,1
+Vermont,Roxbury,ACTIVE,44.0846,-72.7202,16
+Vermont,Rutland,ACTIVE,43.6141,-72.9708,9
+Vermont,Rutland,INITIAL,43.6141,-72.9708,1
+Vermont,Salisbury,ACTIVE,43.9017,-73.1008,3
+Vermont,South Burlington,ACTIVE,44.4513,-73.1796,38
+Vermont,South Burlington,INITIAL,44.4513,-73.1796,9
+Vermont,South Hero,ACTIVE,44.64,-73.3113,2
+Vermont,South Londonderry,ACTIVE,43.1699,-72.8515,20
+Vermont,South Londonderry,INITIAL,43.1699,-72.8515,3
+Vermont,Springfield,ACTIVE,43.3034,-72.4778,8
+Vermont,Springfield,INITIAL,43.3034,-72.4778,1
+Vermont,Stowe,ACTIVE,44.4695,-72.6923,166
+Vermont,Stowe,INITIAL,44.4695,-72.6923,13
+Vermont,Thetford Center,ACTIVE,43.8149,-72.2662,12
+Vermont,Vergennes,ACTIVE,44.1326,-73.2793,18
+Vermont,Waitsfield,ACTIVE,44.1889,-72.8283,16
+Vermont,Waitsfield,INITIAL,44.1889,-72.8283,5
+Vermont,Warren,INITIAL,44.111,-72.8609,9
+Vermont,West Dover,ACTIVE,42.9535,-72.8687,3
+Vermont,White River Junction,ACTIVE,43.6722,-72.3813,15
+Vermont,White River Junction,INITIAL,43.6722,-72.3813,5
+Vermont,Williston,ACTIVE,44.4367,-73.0957,3
+Vermont,Woodstock,ACTIVE,43.6248,-72.5385,13
+Virginia,Aldie,ACTIVE,38.9577,-77.6038,15
+Virginia,Alexandria,ACTIVE,38.7192,-77.1073,13
+Virginia,Alexandria,ACTIVE,38.7316,-77.0604,14
+Virginia,Alexandria,ACTIVE,38.7589,-77.0873,24
+Virginia,Alexandria,ACTIVE,38.7596,-77.1485,17
+Virginia,Alexandria,ACTIVE,38.7714,-77.0657,12
+Virginia,Alexandria,ACTIVE,38.7794,-77.1194,252
+Virginia,Alexandria,ACTIVE,38.7912,-77.0814,22
+Virginia,Alexandria,ACTIVE,38.806,-77.0529,50
+Virginia,Alexandria,ACTIVE,38.8149,-77.121,72
+Virginia,Alexandria,ACTIVE,38.8191,-77.1484,36
+Virginia,Alexandria,ACTIVE,38.82,-77.0589,4
+Virginia,Alexandria,ACTIVE,38.8276,-77.0896,13
+Virginia,Alexandria,ACTIVE,38.832,-77.12,23
+Virginia,Alexandria,ACTIVE,38.8372,-77.064,5
+Virginia,Alexandria,INITIAL,38.806,-77.0529,1
+Virginia,Annandale,ACTIVE,38.8307,-77.2142,60
+Virginia,Annandale,INITIAL,38.8307,-77.2142,1
+Virginia,Arlington,ACTIVE,38.8415,-77.0905,37
+Virginia,Arlington,ACTIVE,38.8565,-77.0592,67
+Virginia,Arlington,ACTIVE,38.859,-77.0997,214
+Virginia,Arlington,ACTIVE,38.8688,-77.0739,2
+Virginia,Arlington,ACTIVE,38.8738,-77.1142,12
+Virginia,Arlington,ACTIVE,38.8871,-77.0932,53
+Virginia,Arlington,ACTIVE,38.8926,-77.0753,25
+Virginia,Arlington,ACTIVE,38.9033,-77.1263,6
+Virginia,Arlington,INITIAL,38.8415,-77.0905,1
+Virginia,Arlington,INITIAL,38.859,-77.0997,25
+Virginia,Arlington,INITIAL,38.8871,-77.0932,8
+Virginia,Arlington,INITIAL,38.8926,-77.0753,2
+Virginia,Ashburn,ACTIVE,39.0142,-77.5285,39
+Virginia,Ashburn,ACTIVE,39.0373,-77.4805,58
+Virginia,Basye,ACTIVE,38.8089,-78.7776,6
+Virginia,Bedford,ACTIVE,37.3153,-79.5331,7
+Virginia,Bristow,ACTIVE,38.7343,-77.5474,4
+Virginia,Burke,ACTIVE,38.7894,-77.2818,2
+Virginia,Cape Charles,ACTIVE,37.2799,-75.9721,5
+Virginia,Carrollton,ACTIVE,36.955,-76.543,5
+Virginia,Centreville,ACTIVE,38.8195,-77.4558,30
+Virginia,Centreville,ACTIVE,38.8448,-77.467,5
+Virginia,Chantilly,ACTIVE,38.8867,-77.4457,19
+Virginia,Chantilly,ACTIVE,38.8976,-77.5092,31
+Virginia,Chantilly,INITIAL,38.8867,-77.4457,4
+Virginia,Charlottesville,ACTIVE,38.0266,-78.4805,3
+Virginia,Charlottesville,ACTIVE,38.0339,-78.4924,6
+Virginia,Charlottesville,ACTIVE,38.0936,-78.5611,1
+Virginia,Charlottesville,ACTIVE,38.0995,-78.4085,4
+Virginia,Charlottesville,INITIAL,38.0266,-78.4805,1
+Virginia,Chesapeake,ACTIVE,36.6434,-76.242,2
+Virginia,Chesapeake,ACTIVE,36.7352,-76.2384,21
+Virginia,Chesapeake,ACTIVE,36.7634,-76.3397,8
+Virginia,Chesapeake,ACTIVE,36.8012,-76.423,3
+Virginia,Chesapeake,ACTIVE,36.8056,-76.2666,1
+Virginia,Chesapeake,ACTIVE,36.814,-76.2406,2
+Virginia,Chesterfield,ACTIVE,37.3333,-77.6343,4
+Virginia,Chesterfield,ACTIVE,37.3923,-77.5668,11
+Virginia,Chincoteague Island,ACTIVE,37.9299,-75.3624,58
+Virginia,Chincoteague Island,INITIAL,37.9299,-75.3624,3
+Virginia,Clifton,ACTIVE,38.7818,-77.3818,3
+Virginia,Doswell,ACTIVE,37.8417,-77.5125,235
+Virginia,Doswell,INITIAL,37.8417,-77.5125,18
+Virginia,Dumfries,ACTIVE,38.5669,-77.2921,6
+Virginia,Dumfries,ACTIVE,38.5993,-77.3403,6
+Virginia,Earlysville,ACTIVE,38.1578,-78.4919,1
+Virginia,Edinburg,ACTIVE,38.8432,-78.6003,1
+Virginia,Fairfax,ACTIVE,38.8177,-77.2925,9
+Virginia,Fairfax,ACTIVE,38.8458,-77.3242,53
+Virginia,Fairfax,ACTIVE,38.8604,-77.2649,37
+Virginia,Fairfax,ACTIVE,38.8776,-77.3885,37
+Virginia,Fairfax Station,ACTIVE,38.7602,-77.3064,5
+Virginia,Falls Church,ACTIVE,38.8502,-77.1448,14
+Virginia,Falls Church,ACTIVE,38.8589,-77.1548,6
+Virginia,Falls Church,ACTIVE,38.8635,-77.1939,26
+Virginia,Falls Church,ACTIVE,38.8856,-77.1802,19
+Virginia,Falls Church,ACTIVE,38.8994,-77.1895,14
+Virginia,Fort Belvoir,ACTIVE,38.6947,-77.1433,3
+Virginia,Fort Myer,ACTIVE,38.8921,-77.0794,1
+Virginia,Fredericksburg,ACTIVE,38.2481,-77.4681,1
+Virginia,Fredericksburg,ACTIVE,38.2688,-77.5476,8
+Virginia,Fredericksburg,ACTIVE,38.2995,-77.4772,9
+Virginia,Fredericksburg,ACTIVE,38.3796,-77.5349,1
+Virginia,Gainesville,ACTIVE,38.8157,-77.6216,37
+Virginia,Glen Allen,ACTIVE,37.7284,-77.5544,3
+Virginia,Great Falls,ACTIVE,39.0039,-77.3083,4
+Virginia,Hampton,ACTIVE,37.0318,-76.3199,1
+Virginia,Hampton,ACTIVE,37.0436,-76.3426,5
+Virginia,Hampton,ACTIVE,37.0462,-76.4096,30
+Virginia,Hampton,INITIAL,37.0462,-76.4096,5
+Virginia,Harrisonburg,ACTIVE,38.4905,-78.8179,3
+Virginia,Haymarket,ACTIVE,38.8674,-77.6445,11
+Virginia,Henrico,ACTIVE,37.4638,-77.398,13
+Virginia,Henrico,ACTIVE,37.52,-77.4369,11
+Virginia,Henrico,ACTIVE,37.631,-77.546,10
+Virginia,Herndon,ACTIVE,38.9252,-77.3928,28
+Virginia,Herndon,ACTIVE,38.9839,-77.3675,21
+Virginia,Hiwassee,ACTIVE,36.9756,-80.6695,6
+Virginia,Hot Springs,ACTIVE,37.9638,-79.8717,90
+Virginia,Hot Springs,INITIAL,37.9638,-79.8717,4
+Virginia,Jamesville,ACTIVE,37.5151,-75.9305,6
+Virginia,Leesburg,ACTIVE,39.042,-77.6054,36
+Virginia,Leesburg,ACTIVE,39.1821,-77.5359,57
+Virginia,Lorton,ACTIVE,38.6929,-77.204,28
+Virginia,Luray,ACTIVE,38.6548,-78.4596,21
+Virginia,Manassas,ACTIVE,38.7492,-77.487799999999993,12
+Virginia,Manassas,ACTIVE,38.7707,-77.4494,16
+Virginia,Manassas,ACTIVE,38.793,-77.5266,29
+Virginia,Mc Gaheysville,ACTIVE,38.3712,-78.7411,67
+Virginia,Mc Gaheysville,INITIAL,38.3712,-78.7411,4
+Virginia,Mc Lean,ACTIVE,38.9326,-77.1706,2
+Virginia,Mc Lean,ACTIVE,38.953,-77.2295,49
+Virginia,Middleburg,ACTIVE,38.9687,-77.7355,2
+Virginia,Midlothian,ACTIVE,37.5109,-77.6429,1
+Virginia,Millboro,ACTIVE,38.0553,-79.7464,6
+Virginia,Mount Solon,ACTIVE,38.3328,-79.1028,3
+Virginia,New Castle,ACTIVE,37.4871,-80.1704,4
+Virginia,New Kent,ACTIVE,37.553,-77.0742,2
+Virginia,Newport News,ACTIVE,36.9864,-76.4165,6
+Virginia,Newport News,ACTIVE,37.0156,-76.4332,5
+Virginia,Newport News,ACTIVE,37.058,-76.4607,2
+Virginia,Newport News,ACTIVE,37.0768,-76.4967,20
+Virginia,Newport News,ACTIVE,37.1132,-76.5179,23
+Virginia,Newport News,ACTIVE,37.1526,-76.542,18
+Virginia,Newport News,ACTIVE,37.1989,-76.5821,5
+Virginia,Newport News,INITIAL,36.9864,-76.4165,1
+Virginia,Norfolk,ACTIVE,36.8546,-76.2143,5
+Virginia,Norfolk,ACTIVE,36.8859,-76.3004,1
+Virginia,Norfolk,ACTIVE,36.8914,-76.2396,3
+Virginia,Norfolk,ACTIVE,36.9168,-76.2875,2
+Virginia,Norfolk,ACTIVE,36.9202,-76.216,2
+Virginia,Norfolk,ACTIVE,36.9312,-76.2397,3
+Virginia,Norfolk,ACTIVE,36.9442,-76.252,1
+Virginia,Oakton,ACTIVE,38.8852,-77.3233,4
+Virginia,Occoquan,ACTIVE,38.6816,-77.2605,1
+Virginia,Palmyra,ACTIVE,37.8931,-78.3386,12
+Virginia,Pembroke,ACTIVE,37.3312,-80.5975,4
+Virginia,Poquoson,ACTIVE,37.1313,-76.3807,1
+Virginia,Portsmouth,ACTIVE,36.8089,-76.3671,2
+Virginia,Portsmouth,ACTIVE,36.8695,-76.3869,8
+Virginia,Reston,ACTIVE,38.9318,-77.3527,8
+Virginia,Reston,ACTIVE,38.9615,-77.3418,21
+Virginia,Reston,ACTIVE,38.9807,-77.3419,2
+Virginia,Richmond,ACTIVE,37.4011,-77.4615,1
+Virginia,Richmond,ACTIVE,37.4373,-77.4788,3
+Virginia,Richmond,ACTIVE,37.4955,-77.471,4
+Virginia,Richmond,ACTIVE,37.5133,-77.5646,2
+Virginia,Richmond,ACTIVE,37.5158,-77.5047,13
+Virginia,Richmond,ACTIVE,37.5477,-77.3948,2
+Virginia,Richmond,ACTIVE,37.5498,-77.4588,106
+Virginia,Richmond,ACTIVE,37.5583,-77.4845,1
+Virginia,Richmond,ACTIVE,37.5825,-77.5197,6
+Virginia,Richmond,ACTIVE,37.6247,-77.4351,5
+Virginia,Richmond,INITIAL,37.5498,-77.4588,1
+Virginia,Riner,ACTIVE,37.0322,-80.4353,4
+Virginia,Sandston,ACTIVE,37.5157,-77.2758,3
+Virginia,Smithfield,ACTIVE,36.9811,-76.6368,5
+Virginia,Spotsylvania,ACTIVE,38.162,-77.6854,2
+Virginia,Spotsylvania,ACTIVE,38.271,-77.6447,2
+Virginia,Springfield,ACTIVE,38.7449,-77.237,40
+Virginia,Springfield,ACTIVE,38.7757,-77.2337,57
+Virginia,Springfield,ACTIVE,38.7797,-77.1866,7
+Virginia,Springfield,ACTIVE,38.8029,-77.2116,31
+Virginia,Stafford,ACTIVE,38.4586,-77.4306,2
+Virginia,Stafford,ACTIVE,38.4718,-77.5102,1
+Virginia,Stephenson,ACTIVE,39.1973,-78.0941,3
+Virginia,Sterling,ACTIVE,38.9814,-77.4723,40
+Virginia,Sterling,ACTIVE,39.023,-77.3994,22
+Virginia,Sterling,ACTIVE,39.0472,-77.3866,39
+Virginia,Suffolk,ACTIVE,36.8544,-76.4664,10
+Virginia,Swoope,ACTIVE,38.1591,-79.1873,5
+Virginia,Toano,ACTIVE,37.3901,-76.8253,14
+Virginia,Topping,ACTIVE,37.6009,-76.4575,6
+Virginia,Triangle,ACTIVE,38.5509,-77.3229,1
+Virginia,Urbanna,ACTIVE,37.6356,-76.5918,30
+Virginia,Vienna,ACTIVE,38.8935,-77.2532,7
+Virginia,Vienna,ACTIVE,38.8977,-77.288,8
+Virginia,Vienna,ACTIVE,38.928,-77.2649,15
+Virginia,Virginia Beach,ACTIVE,36.7341,-76.0359,15
+Virginia,Virginia Beach,ACTIVE,36.776,-76.0766,11
+Virginia,Virginia Beach,ACTIVE,36.7978,-76.1759,23
+Virginia,Virginia Beach,ACTIVE,36.8282,-76.0237,14
+Virginia,Virginia Beach,ACTIVE,36.8348,-76.0961,14
+Virginia,Virginia Beach,ACTIVE,36.8392,-76.1522,30
+Virginia,Virginia Beach,ACTIVE,36.8585,-76.0019,793
+Virginia,Virginia Beach,ACTIVE,36.8881,-76.1446,47
+Virginia,Virginia Beach,INITIAL,36.7978,-76.1759,10
+Virginia,Virginia Beach,INITIAL,36.8585,-76.0019,85
+Virginia,Warm Springs,ACTIVE,38.1437,-79.8207,5
+Virginia,Washington,ACTIVE,38.7078,-78.1566,5
+Virginia,Williamsburg,ACTIVE,37.2732,-76.7324,592
+Virginia,Williamsburg,ACTIVE,37.3178,-76.7634,154
+Virginia,Williamsburg,INITIAL,37.2732,-76.7324,70
+Virginia,Williamsburg,INITIAL,37.3178,-76.7634,7
+Virginia,Winchester,ACTIVE,39.264,-78.1989,1
+Virginia,Woodbridge,ACTIVE,38.6356,-77.2683,46
+Virginia,Woodbridge,ACTIVE,38.6438,-77.3451,9
+Virginia,Woodbridge,ACTIVE,38.676,-77.3163,20
+Virginia,Yorktown,ACTIVE,37.1256,-76.4469,2
+Virginia,Yorktown,ACTIVE,37.2287,-76.5423,2
+Virginia,Yorktown,INITIAL,37.1256,-76.4469,1
+Washington,Aberdeen,ACTIVE,46.9843,-123.7963,2
+Washington,Anacortes,ACTIVE,48.5004,-122.6309,3
+Washington,Anacortes,INITIAL,48.5004,-122.6309,1
+Washington,Arlington,ACTIVE,48.1829,-122.1121,12
+Washington,Ashford,ACTIVE,46.7531,-121.9898,90
+Washington,Ashford,INITIAL,46.7531,-121.9898,4
+Washington,Auburn,ACTIVE,47.2884,-122.098,4
+Washington,Auburn,ACTIVE,47.305,-122.2067,12
+Washington,Auburn,ACTIVE,47.3099,-122.2653,1
+Washington,Bellevue,ACTIVE,47.6155,-122.2072,8
+Washington,Blaine,ACTIVE,48.9636,-122.7323,2
+Washington,Bothell,ACTIVE,47.8401,-122.1972,3
+Washington,Bremerton,ACTIVE,47.6019,-122.6299,3
+Washington,Chelan,ACTIVE,47.8483,-120.0273,35
+Washington,Chelan,INITIAL,47.8483,-120.0273,1
+Washington,Cle Elum,ACTIVE,47.2063,-120.9685,54
+Washington,Clinton,ACTIVE,47.9508,-122.3916,6
+Washington,Cougar,ACTIVE,46.0515,-122.2995,1
+Washington,Cougar,INITIAL,46.0515,-122.2995,1
+Washington,Deer Harbor,ACTIVE,48.6201,-122.9999,12
+Washington,Eastsound,ACTIVE,48.6968,-122.9055,36
+Washington,Eatonville,ACTIVE,46.8708,-122.2696,5
+Washington,Enumclaw,ACTIVE,47.2665,-122.0314,13
+Washington,Enumclaw,INITIAL,47.2665,-122.0314,4
+Washington,Everett,ACTIVE,47.8948,-122.1987,5
+Washington,Everett,ACTIVE,47.9017,-122.2472,1
+Washington,Everett,ACTIVE,47.9419,-122.2218,2
+Washington,Federal Way,ACTIVE,47.3104,-122.3612,3
+Washington,Federal Way,ACTIVE,47.3203,-122.3117,45
+Washington,Federal Way,INITIAL,47.3203,-122.3117,1
+Washington,Forks,ACTIVE,47.9287,-124.3989,12
+Washington,Friday Harbor,ACTIVE,48.5454,-123.0947,90
+Washington,Granite Falls,ACTIVE,48.079,-121.9428,1
+Washington,Ilwaco,ACTIVE,46.3142,-124.0282,2
+Washington,Kennewick,ACTIVE,46.2109,-119.168,5
+Washington,Kirkland,ACTIVE,47.6786,-122.1894,16
+Washington,Kirkland,ACTIVE,47.7188,-122.1966,5
+Washington,Lake Stevens,ACTIVE,48.0171,-122.0672,2
+Washington,Leavenworth,ACTIVE,47.6438,-120.6748,22
+Washington,Leavenworth,INITIAL,47.6438,-120.6748,1
+Washington,Long Beach,ACTIVE,46.3774,-124.047,2
+Washington,Loon Lake,ACTIVE,48.0784,-117.6325,3
+Washington,Manson,ACTIVE,47.8958,-120.149,7
+Washington,Mount Vernon,ACTIVE,48.4352,-122.2082,2
+Washington,Ocean Shores,ACTIVE,46.9737,-124.1563,9
+Washington,Olympia,ACTIVE,46.9498,-123.0212,2
+Washington,Olympia,ACTIVE,47.1042,-122.87,5
+Washington,Pacific Beach,ACTIVE,47.2195,-124.1915,48
+Washington,Pacific Beach,INITIAL,47.2195,-124.1915,3
+Washington,Packwood,ACTIVE,46.65,-121.6553,1
+Washington,Port Angeles,ACTIVE,48.0557,-123.9178,6
+Washington,Port Angeles,ACTIVE,48.1065,-123.4384,34
+Washington,Port Angeles,INITIAL,48.1065,-123.4384,4
+Washington,Port Townsend,ACTIVE,48.104,-122.7945,3
+Washington,Port Townsend,INITIAL,48.104,-122.7945,2
+Washington,Pullman,ACTIVE,46.7352,-117.1729,2
+Washington,Quinault,ACTIVE,47.4603,-123.8307,10
+Washington,Renton,ACTIVE,47.4714,-122.2203,1
+Washington,Renton,ACTIVE,47.5073,-122.1819,7
+Washington,Roslyn,ACTIVE,47.2233,-121.0025,6
+Washington,Seattle,ACTIVE,47.4483,-122.2731,2
+Washington,Seattle,ACTIVE,47.5903,-122.3263,10
+Washington,Seattle,ACTIVE,47.6036,-122.3256,1
+Washington,Seattle,ACTIVE,47.6114,-122.3305,83
+Washington,Seattle,ACTIVE,47.6151,-122.3447,7
+Washington,Seattle,ACTIVE,47.6339,-122.3476,49
+Washington,Seattle,ACTIVE,47.6849,-122.2968,1
+Washington,Seattle,ACTIVE,47.6873,-122.3772,1
+Washington,Seattle,ACTIVE,47.717,-122.3015,1
+Washington,Seattle,INITIAL,47.4483,-122.2731,1
+Washington,Seattle,INITIAL,47.6114,-122.3305,6
+Washington,Seattle,INITIAL,47.6151,-122.3447,1
+Washington,Sequim,ACTIVE,48.0881,-123.1198,4
+Washington,Snoqualmie,ACTIVE,47.5293,-121.8225,1
+Washington,Snoqualmie Pass,ACTIVE,47.4452,-121.431,1
+Washington,Spokane,ACTIVE,47.6665,-117.4365,15
+Washington,Spokane,ACTIVE,47.6686,-117.3049,5
+Washington,Spokane,INITIAL,47.6665,-117.4365,4
+Washington,Stehekin,ACTIVE,48.3093,-120.6565,13
+Washington,Stehekin,INITIAL,48.3093,-120.6565,2
+Washington,Stevenson,ACTIVE,45.6882,-121.9093,12
+Washington,Tacoma,ACTIVE,47.2545,-122.4405,1
+Washington,Vancouver,ACTIVE,45.6032,-122.5133,7
+Washington,Vancouver,ACTIVE,45.6644,-122.5212,7
+Washington,Vashon,ACTIVE,47.4259,-122.4644,4
+Washington,Vaughn,ACTIVE,47.3309,-122.7736,1
+Washington,Veradale,ACTIVE,47.6421,-117.1977,4
+Washington,Walla Walla,ACTIVE,46.0614,-118.3315,1
+Washington,Winthrop,ACTIVE,48.4756,-120.1805,16
+Washington,Winthrop,INITIAL,48.4756,-120.1805,2
+West Virginia,Alderson,ACTIVE,37.7371,-80.661,2
+West Virginia,Alderson,INITIAL,37.7371,-80.661,1
+West Virginia,Bartow,ACTIVE,38.5513,-79.7952,7
+West Virginia,Cabins,ACTIVE,38.9512,-79.2783,4
+West Virginia,Cabins,INITIAL,38.9512,-79.2783,1
+West Virginia,Caldwell,ACTIVE,37.7807,-80.394,18
+West Virginia,Ghent,INITIAL,37.6208,-81.1019,17
+West Virginia,High View,ACTIVE,39.2225,-78.4425,13
+West Virginia,Lansing,ACTIVE,38.0869,-81.0588,19
+West Virginia,Marlinton,ACTIVE,38.2586,-80.1046,10
+West Virginia,New Cumberland,ACTIVE,40.5228,-80.5901,11
+West Virginia,Oak Hill,ACTIVE,37.9723,-81.1487,8
+West Virginia,Slatyfork,ACTIVE,38.388,-79.9906,1
+West Virginia,Snowshoe,ACTIVE,38.4133,-80.0068,54
+West Virginia,Snowshoe,INITIAL,38.4133,-80.0068,5
+West Virginia,South Charleston,ACTIVE,38.3684,-81.6996,2
+West Virginia,South Charleston,INITIAL,38.3684,-81.6996,1
+West Virginia,White Sulphur Springs,ACTIVE,37.7827,-80.3129,7
+West Virginia,White Sulphur Springs,INITIAL,37.7827,-80.3129,11
+Wisconsin,Antigo,ACTIVE,45.1314,-89.1419,4
+Wisconsin,Appleton,ACTIVE,44.271,-88.4326,4
+Wisconsin,Ashland,ACTIVE,46.5586,-90.7388,7
+Wisconsin,Athelstane,ACTIVE,45.4228,-88.175299999999993,6
+Wisconsin,Baileys Harbor,ACTIVE,45.0565,-87.1676,25
+Wisconsin,Baraboo,ACTIVE,43.4825,-89.7462,236
+Wisconsin,Baraboo,INITIAL,43.4825,-89.7462,36
+Wisconsin,Bayfield,ACTIVE,46.8354,-90.8217,25
+Wisconsin,Bayfield,INITIAL,46.8354,-90.8217,1
+Wisconsin,Boscobel,ACTIVE,43.1393,-90.7061,3
+Wisconsin,Boulder Junction,ACTIVE,46.1112,-89.6325,42
+Wisconsin,Boulder Junction,INITIAL,46.1112,-89.6325,4
+Wisconsin,Brookfield,ACTIVE,43.0622,-88.098,4
+Wisconsin,Burlington,ACTIVE,42.666,-88.2749,1
+Wisconsin,Cable,ACTIVE,46.2172,-91.2244,13
+Wisconsin,Conover,ACTIVE,46.044,-89.2389,23
+Wisconsin,Conover,INITIAL,46.044,-89.2389,2
+Wisconsin,Crivitz,ACTIVE,45.2617,-88.078,11
+Wisconsin,Crivitz,INITIAL,45.2617,-88.078,1
+Wisconsin,Delavan,ACTIVE,42.6227,-88.6277,83
+Wisconsin,Dodgeville,ACTIVE,42.9698,-90.1404,1
+Wisconsin,Eagle River,ACTIVE,45.9161,-89.2531,115
+Wisconsin,Eagle River,INITIAL,45.9161,-89.2531,1
+Wisconsin,East Troy,ACTIVE,42.8035,-88.4092,3
+Wisconsin,Eau Claire,ACTIVE,44.784,-91.4877,2
+Wisconsin,Egg Harbor,ACTIVE,45.01,-87.2805,114
+Wisconsin,Egg Harbor,INITIAL,45.01,-87.2805,10
+Wisconsin,Ellison Bay,ACTIVE,45.2572,-87.0512,9
+Wisconsin,Ephraim,ACTIVE,45.1592,-87.171,47
+Wisconsin,Ephraim,INITIAL,45.1592,-87.171,5
+Wisconsin,Fifield,ACTIVE,45.8143,-90.453,7
+Wisconsin,Fish Creek,ACTIVE,45.1155,-87.2064,52
+Wisconsin,Fish Creek,INITIAL,45.1155,-87.2064,12
+Wisconsin,Florence,ACTIVE,45.9027,-88.2289,3
+Wisconsin,Fontana,ACTIVE,42.5429,-88.5684,63
+Wisconsin,Fontana,INITIAL,42.5429,-88.5684,7
+Wisconsin,Glenbeulah,ACTIVE,43.7666,-88.1049,2
+Wisconsin,Green Bay,ACTIVE,44.4975,-88.0324,1
+Wisconsin,Green Lake,ACTIVE,43.8444,-88.9685,36
+Wisconsin,Green Lake,INITIAL,43.8444,-88.9685,1
+Wisconsin,Hayward,ACTIVE,45.9552,-91.2783,43
+Wisconsin,Herbster,ACTIVE,46.8213,-91.2332,3
+Wisconsin,Kenosha,ACTIVE,42.556,-87.8705,2
+Wisconsin,Kohler,ACTIVE,43.7381,-87.7867,1
+Wisconsin,La Crosse,ACTIVE,43.8487,-91.2484,13
+Wisconsin,La Pointe,ACTIVE,46.8467,-90.6036,18
+Wisconsin,Lac Du Flambeau,ACTIVE,45.9718,-89.8901,7
+Wisconsin,Lac Du Flambeau,INITIAL,45.9718,-89.8901,2
+Wisconsin,Lake Delton,ACTIVE,43.5939,-89.7912,165
+Wisconsin,Lake Delton,INITIAL,43.5939,-89.7912,7
+Wisconsin,Lake Geneva,ACTIVE,42.5881,-88.4554,109
+Wisconsin,Lake Geneva,INITIAL,42.5881,-88.4554,7
+Wisconsin,Lake Nebagamon,ACTIVE,46.5023,-91.7402,10
+Wisconsin,Land O Lakes,ACTIVE,46.1563,-89.3218,2
+Wisconsin,Land O Lakes,INITIAL,46.1563,-89.3218,1
+Wisconsin,Madison,ACTIVE,43.073,-89.4528,3
+Wisconsin,Madison,ACTIVE,43.0775,-89.3831,1
+Wisconsin,Madison,ACTIVE,43.1205,-89.3523,3
+Wisconsin,Manitowish Waters,ACTIVE,46.1551,-89.8455,22
+Wisconsin,Marinette,ACTIVE,45.0874,-87.6697,2
+Wisconsin,Marion,ACTIVE,44.6794,-88.8767,1
+Wisconsin,Marshfield,ACTIVE,44.6615,-90.1784,4
+Wisconsin,Mauston,ACTIVE,43.7934,-90.0641,3
+Wisconsin,Mercer,ACTIVE,46.1696,-90.0679,12
+Wisconsin,Merrimac,ACTIVE,43.3855,-89.6323,3
+Wisconsin,Merrimac,INITIAL,43.3855,-89.6323,4
+Wisconsin,Milwaukee,ACTIVE,43.0403,-87.9154,5
+Wisconsin,Milwaukee,ACTIVE,43.1409,-87.9073,1
+Wisconsin,Mindoro,ACTIVE,44.0287,-91.0642,2
+Wisconsin,Minocqua,ACTIVE,45.8719,-89.758,149
+Wisconsin,Minong,ACTIVE,46.1044,-91.8506,19
+Wisconsin,Montello,ACTIVE,43.769,-89.3586,3
+Wisconsin,Mukwonago,ACTIVE,42.8821,-88.3451,37
+Wisconsin,Nekoosa,ACTIVE,44.282,-89.8814,46
+Wisconsin,New Berlin,ACTIVE,42.9822,-88.0946,2
+Wisconsin,Oak Creek,ACTIVE,42.8892,-87.9027,1
+Wisconsin,Oconomowoc,ACTIVE,43.1095,-88.4862,30
+Wisconsin,Onalaska,ACTIVE,43.8974,-91.2314,4
+Wisconsin,Oshkosh,ACTIVE,43.9946,-88.526,3
+Wisconsin,Oshkosh,INITIAL,43.9946,-88.526,1
+Wisconsin,Plymouth,ACTIVE,43.7526,-87.9779,9
+Wisconsin,Prairie Du Chien,ACTIVE,43.0426,-91.1193,13
+Wisconsin,Prairie Du Chien,INITIAL,43.0426,-91.1193,1
+Wisconsin,Rhinelander,ACTIVE,45.7045,-89.3866,35
+Wisconsin,Ripon,ACTIVE,43.8454,-88.8424,4
+Wisconsin,Saint Germain,ACTIVE,45.9183,-89.4866,22
+Wisconsin,Sayner,ACTIVE,45.9867,-89.5194,2
+Wisconsin,Sheboygan,ACTIVE,43.741,-87.7247,2
+Wisconsin,Sister Bay,ACTIVE,45.1875,-87.1139,157
+Wisconsin,Sister Bay,INITIAL,45.1875,-87.1139,18
+Wisconsin,Slinger,INITIAL,43.3322,-88.2824,2
+Wisconsin,Spooner,ACTIVE,45.8505,-91.9155,6
+Wisconsin,Stockholm,ACTIVE,44.5084,-92.2326,4
+Wisconsin,Stoughton,ACTIVE,42.929,-89.224,2
+Wisconsin,Sturgeon Bay,ACTIVE,44.8438,-87.3753,96
+Wisconsin,Sturgeon Bay,INITIAL,44.8438,-87.3753,5
+Wisconsin,Superior,ACTIVE,46.7016,-92.0912,6
+Wisconsin,Tomahawk,ACTIVE,45.4963,-89.7273,5
+Wisconsin,Walworth,ACTIVE,42.535,-88.6027,1
+Wisconsin,Walworth,INITIAL,42.535,-88.6027,3
+Wisconsin,Warrens,ACTIVE,44.157,-90.4967,73
+Wisconsin,Warrens,INITIAL,44.157,-90.4967,2
+Wisconsin,Washington Island,ACTIVE,45.3738,-86.8975,7
+Wisconsin,Waukesha,ACTIVE,42.9993,-88.2196,8
+Wisconsin,Waupaca,ACTIVE,44.3481,-89.1101,7
+Wisconsin,Wautoma,ACTIVE,44.0656,-89.2666,7
+Wisconsin,Wautoma,INITIAL,44.0656,-89.2666,1
+Wisconsin,Webster,ACTIVE,45.874,-92.3227,28
+Wisconsin,Wild Rose,INITIAL,44.1834,-89.1953,5
+Wisconsin,Williams Bay,ACTIVE,42.5767,-88.5431,9
+Wisconsin,Winter,ACTIVE,45.8327,-91.0144,5
+Wisconsin,Wisconsin Dells,ACTIVE,43.6508,-89.7665,2960
+Wisconsin,Wisconsin Dells,INITIAL,43.6508,-89.7665,156
+Wisconsin,Woodruff,ACTIVE,45.9186,-89.6954,42
+Wisconsin,Woodruff,INITIAL,45.9186,-89.6954,2
+Wyoming,Afton,ACTIVE,42.7128,-110.942,1
+Wyoming,Alpine,ACTIVE,43.1635,-111.018,18
+Wyoming,Alta,ACTIVE,43.8886,-110.9492,12
+Wyoming,Buffalo,ACTIVE,44.3485,-106.7073,29
+Wyoming,Casper,ACTIVE,42.8406,-106.2806,2
+Wyoming,Casper,ACTIVE,42.8458,-106.3166,4
+Wyoming,Cheyenne,ACTIVE,41.1437,-104.7962,2
+Wyoming,Cody,ACTIVE,44.5231,-109.0756,88
+Wyoming,Cody,INITIAL,44.5231,-109.0756,4
+Wyoming,Cora,ACTIVE,43.1399,-109.9154,1
+Wyoming,Dubois,ACTIVE,43.5451,-109.6492,22
+Wyoming,Evanston,ACTIVE,41.2609,-110.9631,4
+Wyoming,Gillette,ACTIVE,43.9282,-105.5492,6
+Wyoming,Gillette,ACTIVE,44.282,-105.4974,5
+Wyoming,Gillette,INITIAL,44.282,-105.4974,1
+Wyoming,Glendo,ACTIVE,42.5004,-105,3
+Wyoming,Green River,ACTIVE,41.5196,-109.4714,2
+Wyoming,Guernsey,ACTIVE,42.2655,-104.7512,1
+Wyoming,Jackson,ACTIVE,43.4528,-110.7393,230
+Wyoming,Jackson,ACTIVE,43.4799,-110.7624,7
+Wyoming,Jackson,INITIAL,43.4528,-110.7393,6
+Wyoming,Lander,ACTIVE,42.9208,-108.5913,3
+Wyoming,Lander,INITIAL,42.9208,-108.5913,1
+Wyoming,Laramie,ACTIVE,41.439,-105.801,2
+Wyoming,Little America,ACTIVE,41.5436,-109.859,1
+Wyoming,Moose,ACTIVE,43.715,-110.742,17
+Wyoming,Moran,ACTIVE,43.9509,-110.5532,277
+Wyoming,Moran,INITIAL,43.9509,-110.5532,20
+Wyoming,Newcastle,ACTIVE,43.8511,-104.2262,2
+Wyoming,Pinedale,ACTIVE,42.8543,-109.8561,14
+Wyoming,Pinedale,INITIAL,42.8543,-109.8561,1
+Wyoming,Rawlins,ACTIVE,41.7951,-107.2349,6
+Wyoming,Riverton,ACTIVE,43.0351,-108.2024,5
+Wyoming,Riverton,INITIAL,43.0351,-108.2024,3
+Wyoming,Rock Springs,ACTIVE,41.606,-109.23,10
+Wyoming,Saddlestring,ACTIVE,44.4976,-106.871,1
+Wyoming,Saratoga,ACTIVE,41.498,-106.754,1
+Wyoming,Sheridan,ACTIVE,44.7849,-106.9648,52
+Wyoming,Teton Village,ACTIVE,43.5924,-110.8314,76
+Wyoming,Teton Village,INITIAL,43.5924,-110.8314,1
+Wyoming,Wilson,ACTIVE,43.4992,-110.8742,3
+Wyoming,Yellowstone National Park,ACTIVE,44.7957,-110.6137,306
+Wyoming,Yellowstone National Park,INITIAL,44.7957,-110.6137,154
