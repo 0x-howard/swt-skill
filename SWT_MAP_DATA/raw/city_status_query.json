@@ -1,0 +1,195 @@
+{
+  "Commands": [
+    {
+      "SemanticQueryDataShapeCommand": {
+        "Query": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "n",
+              "Entity": "New Report",
+              "Type": 0
+            },
+            {
+              "Name": "q",
+              "Entity": "Query2",
+              "Type": 0
+            }
+          ],
+          "Select": [
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "State"
+              },
+              "Name": "New Report.State",
+              "NativeReferenceName": "State"
+            },
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "City"
+              },
+              "Name": "New Report.City",
+              "NativeReferenceName": "City"
+            },
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "q"
+                  }
+                },
+                "Property": "STATUS_CODE"
+              },
+              "Name": "Query2.STATUS_CODE",
+              "NativeReferenceName": "Status Code"
+            },
+            {
+              "Aggregation": {
+                "Expression": {
+                  "Column": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Source": "q"
+                      }
+                    },
+                    "Property": "SEVIS_ID"
+                  }
+                },
+                "Function": 5
+              },
+              "Name": "CountNonNull(Query2.SEVIS_ID)",
+              "NativeReferenceName": "# of Participants"
+            },
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "Column10"
+              },
+              "Name": "Sum(New Report.Column10)",
+              "NativeReferenceName": "Latitude"
+            },
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "Column11"
+              },
+              "Name": "Sum(New Report.Column11)",
+              "NativeReferenceName": "Longitude"
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "Not": {
+                  "Expression": {
+                    "In": {
+                      "Expressions": [
+                        {
+                          "Column": {
+                            "Expression": {
+                              "SourceRef": {
+                                "Source": "n"
+                              }
+                            },
+                            "Property": "City"
+                          }
+                        }
+                      ],
+                      "Values": [
+                        [
+                          {
+                            "Literal": {
+                              "Value": "null"
+                            }
+                          }
+                        ]
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "q"
+                          }
+                        },
+                        "Property": "STATUS_CODE"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'ACTIVE'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'INITIAL'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "Binding": {
+          "Primary": {
+            "Groupings": [
+              {
+                "Projections": [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              }
+            ]
+          },
+          "DataReduction": {
+            "DataVolume": 6,
+            "Primary": {
+              "Window": {
+                "Count": 5000
+              }
+            }
+          },
+          "Version": 1
+        },
+        "ExecutionMetricsKind": 1
+      }
+    }
+  ]
+}

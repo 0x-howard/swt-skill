@@ -1,0 +1,121 @@
+{
+  "cleaning_version": "1.0.0",
+  "script": "scripts/clean_swt_data.py",
+  "generated_at": "2026-09-26T16:16:32",
+  "outputs": [
+    {
+      "file": "cleaned/swt_points_clean.csv",
+      "source_inputs": [
+        "current/swt_map_points.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 3649,
+      "field_count": 14,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/swt_city_clean.csv",
+      "source_inputs": [
+        "current/swt_map_points.csv",
+        "current/community_support_groups.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 2465,
+      "field_count": 21,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/swt_state_clean.csv",
+      "source_inputs": [
+        "current/swt_map_points.csv",
+        "current/community_support_groups.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 51,
+      "field_count": 15,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/swt_city_clean.json",
+      "source_inputs": [
+        "swt_city_clean.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 2465,
+      "field_count": 21,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/swt_state_clean.json",
+      "source_inputs": [
+        "swt_state_clean.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 51,
+      "field_count": 15,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/community_support_groups_clean.csv",
+      "source_inputs": [
+        "current/community_support_groups.csv",
+        "current/swt_map_points.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 15,
+      "field_count": 12,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/manual_review.csv",
+      "source_inputs": [
+        "current/swt_map_points.csv",
+        "current/community_support_groups.csv"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 4,
+      "field_count": 8,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/data_quality_report.md",
+      "source_inputs": [
+        "*"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 0,
+      "field_count": 0,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/source_metadata.json",
+      "source_inputs": [
+        "raw/modelsAndExploration.json"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 0,
+      "field_count": 0,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    },
+    {
+      "file": "cleaned/cleaning_manifest.json",
+      "source_inputs": [
+        "*"
+      ],
+      "generated_at": "2026-09-26T16:16:32",
+      "row_count": 0,
+      "field_count": 0,
+      "cleaning_version": "1.0.0",
+      "script": "scripts/clean_swt_data.py"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 2304909674,
+  "x": 16.0,
+  "y": 24.0,
+  "z": 1.0,
+  "width": 104.0,
+  "height": 56.0,
+  "config": "{\"name\":\"8c5a41ed68344540bc48\",\"layouts\":[{\"id\":0,\"position\":{\"x\":16,\"y\":24,\"z\":1,\"width\":104,\"height\":56,\"tabOrder\":1}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"\"}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"State\",\"textStyle\":{\"fontSize\":\"11pt\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}",
+  "filters": "[]"
+}

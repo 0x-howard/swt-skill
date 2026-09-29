@@ -1,0 +1,10 @@
+{
+  "id": 2304909663,
+  "x": 0.0,
+  "y": 0.0,
+  "z": 0.0,
+  "width": 1280.0,
+  "height": 80.0,
+  "config": "{\"name\":\"95a04c4a9daec2a4128d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":0,\"width\":1280.0000000000002,\"height\":80.00000000000001,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Department of State Bureau of Education and Cultural Affairs | Office of Private Sector Exchange Administration ECA/EC/OPA\",\"textStyle\":{\"color\":\"#ffffff\"}}],\"indent\":4},{\"textRuns\":[{\"value\":\"Summer Work Travel Exchange Visitors Map\",\"textStyle\":{\"fontSize\":\"24pt\",\"color\":\"#ffffff\"}}],\"indent\":4}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":3,\"Percent\":-0.5}}}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}]}}}",
+  "filters": "[]"
+}

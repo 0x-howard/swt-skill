@@ -1,0 +1,3052 @@
+﻿State,City,Status,Participants,Point_Count
+Alabama,Cullman,ACTIVE,22,1
+Alabama,Cullman,INITIAL,4,1
+Alabama,Decatur,ACTIVE,1,1
+Alabama,Foley,ACTIVE,191,1
+Alabama,Foley,INITIAL,10,1
+Alabama,Gulf Shores,ACTIVE,222,1
+Alabama,Gulf Shores,INITIAL,9,1
+Alabama,Henagar,ACTIVE,3,1
+Alabama,Jasper,ACTIVE,2,1
+Alabama,Madison,ACTIVE,7,2
+Alabama,Mentone,ACTIVE,2,1
+Alabama,Mobile,ACTIVE,8,2
+Alabama,Orange Beach,ACTIVE,319,1
+Alabama,Orange Beach,INITIAL,2,1
+Alabama,Rainsville,ACTIVE,2,1
+Alabama,Spanish Fort,ACTIVE,4,1
+Alaska,Anchorage,ACTIVE,802,9
+Alaska,Anchorage,INITIAL,16,4
+Alaska,Cooper Landing,ACTIVE,17,1
+Alaska,Cooper Landing,INITIAL,1,1
+Alaska,Copper Center,ACTIVE,20,1
+Alaska,Copper Center,INITIAL,1,1
+Alaska,Cordova,ACTIVE,3,1
+Alaska,Denali National Park,ACTIVE,835,1
+Alaska,Denali National Park,INITIAL,10,1
+Alaska,Eagle River,ACTIVE,5,1
+Alaska,Fairbanks,ACTIVE,486,2
+Alaska,Fairbanks,INITIAL,11,2
+Alaska,Girdwood,ACTIVE,79,1
+Alaska,Glennallen,ACTIVE,2,1
+Alaska,Glennallen,INITIAL,1,1
+Alaska,Gustavus,ACTIVE,20,1
+Alaska,Haines,ACTIVE,6,1
+Alaska,Healy,ACTIVE,177,1
+Alaska,Healy,INITIAL,1,1
+Alaska,Homer,ACTIVE,107,1
+Alaska,Hoonah,ACTIVE,25,1
+Alaska,Indian,ACTIVE,2,1
+Alaska,Juneau,ACTIVE,148,1
+Alaska,Juneau,INITIAL,2,1
+Alaska,Kenai,ACTIVE,12,1
+Alaska,Ketchikan,ACTIVE,167,1
+Alaska,Ketchikan,INITIAL,8,1
+Alaska,Moose Pass,ACTIVE,18,1
+Alaska,Palmer,ACTIVE,7,1
+Alaska,Seldovia,ACTIVE,5,1
+Alaska,Seward,ACTIVE,376,1
+Alaska,Seward,INITIAL,1,1
+Alaska,Sitka,ACTIVE,25,1
+Alaska,Skagway,ACTIVE,84,1
+Alaska,Soldotna,ACTIVE,33,1
+Alaska,Sutton,ACTIVE,3,1
+Alaska,Talkeetna,ACTIVE,188,1
+Alaska,Trapper Creek,ACTIVE,119,1
+Alaska,Trapper Creek,INITIAL,2,1
+Alaska,Valdez,ACTIVE,25,1
+Alaska,Wasilla,ACTIVE,8,1
+Alaska,Whittier,ACTIVE,14,1
+Arizona,Glendale,ACTIVE,1,1
+Arizona,Grand Canyon,ACTIVE,108,1
+Arizona,Grand Canyon,INITIAL,4,1
+Arizona,Lakeside,ACTIVE,3,1
+Arizona,Mormon Lake,ACTIVE,1,1
+Arizona,Oracle,ACTIVE,2,1
+Arizona,Page,ACTIVE,106,1
+Arizona,Page,INITIAL,1,1
+Arizona,Paradise Valley,ACTIVE,3,1
+Arizona,Payson,ACTIVE,2,1
+Arizona,Prescott,ACTIVE,13,1
+Arizona,Scottsdale,ACTIVE,11,1
+Arizona,Sedona,ACTIVE,23,1
+Arizona,Sedona,INITIAL,32,1
+Arizona,Williams,ACTIVE,11,1
+Arizona,Williams,INITIAL,2,1
+Arkansas,Bentonville,ACTIVE,1,1
+Arkansas,Fort Smith,ACTIVE,3,1
+Arkansas,Jonesboro,ACTIVE,9,1
+Arkansas,Judsonia,ACTIVE,4,1
+Arkansas,Little Rock,ACTIVE,3,1
+Arkansas,Lowell,ACTIVE,4,1
+Arkansas,Mount Ida,ACTIVE,89,1
+Arkansas,Mountain Home,ACTIVE,2,1
+Arkansas,Newport,ACTIVE,2,1
+Arkansas,North Little Rock,ACTIVE,3,1
+Arkansas,Rogers,ACTIVE,61,1
+Arkansas,Springdale,ACTIVE,2,1
+California,Aliso Viejo,ACTIVE,3,1
+California,Anaheim,ACTIVE,6,1
+California,Angelus Oaks,ACTIVE,14,1
+California,Arnold,ACTIVE,14,1
+California,Avalon,ACTIVE,13,1
+California,Avalon,INITIAL,1,1
+California,Berkeley,ACTIVE,2,2
+California,Big Bear City,ACTIVE,2,1
+California,Big Bear Lake,ACTIVE,14,1
+California,Big Sur,ACTIVE,9,1
+California,Blairsden Graeagle,ACTIVE,9,1
+California,Blue Jay,ACTIVE,1,1
+California,Calabasas,ACTIVE,1,1
+California,Carlsbad,ACTIVE,29,2
+California,Carnelian Bay,ACTIVE,46,1
+California,Carnelian Bay,INITIAL,5,1
+California,Cazadero,ACTIVE,7,1
+California,Cedar Glen,ACTIVE,1,1
+California,Chester,ACTIVE,24,1
+California,Chico,ACTIVE,5,2
+California,Corona,ACTIVE,1,1
+California,Corona Del Mar,ACTIVE,1,1
+California,Coronado,ACTIVE,10,1
+California,Crestline,ACTIVE,1,1
+California,Cupertino,ACTIVE,5,1
+California,Death Valley,ACTIVE,34,1
+California,Death Valley,INITIAL,1,1
+California,Del Mar,ACTIVE,18,1
+California,Elk Grove,INITIAL,1,1
+California,Encinitas,ACTIVE,4,1
+California,Eureka,ACTIVE,4,1
+California,Fairfax,ACTIVE,5,1
+California,Fawnskin,ACTIVE,14,1
+California,Fish Camp,ACTIVE,32,1
+California,Fort Bragg,ACTIVE,13,1
+California,Frazier Park,ACTIVE,3,1
+California,Fremont,ACTIVE,1,1
+California,Glendale,ACTIVE,3,1
+California,Goleta,ACTIVE,6,1
+California,Groveland,ACTIVE,31,1
+California,Groveland,INITIAL,2,1
+California,Hayfork,ACTIVE,3,1
+California,Healdsburg,ACTIVE,15,1
+California,Homewood,ACTIVE,4,1
+California,Hopland,ACTIVE,1,1
+California,Huntington Beach,ACTIVE,1,1
+California,Indio,ACTIVE,1,1
+California,Kernville,ACTIVE,2,1
+California,Kings Beach,ACTIVE,35,1
+California,Kings Beach,INITIAL,1,1
+California,Kings Canyon National Pk,ACTIVE,21,1
+California,Kit Carson,ACTIVE,1,1
+California,La Honda,ACTIVE,2,1
+California,La Jolla,ACTIVE,51,1
+California,Lakeshore,ACTIVE,39,1
+California,Lakeshore,INITIAL,3,1
+California,Little River,ACTIVE,2,1
+California,Lodi,ACTIVE,4,1
+California,Los Angeles,ACTIVE,3,2
+California,Mammoth Lakes,ACTIVE,9,1
+California,Mammoth Lakes,INITIAL,1,1
+California,Mill Creek,ACTIVE,12,1
+California,Millbrae,ACTIVE,4,1
+California,Miramonte,ACTIVE,31,1
+California,Mono Hot Springs,ACTIVE,1,1
+California,Monterey,ACTIVE,11,1
+California,Monterey,INITIAL,4,1
+California,Napa,ACTIVE,6,2
+California,National City,ACTIVE,2,1
+California,Nevada City,ACTIVE,8,1
+California,Norden,ACTIVE,8,1
+California,Novato,ACTIVE,3,1
+California,Occidental,ACTIVE,1,1
+California,Olympic Valley,ACTIVE,57,1
+California,Olympic Valley,INITIAL,12,1
+California,Pacific Palisades,ACTIVE,10,1
+California,Pacifica,ACTIVE,12,1
+California,Palm Springs,ACTIVE,1,1
+California,Paso Robles,ACTIVE,6,1
+California,Pescadero,ACTIVE,2,1
+California,Petaluma,ACTIVE,7,1
+California,Pinecrest,ACTIVE,4,1
+California,Pioneer,ACTIVE,44,1
+California,Pollock Pines,ACTIVE,24,1
+California,Rancho Mirage,ACTIVE,2,1
+California,Rancho Mirage,INITIAL,1,1
+California,Roseville,ACTIVE,2,1
+California,Rowland Heights,ACTIVE,2,1
+California,Saint Helena,ACTIVE,1,1
+California,San Diego,ACTIVE,320,9
+California,San Diego,INITIAL,2,2
+California,San Francisco,ACTIVE,129,5
+California,San Francisco,INITIAL,2,1
+California,San Marcos,ACTIVE,4,1
+California,San Mateo,ACTIVE,1,1
+California,San Simeon,ACTIVE,9,1
+California,Santa Barbara,ACTIVE,12,4
+California,Santa Barbara,INITIAL,1,1
+California,Santa Cruz,ACTIVE,230,1
+California,Santa Monica,ACTIVE,116,2
+California,Santa Monica,INITIAL,1,1
+California,Santa Rosa,ACTIVE,22,2
+California,Sequoia National Park,ACTIVE,14,1
+California,Shaver Lake,ACTIVE,9,1
+California,Solana Beach,ACTIVE,1,1
+California,Soquel,ACTIVE,15,1
+California,South Lake Tahoe,ACTIVE,189,1
+California,South Lake Tahoe,INITIAL,2,1
+California,Sunnyvale,ACTIVE,1,1
+California,Susanville,ACTIVE,6,1
+California,Sylmar,ACTIVE,14,1
+California,Tahoe City,ACTIVE,70,1
+California,Tahoe City,INITIAL,2,1
+California,Tahoma,ACTIVE,3,1
+California,Trinity Center,ACTIVE,3,1
+California,Truckee,ACTIVE,81,1
+California,Truckee,INITIAL,4,1
+California,Tulare,ACTIVE,1,1
+California,Tustin,ACTIVE,1,1
+California,Twin Bridges,ACTIVE,1,1
+California,Vallejo,ACTIVE,46,1
+California,Valyermo,ACTIVE,1,1
+California,Visalia,ACTIVE,1,1
+California,Watsonville,ACTIVE,21,1
+California,Wishon,ACTIVE,15,1
+California,Yosemite National Park,ACTIVE,138,1
+California,Yucaipa,ACTIVE,4,1
+Colorado,Akron,ACTIVE,2,1
+Colorado,Aspen,ACTIVE,111,1
+Colorado,Aspen,INITIAL,6,1
+Colorado,Ault,ACTIVE,2,1
+Colorado,Aurora,ACTIVE,6,1
+Colorado,Avon,ACTIVE,26,1
+Colorado,Avon,INITIAL,1,1
+Colorado,Bailey,ACTIVE,9,1
+Colorado,Basalt,ACTIVE,2,1
+Colorado,Boulder,ACTIVE,3,2
+Colorado,Breckenridge,ACTIVE,34,1
+Colorado,Breckenridge,INITIAL,4,1
+Colorado,Broomfield,ACTIVE,3,1
+Colorado,Buena Vista,ACTIVE,22,1
+Colorado,Clark,ACTIVE,6,1
+Colorado,Colorado Springs,ACTIVE,100,3
+Colorado,Colorado Springs,INITIAL,5,2
+Colorado,Creede,ACTIVE,10,1
+Colorado,Crested Butte,ACTIVE,14,2
+Colorado,Crested Butte,INITIAL,1,1
+Colorado,Del Norte,ACTIVE,2,1
+Colorado,Denver,ACTIVE,100,8
+Colorado,Dillon,ACTIVE,4,1
+Colorado,Durango,ACTIVE,15,2
+Colorado,Durango,INITIAL,1,1
+Colorado,Edwards,ACTIVE,2,1
+Colorado,Elbert,ACTIVE,5,1
+Colorado,Empire,ACTIVE,6,1
+Colorado,Englewood,ACTIVE,10,2
+Colorado,Estes Park,ACTIVE,503,2
+Colorado,Estes Park,INITIAL,75,2
+Colorado,Evergreen,ACTIVE,11,1
+Colorado,Fort Collins,ACTIVE,9,2
+Colorado,Fort Morgan,ACTIVE,2,1
+Colorado,Fraser,ACTIVE,11,1
+Colorado,Frisco,ACTIVE,9,1
+Colorado,Georgetown,ACTIVE,2,1
+Colorado,Glenwood Springs,ACTIVE,18,1
+Colorado,Golden,ACTIVE,17,2
+Colorado,Granby,ACTIVE,83,1
+Colorado,Granby,INITIAL,23,1
+Colorado,Grand Junction,ACTIVE,5,2
+Colorado,Grand Lake,ACTIVE,79,1
+Colorado,Grand Lake,INITIAL,6,1
+Colorado,Grant,ACTIVE,1,1
+Colorado,Greeley,ACTIVE,7,1
+Colorado,Gunnison,ACTIVE,21,1
+Colorado,Gunnison,INITIAL,1,1
+Colorado,Idaho Springs,ACTIVE,36,1
+Colorado,Idaho Springs,INITIAL,3,1
+Colorado,La Veta,ACTIVE,11,1
+Colorado,Lake City,ACTIVE,47,1
+Colorado,Lake City,INITIAL,2,1
+Colorado,Lake George,ACTIVE,8,1
+Colorado,Larkspur,ACTIVE,25,1
+Colorado,Leadville,ACTIVE,6,1
+Colorado,Littleton,ACTIVE,6,2
+Colorado,Littleton,INITIAL,1,1
+Colorado,Longmont,ACTIVE,12,1
+Colorado,Mancos,ACTIVE,14,1
+Colorado,Manitou Springs,ACTIVE,7,1
+Colorado,Manitou Springs,INITIAL,1,1
+Colorado,Nathrop,ACTIVE,29,1
+Colorado,Ouray,ACTIVE,14,1
+Colorado,Pagosa Springs,ACTIVE,9,1
+Colorado,Red Feather Lakes,ACTIVE,3,1
+Colorado,Salida,ACTIVE,12,1
+Colorado,Sedalia,ACTIVE,14,1
+Colorado,Silverton,ACTIVE,19,1
+Colorado,Silverton,INITIAL,3,1
+Colorado,Snowmass Village,ACTIVE,46,1
+Colorado,Snowmass Village,INITIAL,4,1
+Colorado,Steamboat Springs,ACTIVE,17,1
+Colorado,Steamboat Springs,INITIAL,1,1
+Colorado,Tabernash,ACTIVE,1,1
+Colorado,Telluride,ACTIVE,15,1
+Colorado,Telluride,INITIAL,3,1
+Colorado,Vail,ACTIVE,82,1
+Colorado,Vail,INITIAL,63,1
+Colorado,Walden,INITIAL,3,1
+Colorado,Ward,ACTIVE,14,1
+Colorado,Ward,INITIAL,1,1
+Colorado,Windsor,ACTIVE,1,1
+Colorado,Winter Park,ACTIVE,12,1
+Colorado,Winter Park,INITIAL,1,1
+Connecticut,Bantam,ACTIVE,6,1
+Connecticut,Barkhamsted,ACTIVE,1,1
+Connecticut,Chester,ACTIVE,12,1
+Connecticut,Colebrook,ACTIVE,29,1
+Connecticut,Darien,ACTIVE,28,1
+Connecticut,Deep River,ACTIVE,3,1
+Connecticut,Ellington,ACTIVE,3,1
+Connecticut,Greenwich,ACTIVE,15,2
+Connecticut,Greenwich,INITIAL,1,1
+Connecticut,Groton,ACTIVE,6,1
+Connecticut,Groton,INITIAL,1,1
+Connecticut,Guilford,ACTIVE,1,1
+Connecticut,Ivoryton,ACTIVE,4,1
+Connecticut,Kent,ACTIVE,76,1
+Connecticut,Kent,INITIAL,1,1
+Connecticut,Lakeville,ACTIVE,25,1
+Connecticut,Litchfield,ACTIVE,5,1
+Connecticut,Litchfield,INITIAL,1,1
+Connecticut,Madison,ACTIVE,27,1
+Connecticut,Marlborough,ACTIVE,2,1
+Connecticut,Mashantucket,ACTIVE,61,1
+Connecticut,Middlebury,ACTIVE,11,1
+Connecticut,Middlebury,INITIAL,1,1
+Connecticut,Morris,ACTIVE,8,1
+Connecticut,Morris,INITIAL,1,1
+Connecticut,New London,ACTIVE,1,1
+Connecticut,New Milford,ACTIVE,8,1
+Connecticut,New Milford,INITIAL,1,1
+Connecticut,North Stonington,ACTIVE,4,1
+Connecticut,Old Greenwich,ACTIVE,12,1
+Connecticut,Old Lyme,ACTIVE,9,1
+Connecticut,Old Saybrook,ACTIVE,3,1
+Connecticut,Old Saybrook,INITIAL,2,1
+Connecticut,Riverside,ACTIVE,4,1
+Connecticut,South Kent,ACTIVE,2,1
+Connecticut,South Windham,ACTIVE,17,1
+Connecticut,Southbury,ACTIVE,1,1
+Connecticut,Stamford,ACTIVE,20,3
+Connecticut,Torrington,ACTIVE,18,1
+Connecticut,Uncasville,ACTIVE,21,1
+Connecticut,Washington,ACTIVE,7,1
+Connecticut,Westbrook,ACTIVE,3,1
+Connecticut,Wilton,ACTIVE,4,1
+Connecticut,Winsted,ACTIVE,10,1
+Connecticut,Winsted,INITIAL,1,1
+Connecticut,Woodstock Valley,ACTIVE,4,1
+Delaware,Bear,ACTIVE,4,1
+Delaware,Bethany Beach,ACTIVE,327,1
+Delaware,Bethany Beach,INITIAL,6,1
+Delaware,Camden Wyoming,ACTIVE,3,1
+Delaware,Claymont,ACTIVE,4,1
+Delaware,Dover,ACTIVE,1,1
+Delaware,Fenwick Island,ACTIVE,154,1
+Delaware,Fenwick Island,INITIAL,6,1
+Delaware,Frankford,ACTIVE,11,1
+Delaware,Lewes,ACTIVE,31,1
+Delaware,Lincoln,ACTIVE,5,1
+Delaware,Middletown,ACTIVE,3,1
+Delaware,Millsboro,ACTIVE,31,1
+Delaware,Millville,ACTIVE,23,1
+Delaware,Millville,INITIAL,4,1
+Delaware,New Castle,ACTIVE,1,1
+Delaware,Newark,ACTIVE,19,3
+Delaware,Ocean View,ACTIVE,53,1
+Delaware,Ocean View,INITIAL,1,1
+Delaware,Rehoboth Beach,ACTIVE,911,1
+Delaware,Rehoboth Beach,INITIAL,20,1
+Delaware,Selbyville,ACTIVE,164,1
+Delaware,Selbyville,INITIAL,4,1
+Delaware,Wilmington,ACTIVE,5,2
+District of Columbia,Washington,ACTIVE,97,12
+Florida,Apopka,ACTIVE,3,1
+Florida,Big Pine Key,ACTIVE,2,1
+Florida,Boca Raton,ACTIVE,45,3
+Florida,Boca Raton,INITIAL,2,2
+Florida,Brandon,ACTIVE,19,1
+Florida,Captiva,ACTIVE,9,1
+Florida,Cocoa Beach,ACTIVE,3,1
+Florida,Cocoa Beach,INITIAL,3,1
+Florida,Daytona Beach,ACTIVE,5,1
+Florida,Defuniak Springs,ACTIVE,1,1
+Florida,Defuniak Springs,INITIAL,1,1
+Florida,Destin,ACTIVE,389,1
+Florida,Destin,INITIAL,12,1
+Florida,Fernandina Beach,ACTIVE,27,1
+Florida,Fort Walton Beach,ACTIVE,71,2
+Florida,Freeport,ACTIVE,1,1
+Florida,Gulf Breeze,ACTIVE,48,2
+Florida,Gulf Breeze,INITIAL,5,1
+Florida,Homestead,ACTIVE,5,1
+Florida,Homestead,INITIAL,1,1
+Florida,Indian Rocks Beach,ACTIVE,2,1
+Florida,Islamorada,ACTIVE,10,1
+Florida,Key West,ACTIVE,19,1
+Florida,Kissimmee,ACTIVE,26,2
+Florida,Lake Wales,ACTIVE,4,1
+Florida,Largo,ACTIVE,10,1
+Florida,Marathon,ACTIVE,46,1
+Florida,Marathon,INITIAL,3,1
+Florida,Mary Esther,ACTIVE,1,1
+Florida,Miami,ACTIVE,3,2
+Florida,Miami Beach,ACTIVE,7,1
+Florida,Miramar Beach,ACTIVE,209,1
+Florida,Naples,ACTIVE,12,1
+Florida,Niceville,ACTIVE,3,1
+Florida,Ocala,ACTIVE,2,1
+Florida,Orlando,ACTIVE,2057,4
+Florida,Orlando,INITIAL,103,3
+Florida,Palm Beach Gardens,ACTIVE,8,1
+Florida,Panama City,ACTIVE,82,3
+Florida,Panama City,INITIAL,3,2
+Florida,Panama City Beach,ACTIVE,668,2
+Florida,Panama City Beach,INITIAL,24,2
+Florida,Pensacola,ACTIVE,69,1
+Florida,Ponte Vedra Beach,ACTIVE,1,1
+Florida,River Ranch,ACTIVE,9,1
+Florida,Rosemary Beach,ACTIVE,31,1
+Florida,Saint Augustine,ACTIVE,3,2
+Florida,Saint Johns,ACTIVE,1,1
+Florida,Santa Rosa Beach,ACTIVE,170,1
+Florida,Shalimar,ACTIVE,18,1
+Florida,Shalimar,INITIAL,3,1
+Florida,Stuart,ACTIVE,2,1
+Florida,Tampa,ACTIVE,20,3
+Florida,Tampa,INITIAL,4,1
+Florida,West Palm Beach,ACTIVE,8,1
+Georgia,Atlanta,ACTIVE,3,2
+Georgia,Austell,ACTIVE,57,1
+Georgia,Austell,INITIAL,4,1
+Georgia,Avondale Estates,ACTIVE,1,1
+Georgia,Cartersville,ACTIVE,1,1
+Georgia,Clayton,ACTIVE,29,1
+Georgia,Cleveland,ACTIVE,62,1
+Georgia,Decatur,ACTIVE,2,1
+Georgia,Duluth,ACTIVE,3,1
+Georgia,Gainesville,ACTIVE,1,1
+Georgia,Greensboro,ACTIVE,25,1
+Georgia,Greensboro,INITIAL,2,1
+Georgia,Helen,ACTIVE,6,1
+Georgia,Hiawassee,ACTIVE,14,1
+Georgia,Jekyll Island,ACTIVE,9,1
+Georgia,Lavonia,ACTIVE,2,1
+Georgia,Marietta,ACTIVE,13,1
+Georgia,Mountain City,ACTIVE,3,1
+Georgia,Rutledge,ACTIVE,8,1
+Georgia,Sea Island,ACTIVE,79,1
+Georgia,Sea Island,INITIAL,4,1
+Georgia,Tucker,ACTIVE,2,1
+Georgia,Tybee Island,ACTIVE,50,1
+Hawaii,Eleele,ACTIVE,4,1
+Hawaii,Hilo,ACTIVE,3,1
+Hawaii,Honolulu,ACTIVE,53,2
+Hawaii,Kailua Kona,ACTIVE,8,1
+Hawaii,Kailua Kona,INITIAL,8,1
+Hawaii,Kamuela,ACTIVE,15,1
+Hawaii,Kamuela,INITIAL,5,1
+Hawaii,Kaneohe,ACTIVE,15,1
+Hawaii,Kapaa,ACTIVE,7,1
+Hawaii,Kapolei,ACTIVE,20,1
+Hawaii,Kapolei,INITIAL,3,1
+Hawaii,Kihei,ACTIVE,25,1
+Hawaii,Lahaina,ACTIVE,65,1
+Hawaii,Lahaina,INITIAL,2,1
+Hawaii,Lanai City,ACTIVE,12,1
+Hawaii,Lanai City,INITIAL,1,1
+Hawaii,Lihue,ACTIVE,6,1
+Hawaii,Paia,ACTIVE,1,1
+Hawaii,Waikoloa,ACTIVE,44,1
+Hawaii,Waikoloa,INITIAL,11,1
+Idaho,Banks,ACTIVE,1,1
+Idaho,Boise,ACTIVE,13,2
+Idaho,Caldwell,ACTIVE,3,1
+Idaho,Cascade,ACTIVE,15,1
+Idaho,Donnelly,ACTIVE,36,1
+Idaho,Donnelly,INITIAL,14,1
+Idaho,Driggs,ACTIVE,24,1
+Idaho,Driggs,INITIAL,2,1
+Idaho,Harrison,ACTIVE,45,1
+Idaho,Harrison,INITIAL,1,1
+Idaho,Horseshoe Bend,INITIAL,1,1
+Idaho,Idaho Falls,ACTIVE,3,1
+Idaho,Island Park,ACTIVE,13,1
+Idaho,Kellogg,ACTIVE,3,1
+Idaho,Ketchum,ACTIVE,3,1
+Idaho,Kimberly,ACTIVE,2,1
+Idaho,McCall,ACTIVE,35,1
+Idaho,Meridian,ACTIVE,9,2
+Idaho,Middleton,ACTIVE,2,1
+Idaho,Mullan,ACTIVE,15,1
+Idaho,New Plymouth,ACTIVE,2,1
+Idaho,Nordman,ACTIVE,1,1
+Idaho,Pocatello,ACTIVE,4,2
+Idaho,Post Falls,ACTIVE,3,1
+Idaho,Priest River,ACTIVE,4,1
+Idaho,Rexburg,ACTIVE,3,1
+Idaho,Rigby,ACTIVE,4,1
+Idaho,Sandpoint,ACTIVE,2,1
+Idaho,Stanley,ACTIVE,29,1
+Idaho,Stanley,INITIAL,4,1
+Idaho,Star,ACTIVE,2,1
+Idaho,Sun Valley,ACTIVE,189,1
+Idaho,Sun Valley,INITIAL,24,1
+Idaho,Swan Valley,ACTIVE,3,1
+Idaho,Swan Valley,INITIAL,1,1
+Idaho,Twin Falls,ACTIVE,1,1
+Idaho,Wallace,ACTIVE,2,1
+Illinois,Alton,ACTIVE,2,1
+Illinois,Arlington Heights,ACTIVE,1,1
+Illinois,Chicago,ACTIVE,1198,29
+Illinois,Chicago,INITIAL,1,1
+Illinois,Des Plaines,ACTIVE,7,1
+Illinois,Edwardsville,ACTIVE,2,1
+Illinois,Erie,ACTIVE,2,1
+Illinois,Evanston,ACTIVE,6,1
+Illinois,Evergreen Park,ACTIVE,1,1
+Illinois,Flossmoor,ACTIVE,8,1
+Illinois,Galena,ACTIVE,9,1
+Illinois,Galesburg,ACTIVE,4,1
+Illinois,Glencoe,ACTIVE,32,1
+Illinois,Granite City,ACTIVE,1,1
+Illinois,Gurnee,ACTIVE,179,1
+Illinois,Gurnee,INITIAL,9,1
+Illinois,Harwood Heights,ACTIVE,1,1
+Illinois,Highland Park,ACTIVE,1,1
+Illinois,Hinsdale,ACTIVE,4,1
+Illinois,Hoffman Estates,ACTIVE,17,1
+Illinois,Homer Glen,ACTIVE,2,1
+Illinois,Hudson,ACTIVE,2,1
+Illinois,Ingleside,ACTIVE,16,1
+Illinois,La Grange,ACTIVE,1,1
+Illinois,Lake Zurich,ACTIVE,16,1
+Illinois,Lemont,ACTIVE,4,1
+Illinois,Lyons,ACTIVE,1,1
+Illinois,Manteno,ACTIVE,1,1
+Illinois,Medinah,ACTIVE,4,1
+Illinois,Medinah,INITIAL,1,1
+Illinois,Metamora,ACTIVE,2,1
+Illinois,Moline,ACTIVE,1,1
+Illinois,Morton,ACTIVE,4,1
+Illinois,Naperville,ACTIVE,2,1
+Illinois,Oak Brook,ACTIVE,3,1
+Illinois,Oak Forest,ACTIVE,10,1
+Illinois,Oak Lawn,ACTIVE,1,1
+Illinois,Oglesby,ACTIVE,11,1
+Illinois,Oglesby,INITIAL,2,1
+Illinois,Park Ridge,ACTIVE,1,1
+Illinois,Peoria,ACTIVE,7,2
+Illinois,Princeton,ACTIVE,2,1
+Illinois,Prospect Heights,INITIAL,6,1
+Illinois,Quincy,ACTIVE,2,1
+Illinois,Roodhouse,ACTIVE,3,1
+Illinois,Saint Charles,ACTIVE,1,1
+Illinois,Silvis,ACTIVE,1,1
+Illinois,Skokie,INITIAL,1,1
+Illinois,Tinley Park,ACTIVE,11,1
+Illinois,Westchester,ACTIVE,13,1
+Illinois,Willowbrook,ACTIVE,1,1
+Illinois,Wilmette,ACTIVE,4,1
+Illinois,Woodridge,ACTIVE,3,1
+Illinois,Zion,ACTIVE,5,1
+Indiana,Bennington,ACTIVE,6,1
+Indiana,Bloomington,ACTIVE,10,1
+Indiana,Brownstown,ACTIVE,2,1
+Indiana,Fort Wayne,ACTIVE,3,2
+Indiana,Frankton,ACTIVE,1,1
+Indiana,Fremont,ACTIVE,2,1
+Indiana,French Lick,ACTIVE,21,1
+Indiana,French Lick,INITIAL,2,1
+Indiana,La Porte,ACTIVE,2,1
+Indiana,La Porte,INITIAL,4,1
+Indiana,Marshall,ACTIVE,18,1
+Indiana,Michigan City,ACTIVE,4,1
+Indiana,Monticello,ACTIVE,97,1
+Indiana,Monticello,INITIAL,20,1
+Indiana,Muncie,ACTIVE,1,1
+Indiana,Muncie,INITIAL,1,1
+Indiana,Nashville,ACTIVE,3,1
+Indiana,North Webster,ACTIVE,11,1
+Indiana,Portage,INITIAL,1,1
+Indiana,Saint Paul,ACTIVE,1,1
+Indiana,Santa Claus,ACTIVE,171,1
+Indiana,Santa Claus,INITIAL,7,1
+Indiana,Valparaiso,ACTIVE,2,1
+Indiana,Wolcottville,ACTIVE,2,1
+Indiana,Zionsville,ACTIVE,1,1
+Iowa,Altoona,ACTIVE,194,1
+Iowa,Ames,ACTIVE,4,1
+Iowa,Ankeny,ACTIVE,2,1
+Iowa,Arnolds Park,ACTIVE,199,1
+Iowa,Arnolds Park,INITIAL,1,1
+Iowa,Bettendorf,ACTIVE,2,1
+Iowa,Boone,ACTIVE,7,1
+Iowa,Carroll,ACTIVE,1,1
+Iowa,Cedar Rapids,ACTIVE,8,2
+Iowa,Clear Lake,ACTIVE,8,1
+Iowa,Clive,ACTIVE,2,1
+Iowa,Coralville,ACTIVE,2,1
+Iowa,Council Bluffs,ACTIVE,2,1
+Iowa,Davenport,ACTIVE,6,2
+Iowa,Des Moines,ACTIVE,6,3
+Iowa,Dubuque,ACTIVE,14,2
+Iowa,Fairfield,ACTIVE,3,1
+Iowa,Iowa City,ACTIVE,3,1
+Iowa,Mason City,ACTIVE,2,1
+Iowa,Milford,ACTIVE,5,1
+Iowa,Milford,INITIAL,1,1
+Iowa,New Liberty,ACTIVE,2,1
+Iowa,Okoboji,ACTIVE,51,1
+Iowa,Sioux City,ACTIVE,7,2
+Iowa,Solon,ACTIVE,1,1
+Iowa,Spirit Lake,ACTIVE,43,1
+Iowa,Waterloo,ACTIVE,3,1
+Iowa,West Des Moines,ACTIVE,3,1
+Iowa,Williamsburg,ACTIVE,1,1
+Iowa,Williamsburg,INITIAL,1,1
+Kansas,Derby,ACTIVE,2,1
+Kansas,Hutchinson,ACTIVE,2,1
+Kansas,Junction City,ACTIVE,1,1
+Kansas,Kansas City,ACTIVE,17,2
+Kansas,Lawrence,ACTIVE,5,2
+Kansas,Lenexa,ACTIVE,1,1
+Kansas,Manhattan,ACTIVE,2,1
+Kansas,Matfield Green,ACTIVE,1,1
+Kansas,Montezuma,ACTIVE,2,1
+Kansas,Olathe,ACTIVE,4,1
+Kansas,Overland Park,ACTIVE,3,1
+Kansas,Pittsburg,ACTIVE,2,1
+Kansas,Salina,ACTIVE,2,1
+Kansas,Shawnee,ACTIVE,2,1
+Kansas,Shawnee,INITIAL,2,1
+Kansas,Topeka,ACTIVE,3,1
+Kansas,Wichita,ACTIVE,12,4
+Kansas,Winfield,ACTIVE,2,1
+Kentucky,Burlington,ACTIVE,10,1
+Kentucky,Cave City,ACTIVE,7,1
+Kentucky,Covington,ACTIVE,1,1
+Kentucky,Florence,ACTIVE,1,1
+Kentucky,Hopkinsville,ACTIVE,1,1
+Kentucky,Louisville,ACTIVE,8,2
+Kentucky,Louisville,INITIAL,1,1
+Kentucky,Mammoth Cave,ACTIVE,6,1
+Kentucky,Nancy,ACTIVE,1,1
+Kentucky,Newport,ACTIVE,2,1
+Kentucky,Paducah,ACTIVE,2,1
+Kentucky,Prospect,ACTIVE,1,1
+Kentucky,Shepherdsville,ACTIVE,1,1
+Louisiana,Metairie,ACTIVE,1,1
+Louisiana,New Orleans,ACTIVE,6,3
+Louisiana,Pollock,ACTIVE,1,1
+Maine,Augusta,ACTIVE,3,1
+Maine,Bangor,ACTIVE,18,1
+Maine,Bar Harbor,ACTIVE,350,1
+Maine,Bar Harbor,INITIAL,7,1
+Maine,Belfast,ACTIVE,12,1
+Maine,Belgrade,ACTIVE,43,1
+Maine,Belgrade Lakes,ACTIVE,3,1
+Maine,Bernard,ACTIVE,8,1
+Maine,Biddeford,ACTIVE,3,1
+Maine,Blue Hill,ACTIVE,1,1
+Maine,Boothbay,ACTIVE,4,1
+Maine,Boothbay Harbor,ACTIVE,150,1
+Maine,Boothbay Harbor,INITIAL,13,1
+Maine,Bridgton,ACTIVE,46,1
+Maine,Brooksville,ACTIVE,22,1
+Maine,Brooksville,INITIAL,2,1
+Maine,Brunswick,ACTIVE,2,1
+Maine,Bryant Pond,ACTIVE,1,1
+Maine,Buckfield,ACTIVE,9,1
+Maine,Camden,ACTIVE,89,1
+Maine,Camden,INITIAL,7,1
+Maine,Cape Elizabeth,ACTIVE,23,1
+Maine,Cape Neddick,ACTIVE,7,1
+Maine,Caratunk,ACTIVE,4,1
+Maine,Casco,ACTIVE,55,1
+Maine,Casco,INITIAL,1,1
+Maine,Castine,ACTIVE,3,1
+Maine,Damariscotta,ACTIVE,17,1
+Maine,Denmark,ACTIVE,24,1
+Maine,Denmark,INITIAL,2,1
+Maine,East Boothbay,ACTIVE,21,1
+Maine,Eastport,ACTIVE,4,1
+Maine,Eliot,ACTIVE,3,1
+Maine,Ellsworth,ACTIVE,29,1
+Maine,Freedom,ACTIVE,6,1
+Maine,Freeport,ACTIVE,5,1
+Maine,Fryeburg,ACTIVE,14,1
+Maine,Georgetown,ACTIVE,1,1
+Maine,Gorham,ACTIVE,2,1
+Maine,Greenville,ACTIVE,48,1
+Maine,Greenville,INITIAL,1,1
+Maine,Greenville Junction,ACTIVE,2,1
+Maine,Harpswell,ACTIVE,12,1
+Maine,Harrison,ACTIVE,42,1
+Maine,Hollis Center,ACTIVE,3,1
+Maine,Hope,ACTIVE,10,1
+Maine,Hope,INITIAL,1,1
+Maine,Islesboro,ACTIVE,1,1
+Maine,Jackman,ACTIVE,7,1
+Maine,Jackman,INITIAL,2,1
+Maine,Kennebunk,ACTIVE,42,1
+Maine,Kennebunkport,ACTIVE,37,1
+Maine,Kennebunkport,INITIAL,5,1
+Maine,Kents Hill,ACTIVE,32,1
+Maine,Kittery,ACTIVE,73,1
+Maine,Kittery,INITIAL,3,1
+Maine,Lincolnville,ACTIVE,4,1
+Maine,Lincolnville,INITIAL,2,1
+Maine,Long Island,ACTIVE,2,1
+Maine,Long Island,INITIAL,1,1
+Maine,Lovell,ACTIVE,5,1
+Maine,Lubec,ACTIVE,3,1
+Maine,Monmouth,ACTIVE,50,1
+Maine,Monmouth,INITIAL,1,1
+Maine,Mount Vernon,ACTIVE,51,1
+Maine,Naples,ACTIVE,85,1
+Maine,New Harbor,ACTIVE,14,1
+Maine,Newcastle,ACTIVE,4,1
+Maine,North Haven,ACTIVE,4,1
+Maine,North Haven,INITIAL,1,1
+Maine,Northeast Harbor,ACTIVE,10,1
+Maine,Oakland,ACTIVE,67,1
+Maine,Ogunquit,ACTIVE,175,1
+Maine,Ogunquit,INITIAL,4,1
+Maine,Old Orchard Beach,ACTIVE,443,1
+Maine,Old Orchard Beach,INITIAL,4,1
+Maine,Oxford,ACTIVE,30,1
+Maine,Parsonsfield,ACTIVE,5,1
+Maine,Phippsburg,ACTIVE,14,1
+Maine,Poland,ACTIVE,64,1
+Maine,Poland,INITIAL,1,1
+Maine,Porter,ACTIVE,15,1
+Maine,Portland,ACTIVE,82,4
+Maine,Portland,INITIAL,1,1
+Maine,Princeton,ACTIVE,2,1
+Maine,Rangeley,ACTIVE,18,1
+Maine,Rangeley,INITIAL,4,1
+Maine,Raymond,ACTIVE,51,1
+Maine,Readfield,ACTIVE,2,1
+Maine,Rockland,ACTIVE,33,1
+Maine,Rockport,ACTIVE,49,1
+Maine,Rockport,INITIAL,1,1
+Maine,Saco,ACTIVE,177,1
+Maine,Saco,INITIAL,1,1
+Maine,Sanford,ACTIVE,2,1
+Maine,Scarborough,ACTIVE,37,1
+Maine,Scarborough,INITIAL,2,1
+Maine,Seal Harbor,ACTIVE,27,1
+Maine,Sebago,ACTIVE,1,1
+Maine,Sebago,INITIAL,1,1
+Maine,Smithfield,ACTIVE,55,1
+Maine,South Casco,ACTIVE,29,1
+Maine,South Casco,INITIAL,1,1
+Maine,South Portland,ACTIVE,9,1
+Maine,South Portland,INITIAL,1,1
+Maine,Southport,ACTIVE,19,1
+Maine,Southwest Harbor,ACTIVE,49,1
+Maine,Spruce Head,ACTIVE,4,1
+Maine,Standish,ACTIVE,1,1
+Maine,Surry,ACTIVE,4,1
+Maine,Surry,INITIAL,1,1
+Maine,Tenants Harbor,ACTIVE,6,1
+Maine,Waldoboro,ACTIVE,2,1
+Maine,Washington,ACTIVE,21,1
+Maine,Washington,INITIAL,1,1
+Maine,Waterford,ACTIVE,27,1
+Maine,Waterford,INITIAL,1,1
+Maine,Waterville,ACTIVE,19,1
+Maine,Wayne,ACTIVE,18,1
+Maine,Weld,ACTIVE,7,1
+Maine,Wells,ACTIVE,77,1
+Maine,Wells,INITIAL,4,1
+Maine,West Boothbay Harbor,ACTIVE,3,1
+Maine,West Forks,ACTIVE,16,1
+Maine,Winter Harbor,ACTIVE,2,1
+Maine,Winthrop,ACTIVE,9,1
+Maine,Woolwich,ACTIVE,1,1
+Maine,York,ACTIVE,70,1
+Maine,York,INITIAL,4,1
+Maine,York Beach,ACTIVE,38,1
+Maine,York Beach,INITIAL,2,1
+Maine,York Harbor,ACTIVE,2,1
+Maine,York Harbor,INITIAL,2,1
+Maryland,Aberdeen,ACTIVE,6,1
+Maryland,Aberdeen Proving Ground,ACTIVE,4,1
+Maryland,Abingdon,ACTIVE,8,1
+Maryland,Annapolis,ACTIVE,37,3
+Maryland,Arnold,ACTIVE,1,1
+Maryland,Baltimore,ACTIVE,73,13
+Maryland,Bel Air,ACTIVE,4,2
+Maryland,Beltsville,ACTIVE,9,1
+Maryland,Berlin,ACTIVE,73,1
+Maryland,Berlin,INITIAL,2,1
+Maryland,Bethesda,ACTIVE,62,3
+Maryland,Bethesda,INITIAL,1,1
+Maryland,Bladensburg,ACTIVE,1,1
+Maryland,Bowie,ACTIVE,18,3
+Maryland,Boyds,ACTIVE,2,1
+Maryland,Brandywine,ACTIVE,2,1
+Maryland,Brookeville,ACTIVE,2,1
+Maryland,Brooklyn,ACTIVE,3,1
+Maryland,Burtonsville,ACTIVE,5,1
+Maryland,California,ACTIVE,2,1
+Maryland,Cambridge,ACTIVE,43,1
+Maryland,Cambridge,INITIAL,1,1
+Maryland,Capitol Heights,ACTIVE,5,1
+Maryland,Cascade,ACTIVE,26,1
+Maryland,Cheltenham,ACTIVE,2,1
+Maryland,Chester,ACTIVE,2,1
+Maryland,Chestertown,ACTIVE,18,1
+Maryland,Chevy Chase,ACTIVE,17,1
+Maryland,Cockeysville,ACTIVE,18,1
+Maryland,College Park,ACTIVE,9,1
+Maryland,Columbia,ACTIVE,15,2
+Maryland,Columbia,INITIAL,1,1
+Maryland,Crofton,ACTIVE,4,1
+Maryland,Curtis Bay,ACTIVE,2,1
+Maryland,Delmar,ACTIVE,3,1
+Maryland,Derwood,ACTIVE,5,1
+Maryland,District Heights,ACTIVE,8,1
+Maryland,Edgewater,ACTIVE,25,1
+Maryland,Edgewood,ACTIVE,4,1
+Maryland,Elkridge,ACTIVE,20,1
+Maryland,Elkton,ACTIVE,3,1
+Maryland,Ellicott City,ACTIVE,28,2
+Maryland,Ellicott City,INITIAL,2,1
+Maryland,Essex,ACTIVE,4,1
+Maryland,Flintstone,ACTIVE,5,1
+Maryland,Forest Hill,ACTIVE,1,1
+Maryland,Frederick,ACTIVE,158,4
+Maryland,Gaithersburg,ACTIVE,100,3
+Maryland,Gaithersburg,INITIAL,1,1
+Maryland,Galesville,ACTIVE,2,1
+Maryland,Gambrills,ACTIVE,3,1
+Maryland,Germantown,ACTIVE,88,2
+Maryland,Germantown,INITIAL,2,1
+Maryland,Gibson Island,ACTIVE,1,1
+Maryland,Glen Burnie,ACTIVE,25,2
+Maryland,Grasonville,ACTIVE,2,1
+Maryland,Great Mills,ACTIVE,1,1
+Maryland,Greenbelt,ACTIVE,17,1
+Maryland,Gwynn Oak,ACTIVE,3,1
+Maryland,Hagerstown,ACTIVE,2,1
+Maryland,Hanover,ACTIVE,210,1
+Maryland,Hanover,INITIAL,1,1
+Maryland,Havre De Grace,ACTIVE,1,1
+Maryland,Hughesville,ACTIVE,3,1
+Maryland,Hyattsville,ACTIVE,232,5
+Maryland,Hyattsville,INITIAL,4,1
+Maryland,Jessup,ACTIVE,2,1
+Maryland,La Plata,ACTIVE,1,1
+Maryland,Lanham,ACTIVE,7,1
+Maryland,Laurel,ACTIVE,57,4
+Maryland,Lexington Park,ACTIVE,7,1
+Maryland,Lothian,ACTIVE,5,1
+Maryland,Lutherville Timonium,ACTIVE,3,1
+Maryland,Middle River,ACTIVE,6,1
+Maryland,Millersville,ACTIVE,6,1
+Maryland,Monkton,ACTIVE,3,1
+Maryland,Montgomery Village,ACTIVE,14,1
+Maryland,New Market,ACTIVE,1,1
+Maryland,Newburg,ACTIVE,7,1
+Maryland,North East,ACTIVE,15,1
+Maryland,North East,INITIAL,1,1
+Maryland,Nottingham,ACTIVE,8,1
+Maryland,Ocean City,ACTIVE,3586,1
+Maryland,Ocean City,INITIAL,107,1
+Maryland,Odenton,ACTIVE,32,1
+Maryland,Olney,ACTIVE,15,1
+Maryland,Owings Mills,ACTIVE,19,1
+Maryland,Oxon Hill,ACTIVE,7,1
+Maryland,Parkville,ACTIVE,5,1
+Maryland,Pasadena,ACTIVE,7,1
+Maryland,Perry Hall,ACTIVE,2,1
+Maryland,Phoenix,ACTIVE,4,1
+Maryland,Pikesville,ACTIVE,14,1
+Maryland,Potomac,ACTIVE,8,1
+Maryland,Randallstown,ACTIVE,1,1
+Maryland,Reisterstown,ACTIVE,9,1
+Maryland,Rising Sun,ACTIVE,12,1
+Maryland,Rising Sun,INITIAL,1,1
+Maryland,Riverdale,ACTIVE,6,1
+Maryland,Rockville,ACTIVE,189,3
+Maryland,Rockville,INITIAL,4,1
+Maryland,Rosedale,ACTIVE,1,1
+Maryland,Saint Michaels,ACTIVE,1,1
+Maryland,Salisbury,ACTIVE,6,1
+Maryland,Savage,ACTIVE,10,1
+Maryland,Savage,INITIAL,1,1
+Maryland,Severn,ACTIVE,4,1
+Maryland,Severna Park,ACTIVE,1,1
+Maryland,Silver Spring,ACTIVE,105,5
+Maryland,Silver Spring,INITIAL,2,1
+Maryland,Stevensville,ACTIVE,3,1
+Maryland,Suitland,ACTIVE,11,1
+Maryland,Sykesville,ACTIVE,3,1
+Maryland,Takoma Park,ACTIVE,4,1
+Maryland,Taneytown,ACTIVE,5,1
+Maryland,Temple Hills,ACTIVE,7,1
+Maryland,Thurmont,ACTIVE,29,1
+Maryland,Towson,ACTIVE,17,2
+Maryland,Upper Marlboro,ACTIVE,48,2
+Maryland,Upper Marlboro,INITIAL,1,1
+Maryland,Waldorf,ACTIVE,4,1
+Maryland,Walkersville,ACTIVE,2,1
+Maryland,White Plains,ACTIVE,4,1
+Maryland,Williamsport,ACTIVE,4,1
+Maryland,Windsor Mill,ACTIVE,11,1
+Maryland,Worton,ACTIVE,21,1
+Massachusetts,Abington,ACTIVE,1,1
+Massachusetts,Acton,ACTIVE,1,1
+Massachusetts,Agawam,ACTIVE,61,1
+Massachusetts,Agawam,INITIAL,2,1
+Massachusetts,Allston,ACTIVE,7,1
+Massachusetts,Amesbury,ACTIVE,10,1
+Massachusetts,Amesbury,INITIAL,2,1
+Massachusetts,Ashby,ACTIVE,4,1
+Massachusetts,Ashland,ACTIVE,2,1
+Massachusetts,Auburndale,ACTIVE,1,1
+Massachusetts,Barnstable,ACTIVE,2,1
+Massachusetts,Becket,ACTIVE,75,1
+Massachusetts,Bedford,ACTIVE,2,1
+Massachusetts,Beverly,ACTIVE,7,1
+Massachusetts,Billerica,ACTIVE,8,1
+Massachusetts,Boston,ACTIVE,298,12
+Massachusetts,Boxford,ACTIVE,1,1
+Massachusetts,Braintree,ACTIVE,12,1
+Massachusetts,Brewster,ACTIVE,208,1
+Massachusetts,Brewster,INITIAL,3,1
+Massachusetts,Bridgewater,ACTIVE,2,1
+Massachusetts,Brighton,ACTIVE,4,1
+Massachusetts,Brighton,INITIAL,1,1
+Massachusetts,Brockton,ACTIVE,7,1
+Massachusetts,Brookline,ACTIVE,38,2
+Massachusetts,Brookline,INITIAL,1,1
+Massachusetts,Burlington,ACTIVE,8,1
+Massachusetts,Burlington,INITIAL,1,1
+Massachusetts,Buzzards Bay,ACTIVE,29,1
+Massachusetts,Buzzards Bay,INITIAL,1,1
+Massachusetts,Cambridge,ACTIVE,22,5
+Massachusetts,Canton,ACTIVE,7,1
+Massachusetts,Centerville,ACTIVE,14,1
+Massachusetts,Charlestown,ACTIVE,26,1
+Massachusetts,Charlestown,INITIAL,2,1
+Massachusetts,Charlton,ACTIVE,1,1
+Massachusetts,Chatham,ACTIVE,201,1
+Massachusetts,Chatham,INITIAL,7,1
+Massachusetts,Chelmsford,ACTIVE,6,1
+Massachusetts,Chelsea,ACTIVE,4,1
+Massachusetts,Chestnut Hill,ACTIVE,5,1
+Massachusetts,Chilmark,ACTIVE,17,1
+Massachusetts,Chilmark,INITIAL,1,1
+Massachusetts,Cohasset,ACTIVE,1,1
+Massachusetts,Danvers,ACTIVE,7,1
+Massachusetts,Dedham,ACTIVE,10,1
+Massachusetts,Dedham,INITIAL,2,1
+Massachusetts,Dennis,ACTIVE,36,1
+Massachusetts,Dennis,INITIAL,3,1
+Massachusetts,Dennis Port,ACTIVE,132,1
+Massachusetts,Dennis Port,INITIAL,8,1
+Massachusetts,Dorchester,ACTIVE,12,1
+Massachusetts,Dorchester,INITIAL,1,1
+Massachusetts,Duxbury,ACTIVE,9,1
+Massachusetts,East Brookfield,ACTIVE,9,1
+Massachusetts,East Brookfield,INITIAL,1,1
+Massachusetts,East Dennis,ACTIVE,11,1
+Massachusetts,East Dennis,INITIAL,1,1
+Massachusetts,East Falmouth,ACTIVE,58,1
+Massachusetts,East Falmouth,INITIAL,2,1
+Massachusetts,East Orleans,ACTIVE,1,1
+Massachusetts,East Otis,ACTIVE,18,1
+Massachusetts,East Walpole,ACTIVE,1,1
+Massachusetts,East Wareham,ACTIVE,34,1
+Massachusetts,East Weymouth,ACTIVE,6,1
+Massachusetts,Eastham,ACTIVE,34,1
+Massachusetts,Eastham,INITIAL,1,1
+Massachusetts,Edgartown,ACTIVE,394,1
+Massachusetts,Edgartown,INITIAL,14,1
+Massachusetts,Falmouth,ACTIVE,57,1
+Massachusetts,Falmouth,INITIAL,7,1
+Massachusetts,Forestdale,ACTIVE,1,1
+Massachusetts,Foxboro,ACTIVE,1,1
+Massachusetts,Framingham,ACTIVE,28,2
+Massachusetts,Franklin,ACTIVE,1,1
+Massachusetts,Gloucester,ACTIVE,5,1
+Massachusetts,Granville,ACTIVE,5,1
+Massachusetts,Great Barrington,ACTIVE,46,1
+Massachusetts,Great Barrington,INITIAL,1,1
+Massachusetts,Groton,ACTIVE,15,1
+Massachusetts,Harwich,ACTIVE,87,1
+Massachusetts,Harwich,INITIAL,1,1
+Massachusetts,Harwich Port,ACTIVE,110,1
+Massachusetts,Harwich Port,INITIAL,2,1
+Massachusetts,Haverhill,ACTIVE,10,3
+Massachusetts,Haverhill,INITIAL,1,1
+Massachusetts,Hingham,ACTIVE,5,1
+Massachusetts,Hinsdale,ACTIVE,112,1
+Massachusetts,Hinsdale,INITIAL,2,1
+Massachusetts,Holbrook,ACTIVE,2,1
+Massachusetts,Hopkinton,ACTIVE,4,1
+Massachusetts,Hull,ACTIVE,1,1
+Massachusetts,Hyannis,ACTIVE,336,1
+Massachusetts,Hyannis,INITIAL,8,1
+Massachusetts,Hyannis Port,ACTIVE,5,1
+Massachusetts,Hyde Park,ACTIVE,1,1
+Massachusetts,Jamaica Plain,ACTIVE,3,1
+Massachusetts,Kingston,ACTIVE,8,1
+Massachusetts,Kingston,INITIAL,2,1
+Massachusetts,Lanesborough,ACTIVE,11,1
+Massachusetts,Lawrence,ACTIVE,1,1
+Massachusetts,Lee,ACTIVE,8,1
+Massachusetts,Lenox,ACTIVE,40,1
+Massachusetts,Lexington,ACTIVE,3,1
+Massachusetts,Littleton,ACTIVE,2,1
+Massachusetts,Lowell,ACTIVE,1,1
+Massachusetts,Lynn,ACTIVE,4,1
+Massachusetts,Lynnfield,ACTIVE,1,1
+Massachusetts,Malden,ACTIVE,11,1
+Massachusetts,Mansfield,ACTIVE,2,1
+Massachusetts,Marion,ACTIVE,2,1
+Massachusetts,Marlborough,ACTIVE,9,1
+Massachusetts,Marshfield,ACTIVE,3,1
+Massachusetts,Marstons Mills,ACTIVE,20,1
+Massachusetts,Mashpee,ACTIVE,111,1
+Massachusetts,Mashpee,INITIAL,1,1
+Massachusetts,Mattapoisett,ACTIVE,6,1
+Massachusetts,Medford,ACTIVE,5,1
+Massachusetts,Medway,ACTIVE,1,1
+Massachusetts,Methuen,ACTIVE,2,1
+Massachusetts,Middleboro,ACTIVE,11,1
+Massachusetts,Milford,ACTIVE,3,1
+Massachusetts,Millis,ACTIVE,1,1
+Massachusetts,Monterey,ACTIVE,9,1
+Massachusetts,Nantucket,ACTIVE,647,1
+Massachusetts,Nantucket,INITIAL,13,1
+Massachusetts,Natick,ACTIVE,14,1
+Massachusetts,Needham Heights,ACTIVE,2,1
+Massachusetts,Newbury,ACTIVE,5,1
+Massachusetts,Newburyport,ACTIVE,3,1
+Massachusetts,Newton,ACTIVE,2,1
+Massachusetts,Newton Center,ACTIVE,11,1
+Massachusetts,Newton Highlands,ACTIVE,1,1
+Massachusetts,North Adams,ACTIVE,15,1
+Massachusetts,North Adams,INITIAL,1,1
+Massachusetts,North Andover,ACTIVE,6,1
+Massachusetts,North Billerica,ACTIVE,5,1
+Massachusetts,North Chelmsford,ACTIVE,3,1
+Massachusetts,North Dartmouth,ACTIVE,1,1
+Massachusetts,North Eastham,ACTIVE,14,1
+Massachusetts,North Falmouth,ACTIVE,74,1
+Massachusetts,North Falmouth,INITIAL,2,1
+Massachusetts,North Reading,ACTIVE,1,1
+Massachusetts,North Truro,ACTIVE,44,1
+Massachusetts,North Weymouth,ACTIVE,2,1
+Massachusetts,Northborough,ACTIVE,1,1
+Massachusetts,Norwood,ACTIVE,13,1
+Massachusetts,Oak Bluffs,ACTIVE,192,1
+Massachusetts,Oak Bluffs,INITIAL,1,1
+Massachusetts,Oakham,ACTIVE,3,1
+Massachusetts,Orleans,ACTIVE,90,1
+Massachusetts,Orleans,INITIAL,4,1
+Massachusetts,Osterville,ACTIVE,15,1
+Massachusetts,Otis,ACTIVE,15,1
+Massachusetts,Palmer,ACTIVE,36,1
+Massachusetts,Peabody,ACTIVE,4,1
+Massachusetts,Pembroke,ACTIVE,20,1
+Massachusetts,Pittsfield,ACTIVE,52,1
+Massachusetts,Pittsfield,INITIAL,2,1
+Massachusetts,Plainville,ACTIVE,1,1
+Massachusetts,Plymouth,ACTIVE,72,1
+Massachusetts,Plymouth,INITIAL,7,1
+Massachusetts,Provincetown,ACTIVE,396,1
+Massachusetts,Provincetown,INITIAL,11,1
+Massachusetts,Quincy,ACTIVE,20,2
+Massachusetts,Randolph,ACTIVE,2,1
+Massachusetts,Raynham,ACTIVE,1,1
+Massachusetts,Reading,ACTIVE,1,1
+Massachusetts,Revere,ACTIVE,3,1
+Massachusetts,Rockport,ACTIVE,6,1
+Massachusetts,Sagamore Beach,ACTIVE,11,1
+Massachusetts,Sagamore Beach,INITIAL,1,1
+Massachusetts,Salem,ACTIVE,3,1
+Massachusetts,Salisbury,ACTIVE,5,1
+Massachusetts,Sandwich,ACTIVE,45,1
+Massachusetts,Sandwich,INITIAL,1,1
+Massachusetts,Saugus,ACTIVE,3,1
+Massachusetts,Shrewsbury,ACTIVE,5,1
+Massachusetts,Siasconset,ACTIVE,10,1
+Massachusetts,Somerville,ACTIVE,10,2
+Massachusetts,South Dennis,ACTIVE,32,1
+Massachusetts,South Dennis,INITIAL,2,1
+Massachusetts,South Easton,ACTIVE,1,1
+Massachusetts,South Egremont,ACTIVE,18,1
+Massachusetts,South Walpole,ACTIVE,1,1
+Massachusetts,South Wellfleet,ACTIVE,23,1
+Massachusetts,South Weymouth,ACTIVE,8,1
+Massachusetts,South Yarmouth,ACTIVE,270,1
+Massachusetts,South Yarmouth,INITIAL,4,1
+Massachusetts,Stockbridge,ACTIVE,7,1
+Massachusetts,Stoneham,ACTIVE,2,1
+Massachusetts,Stoughton,ACTIVE,7,1
+Massachusetts,Swampscott,ACTIVE,5,1
+Massachusetts,Tewksbury,ACTIVE,4,1
+Massachusetts,Truro,ACTIVE,20,1
+Massachusetts,Vineyard Haven,ACTIVE,85,1
+Massachusetts,Wakefield,ACTIVE,3,1
+Massachusetts,Wakefield,INITIAL,1,1
+Massachusetts,Walpole,ACTIVE,4,1
+Massachusetts,Waltham,ACTIVE,11,3
+Massachusetts,Wareham,ACTIVE,4,1
+Massachusetts,Watertown,ACTIVE,3,1
+Massachusetts,Wayland,ACTIVE,1,1
+Massachusetts,Wellfleet,ACTIVE,104,1
+Massachusetts,Wellfleet,INITIAL,4,1
+Massachusetts,West Barnstable,ACTIVE,11,1
+Massachusetts,West Dennis,ACTIVE,82,1
+Massachusetts,West Dennis,INITIAL,1,1
+Massachusetts,West Harwich,ACTIVE,10,1
+Massachusetts,West Newton,ACTIVE,10,1
+Massachusetts,West Roxbury,ACTIVE,1,1
+Massachusetts,West Stockbridge,ACTIVE,25,1
+Massachusetts,West Tisbury,ACTIVE,2,1
+Massachusetts,West Tisbury,INITIAL,4,1
+Massachusetts,West Wareham,ACTIVE,2,1
+Massachusetts,West Yarmouth,ACTIVE,165,1
+Massachusetts,West Yarmouth,INITIAL,2,1
+Massachusetts,Westborough,ACTIVE,9,1
+Massachusetts,Weston,ACTIVE,14,1
+Massachusetts,Westwood,ACTIVE,3,1
+Massachusetts,Weymouth,ACTIVE,10,1
+Massachusetts,Williamsburg,ACTIVE,2,1
+Massachusetts,Williamstown,ACTIVE,7,1
+Massachusetts,Wilmington,ACTIVE,5,1
+Massachusetts,Winthrop,ACTIVE,3,1
+Massachusetts,Woburn,ACTIVE,11,1
+Massachusetts,Woods Hole,ACTIVE,16,1
+Massachusetts,Worcester,ACTIVE,7,3
+Massachusetts,Yarmouth Port,ACTIVE,5,1
+Michigan,Acme,ACTIVE,14,1
+Michigan,Acme,INITIAL,1,1
+Michigan,Almont,ACTIVE,2,1
+Michigan,Ann Arbor,ACTIVE,4,1
+Michigan,Ann Arbor,INITIAL,3,1
+Michigan,Au Train,ACTIVE,3,1
+Michigan,Augusta,ACTIVE,2,1
+Michigan,Battle Creek,ACTIVE,1,1
+Michigan,Battle Creek,INITIAL,2,1
+Michigan,Beaver Island,ACTIVE,17,1
+Michigan,Bellaire,ACTIVE,46,1
+Michigan,Bellaire,INITIAL,1,1
+Michigan,Benzonia,ACTIVE,8,1
+Michigan,Beulah,ACTIVE,4,1
+Michigan,Boyne City,ACTIVE,37,1
+Michigan,Boyne City,INITIAL,1,1
+Michigan,Boyne Falls,ACTIVE,54,1
+Michigan,Cadillac,ACTIVE,9,1
+Michigan,Cadillac,INITIAL,1,1
+Michigan,Caseville,ACTIVE,38,1
+Michigan,Caseville,INITIAL,2,1
+Michigan,Cassopolis,ACTIVE,12,1
+Michigan,Cedarville,ACTIVE,14,1
+Michigan,Central Lake,ACTIVE,6,1
+Michigan,Charlevoix,ACTIVE,52,1
+Michigan,Charlevoix,INITIAL,5,1
+Michigan,Cheboygan,ACTIVE,12,1
+Michigan,Copper Harbor,ACTIVE,17,1
+Michigan,Copper Harbor,INITIAL,1,1
+Michigan,Cross Village,ACTIVE,15,1
+Michigan,Croswell,ACTIVE,6,1
+Michigan,Dearborn Heights,ACTIVE,1,1
+Michigan,Decatur,ACTIVE,38,1
+Michigan,Dimondale,INITIAL,2,1
+Michigan,Douglas,ACTIVE,2,1
+Michigan,Drummond Island,ACTIVE,4,1
+Michigan,East Tawas,ACTIVE,2,1
+Michigan,East Tawas,INITIAL,3,1
+Michigan,Elk Rapids,ACTIVE,19,1
+Michigan,Elk Rapids,INITIAL,1,1
+Michigan,Empire,ACTIVE,15,1
+Michigan,Fenton,ACTIVE,3,1
+Michigan,Frankenmuth,ACTIVE,22,1
+Michigan,Frankenmuth,INITIAL,9,1
+Michigan,Frankfort,ACTIVE,5,1
+Michigan,Fremont,ACTIVE,4,1
+Michigan,Gaylord,ACTIVE,48,1
+Michigan,Gaylord,INITIAL,4,1
+Michigan,Glen Arbor,ACTIVE,26,1
+Michigan,Grand Marais,ACTIVE,14,1
+Michigan,Grand Marais,INITIAL,1,1
+Michigan,Grand Rapids,ACTIVE,1,1
+Michigan,Grand Rapids,INITIAL,1,1
+Michigan,Grayling,ACTIVE,10,1
+Michigan,Harbor Springs,ACTIVE,104,1
+Michigan,Harbor Springs,INITIAL,20,1
+Michigan,Harsens Island,ACTIVE,8,1
+Michigan,Hillsdale,ACTIVE,1,1
+Michigan,Holly,ACTIVE,8,1
+Michigan,Honor,ACTIVE,14,1
+Michigan,Honor,INITIAL,3,1
+Michigan,Houghton,ACTIVE,22,1
+Michigan,Houghton,INITIAL,2,1
+Michigan,Houghton Lake,ACTIVE,2,1
+Michigan,Howell,ACTIVE,1,1
+Michigan,Howell,INITIAL,1,1
+Michigan,Indian River,ACTIVE,29,1
+Michigan,Indian River,INITIAL,3,1
+Michigan,Interlochen,ACTIVE,88,1
+Michigan,Jackson,ACTIVE,9,1
+Michigan,Kalamazoo,ACTIVE,6,1
+Michigan,Kalamazoo,INITIAL,1,1
+Michigan,Kalkaska,ACTIVE,7,1
+Michigan,Lake Leelanau,ACTIVE,4,1
+Michigan,Leland,ACTIVE,19,1
+Michigan,Leland,INITIAL,1,1
+Michigan,Leonard,ACTIVE,6,1
+Michigan,Ludington,ACTIVE,28,1
+Michigan,Ludington,INITIAL,3,1
+Michigan,Mackinac Island,ACTIVE,283,1
+Michigan,Mackinac Island,INITIAL,2,1
+Michigan,Mackinaw City,ACTIVE,193,1
+Michigan,Mackinaw City,INITIAL,13,1
+Michigan,Marenisco,ACTIVE,2,1
+Michigan,Marquette,ACTIVE,4,1
+Michigan,Marquette,INITIAL,3,1
+Michigan,Mayville,ACTIVE,1,1
+Michigan,Mears,ACTIVE,2,1
+Michigan,Middleville,ACTIVE,4,1
+Michigan,Monroe,ACTIVE,3,1
+Michigan,Monroe,INITIAL,2,1
+Michigan,Mount Pleasant,ACTIVE,37,1
+Michigan,Mount Pleasant,INITIAL,4,1
+Michigan,Munising,ACTIVE,77,1
+Michigan,Muskegon,ACTIVE,2,1
+Michigan,Muskegon,INITIAL,1,1
+Michigan,New Baltimore,ACTIVE,1,1
+Michigan,New Baltimore,INITIAL,3,1
+Michigan,Newaygo,ACTIVE,1,1
+Michigan,Newberry,ACTIVE,1,1
+Michigan,Newberry,INITIAL,1,1
+Michigan,Northport,ACTIVE,3,1
+Michigan,Novi,ACTIVE,2,2
+Michigan,Ortonville,ACTIVE,57,1
+Michigan,Ortonville,INITIAL,1,1
+Michigan,Oscoda,ACTIVE,5,1
+Michigan,Paradise,ACTIVE,8,1
+Michigan,Paradise,INITIAL,1,1
+Michigan,Petoskey,ACTIVE,213,1
+Michigan,Petoskey,INITIAL,9,1
+Michigan,Port Austin,ACTIVE,1,1
+Michigan,Rochester,ACTIVE,2,1
+Michigan,Rodney,ACTIVE,11,1
+Michigan,Romulus,ACTIVE,3,1
+Michigan,Roscommon,ACTIVE,1,1
+Michigan,Saginaw,ACTIVE,2,1
+Michigan,Saginaw,INITIAL,2,1
+Michigan,Saint Ignace,ACTIVE,65,1
+Michigan,Saint Ignace,INITIAL,17,1
+Michigan,Saint Joseph,ACTIVE,7,1
+Michigan,Saugatuck,ACTIVE,8,1
+Michigan,Sault Sainte Marie,ACTIVE,2,1
+Michigan,Sault Sainte Marie,INITIAL,1,1
+Michigan,Shelby,ACTIVE,6,1
+Michigan,South Haven,ACTIVE,120,1
+Michigan,South Haven,INITIAL,3,1
+Michigan,Stevensville,INITIAL,2,1
+Michigan,Suttons Bay,ACTIVE,7,1
+Michigan,Tawas City,ACTIVE,6,1
+Michigan,Thompsonville,ACTIVE,41,1
+Michigan,Three Rivers,ACTIVE,9,1
+Michigan,Traverse City,ACTIVE,193,3
+Michigan,Traverse City,INITIAL,3,2
+Michigan,Troy,ACTIVE,10,2
+Michigan,Twin Lake,ACTIVE,12,1
+Michigan,West Branch,ACTIVE,3,1
+Michigan,Wetmore,ACTIVE,6,1
+Michigan,Wetmore,INITIAL,3,1
+Michigan,Williamsburg,ACTIVE,14,1
+Michigan,Ypsilanti,ACTIVE,3,1
+Michigan,Ypsilanti,INITIAL,1,1
+Michigan,Zeeland,ACTIVE,1,1
+Michigan,Zeeland,INITIAL,1,1
+Minnesota,Aitkin,ACTIVE,4,1
+Minnesota,Albert Lea,ACTIVE,2,1
+Minnesota,Alexandria,ACTIVE,51,1
+Minnesota,Annandale,ACTIVE,13,1
+Minnesota,Battle Lake,ACTIVE,5,1
+Minnesota,Baxter,ACTIVE,2,1
+Minnesota,Beaver Bay,ACTIVE,6,1
+Minnesota,Bemidji,ACTIVE,25,1
+Minnesota,Brainerd,ACTIVE,47,1
+Minnesota,Brainerd,INITIAL,2,1
+Minnesota,Cambridge,ACTIVE,4,1
+Minnesota,Cass Lake,ACTIVE,16,1
+Minnesota,Crane Lake,ACTIVE,14,1
+Minnesota,Crosby,ACTIVE,3,1
+Minnesota,Crosslake,ACTIVE,7,1
+Minnesota,Deerwood,ACTIVE,25,1
+Minnesota,Deerwood,INITIAL,3,1
+Minnesota,Detroit Lakes,ACTIVE,94,1
+Minnesota,Detroit Lakes,INITIAL,1,1
+Minnesota,Dilworth,ACTIVE,2,1
+Minnesota,Duluth,ACTIVE,113,6
+Minnesota,Duluth,INITIAL,1,1
+Minnesota,Eden Prairie,ACTIVE,3,1
+Minnesota,Elko New Market,ACTIVE,2,1
+Minnesota,Ely,ACTIVE,27,1
+Minnesota,Excelsior,ACTIVE,4,1
+Minnesota,Excelsior,INITIAL,1,1
+Minnesota,Gilbert,ACTIVE,2,1
+Minnesota,Grand Marais,ACTIVE,93,1
+Minnesota,Grand Marais,INITIAL,9,1
+Minnesota,Grand Portage,ACTIVE,9,1
+Minnesota,Grand Rapids,ACTIVE,9,1
+Minnesota,Grove City,ACTIVE,2,1
+Minnesota,Hackensack,ACTIVE,13,1
+Minnesota,Hamel,ACTIVE,4,1
+Minnesota,Hinckley,ACTIVE,4,1
+Minnesota,Hinckley,INITIAL,4,1
+Minnesota,Hopkins,ACTIVE,3,1
+Minnesota,Isanti,ACTIVE,1,1
+Minnesota,Lake Elmo,ACTIVE,3,1
+Minnesota,Lakeville,ACTIVE,2,1
+Minnesota,Laporte,ACTIVE,8,1
+Minnesota,Laporte,INITIAL,1,1
+Minnesota,Longville,ACTIVE,6,1
+Minnesota,Lutsen,ACTIVE,18,1
+Minnesota,Mankato,ACTIVE,3,1
+Minnesota,Maple Grove,ACTIVE,1,1
+Minnesota,Maple Lake,ACTIVE,5,1
+Minnesota,Marshall,ACTIVE,1,1
+Minnesota,Mcgregor,ACTIVE,8,1
+Minnesota,Minneapolis,ACTIVE,56,5
+Minnesota,Minneapolis,INITIAL,8,1
+Minnesota,Mountain Iron,ACTIVE,2,1
+Minnesota,Nisswa,ACTIVE,96,1
+Minnesota,Nisswa,INITIAL,10,1
+Minnesota,Onamia,ACTIVE,20,1
+Minnesota,Onamia,INITIAL,4,1
+Minnesota,Orr,ACTIVE,2,1
+Minnesota,Osseo,ACTIVE,7,1
+Minnesota,Owatonna,ACTIVE,6,1
+Minnesota,Park Rapids,ACTIVE,7,1
+Minnesota,Paynesville,ACTIVE,4,1
+Minnesota,Pelican Rapids,ACTIVE,3,1
+Minnesota,Pequot Lakes,ACTIVE,26,1
+Minnesota,Pequot Lakes,INITIAL,13,1
+Minnesota,Perham,ACTIVE,7,1
+Minnesota,Pine River,ACTIVE,22,1
+Minnesota,Rochester,ACTIVE,7,2
+Minnesota,Rogers,ACTIVE,4,1
+Minnesota,Saint Cloud,ACTIVE,4,1
+Minnesota,Saint Paul,ACTIVE,22,7
+Minnesota,Shakopee,ACTIVE,315,1
+Minnesota,Shakopee,INITIAL,11,1
+Minnesota,Side Lake,ACTIVE,7,1
+Minnesota,Silver Bay,ACTIVE,1,1
+Minnesota,Spicer,ACTIVE,3,1
+Minnesota,Stillwater,ACTIVE,3,1
+Minnesota,Thief River Falls,ACTIVE,1,1
+Minnesota,Tofte,ACTIVE,9,1
+Minnesota,Two Harbors,ACTIVE,31,1
+Minnesota,Two Harbors,INITIAL,1,1
+Minnesota,Wahkon,ACTIVE,4,1
+Minnesota,Walker,ACTIVE,20,1
+Minnesota,Wayzata,ACTIVE,1,1
+Minnesota,Worthington,ACTIVE,2,1
+Mississippi,Hattiesburg,ACTIVE,33,1
+Mississippi,Utica,ACTIVE,19,1
+Missouri,Ballwin,ACTIVE,2,1
+Missouri,Blue Springs,ACTIVE,3,1
+Missouri,Branson,ACTIVE,501,1
+Missouri,Branson,INITIAL,13,1
+Missouri,Chesterfield,ACTIVE,7,2
+Missouri,Columbia,ACTIVE,3,1
+Missouri,De Soto,ACTIVE,2,1
+Missouri,Fenton,ACTIVE,7,1
+Missouri,Festus,ACTIVE,1,1
+Missouri,Hollister,ACTIVE,21,1
+Missouri,Hollister,INITIAL,4,1
+Missouri,Joplin,ACTIVE,2,1
+Missouri,Kansas City,ACTIVE,47,6
+Missouri,Kansas City,INITIAL,2,2
+Missouri,Lake Ozark,ACTIVE,54,1
+Missouri,Lake Ozark,INITIAL,7,1
+Missouri,Lake Saint Louis,ACTIVE,5,1
+Missouri,Lesterville,ACTIVE,9,1
+Missouri,Maryland Heights,ACTIVE,51,1
+Missouri,Maryland Heights,INITIAL,1,1
+Missouri,Monroe City,ACTIVE,15,1
+Missouri,Nelson,INITIAL,2,1
+Missouri,Nixa,ACTIVE,3,1
+Missouri,O Fallon,ACTIVE,2,1
+Missouri,Osage Beach,ACTIVE,52,1
+Missouri,Pacific,ACTIVE,43,1
+Missouri,Pacific,INITIAL,1,1
+Missouri,Pevely,ACTIVE,2,1
+Missouri,Pevely,INITIAL,1,1
+Missouri,Potosi,ACTIVE,9,1
+Missouri,Reeds Spring,ACTIVE,4,1
+Missouri,Ridgedale,ACTIVE,114,1
+Missouri,Ridgedale,INITIAL,3,1
+Missouri,Roach,ACTIVE,1,1
+Missouri,Rocheport,ACTIVE,4,1
+Missouri,Rocky Mount,ACTIVE,7,1
+Missouri,Rolla,ACTIVE,10,1
+Missouri,Saint Louis,ACTIVE,78,8
+Missouri,Springfield,ACTIVE,3,1
+Missouri,Steelville,ACTIVE,1,1
+Missouri,Troy,ACTIVE,3,1
+Missouri,Union,ACTIVE,2,1
+Missouri,Wentzville,ACTIVE,8,1
+Missouri,Wright City,ACTIVE,2,1
+Montana,Alberton,ACTIVE,2,1
+Montana,Anaconda,ACTIVE,1,1
+Montana,Belgrade,ACTIVE,6,1
+Montana,Big Arm,ACTIVE,3,1
+Montana,Big Sky,ACTIVE,378,1
+Montana,Big Sky,INITIAL,10,1
+Montana,Bigfork,ACTIVE,40,1
+Montana,Bigfork,INITIAL,3,1
+Montana,Billings,ACTIVE,59,3
+Montana,Bonner,ACTIVE,2,1
+Montana,Bozeman,ACTIVE,102,2
+Montana,Bozeman,INITIAL,2,1
+Montana,Browning,ACTIVE,78,1
+Montana,Browning,INITIAL,5,1
+Montana,Butte,ACTIVE,11,1
+Montana,Butte,INITIAL,1,1
+Montana,Clyde Park,INITIAL,2,1
+Montana,Columbia Falls,ACTIVE,202,1
+Montana,Columbia Falls,INITIAL,149,1
+Montana,Cooke City,ACTIVE,23,1
+Montana,Cooke City,INITIAL,3,1
+Montana,East Glacier Park,ACTIVE,72,1
+Montana,East Glacier Park,INITIAL,3,1
+Montana,Ennis,ACTIVE,7,1
+Montana,Eureka,ACTIVE,19,1
+Montana,Eureka,INITIAL,1,1
+Montana,Forsyth,ACTIVE,2,1
+Montana,Gallatin Gateway,ACTIVE,16,1
+Montana,Gallatin Gateway,INITIAL,1,1
+Montana,Gardiner,ACTIVE,177,1
+Montana,Gardiner,INITIAL,59,1
+Montana,Glasgow,ACTIVE,2,1
+Montana,Great Falls,ACTIVE,9,2
+Montana,Hamilton,ACTIVE,4,1
+Montana,Havre,ACTIVE,1,1
+Montana,Helena,ACTIVE,3,1
+Montana,Hilger,ACTIVE,4,1
+Montana,Hungry Horse,ACTIVE,10,1
+Montana,Kalispell,ACTIVE,52,1
+Montana,Kalispell,INITIAL,2,1
+Montana,Lake Mc Donald,ACTIVE,2,1
+Montana,Lake Mc Donald,INITIAL,1,1
+Montana,Livingston,ACTIVE,17,1
+Montana,Miles City,ACTIVE,5,1
+Montana,Missoula,ACTIVE,85,4
+Montana,Missoula,INITIAL,1,1
+Montana,Philipsburg,ACTIVE,9,1
+Montana,Plains,ACTIVE,1,1
+Montana,Polebridge,ACTIVE,6,1
+Montana,Polson,ACTIVE,16,1
+Montana,Pray,ACTIVE,10,1
+Montana,Red Lodge,ACTIVE,40,1
+Montana,Red Lodge,INITIAL,1,1
+Montana,Reed Point,ACTIVE,2,1
+Montana,Rollins,ACTIVE,1,1
+Montana,Shelby,ACTIVE,1,1
+Montana,Sidney,ACTIVE,7,1
+Montana,Sidney,INITIAL,1,1
+Montana,Townsend,ACTIVE,2,1
+Montana,Virginia City,ACTIVE,6,1
+Montana,West Glacier,ACTIVE,209,1
+Montana,West Glacier,INITIAL,4,1
+Montana,West Yellowstone,ACTIVE,244,1
+Montana,West Yellowstone,INITIAL,4,1
+Montana,White Sulphur Springs,ACTIVE,4,1
+Montana,Whitefish,ACTIVE,161,1
+Montana,Whitefish,INITIAL,2,1
+Nebraska,Arlington,ACTIVE,2,1
+Nebraska,Columbus,ACTIVE,10,1
+Nebraska,Fairbury,ACTIVE,1,1
+Nebraska,Grand Island,ACTIVE,3,1
+Nebraska,Kearney,ACTIVE,2,1
+Nebraska,Lemoyne,ACTIVE,4,1
+Nebraska,Lincoln,ACTIVE,2,1
+Nebraska,Norfolk,ACTIVE,2,1
+Nebraska,North Platte,ACTIVE,10,1
+Nebraska,Ogallala,ACTIVE,8,1
+Nebraska,Omaha,ACTIVE,6,1
+Nebraska,Scottsbluff,ACTIVE,1,1
+Nebraska,Sidney,ACTIVE,9,1
+Nebraska,Sidney,INITIAL,2,1
+Nebraska,Valentine,ACTIVE,5,1
+Nevada,Carson City,ACTIVE,3,2
+Nevada,Dayton,ACTIVE,2,1
+Nevada,Glenbrook,ACTIVE,5,1
+Nevada,Incline Village,ACTIVE,51,1
+Nevada,Incline Village,INITIAL,2,1
+Nevada,Jean,ACTIVE,14,1
+Nevada,Jean,INITIAL,2,1
+Nevada,Las Vegas,ACTIVE,9,1
+Nevada,Laughlin,ACTIVE,75,1
+Nevada,Minden,ACTIVE,7,1
+Nevada,Reno,ACTIVE,85,5
+Nevada,Sparks,ACTIVE,31,2
+Nevada,Stateline,ACTIVE,219,1
+Nevada,Stateline,INITIAL,4,1
+Nevada,Tonopah,ACTIVE,3,1
+Nevada,Winnemucca,ACTIVE,3,1
+Nevada,Zephyr Cove,ACTIVE,119,1
+Nevada,Zephyr Cove,INITIAL,1,1
+New Hampshire,Alton,ACTIVE,10,1
+New Hampshire,Alton,INITIAL,2,1
+New Hampshire,Alton Bay,ACTIVE,3,1
+New Hampshire,Amherst,ACTIVE,28,1
+New Hampshire,Antrim,ACTIVE,8,1
+New Hampshire,Ashland,ACTIVE,1,1
+New Hampshire,Barnstead,ACTIVE,2,1
+New Hampshire,Barnstead,INITIAL,2,1
+New Hampshire,Bartlett,ACTIVE,21,1
+New Hampshire,Bartlett,INITIAL,3,1
+New Hampshire,Bedford,ACTIVE,8,1
+New Hampshire,Bretton Woods,ACTIVE,69,1
+New Hampshire,Bretton Woods,INITIAL,15,1
+New Hampshire,Bristol,ACTIVE,3,1
+New Hampshire,Brookline,ACTIVE,17,1
+New Hampshire,Center Conway,ACTIVE,7,1
+New Hampshire,Center Harbor,ACTIVE,3,1
+New Hampshire,Center Ossipee,ACTIVE,6,1
+New Hampshire,Center Sandwich,ACTIVE,5,1
+New Hampshire,Center Tuftonboro,ACTIVE,7,1
+New Hampshire,Claremont,ACTIVE,13,1
+New Hampshire,Concord,ACTIVE,15,2
+New Hampshire,Conway,ACTIVE,7,1
+New Hampshire,Dublin,ACTIVE,7,1
+New Hampshire,Effingham,ACTIVE,12,1
+New Hampshire,Epping,ACTIVE,1,1
+New Hampshire,Freedom,ACTIVE,94,1
+New Hampshire,Gilford,ACTIVE,31,1
+New Hampshire,Gilford,INITIAL,6,1
+New Hampshire,Gilmanton,ACTIVE,3,1
+New Hampshire,Gilmanton Iron Works,ACTIVE,2,1
+New Hampshire,Glen,ACTIVE,124,1
+New Hampshire,Glen,INITIAL,3,1
+New Hampshire,Gorham,ACTIVE,4,1
+New Hampshire,Grantham,ACTIVE,12,1
+New Hampshire,Hampstead,ACTIVE,13,1
+New Hampshire,Hampton,ACTIVE,399,1
+New Hampshire,Hampton,INITIAL,8,1
+New Hampshire,Hanover,ACTIVE,3,1
+New Hampshire,Hebron,ACTIVE,31,1
+New Hampshire,Hebron,INITIAL,1,1
+New Hampshire,Hillsborough,ACTIVE,14,1
+New Hampshire,Holderness,ACTIVE,85,1
+New Hampshire,Jackson,ACTIVE,2,1
+New Hampshire,Jefferson,ACTIVE,21,1
+New Hampshire,Keene,ACTIVE,5,1
+New Hampshire,Laconia,ACTIVE,145,1
+New Hampshire,Laconia,INITIAL,4,1
+New Hampshire,Lancaster,ACTIVE,2,1
+New Hampshire,Lincoln,ACTIVE,128,1
+New Hampshire,Lincoln,INITIAL,11,1
+New Hampshire,Littleton,ACTIVE,9,1
+New Hampshire,Littleton,INITIAL,1,1
+New Hampshire,Lyme,ACTIVE,6,1
+New Hampshire,Madison,ACTIVE,11,1
+New Hampshire,Manchester,ACTIVE,2,1
+New Hampshire,Meredith,ACTIVE,62,1
+New Hampshire,Meredith,INITIAL,7,1
+New Hampshire,Mirror Lake,ACTIVE,18,1
+New Hampshire,Moultonborough,ACTIVE,72,1
+New Hampshire,Moultonborough,INITIAL,1,1
+New Hampshire,Nashua,ACTIVE,1,1
+New Hampshire,New Castle,ACTIVE,14,1
+New Hampshire,New Castle,INITIAL,1,1
+New Hampshire,New Hampton,ACTIVE,4,1
+New Hampshire,Newport,ACTIVE,4,1
+New Hampshire,North Conway,ACTIVE,228,1
+New Hampshire,North Conway,INITIAL,28,1
+New Hampshire,North Hampton,ACTIVE,22,1
+New Hampshire,North Hampton,INITIAL,1,1
+New Hampshire,North Woodstock,ACTIVE,24,1
+New Hampshire,North Woodstock,INITIAL,2,1
+New Hampshire,Northwood,ACTIVE,14,1
+New Hampshire,Orford,ACTIVE,14,1
+New Hampshire,Pelham,ACTIVE,2,1
+New Hampshire,Piermont,ACTIVE,28,1
+New Hampshire,Plymouth,ACTIVE,4,1
+New Hampshire,Portsmouth,ACTIVE,128,1
+New Hampshire,Portsmouth,INITIAL,2,1
+New Hampshire,Rindge,ACTIVE,4,1
+New Hampshire,Rumney,ACTIVE,1,1
+New Hampshire,Salem,ACTIVE,89,1
+New Hampshire,Salem,INITIAL,1,1
+New Hampshire,Sanbornton,ACTIVE,7,1
+New Hampshire,Seabrook,ACTIVE,19,1
+New Hampshire,Seabrook,INITIAL,2,1
+New Hampshire,Strafford,ACTIVE,5,1
+New Hampshire,Strafford,INITIAL,1,1
+New Hampshire,Tilton,ACTIVE,6,1
+New Hampshire,Twin Mountain,INITIAL,2,1
+New Hampshire,Warren,ACTIVE,8,1
+New Hampshire,Waterville Valley,ACTIVE,16,1
+New Hampshire,Wentworth,ACTIVE,4,1
+New Hampshire,Wentworth,INITIAL,1,1
+New Hampshire,West Lebanon,ACTIVE,25,1
+New Hampshire,West Lebanon,INITIAL,1,1
+New Hampshire,Whitefield,INITIAL,1,1
+New Hampshire,Wilmot,ACTIVE,18,1
+New Hampshire,Winchester,ACTIVE,15,1
+New Hampshire,Wolfeboro,ACTIVE,54,1
+New Hampshire,Woodsville,ACTIVE,5,1
+New Jersey,Absecon,ACTIVE,2,1
+New Jersey,Asbury Park,ACTIVE,26,1
+New Jersey,Atlantic City,ACTIVE,596,1
+New Jersey,Atlantic City,INITIAL,3,1
+New Jersey,Avalon,ACTIVE,128,1
+New Jersey,Barnegat Light,ACTIVE,2,1
+New Jersey,Basking Ridge,ACTIVE,5,1
+New Jersey,Bayonne,ACTIVE,2,1
+New Jersey,Beach Haven,ACTIVE,170,1
+New Jersey,Beach Haven,INITIAL,8,1
+New Jersey,Belle Mead,ACTIVE,3,1
+New Jersey,Belmar,ACTIVE,3,1
+New Jersey,Blackwood,ACTIVE,6,1
+New Jersey,Blairstown,ACTIVE,8,1
+New Jersey,Bloomfield,ACTIVE,5,1
+New Jersey,Bordentown,ACTIVE,2,1
+New Jersey,Branchville,ACTIVE,3,1
+New Jersey,Brick,ACTIVE,1,1
+New Jersey,Bridgewater,ACTIVE,2,1
+New Jersey,Brigantine,ACTIVE,1,1
+New Jersey,Cape May,ACTIVE,381,1
+New Jersey,Cape May,INITIAL,8,1
+New Jersey,Cape May Court House,ACTIVE,76,1
+New Jersey,Cape May Court House,INITIAL,1,1
+New Jersey,Cedar Knolls,ACTIVE,4,1
+New Jersey,Cherry Hill,ACTIVE,8,3
+New Jersey,Clementon,ACTIVE,11,1
+New Jersey,Cliffside Park,ACTIVE,8,1
+New Jersey,Clifton,ACTIVE,13,3
+New Jersey,Clifton,INITIAL,1,1
+New Jersey,Clinton,ACTIVE,1,1
+New Jersey,Deal,ACTIVE,23,1
+New Jersey,Deptford,ACTIVE,4,1
+New Jersey,East Brunswick,ACTIVE,1,1
+New Jersey,East Hanover,INITIAL,1,1
+New Jersey,Eatontown,ACTIVE,2,1
+New Jersey,Edison,ACTIVE,8,3
+New Jersey,Elmer,ACTIVE,3,1
+New Jersey,Elmwood Park,ACTIVE,3,1
+New Jersey,Fairfield,ACTIVE,39,1
+New Jersey,Fairfield,INITIAL,9,1
+New Jersey,Fairview,ACTIVE,2,1
+New Jersey,Flanders,ACTIVE,1,1
+New Jersey,Flemington,ACTIVE,7,1
+New Jersey,Fort Lee,ACTIVE,9,1
+New Jersey,Garfield,ACTIVE,1,1
+New Jersey,Hackettstown,ACTIVE,23,1
+New Jersey,Hackettstown,INITIAL,8,1
+New Jersey,Haskell,ACTIVE,3,1
+New Jersey,Hillsborough,ACTIVE,4,1
+New Jersey,Hoboken,ACTIVE,3,1
+New Jersey,Hope,ACTIVE,44,1
+New Jersey,Jackson,ACTIVE,99,1
+New Jersey,Jackson,INITIAL,16,1
+New Jersey,Jersey City,ACTIVE,45,4
+New Jersey,Keansburg,ACTIVE,10,1
+New Jersey,Lavallette,ACTIVE,40,1
+New Jersey,Lavallette,INITIAL,3,1
+New Jersey,Lawrence Township,ACTIVE,5,1
+New Jersey,Lebanon,ACTIVE,1,1
+New Jersey,Ledgewood,ACTIVE,1,1
+New Jersey,Little Falls,ACTIVE,8,1
+New Jersey,Long Branch,ACTIVE,24,1
+New Jersey,Long Branch,INITIAL,1,1
+New Jersey,Lumberton,ACTIVE,7,1
+New Jersey,Manahawkin,ACTIVE,10,1
+New Jersey,Manahawkin,INITIAL,1,1
+New Jersey,Manchester Township,ACTIVE,4,1
+New Jersey,Mantua,ACTIVE,2,1
+New Jersey,Maple Shade,ACTIVE,6,1
+New Jersey,Marlton,ACTIVE,8,1
+New Jersey,Marmora,ACTIVE,41,1
+New Jersey,Mays Landing,ACTIVE,2,1
+New Jersey,Medford,ACTIVE,23,1
+New Jersey,Medford,INITIAL,1,1
+New Jersey,Metuchen,ACTIVE,1,1
+New Jersey,Middleville,ACTIVE,6,1
+New Jersey,Millstone Township,ACTIVE,2,1
+New Jersey,Monmouth Junction,ACTIVE,1,1
+New Jersey,Monroe Township,ACTIVE,2,1
+New Jersey,Montague,ACTIVE,3,1
+New Jersey,Mount Arlington,ACTIVE,2,1
+New Jersey,Mount Holly,ACTIVE,7,1
+New Jersey,New Brunswick,ACTIVE,1,1
+New Jersey,Newton,ACTIVE,8,1
+New Jersey,Normandy Beach,ACTIVE,6,1
+New Jersey,North Bergen,INITIAL,2,1
+New Jersey,Norwood,ACTIVE,3,1
+New Jersey,Nutley,ACTIVE,6,1
+New Jersey,Oakhurst,ACTIVE,7,1
+New Jersey,Oakhurst,INITIAL,1,1
+New Jersey,Ocean City,ACTIVE,358,1
+New Jersey,Ocean City,INITIAL,14,1
+New Jersey,Ocean Grove,ACTIVE,4,1
+New Jersey,Ocean View,ACTIVE,21,1
+New Jersey,Ocean View,INITIAL,1,1
+New Jersey,Old Bridge,ACTIVE,2,1
+New Jersey,Parsippany,ACTIVE,1,1
+New Jersey,Penns Grove,ACTIVE,1,1
+New Jersey,Pennsville,ACTIVE,1,1
+New Jersey,Piscataway,ACTIVE,2,1
+New Jersey,Pittstown,ACTIVE,7,1
+New Jersey,Plainsboro,ACTIVE,3,1
+New Jersey,Point Pleasant Beach,ACTIVE,177,1
+New Jersey,Point Pleasant Beach,INITIAL,4,1
+New Jersey,Pompton Lakes,ACTIVE,7,1
+New Jersey,Pompton Plains,ACTIVE,2,1
+New Jersey,Port Murray,ACTIVE,3,1
+New Jersey,Rio Grande,ACTIVE,97,1
+New Jersey,Saddle River,ACTIVE,2,1
+New Jersey,Sea Isle City,ACTIVE,105,1
+New Jersey,Sea Isle City,INITIAL,4,1
+New Jersey,Seaside Heights,ACTIVE,220,1
+New Jersey,Seaside Heights,INITIAL,4,1
+New Jersey,Seaside Park,ACTIVE,23,1
+New Jersey,Somerdale,ACTIVE,2,1
+New Jersey,Somers Point,ACTIVE,1,1
+New Jersey,South Orange,ACTIVE,14,1
+New Jersey,South Plainfield,ACTIVE,1,1
+New Jersey,Spring Lake,ACTIVE,8,1
+New Jersey,Spring Lake,INITIAL,1,1
+New Jersey,Stone Harbor,ACTIVE,90,1
+New Jersey,Stone Harbor,INITIAL,1,1
+New Jersey,Strathmere,ACTIVE,21,1
+New Jersey,Strathmere,INITIAL,1,1
+New Jersey,Thorofare,ACTIVE,1,1
+New Jersey,Titusville,ACTIVE,2,1
+New Jersey,Toms River,ACTIVE,2,1
+New Jersey,Township Of Washington,ACTIVE,1,1
+New Jersey,Trenton,ACTIVE,14,3
+New Jersey,Union,ACTIVE,1,1
+New Jersey,Ventnor City,ACTIVE,10,1
+New Jersey,Vernon,ACTIVE,31,1
+New Jersey,Vernon,INITIAL,28,1
+New Jersey,Warren,ACTIVE,2,1
+New Jersey,Wayne,ACTIVE,4,1
+New Jersey,West Milford,ACTIVE,9,1
+New Jersey,Whitehouse Station,ACTIVE,1,1
+New Jersey,Wildwood,ACTIVE,1676,1
+New Jersey,Wildwood,INITIAL,45,1
+New Jersey,Williamstown,ACTIVE,3,1
+New Mexico,Albuquerque,ACTIVE,15,4
+New Mexico,Alto,ACTIVE,2,1
+New Mexico,Angel Fire,ACTIVE,23,1
+New Mexico,Angel Fire,INITIAL,1,1
+New Mexico,Bernalillo,ACTIVE,8,1
+New Mexico,Clovis,ACTIVE,2,1
+New Mexico,Farmington,ACTIVE,3,1
+New Mexico,Gallup,ACTIVE,2,1
+New Mexico,Glorieta,ACTIVE,126,1
+New Mexico,Las Cruces,ACTIVE,3,1
+New Mexico,Red River,ACTIVE,50,1
+New Mexico,Red River,INITIAL,1,1
+New Mexico,Rio Rancho,ACTIVE,2,1
+New Mexico,Ruidoso,ACTIVE,10,1
+New Mexico,Santa Fe,ACTIVE,13,4
+New Mexico,Taos Ski Valley,ACTIVE,6,1
+New Mexico,Taos Ski Valley,INITIAL,3,1
+New York,Albany,ACTIVE,1,1
+New York,Alexandria Bay,ACTIVE,15,1
+New York,Amagansett,ACTIVE,23,1
+New York,Amagansett,INITIAL,1,1
+New York,Ancramdale,ACTIVE,10,1
+New York,Andes,ACTIVE,6,1
+New York,Aquebogue,ACTIVE,1,1
+New York,Ardsley On Hudson,ACTIVE,1,1
+New York,Astoria,ACTIVE,2,1
+New York,Atlantic Beach,ACTIVE,61,1
+New York,Auburn,ACTIVE,3,1
+New York,Auburn,INITIAL,2,1
+New York,Babylon,ACTIVE,9,1
+New York,Barker,ACTIVE,1,1
+New York,Barryville,ACTIVE,21,1
+New York,Batavia,ACTIVE,2,1
+New York,Bay Shore,ACTIVE,10,1
+New York,Bay Shore,INITIAL,1,1
+New York,Bear Mountain,ACTIVE,7,1
+New York,Bemus Point,ACTIVE,6,1
+New York,Blauvelt,ACTIVE,1,1
+New York,Bloomingburg,ACTIVE,21,1
+New York,Blue Mountain Lake,ACTIVE,35,1
+New York,Blue Mountain Lake,INITIAL,2,1
+New York,Blue Point,ACTIVE,1,1
+New York,Bohemia,ACTIVE,6,1
+New York,Bolton Landing,ACTIVE,142,1
+New York,Brant Lake,ACTIVE,49,1
+New York,Briarcliff Manor,ACTIVE,9,1
+New York,Bridgehampton,ACTIVE,46,1
+New York,Bridgehampton,INITIAL,1,1
+New York,Bronx,ACTIVE,1,1
+New York,Brooklyn,ACTIVE,265,11
+New York,Brooklyn,INITIAL,2,1
+New York,Buffalo,INITIAL,3,1
+New York,Burlingham,ACTIVE,9,1
+New York,Burlingham,INITIAL,1,1
+New York,Callicoon,ACTIVE,45,1
+New York,Callicoon,INITIAL,7,1
+New York,Calverton,ACTIVE,56,1
+New York,Calverton,INITIAL,1,1
+New York,Canandaigua,ACTIVE,27,1
+New York,Canandaigua,INITIAL,2,1
+New York,Carmel,ACTIVE,9,1
+New York,Catskill,ACTIVE,2,1
+New York,Catskill,INITIAL,1,1
+New York,Center Moriches,ACTIVE,6,1
+New York,Centereach,ACTIVE,2,1
+New York,Centerport,ACTIVE,3,1
+New York,Central Valley,ACTIVE,1,1
+New York,Chautauqua,ACTIVE,20,1
+New York,Chautauqua,INITIAL,1,1
+New York,Chestertown,ACTIVE,5,1
+New York,Chestertown,INITIAL,1,1
+New York,Claryville,ACTIVE,17,1
+New York,Claryville,INITIAL,1,1
+New York,Clayton,INITIAL,1,1
+New York,Clifton Park,ACTIVE,9,1
+New York,Cold Spring,ACTIVE,27,1
+New York,Cooperstown,ACTIVE,36,1
+New York,Copake,ACTIVE,78,1
+New York,Coram,ACTIVE,1,1
+New York,Corfu,ACTIVE,5,1
+New York,Corning,ACTIVE,5,1
+New York,Corona,ACTIVE,67,1
+New York,Corona,INITIAL,1,1
+New York,Cortland,ACTIVE,1,1
+New York,Cutchogue,ACTIVE,8,1
+New York,Darien Center,ACTIVE,213,1
+New York,Darien Center,INITIAL,11,1
+New York,Diamond Point,ACTIVE,50,1
+New York,Eagle Bay,ACTIVE,15,1
+New York,Earlton,ACTIVE,11,1
+New York,East Durham,ACTIVE,3,1
+New York,East Hampton,ACTIVE,60,1
+New York,East Hampton,INITIAL,1,1
+New York,East Jewett,ACTIVE,3,1
+New York,East Moriches,ACTIVE,1,1
+New York,East Setauket,ACTIVE,25,1
+New York,East Setauket,INITIAL,2,1
+New York,East Syracuse,ACTIVE,4,1
+New York,Elizaville,ACTIVE,31,1
+New York,Ellenville,ACTIVE,18,1
+New York,Ellenville,INITIAL,1,1
+New York,Fallsburg,ACTIVE,4,1
+New York,Far Rockaway,ACTIVE,2,1
+New York,Ferndale,ACTIVE,4,1
+New York,Fishers Island,ACTIVE,27,1
+New York,Fishers Island,INITIAL,1,1
+New York,Fishkill,ACTIVE,17,1
+New York,Fort Ann,ACTIVE,13,1
+New York,Fort Ann,INITIAL,1,1
+New York,Fresh Meadows,ACTIVE,1,1
+New York,Gainesville,ACTIVE,1,1
+New York,Garden City,ACTIVE,1,1
+New York,Gardiner,ACTIVE,7,1
+New York,Geneva,ACTIVE,3,1
+New York,Gilboa,ACTIVE,9,1
+New York,Glen Cove,ACTIVE,4,1
+New York,Glen Spey,ACTIVE,40,1
+New York,Greenfield Park,ACTIVE,36,1
+New York,Greenport,ACTIVE,66,1
+New York,Greenville,ACTIVE,4,1
+New York,Greenwood Lake,ACTIVE,1,1
+New York,Hampton Bays,ACTIVE,33,1
+New York,Hampton Bays,INITIAL,2,1
+New York,Hancock,ACTIVE,91,1
+New York,Hempstead,ACTIVE,1,1
+New York,Henderson,ACTIVE,1,1
+New York,Henrietta,ACTIVE,2,1
+New York,Highmount,INITIAL,6,1
+New York,Holbrook,ACTIVE,1,1
+New York,Holland,ACTIVE,2,1
+New York,Holmes,ACTIVE,3,1
+New York,Holmes,INITIAL,1,1
+New York,Holtsville,ACTIVE,1,1
+New York,Hopewell Junction,ACTIVE,36,1
+New York,Hudson,ACTIVE,3,1
+New York,Huguenot,ACTIVE,1,1
+New York,Hunter,ACTIVE,49,1
+New York,Hunter,INITIAL,5,1
+New York,Huntington,ACTIVE,7,1
+New York,Huntington Station,ACTIVE,1,1
+New York,Indian Lake,ACTIVE,1,1
+New York,Inlet,ACTIVE,20,1
+New York,Inwood,ACTIVE,5,1
+New York,Islip,ACTIVE,1,1
+New York,Ithaca,ACTIVE,1,1
+New York,Jamaica,ACTIVE,14,1
+New York,Johnsburg,ACTIVE,1,1
+New York,Kattskill Bay,ACTIVE,20,1
+New York,Keene,ACTIVE,1,1
+New York,Keene Valley,ACTIVE,10,1
+New York,Keeseville,ACTIVE,2,1
+New York,Kerhonkson,ACTIVE,9,1
+New York,Kings Park,ACTIVE,1,1
+New York,Kingston,ACTIVE,5,1
+New York,Lake George,ACTIVE,506,1
+New York,Lake George,INITIAL,28,1
+New York,Lake Grove,ACTIVE,1,1
+New York,Lake Luzerne,ACTIVE,2,1
+New York,Lake Placid,ACTIVE,295,1
+New York,Lake Placid,INITIAL,5,1
+New York,Larchmont,ACTIVE,11,1
+New York,Latham,ACTIVE,2,1
+New York,Liberty,ACTIVE,37,1
+New York,Liverpool,ACTIVE,2,1
+New York,Livonia,ACTIVE,6,1
+New York,Loch Sheldrake,ACTIVE,13,1
+New York,Locust Valley,ACTIVE,18,1
+New York,Locust Valley,INITIAL,1,1
+New York,Long Beach,ACTIVE,3,1
+New York,Long Island City,ACTIVE,3,1
+New York,Long Lake,ACTIVE,31,1
+New York,Long Lake,INITIAL,3,1
+New York,Lyon Mountain,ACTIVE,10,1
+New York,Mahopac,ACTIVE,2,1
+New York,Mamaroneck,ACTIVE,22,1
+New York,Manhasset,ACTIVE,6,1
+New York,Manorville,ACTIVE,3,1
+New York,Massapequa,ACTIVE,2,1
+New York,Mattituck,ACTIVE,2,1
+New York,Middle Island,ACTIVE,4,1
+New York,Middletown,ACTIVE,4,1
+New York,Middletown,INITIAL,4,1
+New York,Milford,ACTIVE,45,1
+New York,Minerva,ACTIVE,16,1
+New York,Minerva,INITIAL,1,1
+New York,Monroe,ACTIVE,6,1
+New York,Montauk,ACTIVE,172,1
+New York,Monticello,ACTIVE,59,1
+New York,Monticello,INITIAL,4,1
+New York,Mount Sinai,ACTIVE,1,1
+New York,Nassau,ACTIVE,17,1
+New York,Nesconset,ACTIVE,1,1
+New York,New Hyde Park,ACTIVE,1,1
+New York,New Paltz,ACTIVE,95,1
+New York,New Paltz,INITIAL,14,1
+New York,New Suffolk,ACTIVE,3,1
+New York,New York,ACTIVE,384,35
+New York,New York,INITIAL,6,5
+New York,Niagara Falls,ACTIVE,279,3
+New York,Niagara Falls,INITIAL,11,2
+New York,North Creek,ACTIVE,4,1
+New York,North Hudson,ACTIVE,4,1
+New York,North Java,ACTIVE,16,1
+New York,Northport,ACTIVE,4,1
+New York,Nyack,ACTIVE,10,1
+New York,Ocean Beach,ACTIVE,44,1
+New York,Ocean Beach,INITIAL,1,1
+New York,Old Forge,ACTIVE,148,1
+New York,Old Forge,INITIAL,4,1
+New York,Old Westbury,ACTIVE,7,1
+New York,Orient,ACTIVE,7,1
+New York,Orient,INITIAL,1,1
+New York,Oyster Bay,ACTIVE,10,1
+New York,Paradox,ACTIVE,16,1
+New York,Parksville,ACTIVE,45,1
+New York,Patchogue,ACTIVE,1,1
+New York,Patterson,ACTIVE,5,1
+New York,Pelham,ACTIVE,24,1
+New York,Pelham,INITIAL,1,1
+New York,Penn Yan,ACTIVE,26,1
+New York,Penn Yan,INITIAL,1,1
+New York,Port Jefferson,ACTIVE,1,1
+New York,Purchase,ACTIVE,15,1
+New York,Putnam Station,ACTIVE,8,1
+New York,Putnam Valley,ACTIVE,28,1
+New York,Queensbury,ACTIVE,158,1
+New York,Queensbury,INITIAL,11,1
+New York,Quogue,ACTIVE,2,1
+New York,Raquette Lake,ACTIVE,38,1
+New York,Raquette Lake,INITIAL,1,1
+New York,Ray Brook,ACTIVE,11,1
+New York,Ray Brook,INITIAL,3,1
+New York,Remsenburg,ACTIVE,1,1
+New York,Rhinebeck,ACTIVE,16,1
+New York,Ridge,ACTIVE,4,1
+New York,Riverhead,ACTIVE,7,1
+New York,Rock Hill,ACTIVE,23,1
+New York,Rockaway Park,ACTIVE,3,1
+New York,Roscoe,ACTIVE,25,1
+New York,Rosedale,ACTIVE,4,1
+New York,Roslyn,ACTIVE,14,1
+New York,Round Top,ACTIVE,5,1
+New York,Round Top,INITIAL,2,1
+New York,Rye,ACTIVE,10,1
+New York,Sag Harbor,ACTIVE,53,1
+New York,Sag Harbor,INITIAL,2,1
+New York,Saint James,ACTIVE,1,1
+New York,Saranac Lake,ACTIVE,18,1
+New York,Saranac Lake,INITIAL,1,1
+New York,Saratoga Springs,ACTIVE,12,1
+New York,Saugerties,ACTIVE,6,1
+New York,Sayville,ACTIVE,5,1
+New York,Scarsdale,ACTIVE,1,1
+New York,Schenectady,ACTIVE,3,1
+New York,Schroon Lake,ACTIVE,59,1
+New York,Schroon Lake,INITIAL,1,1
+New York,Shandaken,ACTIVE,43,1
+New York,Shelter Island,ACTIVE,34,1
+New York,Shelter Island Heights,ACTIVE,87,1
+New York,Shelter Island Heights,INITIAL,3,1
+New York,Silver Bay,ACTIVE,12,1
+New York,Smithtown,ACTIVE,4,1
+New York,South Fallsburg,ACTIVE,28,1
+New York,Southampton,ACTIVE,86,1
+New York,Southampton,INITIAL,1,1
+New York,Southfields,ACTIVE,1,1
+New York,Southold,ACTIVE,8,1
+New York,Speculator,ACTIVE,16,1
+New York,Spencer,ACTIVE,4,1
+New York,Stamford,ACTIVE,17,1
+New York,Stony Creek,ACTIVE,8,1
+New York,Stony Point,ACTIVE,7,1
+New York,Sunnyside,ACTIVE,2,1
+New York,Swan Lake,ACTIVE,68,1
+New York,Swan Lake,INITIAL,3,1
+New York,Syracuse,ACTIVE,1,1
+New York,Taberg,ACTIVE,6,1
+New York,Tupper Lake,ACTIVE,7,1
+New York,Utica,ACTIVE,2,1
+New York,Verbank,ACTIVE,16,1
+New York,Verona,ACTIVE,28,1
+New York,Walden,ACTIVE,7,1
+New York,Warrensburg,ACTIVE,45,1
+New York,Warwick,ACTIVE,4,1
+New York,Water Mill,ACTIVE,9,1
+New York,Water Mill,INITIAL,1,1
+New York,Wellesley Island,ACTIVE,1,1
+New York,Wellesley Island,INITIAL,3,1
+New York,West Babylon,ACTIVE,12,1
+New York,West Monroe,ACTIVE,1,1
+New York,Westhampton Beach,ACTIVE,18,1
+New York,Westport,ACTIVE,6,1
+New York,White Plains,ACTIVE,2,2
+New York,Willsboro,ACTIVE,4,1
+New York,Windham,ACTIVE,8,1
+New York,Wingdale,ACTIVE,37,1
+New York,Wingdale,INITIAL,2,1
+New York,Woodbourne,ACTIVE,23,1
+New York,Woodbury,ACTIVE,1,1
+New York,Woodgate,ACTIVE,2,1
+New York,Wurtsboro,ACTIVE,21,1
+New York,Yaphank,ACTIVE,2,1
+New York,Yonkers,ACTIVE,3,1
+North Carolina,Arapahoe,ACTIVE,31,1
+North Carolina,Asheville,ACTIVE,62,3
+North Carolina,Atlantic Beach,ACTIVE,43,1
+North Carolina,Avon,ACTIVE,98,1
+North Carolina,Avon,INITIAL,3,1
+North Carolina,Balsam,ACTIVE,2,1
+North Carolina,Banner Elk,ACTIVE,26,1
+North Carolina,Banner Elk,INITIAL,13,1
+North Carolina,Beaufort,ACTIVE,1,1
+North Carolina,Black Mountain,ACTIVE,81,1
+North Carolina,Black Mountain,INITIAL,1,1
+North Carolina,Brevard,ACTIVE,50,1
+North Carolina,Bryson City,ACTIVE,4,1
+North Carolina,Bryson City,INITIAL,1,1
+North Carolina,Buxton,ACTIVE,15,1
+North Carolina,Buxton,INITIAL,2,1
+North Carolina,Calabash,ACTIVE,16,1
+North Carolina,Calabash,INITIAL,1,1
+North Carolina,Camden,ACTIVE,4,1
+North Carolina,Carthage,ACTIVE,5,1
+North Carolina,Cedar Mountain,ACTIVE,3,1
+North Carolina,Charlotte,ACTIVE,131,5
+North Carolina,Charlotte,INITIAL,4,1
+North Carolina,Cherokee,ACTIVE,50,1
+North Carolina,Corolla,ACTIVE,378,1
+North Carolina,Corolla,INITIAL,14,1
+North Carolina,Dunn,ACTIVE,1,1
+North Carolina,Emerald Isle,ACTIVE,18,1
+North Carolina,Fontana Dam,ACTIVE,36,1
+North Carolina,Fontana Dam,INITIAL,20,1
+North Carolina,Garner,ACTIVE,2,1
+North Carolina,Grandy,ACTIVE,2,1
+North Carolina,Greensboro,ACTIVE,1,1
+North Carolina,Harkers Island,ACTIVE,2,1
+North Carolina,Harkers Island,INITIAL,1,1
+North Carolina,Hatteras,ACTIVE,3,1
+North Carolina,Hendersonville,ACTIVE,98,2
+North Carolina,Hickory,ACTIVE,2,1
+North Carolina,Highlands,ACTIVE,5,1
+North Carolina,Highlands,INITIAL,2,1
+North Carolina,Holly Ridge,ACTIVE,9,1
+North Carolina,Holly Springs,ACTIVE,1,1
+North Carolina,Horse Shoe,ACTIVE,4,1
+North Carolina,Kill Devil Hills,ACTIVE,197,1
+North Carolina,Kill Devil Hills,INITIAL,7,1
+North Carolina,Kitty Hawk,ACTIVE,165,1
+North Carolina,Kitty Hawk,INITIAL,13,1
+North Carolina,Lake Junaluska,ACTIVE,38,1
+North Carolina,Lake Lure,ACTIVE,25,1
+North Carolina,Lake Toxaway,ACTIVE,9,1
+North Carolina,Leland,ACTIVE,6,1
+North Carolina,Littleton,ACTIVE,6,1
+North Carolina,Manteo,ACTIVE,13,1
+North Carolina,Marion,ACTIVE,7,1
+North Carolina,Morehead City,ACTIVE,5,1
+North Carolina,Nags Head,ACTIVE,341,1
+North Carolina,Nags Head,INITIAL,16,1
+North Carolina,Oak Island,ACTIVE,37,1
+North Carolina,Ocean Isle Beach,ACTIVE,16,1
+North Carolina,Ocracoke,ACTIVE,3,1
+North Carolina,Ocracoke,INITIAL,1,1
+North Carolina,Old Fort,ACTIVE,1,1
+North Carolina,Oriental,ACTIVE,2,1
+North Carolina,Point Harbor,ACTIVE,1,1
+North Carolina,Raleigh,ACTIVE,27,3
+North Carolina,Ridgecrest,ACTIVE,9,1
+North Carolina,Robbinsville,ACTIVE,11,1
+North Carolina,Rodanthe,ACTIVE,21,1
+North Carolina,Sapphire,ACTIVE,9,1
+North Carolina,Smithfield,ACTIVE,2,1
+North Carolina,Sneads Ferry,ACTIVE,19,1
+North Carolina,Sophia,ACTIVE,3,1
+North Carolina,Southport,ACTIVE,61,1
+North Carolina,Sunset Beach,ACTIVE,5,1
+North Carolina,Supply,ACTIVE,8,1
+North Carolina,Swansboro,ACTIVE,2,1
+North Carolina,Waves,ACTIVE,10,1
+North Carolina,Weaverville,ACTIVE,2,1
+North Carolina,Weaverville,INITIAL,1,1
+North Carolina,West Jefferson,ACTIVE,2,1
+North Carolina,Wilmington,ACTIVE,4,1
+North Carolina,Zirconia,ACTIVE,51,1
+North Dakota,Beulah,ACTIVE,5,1
+North Dakota,Bismarck,ACTIVE,23,2
+North Dakota,Bowman,ACTIVE,2,1
+North Dakota,Dickinson,ACTIVE,21,1
+North Dakota,Epping,ACTIVE,1,1
+North Dakota,Fargo,ACTIVE,18,3
+North Dakota,Garrison,ACTIVE,10,1
+North Dakota,Grand Forks,ACTIVE,6,1
+North Dakota,Jamestown,ACTIVE,3,1
+North Dakota,Medora,ACTIVE,163,1
+North Dakota,Medora,INITIAL,6,1
+North Dakota,Minot,ACTIVE,29,2
+North Dakota,Rugby,ACTIVE,1,1
+North Dakota,Valley City,ACTIVE,2,1
+North Dakota,West Fargo,ACTIVE,3,1
+North Dakota,Williston,ACTIVE,2,1
+Ohio,Akron,ACTIVE,6,3
+Ohio,Akron,INITIAL,1,1
+Ohio,Beachwood,ACTIVE,25,1
+Ohio,Bellefontaine,ACTIVE,2,1
+Ohio,Carrollton,ACTIVE,3,1
+Ohio,Chardon,ACTIVE,17,1
+Ohio,Cincinnati,ACTIVE,18,5
+Ohio,College Corner,ACTIVE,7,1
+Ohio,Columbus,ACTIVE,3,2
+Ohio,Columbus,INITIAL,1,1
+Ohio,Covington,ACTIVE,2,1
+Ohio,Cuyahoga Falls,ACTIVE,5,1
+Ohio,Cuyahoga Falls,INITIAL,2,1
+Ohio,Defiance,ACTIVE,5,1
+Ohio,Findlay,ACTIVE,9,1
+Ohio,Fremont,ACTIVE,3,1
+Ohio,Galena,ACTIVE,4,1
+Ohio,Geneva,ACTIVE,36,1
+Ohio,Geneva,INITIAL,4,1
+Ohio,Goshen,ACTIVE,3,1
+Ohio,Greenville,ACTIVE,1,1
+Ohio,Greenwich,ACTIVE,3,1
+Ohio,Heath,ACTIVE,1,1
+Ohio,Huron,ACTIVE,8,1
+Ohio,Huron,INITIAL,3,1
+Ohio,Independence,ACTIVE,8,1
+Ohio,Kelleys Island,ACTIVE,30,1
+Ohio,Kelleys Island,INITIAL,7,1
+Ohio,Kimbolton,ACTIVE,9,1
+Ohio,Lakeside Marblehead,ACTIVE,54,1
+Ohio,Lakeside Marblehead,INITIAL,8,1
+Ohio,Lewis Center,ACTIVE,3,1
+Ohio,Lewis Center,INITIAL,1,1
+Ohio,Lima,ACTIVE,4,1
+Ohio,Loveland,ACTIVE,5,1
+Ohio,Lucasville,ACTIVE,2,1
+Ohio,Madison,ACTIVE,1,1
+Ohio,Mansfield,ACTIVE,3,1
+Ohio,Mason,ACTIVE,205,1
+Ohio,Mason,INITIAL,4,1
+Ohio,Middle Bass,ACTIVE,5,1
+Ohio,Middle Bass,INITIAL,1,1
+Ohio,Middletown,ACTIVE,3,1
+Ohio,Milan,ACTIVE,19,1
+Ohio,Milan,INITIAL,4,1
+Ohio,Millersburg,ACTIVE,1,1
+Ohio,Monroe,ACTIVE,3,1
+Ohio,Morrow,ACTIVE,5,1
+Ohio,Mount Sterling,ACTIVE,7,1
+Ohio,Newark,ACTIVE,3,1
+Ohio,Newbury,ACTIVE,4,1
+Ohio,North Lawrence,ACTIVE,4,1
+Ohio,Oregon,ACTIVE,12,1
+Ohio,Oregonia,ACTIVE,10,1
+Ohio,Plain City,ACTIVE,3,1
+Ohio,Port Clinton,ACTIVE,129,1
+Ohio,Port Clinton,INITIAL,2,1
+Ohio,Put In Bay,ACTIVE,396,1
+Ohio,Put In Bay,INITIAL,37,1
+Ohio,Saint Louisville,ACTIVE,3,1
+Ohio,Sandusky,ACTIVE,2034,1
+Ohio,Sandusky,INITIAL,125,1
+Ohio,Senecaville,ACTIVE,3,1
+Ohio,Springfield,ACTIVE,4,1
+Ohio,Tipp City,ACTIVE,2,1
+Ohio,Toledo,ACTIVE,28,3
+Ohio,Troy,ACTIVE,3,1
+Ohio,Vermilion,ACTIVE,6,1
+Ohio,Waynesville,ACTIVE,3,1
+Oklahoma,Bixby,ACTIVE,1,1
+Oklahoma,Broken Arrow,ACTIVE,5,1
+Oklahoma,Edmond,ACTIVE,4,1
+Oklahoma,Gore,ACTIVE,3,1
+Oklahoma,Oklahoma City,ACTIVE,28,4
+Oklahoma,Skiatook,ACTIVE,1,1
+Oregon,Agness,ACTIVE,4,1
+Oregon,Agness,INITIAL,1,1
+Oregon,Albany,ACTIVE,3,1
+Oregon,Astoria,ACTIVE,17,1
+Oregon,Astoria,INITIAL,2,1
+Oregon,Bend,ACTIVE,236,4
+Oregon,Bend,INITIAL,6,3
+Oregon,Brookings,ACTIVE,4,1
+Oregon,Canby,ACTIVE,2,1
+Oregon,Cannon Beach,ACTIVE,26,1
+Oregon,Cannon Beach,INITIAL,1,1
+Oregon,Coos Bay,ACTIVE,2,1
+Oregon,Corvallis,ACTIVE,3,1
+Oregon,Crater Lake,ACTIVE,20,1
+Oregon,Crater Lake,INITIAL,5,1
+Oregon,Eugene,ACTIVE,11,2
+Oregon,Florence,ACTIVE,5,1
+Oregon,Gleneden Beach,ACTIVE,9,1
+Oregon,Gold Beach,ACTIVE,6,1
+Oregon,Gold Beach,INITIAL,1,1
+Oregon,Grants Pass,ACTIVE,2,1
+Oregon,Hillsboro,ACTIVE,3,1
+Oregon,Hood River,ACTIVE,10,1
+Oregon,La Grande,ACTIVE,1,1
+Oregon,Lincoln City,ACTIVE,3,1
+Oregon,Madras,ACTIVE,2,1
+Oregon,Mcminnville,ACTIVE,2,1
+Oregon,Medford,ACTIVE,3,1
+Oregon,Molalla,ACTIVE,2,1
+Oregon,Otis,ACTIVE,12,1
+Oregon,Pacific City,ACTIVE,33,1
+Oregon,Portland,ACTIVE,8,4
+Oregon,Powell Butte,ACTIVE,3,1
+Oregon,Prospect,ACTIVE,2,1
+Oregon,Rainier,ACTIVE,2,1
+Oregon,Redmond,ACTIVE,4,1
+Oregon,Roseburg,ACTIVE,6,2
+Oregon,Saint Helens,ACTIVE,2,1
+Oregon,Salem,ACTIVE,5,1
+Oregon,Seaside,ACTIVE,33,1
+Oregon,Seaside,INITIAL,2,1
+Oregon,Sisters,ACTIVE,9,1
+Oregon,Springfield,ACTIVE,8,2
+Oregon,The Dalles,ACTIVE,3,1
+Oregon,Warm Springs,ACTIVE,1,1
+Oregon,Wedderburn,ACTIVE,5,1
+Oregon,Wedderburn,INITIAL,1,1
+Oregon,Welches,ACTIVE,9,1
+Oregon,Woodburn,ACTIVE,2,1
+Pennsylvania,Allentown,ACTIVE,203,4
+Pennsylvania,Allentown,INITIAL,14,1
+Pennsylvania,Bala Cynwyd,ACTIVE,3,1
+Pennsylvania,Beach Lake,ACTIVE,95,1
+Pennsylvania,Bensalem,ACTIVE,6,1
+Pennsylvania,Berwyn,ACTIVE,1,1
+Pennsylvania,Bethlehem,ACTIVE,1,1
+Pennsylvania,Bloomsburg,ACTIVE,5,1
+Pennsylvania,Bolivar,ACTIVE,3,1
+Pennsylvania,Bolivar,INITIAL,1,1
+Pennsylvania,Brackney,ACTIVE,12,1
+Pennsylvania,Breinigsville,ACTIVE,2,1
+Pennsylvania,Canadensis,ACTIVE,46,1
+Pennsylvania,Canadensis,INITIAL,1,1
+Pennsylvania,Chadds Ford,ACTIVE,1,1
+Pennsylvania,Chalfont,ACTIVE,2,1
+Pennsylvania,Coatesville,ACTIVE,1,1
+Pennsylvania,Coraopolis,ACTIVE,1,1
+Pennsylvania,Cornwall,ACTIVE,1,1
+Pennsylvania,Cranberry Township,ACTIVE,4,1
+Pennsylvania,Croydon,ACTIVE,2,1
+Pennsylvania,Dingmans Ferry,ACTIVE,8,1
+Pennsylvania,Douglassville,ACTIVE,1,1
+Pennsylvania,Downingtown,ACTIVE,6,1
+Pennsylvania,Doylestown,ACTIVE,1,1
+Pennsylvania,Dresher,ACTIVE,1,1
+Pennsylvania,East Stroudsburg,ACTIVE,26,2
+Pennsylvania,Easton,ACTIVE,3,1
+Pennsylvania,Effort,ACTIVE,3,1
+Pennsylvania,Elysburg,ACTIVE,28,1
+Pennsylvania,Elysburg,INITIAL,2,1
+Pennsylvania,Equinunk,ACTIVE,116,1
+Pennsylvania,Equinunk,INITIAL,5,1
+Pennsylvania,Erie,ACTIVE,7,2
+Pennsylvania,Etters,ACTIVE,1,1
+Pennsylvania,Export,ACTIVE,3,1
+Pennsylvania,Exton,ACTIVE,1,1
+Pennsylvania,Farmington,ACTIVE,13,1
+Pennsylvania,Farmington,INITIAL,2,1
+Pennsylvania,Fogelsville,ACTIVE,3,1
+Pennsylvania,Fombell,ACTIVE,3,1
+Pennsylvania,Fort Hill,ACTIVE,3,1
+Pennsylvania,Gettysburg,ACTIVE,7,1
+Pennsylvania,Gilbertsville,ACTIVE,2,1
+Pennsylvania,Greeley,ACTIVE,77,1
+Pennsylvania,Greeley,INITIAL,1,1
+Pennsylvania,Green Lane,ACTIVE,19,1
+Pennsylvania,Halifax,ACTIVE,1,1
+Pennsylvania,Harrisburg,ACTIVE,10,2
+Pennsylvania,Harrisville,ACTIVE,3,1
+Pennsylvania,Havertown,ACTIVE,2,1
+Pennsylvania,Hawley,ACTIVE,31,1
+Pennsylvania,Henryville,ACTIVE,32,1
+Pennsylvania,Henryville,INITIAL,2,1
+Pennsylvania,Hershey,ACTIVE,511,1
+Pennsylvania,Hershey,INITIAL,1,1
+Pennsylvania,Honesdale,ACTIVE,110,1
+Pennsylvania,Horsham,ACTIVE,7,1
+Pennsylvania,Hummelstown,ACTIVE,8,1
+Pennsylvania,Jenkintown,ACTIVE,1,1
+Pennsylvania,Kennett Square,ACTIVE,1,1
+Pennsylvania,King Of Prussia,ACTIVE,9,1
+Pennsylvania,Kintnersville,ACTIVE,16,1
+Pennsylvania,Kintnersville,INITIAL,1,1
+Pennsylvania,Kunkletown,ACTIVE,20,1
+Pennsylvania,Lafayette Hill,ACTIVE,3,1
+Pennsylvania,Lake Como,ACTIVE,46,1
+Pennsylvania,Lake Como,INITIAL,1,1
+Pennsylvania,Lakewood,ACTIVE,129,1
+Pennsylvania,Lakewood,INITIAL,3,1
+Pennsylvania,Lancaster,ACTIVE,6,2
+Pennsylvania,Langhorne,ACTIVE,30,1
+Pennsylvania,Macungie,ACTIVE,2,1
+Pennsylvania,Malvern,ACTIVE,3,1
+Pennsylvania,Marcus Hook,ACTIVE,2,1
+Pennsylvania,Milford,ACTIVE,61,1
+Pennsylvania,Milford,INITIAL,3,1
+Pennsylvania,Mill Run,ACTIVE,7,1
+Pennsylvania,Morrisville,ACTIVE,2,1
+Pennsylvania,Mount Pocono,ACTIVE,1,1
+Pennsylvania,Mount Union,ACTIVE,1,1
+Pennsylvania,Mount Union,INITIAL,1,1
+Pennsylvania,Narberth,ACTIVE,2,1
+Pennsylvania,Narvon,ACTIVE,5,1
+Pennsylvania,Newtown,ACTIVE,31,1
+Pennsylvania,Newtown Square,ACTIVE,1,1
+Pennsylvania,Norristown,ACTIVE,8,2
+Pennsylvania,North Springfield,ACTIVE,2,1
+Pennsylvania,Ohiopyle,ACTIVE,14,1
+Pennsylvania,Orefield,ACTIVE,2,1
+Pennsylvania,Oxford,ACTIVE,33,1
+Pennsylvania,Paoli,ACTIVE,1,1
+Pennsylvania,Philadelphia,ACTIVE,24,6
+Pennsylvania,Philadelphia,INITIAL,1,1
+Pennsylvania,Phoenixville,ACTIVE,4,1
+Pennsylvania,Pittsburgh,ACTIVE,27,6
+Pennsylvania,Pocono Manor,ACTIVE,196,1
+Pennsylvania,Pocono Manor,INITIAL,20,1
+Pennsylvania,Pocono Summit,ACTIVE,8,1
+Pennsylvania,Pottstown,ACTIVE,2,1
+Pennsylvania,Poyntelle,ACTIVE,62,1
+Pennsylvania,Poyntelle,INITIAL,1,1
+Pennsylvania,Preston Park,ACTIVE,46,1
+Pennsylvania,Quakertown,ACTIVE,3,1
+Pennsylvania,Quarryville,ACTIVE,4,1
+Pennsylvania,Reading,ACTIVE,2,2
+Pennsylvania,Reinholds,ACTIVE,8,1
+Pennsylvania,Rockwood,ACTIVE,4,1
+Pennsylvania,Schuylkill Haven,ACTIVE,2,1
+Pennsylvania,Schwenksville,ACTIVE,8,1
+Pennsylvania,Scotrun,ACTIVE,16,1
+Pennsylvania,Skytop,ACTIVE,35,1
+Pennsylvania,Skytop,INITIAL,18,1
+Pennsylvania,South Sterling,ACTIVE,10,1
+Pennsylvania,Southampton,ACTIVE,2,1
+Pennsylvania,Starlight,ACTIVE,33,1
+Pennsylvania,Starrucca,ACTIVE,44,1
+Pennsylvania,Starrucca,INITIAL,2,1
+Pennsylvania,Stroudsburg,ACTIVE,80,1
+Pennsylvania,Tafton,ACTIVE,1,1
+Pennsylvania,Tannersville,ACTIVE,49,1
+Pennsylvania,Tannersville,INITIAL,41,1
+Pennsylvania,Thompson,ACTIVE,66,1
+Pennsylvania,Tipton,ACTIVE,8,1
+Pennsylvania,Trout Run,ACTIVE,1,1
+Pennsylvania,Tyler Hill,ACTIVE,24,1
+Pennsylvania,Warminster,ACTIVE,4,1
+Pennsylvania,Washington Crossing,ACTIVE,2,1
+Pennsylvania,Waynesboro,ACTIVE,26,1
+Pennsylvania,West Chester,ACTIVE,3,1
+Pennsylvania,West Mifflin,ACTIVE,44,1
+Pennsylvania,Wexford,ACTIVE,5,1
+Pennsylvania,White Haven,ACTIVE,3,1
+Pennsylvania,Whitehall,ACTIVE,1,1
+Pennsylvania,Willow Grove,ACTIVE,4,1
+Pennsylvania,Woodward,ACTIVE,12,1
+Pennsylvania,York,ACTIVE,2,1
+Rhode Island,Block Island,ACTIVE,288,1
+Rhode Island,Block Island,INITIAL,3,1
+Rhode Island,Bristol,ACTIVE,2,1
+Rhode Island,East Greenwich,ACTIVE,2,1
+Rhode Island,Middletown,ACTIVE,37,1
+Rhode Island,Narragansett,ACTIVE,98,1
+Rhode Island,Narragansett,INITIAL,5,1
+Rhode Island,Newport,ACTIVE,421,1
+Rhode Island,Newport,INITIAL,9,1
+Rhode Island,North Scituate,ACTIVE,4,1
+Rhode Island,North Smithfield,ACTIVE,1,1
+Rhode Island,Portsmouth,ACTIVE,4,1
+Rhode Island,Providence,ACTIVE,15,3
+Rhode Island,Saunderstown,ACTIVE,3,1
+Rhode Island,Wakefield,ACTIVE,33,1
+Rhode Island,Warwick,ACTIVE,5,1
+Rhode Island,Westerly,ACTIVE,93,1
+Rhode Island,Westerly,INITIAL,7,1
+South Carolina,Bluffton,ACTIVE,29,1
+South Carolina,Bluffton,INITIAL,9,1
+South Carolina,Charleston,ACTIVE,15,2
+South Carolina,Charleston,INITIAL,1,1
+South Carolina,Cleveland,ACTIVE,9,1
+South Carolina,Conway,ACTIVE,28,1
+South Carolina,Conway,INITIAL,1,1
+South Carolina,Edisto Island,ACTIVE,10,1
+South Carolina,Edisto Island,INITIAL,2,1
+South Carolina,Folly Beach,ACTIVE,11,1
+South Carolina,Folly Beach,INITIAL,1,1
+South Carolina,Greenville,ACTIVE,16,3
+South Carolina,Hilton Head Island,ACTIVE,150,3
+South Carolina,Hilton Head Island,INITIAL,10,1
+South Carolina,Isle Of Palms,ACTIVE,32,1
+South Carolina,Johns Island,ACTIVE,77,1
+South Carolina,Johns Island,INITIAL,1,1
+South Carolina,Little River,ACTIVE,14,1
+South Carolina,Mount Pleasant,ACTIVE,9,1
+South Carolina,Murrells Inlet,ACTIVE,35,1
+South Carolina,Myrtle Beach,ACTIVE,1998,5
+South Carolina,Myrtle Beach,INITIAL,52,3
+South Carolina,North Charleston,ACTIVE,1,1
+South Carolina,North Myrtle Beach,ACTIVE,319,1
+South Carolina,North Myrtle Beach,INITIAL,14,1
+South Carolina,Pawleys Island,ACTIVE,1,1
+South Carolina,Santee,ACTIVE,4,1
+South Carolina,Walterboro,ACTIVE,3,1
+South Dakota,Black Hawk,ACTIVE,5,1
+South Dakota,Box Elder,ACTIVE,14,1
+South Dakota,Custer,ACTIVE,150,1
+South Dakota,Custer,INITIAL,1,1
+South Dakota,Deadwood,ACTIVE,115,1
+South Dakota,Deadwood,INITIAL,5,1
+South Dakota,Fort Pierre,ACTIVE,3,1
+South Dakota,Hill City,ACTIVE,92,1
+South Dakota,Hill City,INITIAL,5,1
+South Dakota,Hot Springs,ACTIVE,11,1
+South Dakota,Kadoka,ACTIVE,9,1
+South Dakota,Keystone,ACTIVE,305,1
+South Dakota,Keystone,INITIAL,23,1
+South Dakota,Miller,ACTIVE,4,1
+South Dakota,Murdo,ACTIVE,3,1
+South Dakota,Pierre,ACTIVE,11,1
+South Dakota,Rapid City,ACTIVE,164,3
+South Dakota,Rapid City,INITIAL,18,1
+South Dakota,Sioux Falls,ACTIVE,18,4
+South Dakota,Spearfish,ACTIVE,12,1
+South Dakota,Sturgis,ACTIVE,2,1
+South Dakota,Wall,ACTIVE,90,1
+South Dakota,Wall,INITIAL,6,1
+Tennessee,Altamont,ACTIVE,3,1
+Tennessee,Brentwood,ACTIVE,10,1
+Tennessee,Brentwood,INITIAL,2,1
+Tennessee,Chattanooga,ACTIVE,8,2
+Tennessee,Crossville,ACTIVE,3,1
+Tennessee,Elizabethton,ACTIVE,4,1
+Tennessee,Franklin,ACTIVE,28,2
+Tennessee,Franklin,INITIAL,2,1
+Tennessee,Gatlinburg,ACTIVE,406,1
+Tennessee,Gatlinburg,INITIAL,9,1
+Tennessee,Hartford,ACTIVE,1,1
+Tennessee,Knoxville,ACTIVE,1,1
+Tennessee,Memphis,ACTIVE,6,3
+Tennessee,Memphis,INITIAL,1,1
+Tennessee,Murfreesboro,ACTIVE,12,1
+Tennessee,Nashville,ACTIVE,1137,9
+Tennessee,Nashville,INITIAL,1,1
+Tennessee,Pigeon Forge,ACTIVE,689,1
+Tennessee,Pigeon Forge,INITIAL,15,1
+Tennessee,Rockwood,ACTIVE,2,1
+Tennessee,Sevierville,ACTIVE,538,2
+Tennessee,Sevierville,INITIAL,24,2
+Tennessee,Townsend,ACTIVE,3,1
+Texas,Abilene,ACTIVE,2,1
+Texas,Alpine,ACTIVE,2,1
+Texas,Alpine,INITIAL,1,1
+Texas,Amarillo,ACTIVE,2,1
+Texas,Angleton,ACTIVE,4,1
+Texas,Arlington,ACTIVE,131,3
+Texas,Arlington,INITIAL,6,1
+Texas,Athens,ACTIVE,1,1
+Texas,Austin,ACTIVE,40,7
+Texas,Bandera,ACTIVE,41,1
+Texas,Beaumont,ACTIVE,1,1
+Texas,Beeville,ACTIVE,1,1
+Texas,Boerne,ACTIVE,2,1
+Texas,Bruceville,ACTIVE,9,1
+Texas,Bryan,ACTIVE,3,1
+Texas,Bulverde,ACTIVE,3,1
+Texas,Burleson,ACTIVE,21,1
+Texas,Burnet,ACTIVE,1,1
+Texas,Burton,ACTIVE,1,1
+Texas,Cedar Creek,ACTIVE,15,1
+Texas,Cedar Park,ACTIVE,3,1
+Texas,Center Point,ACTIVE,4,1
+Texas,Chandler,ACTIVE,1,1
+Texas,Coldspring,ACTIVE,6,1
+Texas,Comfort,ACTIVE,7,1
+Texas,Copperas Cove,ACTIVE,3,1
+Texas,Corpus Christi,ACTIVE,25,3
+Texas,Denison,ACTIVE,3,1
+Texas,Denton,ACTIVE,7,2
+Texas,Dickinson,ACTIVE,2,1
+Texas,Floresville,ACTIVE,3,1
+Texas,Fort Stockton,ACTIVE,2,1
+Texas,Fort Stockton,INITIAL,3,1
+Texas,Fort Worth,ACTIVE,21,5
+Texas,Friendswood,ACTIVE,5,1
+Texas,Frisco,ACTIVE,1,1
+Texas,Galveston,ACTIVE,490,3
+Texas,Galveston,INITIAL,13,2
+Texas,Goliad,ACTIVE,1,1
+Texas,Graford,ACTIVE,13,1
+Texas,Grapevine,ACTIVE,21,1
+Texas,Hale Center,ACTIVE,4,1
+Texas,Hockley,ACTIVE,3,1
+Texas,Horseshoe Bay,ACTIVE,13,1
+Texas,Horseshoe Bay,INITIAL,5,1
+Texas,Houston,ACTIVE,36,5
+Texas,Houston,INITIAL,3,1
+Texas,Hunt,ACTIVE,68,1
+Texas,Ingram,ACTIVE,12,1
+Texas,Kemah,ACTIVE,28,1
+Texas,Kerrville,ACTIVE,12,1
+Texas,Killeen,ACTIVE,3,1
+Texas,Kingsville,ACTIVE,2,1
+Texas,Kyle,ACTIVE,6,1
+Texas,Lake Jackson,ACTIVE,2,1
+Texas,Lancaster,ACTIVE,1,1
+Texas,League City,ACTIVE,2,1
+Texas,Leander,ACTIVE,2,1
+Texas,Liberty Hill,ACTIVE,1,1
+Texas,Livingston,ACTIVE,2,1
+Texas,Lott,ACTIVE,3,1
+Texas,Lubbock,ACTIVE,5,2
+Texas,Lufkin,ACTIVE,2,1
+Texas,Luling,ACTIVE,2,1
+Texas,Mckinney,ACTIVE,3,1
+Texas,Mesquite,ACTIVE,2,1
+Texas,Midland,ACTIVE,5,2
+Texas,Montgomery,ACTIVE,41,1
+Texas,Montgomery,INITIAL,1,1
+Texas,Nemo,ACTIVE,1,1
+Texas,New Braunfels,ACTIVE,8,1
+Texas,Odessa,ACTIVE,4,1
+Texas,Palestine,ACTIVE,2,1
+Texas,Pecos,ACTIVE,2,1
+Texas,Perrin,ACTIVE,3,1
+Texas,Pflugerville,ACTIVE,3,1
+Texas,Plano,ACTIVE,2,2
+Texas,Port Aransas,ACTIVE,88,1
+Texas,Port Aransas,INITIAL,1,1
+Texas,Port Bolivar,ACTIVE,10,1
+Texas,Rocksprings,ACTIVE,15,1
+Texas,Rosenberg,ACTIVE,4,1
+Texas,Round Rock,ACTIVE,127,1
+Texas,Round Rock,INITIAL,28,1
+Texas,San Angelo,ACTIVE,2,1
+Texas,San Antonio,ACTIVE,88,8
+Texas,San Antonio,INITIAL,3,2
+Texas,San Marcos,ACTIVE,3,1
+Texas,Smithville,ACTIVE,4,1
+Texas,Spring,ACTIVE,6,2
+Texas,Sugar Land,ACTIVE,3,1
+Texas,Temple,ACTIVE,2,1
+Texas,Trinity,ACTIVE,21,1
+Texas,Tyler,ACTIVE,3,2
+Texas,Utopia,ACTIVE,2,1
+Texas,Van Horn,ACTIVE,8,1
+Texas,Van Horn,INITIAL,5,1
+Texas,Victoria,ACTIVE,3,1
+Texas,Wichita Falls,ACTIVE,2,1
+Texas,Wolfe City,ACTIVE,4,1
+Texas,Woodway,ACTIVE,3,1
+Texas,Wylie,ACTIVE,3,1
+Utah,American Fork,ACTIVE,11,1
+Utah,Bryce,ACTIVE,40,1
+Utah,Bryce,INITIAL,7,1
+Utah,Cedar City,ACTIVE,3,1
+Utah,Dutch John,ACTIVE,25,1
+Utah,Farmington,ACTIVE,300,1
+Utah,Farmington,INITIAL,5,1
+Utah,Garden City,ACTIVE,60,1
+Utah,Garden City,INITIAL,2,1
+Utah,Green River,ACTIVE,4,1
+Utah,Hanksville,ACTIVE,13,1
+Utah,Hurricane,ACTIVE,3,1
+Utah,Ivins,ACTIVE,33,1
+Utah,Kamas,ACTIVE,7,1
+Utah,Kanab,ACTIVE,2,1
+Utah,Kanab,INITIAL,1,1
+Utah,La Sal,ACTIVE,1,1
+Utah,Lake Powell,ACTIVE,35,1
+Utah,Lake Powell,INITIAL,4,1
+Utah,Layton,ACTIVE,1,1
+Utah,Lindon,ACTIVE,7,1
+Utah,Logan,ACTIVE,3,2
+Utah,Midway,ACTIVE,1,1
+Utah,Moab,ACTIVE,15,1
+Utah,Moab,INITIAL,1,1
+Utah,North Salt Lake,ACTIVE,3,1
+Utah,Ogden,ACTIVE,6,3
+Utah,Ogden,INITIAL,1,1
+Utah,Orem,ACTIVE,3,1
+Utah,Park City,ACTIVE,233,2
+Utah,Park City,INITIAL,38,2
+Utah,Provo,ACTIVE,14,2
+Utah,Saint George,ACTIVE,7,1
+Utah,Salt Lake City,ACTIVE,57,6
+Utah,Sandy,ACTIVE,22,3
+Utah,Sandy,INITIAL,3,2
+Utah,Spanish Fork,ACTIVE,3,1
+Utah,Springdale,INITIAL,1,1
+Utah,Tooele,ACTIVE,1,1
+Utah,Torrey,ACTIVE,4,1
+Utah,Vernal,ACTIVE,2,1
+Utah,Virgin,ACTIVE,2,1
+Utah,West Jordan,ACTIVE,5,1
+Utah,West Valley City,ACTIVE,2,1
+Utah,West Valley City,INITIAL,1,1
+Vermont,Averill,ACTIVE,1,1
+Vermont,Averill,INITIAL,2,1
+Vermont,Barre,ACTIVE,9,1
+Vermont,Barre,INITIAL,2,1
+Vermont,Bennington,ACTIVE,8,1
+Vermont,Bradford,ACTIVE,4,1
+Vermont,Bradford,INITIAL,2,1
+Vermont,Brownsville,ACTIVE,6,1
+Vermont,Burlington,ACTIVE,9,2
+Vermont,Burlington,INITIAL,3,1
+Vermont,Colchester,ACTIVE,11,1
+Vermont,Craftsbury Common,ACTIVE,5,1
+Vermont,Derby,ACTIVE,5,1
+Vermont,Essex Junction,ACTIVE,28,1
+Vermont,Essex Junction,INITIAL,1,1
+Vermont,Fairlee,ACTIVE,37,1
+Vermont,Fairlee,INITIAL,2,1
+Vermont,Highgate Springs,ACTIVE,46,1
+Vermont,Jeffersonville,ACTIVE,43,1
+Vermont,Jeffersonville,INITIAL,5,1
+Vermont,Killington,ACTIVE,63,1
+Vermont,Lyndonville,ACTIVE,3,1
+Vermont,Manchester,ACTIVE,2,1
+Vermont,Manchester Center,ACTIVE,12,1
+Vermont,Marlboro,ACTIVE,3,1
+Vermont,Montpelier,ACTIVE,4,1
+Vermont,Morrisville,ACTIVE,4,1
+Vermont,Newbury,ACTIVE,10,1
+Vermont,North Hero,ACTIVE,5,1
+Vermont,North Troy,ACTIVE,11,1
+Vermont,Norwich,ACTIVE,2,1
+Vermont,Post Mills,ACTIVE,17,1
+Vermont,Proctorsville,ACTIVE,5,1
+Vermont,Proctorsville,INITIAL,4,1
+Vermont,Quechee,ACTIVE,5,1
+Vermont,Randolph,ACTIVE,1,1
+Vermont,Randolph,INITIAL,2,1
+Vermont,Ripton,ACTIVE,1,1
+Vermont,Roxbury,ACTIVE,16,1
+Vermont,Rutland,ACTIVE,9,1
+Vermont,Rutland,INITIAL,1,1
+Vermont,Salisbury,ACTIVE,3,1
+Vermont,South Burlington,ACTIVE,38,1
+Vermont,South Burlington,INITIAL,9,1
+Vermont,South Hero,ACTIVE,2,1
+Vermont,South Londonderry,ACTIVE,20,1
+Vermont,South Londonderry,INITIAL,3,1
+Vermont,Springfield,ACTIVE,8,1
+Vermont,Springfield,INITIAL,1,1
+Vermont,Stowe,ACTIVE,166,1
+Vermont,Stowe,INITIAL,13,1
+Vermont,Thetford Center,ACTIVE,12,1
+Vermont,Vergennes,ACTIVE,18,1
+Vermont,Waitsfield,ACTIVE,16,1
+Vermont,Waitsfield,INITIAL,5,1
+Vermont,Warren,INITIAL,9,1
+Vermont,West Dover,ACTIVE,3,1
+Vermont,White River Junction,ACTIVE,15,1
+Vermont,White River Junction,INITIAL,5,1
+Vermont,Williston,ACTIVE,3,1
+Vermont,Woodstock,ACTIVE,13,1
+Virginia,Aldie,ACTIVE,15,1
+Virginia,Alexandria,ACTIVE,557,14
+Virginia,Alexandria,INITIAL,1,1
+Virginia,Annandale,ACTIVE,60,1
+Virginia,Annandale,INITIAL,1,1
+Virginia,Arlington,ACTIVE,416,8
+Virginia,Arlington,INITIAL,36,4
+Virginia,Ashburn,ACTIVE,97,2
+Virginia,Basye,ACTIVE,6,1
+Virginia,Bedford,ACTIVE,7,1
+Virginia,Bristow,ACTIVE,4,1
+Virginia,Burke,ACTIVE,2,1
+Virginia,Cape Charles,ACTIVE,5,1
+Virginia,Carrollton,ACTIVE,5,1
+Virginia,Centreville,ACTIVE,35,2
+Virginia,Chantilly,ACTIVE,50,2
+Virginia,Chantilly,INITIAL,4,1
+Virginia,Charlottesville,ACTIVE,14,4
+Virginia,Charlottesville,INITIAL,1,1
+Virginia,Chesapeake,ACTIVE,37,6
+Virginia,Chesterfield,ACTIVE,15,2
+Virginia,Chincoteague Island,ACTIVE,58,1
+Virginia,Chincoteague Island,INITIAL,3,1
+Virginia,Clifton,ACTIVE,3,1
+Virginia,Doswell,ACTIVE,235,1
+Virginia,Doswell,INITIAL,18,1
+Virginia,Dumfries,ACTIVE,12,2
+Virginia,Earlysville,ACTIVE,1,1
+Virginia,Edinburg,ACTIVE,1,1
+Virginia,Fairfax,ACTIVE,136,4
+Virginia,Fairfax Station,ACTIVE,5,1
+Virginia,Falls Church,ACTIVE,79,5
+Virginia,Fort Belvoir,ACTIVE,3,1
+Virginia,Fort Myer,ACTIVE,1,1
+Virginia,Fredericksburg,ACTIVE,19,4
+Virginia,Gainesville,ACTIVE,37,1
+Virginia,Glen Allen,ACTIVE,3,1
+Virginia,Great Falls,ACTIVE,4,1
+Virginia,Hampton,ACTIVE,36,3
+Virginia,Hampton,INITIAL,5,1
+Virginia,Harrisonburg,ACTIVE,3,1
+Virginia,Haymarket,ACTIVE,11,1
+Virginia,Henrico,ACTIVE,34,3
+Virginia,Herndon,ACTIVE,49,2
+Virginia,Hiwassee,ACTIVE,6,1
+Virginia,Hot Springs,ACTIVE,90,1
+Virginia,Hot Springs,INITIAL,4,1
+Virginia,Jamesville,ACTIVE,6,1
+Virginia,Leesburg,ACTIVE,93,2
+Virginia,Lorton,ACTIVE,28,1
+Virginia,Luray,ACTIVE,21,1
+Virginia,Manassas,ACTIVE,57,3
+Virginia,Mc Gaheysville,ACTIVE,67,1
+Virginia,Mc Gaheysville,INITIAL,4,1
+Virginia,Mc Lean,ACTIVE,51,2
+Virginia,Middleburg,ACTIVE,2,1
+Virginia,Midlothian,ACTIVE,1,1
+Virginia,Millboro,ACTIVE,6,1
+Virginia,Mount Solon,ACTIVE,3,1
+Virginia,New Castle,ACTIVE,4,1
+Virginia,New Kent,ACTIVE,2,1
+Virginia,Newport News,ACTIVE,79,7
+Virginia,Newport News,INITIAL,1,1
+Virginia,Norfolk,ACTIVE,17,7
+Virginia,Oakton,ACTIVE,4,1
+Virginia,Occoquan,ACTIVE,1,1
+Virginia,Palmyra,ACTIVE,12,1
+Virginia,Pembroke,ACTIVE,4,1
+Virginia,Poquoson,ACTIVE,1,1
+Virginia,Portsmouth,ACTIVE,10,2
+Virginia,Reston,ACTIVE,31,3
+Virginia,Richmond,ACTIVE,143,10
+Virginia,Richmond,INITIAL,1,1
+Virginia,Riner,ACTIVE,4,1
+Virginia,Sandston,ACTIVE,3,1
+Virginia,Smithfield,ACTIVE,5,1
+Virginia,Spotsylvania,ACTIVE,4,2
+Virginia,Springfield,ACTIVE,135,4
+Virginia,Stafford,ACTIVE,3,2
+Virginia,Stephenson,ACTIVE,3,1
+Virginia,Sterling,ACTIVE,101,3
+Virginia,Suffolk,ACTIVE,10,1
+Virginia,Swoope,ACTIVE,5,1
+Virginia,Toano,ACTIVE,14,1
+Virginia,Topping,ACTIVE,6,1
+Virginia,Triangle,ACTIVE,1,1
+Virginia,Urbanna,ACTIVE,30,1
+Virginia,Vienna,ACTIVE,30,3
+Virginia,Virginia Beach,ACTIVE,947,8
+Virginia,Virginia Beach,INITIAL,95,2
+Virginia,Warm Springs,ACTIVE,5,1
+Virginia,Washington,ACTIVE,5,1
+Virginia,Williamsburg,ACTIVE,746,2
+Virginia,Williamsburg,INITIAL,77,2
+Virginia,Winchester,ACTIVE,1,1
+Virginia,Woodbridge,ACTIVE,75,3
+Virginia,Yorktown,ACTIVE,4,2
+Virginia,Yorktown,INITIAL,1,1
+Washington,Aberdeen,ACTIVE,2,1
+Washington,Anacortes,ACTIVE,3,1
+Washington,Anacortes,INITIAL,1,1
+Washington,Arlington,ACTIVE,12,1
+Washington,Ashford,ACTIVE,90,1
+Washington,Ashford,INITIAL,4,1
+Washington,Auburn,ACTIVE,17,3
+Washington,Bellevue,ACTIVE,8,1
+Washington,Blaine,ACTIVE,2,1
+Washington,Bothell,ACTIVE,3,1
+Washington,Bremerton,ACTIVE,3,1
+Washington,Chelan,ACTIVE,35,1
+Washington,Chelan,INITIAL,1,1
+Washington,Cle Elum,ACTIVE,54,1
+Washington,Clinton,ACTIVE,6,1
+Washington,Cougar,ACTIVE,1,1
+Washington,Cougar,INITIAL,1,1
+Washington,Deer Harbor,ACTIVE,12,1
+Washington,Eastsound,ACTIVE,36,1
+Washington,Eatonville,ACTIVE,5,1
+Washington,Enumclaw,ACTIVE,13,1
+Washington,Enumclaw,INITIAL,4,1
+Washington,Everett,ACTIVE,8,3
+Washington,Federal Way,ACTIVE,48,2
+Washington,Federal Way,INITIAL,1,1
+Washington,Forks,ACTIVE,12,1
+Washington,Friday Harbor,ACTIVE,90,1
+Washington,Granite Falls,ACTIVE,1,1
+Washington,Ilwaco,ACTIVE,2,1
+Washington,Kennewick,ACTIVE,5,1
+Washington,Kirkland,ACTIVE,21,2
+Washington,Lake Stevens,ACTIVE,2,1
+Washington,Leavenworth,ACTIVE,22,1
+Washington,Leavenworth,INITIAL,1,1
+Washington,Long Beach,ACTIVE,2,1
+Washington,Loon Lake,ACTIVE,3,1
+Washington,Manson,ACTIVE,7,1
+Washington,Mount Vernon,ACTIVE,2,1
+Washington,Ocean Shores,ACTIVE,9,1
+Washington,Olympia,ACTIVE,7,2
+Washington,Pacific Beach,ACTIVE,48,1
+Washington,Pacific Beach,INITIAL,3,1
+Washington,Packwood,ACTIVE,1,1
+Washington,Port Angeles,ACTIVE,40,2
+Washington,Port Angeles,INITIAL,4,1
+Washington,Port Townsend,ACTIVE,3,1
+Washington,Port Townsend,INITIAL,2,1
+Washington,Pullman,ACTIVE,2,1
+Washington,Quinault,ACTIVE,10,1
+Washington,Renton,ACTIVE,8,2
+Washington,Roslyn,ACTIVE,6,1
+Washington,Seattle,ACTIVE,155,9
+Washington,Seattle,INITIAL,8,3
+Washington,Sequim,ACTIVE,4,1
+Washington,Snoqualmie,ACTIVE,1,1
+Washington,Snoqualmie Pass,ACTIVE,1,1
+Washington,Spokane,ACTIVE,20,2
+Washington,Spokane,INITIAL,4,1
+Washington,Stehekin,ACTIVE,13,1
+Washington,Stehekin,INITIAL,2,1
+Washington,Stevenson,ACTIVE,12,1
+Washington,Tacoma,ACTIVE,1,1
+Washington,Vancouver,ACTIVE,14,2
+Washington,Vashon,ACTIVE,4,1
+Washington,Vaughn,ACTIVE,1,1
+Washington,Veradale,ACTIVE,4,1
+Washington,Walla Walla,ACTIVE,1,1
+Washington,Winthrop,ACTIVE,16,1
+Washington,Winthrop,INITIAL,2,1
+West Virginia,Alderson,ACTIVE,2,1
+West Virginia,Alderson,INITIAL,1,1
+West Virginia,Bartow,ACTIVE,7,1
+West Virginia,Cabins,ACTIVE,4,1
+West Virginia,Cabins,INITIAL,1,1
+West Virginia,Caldwell,ACTIVE,18,1
+West Virginia,Ghent,INITIAL,17,1
+West Virginia,High View,ACTIVE,13,1
+West Virginia,Lansing,ACTIVE,19,1
+West Virginia,Marlinton,ACTIVE,10,1
+West Virginia,New Cumberland,ACTIVE,11,1
+West Virginia,Oak Hill,ACTIVE,8,1
+West Virginia,Slatyfork,ACTIVE,1,1
+West Virginia,Snowshoe,ACTIVE,54,1
+West Virginia,Snowshoe,INITIAL,5,1
+West Virginia,South Charleston,ACTIVE,2,1
+West Virginia,South Charleston,INITIAL,1,1
+West Virginia,White Sulphur Springs,ACTIVE,7,1
+West Virginia,White Sulphur Springs,INITIAL,11,1
+Wisconsin,Antigo,ACTIVE,4,1
+Wisconsin,Appleton,ACTIVE,4,1
+Wisconsin,Ashland,ACTIVE,7,1
+Wisconsin,Athelstane,ACTIVE,6,1
+Wisconsin,Baileys Harbor,ACTIVE,25,1
+Wisconsin,Baraboo,ACTIVE,236,1
+Wisconsin,Baraboo,INITIAL,36,1
+Wisconsin,Bayfield,ACTIVE,25,1
+Wisconsin,Bayfield,INITIAL,1,1
+Wisconsin,Boscobel,ACTIVE,3,1
+Wisconsin,Boulder Junction,ACTIVE,42,1
+Wisconsin,Boulder Junction,INITIAL,4,1
+Wisconsin,Brookfield,ACTIVE,4,1
+Wisconsin,Burlington,ACTIVE,1,1
+Wisconsin,Cable,ACTIVE,13,1
+Wisconsin,Conover,ACTIVE,23,1
+Wisconsin,Conover,INITIAL,2,1
+Wisconsin,Crivitz,ACTIVE,11,1
+Wisconsin,Crivitz,INITIAL,1,1
+Wisconsin,Delavan,ACTIVE,83,1
+Wisconsin,Dodgeville,ACTIVE,1,1
+Wisconsin,Eagle River,ACTIVE,115,1
+Wisconsin,Eagle River,INITIAL,1,1
+Wisconsin,East Troy,ACTIVE,3,1
+Wisconsin,Eau Claire,ACTIVE,2,1
+Wisconsin,Egg Harbor,ACTIVE,114,1
+Wisconsin,Egg Harbor,INITIAL,10,1
+Wisconsin,Ellison Bay,ACTIVE,9,1
+Wisconsin,Ephraim,ACTIVE,47,1
+Wisconsin,Ephraim,INITIAL,5,1
+Wisconsin,Fifield,ACTIVE,7,1
+Wisconsin,Fish Creek,ACTIVE,52,1
+Wisconsin,Fish Creek,INITIAL,12,1
+Wisconsin,Florence,ACTIVE,3,1
+Wisconsin,Fontana,ACTIVE,63,1
+Wisconsin,Fontana,INITIAL,7,1
+Wisconsin,Glenbeulah,ACTIVE,2,1
+Wisconsin,Green Bay,ACTIVE,1,1
+Wisconsin,Green Lake,ACTIVE,36,1
+Wisconsin,Green Lake,INITIAL,1,1
+Wisconsin,Hayward,ACTIVE,43,1
+Wisconsin,Herbster,ACTIVE,3,1
+Wisconsin,Kenosha,ACTIVE,2,1
+Wisconsin,Kohler,ACTIVE,1,1
+Wisconsin,La Crosse,ACTIVE,13,1
+Wisconsin,La Pointe,ACTIVE,18,1
+Wisconsin,Lac Du Flambeau,ACTIVE,7,1
+Wisconsin,Lac Du Flambeau,INITIAL,2,1
+Wisconsin,Lake Delton,ACTIVE,165,1
+Wisconsin,Lake Delton,INITIAL,7,1
+Wisconsin,Lake Geneva,ACTIVE,109,1
+Wisconsin,Lake Geneva,INITIAL,7,1
+Wisconsin,Lake Nebagamon,ACTIVE,10,1
+Wisconsin,Land O Lakes,ACTIVE,2,1
+Wisconsin,Land O Lakes,INITIAL,1,1
+Wisconsin,Madison,ACTIVE,7,3
+Wisconsin,Manitowish Waters,ACTIVE,22,1
+Wisconsin,Marinette,ACTIVE,2,1
+Wisconsin,Marion,ACTIVE,1,1
+Wisconsin,Marshfield,ACTIVE,4,1
+Wisconsin,Mauston,ACTIVE,3,1
+Wisconsin,Mercer,ACTIVE,12,1
+Wisconsin,Merrimac,ACTIVE,3,1
+Wisconsin,Merrimac,INITIAL,4,1
+Wisconsin,Milwaukee,ACTIVE,6,2
+Wisconsin,Mindoro,ACTIVE,2,1
+Wisconsin,Minocqua,ACTIVE,149,1
+Wisconsin,Minong,ACTIVE,19,1
+Wisconsin,Montello,ACTIVE,3,1
+Wisconsin,Mukwonago,ACTIVE,37,1
+Wisconsin,Nekoosa,ACTIVE,46,1
+Wisconsin,New Berlin,ACTIVE,2,1
+Wisconsin,Oak Creek,ACTIVE,1,1
+Wisconsin,Oconomowoc,ACTIVE,30,1
+Wisconsin,Onalaska,ACTIVE,4,1
+Wisconsin,Oshkosh,ACTIVE,3,1
+Wisconsin,Oshkosh,INITIAL,1,1
+Wisconsin,Plymouth,ACTIVE,9,1
+Wisconsin,Prairie Du Chien,ACTIVE,13,1
+Wisconsin,Prairie Du Chien,INITIAL,1,1
+Wisconsin,Rhinelander,ACTIVE,35,1
+Wisconsin,Ripon,ACTIVE,4,1
+Wisconsin,Saint Germain,ACTIVE,22,1
+Wisconsin,Sayner,ACTIVE,2,1
+Wisconsin,Sheboygan,ACTIVE,2,1
+Wisconsin,Sister Bay,ACTIVE,157,1
+Wisconsin,Sister Bay,INITIAL,18,1
+Wisconsin,Slinger,INITIAL,2,1
+Wisconsin,Spooner,ACTIVE,6,1
+Wisconsin,Stockholm,ACTIVE,4,1
+Wisconsin,Stoughton,ACTIVE,2,1
+Wisconsin,Sturgeon Bay,ACTIVE,96,1
+Wisconsin,Sturgeon Bay,INITIAL,5,1
+Wisconsin,Superior,ACTIVE,6,1
+Wisconsin,Tomahawk,ACTIVE,5,1
+Wisconsin,Walworth,ACTIVE,1,1
+Wisconsin,Walworth,INITIAL,3,1
+Wisconsin,Warrens,ACTIVE,73,1
+Wisconsin,Warrens,INITIAL,2,1
+Wisconsin,Washington Island,ACTIVE,7,1
+Wisconsin,Waukesha,ACTIVE,8,1
+Wisconsin,Waupaca,ACTIVE,7,1
+Wisconsin,Wautoma,ACTIVE,7,1
+Wisconsin,Wautoma,INITIAL,1,1
+Wisconsin,Webster,ACTIVE,28,1
+Wisconsin,Wild Rose,INITIAL,5,1
+Wisconsin,Williams Bay,ACTIVE,9,1
+Wisconsin,Winter,ACTIVE,5,1
+Wisconsin,Wisconsin Dells,ACTIVE,2960,1
+Wisconsin,Wisconsin Dells,INITIAL,156,1
+Wisconsin,Woodruff,ACTIVE,42,1
+Wisconsin,Woodruff,INITIAL,2,1
+Wyoming,Afton,ACTIVE,1,1
+Wyoming,Alpine,ACTIVE,18,1
+Wyoming,Alta,ACTIVE,12,1
+Wyoming,Buffalo,ACTIVE,29,1
+Wyoming,Casper,ACTIVE,6,2
+Wyoming,Cheyenne,ACTIVE,2,1
+Wyoming,Cody,ACTIVE,88,1
+Wyoming,Cody,INITIAL,4,1
+Wyoming,Cora,ACTIVE,1,1
+Wyoming,Dubois,ACTIVE,22,1
+Wyoming,Evanston,ACTIVE,4,1
+Wyoming,Gillette,ACTIVE,11,2
+Wyoming,Gillette,INITIAL,1,1
+Wyoming,Glendo,ACTIVE,3,1
+Wyoming,Green River,ACTIVE,2,1
+Wyoming,Guernsey,ACTIVE,1,1
+Wyoming,Jackson,ACTIVE,237,2
+Wyoming,Jackson,INITIAL,6,1
+Wyoming,Lander,ACTIVE,3,1
+Wyoming,Lander,INITIAL,1,1
+Wyoming,Laramie,ACTIVE,2,1
+Wyoming,Little America,ACTIVE,1,1
+Wyoming,Moose,ACTIVE,17,1
+Wyoming,Moran,ACTIVE,277,1
+Wyoming,Moran,INITIAL,20,1
+Wyoming,Newcastle,ACTIVE,2,1
+Wyoming,Pinedale,ACTIVE,14,1
+Wyoming,Pinedale,INITIAL,1,1
+Wyoming,Rawlins,ACTIVE,6,1
+Wyoming,Riverton,ACTIVE,5,1
+Wyoming,Riverton,INITIAL,3,1
+Wyoming,Rock Springs,ACTIVE,10,1
+Wyoming,Saddlestring,ACTIVE,1,1
+Wyoming,Saratoga,ACTIVE,1,1
+Wyoming,Sheridan,ACTIVE,52,1
+Wyoming,Teton Village,ACTIVE,76,1
+Wyoming,Teton Village,INITIAL,1,1
+Wyoming,Wilson,ACTIVE,3,1
+Wyoming,Yellowstone National Park,ACTIVE,306,1
+Wyoming,Yellowstone National Park,INITIAL,154,1

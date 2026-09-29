@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "swt-plugin",
+  "version": "0.8.0",
+  "description": "面向美国 Summer Work Travel 参与者的流程导航、申请、岗位、英语、签证与在美事务 Skill 套件。",
+  "author": {
+    "name": "Howard"
+  },
+  "keywords": [
+    "summer-work-travel",
+    "j-1",
+    "swt"
+  ]
+}

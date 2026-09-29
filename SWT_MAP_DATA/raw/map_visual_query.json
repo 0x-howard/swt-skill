@@ -1,0 +1,131 @@
+{
+  "Commands": [
+    {
+      "SemanticQueryDataShapeCommand": {
+        "Query": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "n",
+              "Entity": "New Report",
+              "Type": 0
+            },
+            {
+              "Name": "q",
+              "Entity": "Query2",
+              "Type": 0
+            }
+          ],
+          "Select": [
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "State"
+              },
+              "Name": "New Report.State",
+              "NativeReferenceName": "State"
+            },
+            {
+              "Aggregation": {
+                "Expression": {
+                  "Column": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Source": "q"
+                      }
+                    },
+                    "Property": "SEVIS_ID"
+                  }
+                },
+                "Function": 5
+              },
+              "Name": "CountNonNull(Query2.SEVIS_ID)",
+              "NativeReferenceName": "SEVIS_ID"
+            },
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "Column10"
+              },
+              "Name": "Sum(New Report.Column10)",
+              "NativeReferenceName": "Column10"
+            },
+            {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Source": "n"
+                  }
+                },
+                "Property": "Column11"
+              },
+              "Name": "Sum(New Report.Column11)",
+              "NativeReferenceName": "Column11"
+            }
+          ],
+          "OrderBy": [
+            {
+              "Direction": 2,
+              "Expression": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "q"
+                        }
+                      },
+                      "Property": "SEVIS_ID"
+                    }
+                  },
+                  "Function": 5
+                }
+              }
+            }
+          ]
+        },
+        "Binding": {
+          "Primary": {
+            "Groupings": [
+              {
+                "Projections": [
+                  1,
+                  2,
+                  3
+                ]
+              }
+            ]
+          },
+          "Secondary": {
+            "Groupings": [
+              {
+                "Projections": [
+                  0
+                ]
+              }
+            ]
+          },
+          "DataReduction": {
+            "DataVolume": 4,
+            "Primary": {
+              "Top": {}
+            },
+            "Secondary": {
+              "Top": {}
+            }
+          },
+          "Version": 1
+        },
+        "ExecutionMetricsKind": 1
+      }
+    }
+  ]
+}
